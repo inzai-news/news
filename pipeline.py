@@ -1180,11 +1180,17 @@ def cmd_collect(args):
         if prev is not None:
             # 既存記事の更新(タイトル/日付の反映など)。重複判定は不要
             merged = {**prev, **item}
-            # カテゴリは一度確定(ルールベース/AI判断)したら保持する。
-            # ソース側のcategoryがnull(Google News等)/未確定のitemで上書きして消さないようにする
-            if item.get("category") is None and prev.get("category") is not None:
+            if prev.get("retention_type") == "store_event":
+                # store-addで手動登録した開店閉店情報は、後から同じリンクが別ソース
+                # (一般のグルメRSS等)で再取得されてもカテゴリ・保存期間(6か月)を上書きしない
                 merged["category"] = prev["category"]
-            merged["retention_type"] = compute_retention_type(merged)
+                merged["retention_type"] = "store_event"
+            else:
+                # カテゴリは一度確定(ルールベース/AI判断)したら保持する。
+                # ソース側のcategoryがnull(Google News等)/未確定のitemで上書きして消さないようにする
+                if item.get("category") is None and prev.get("category") is not None:
+                    merged["category"] = prev["category"]
+                merged["retention_type"] = compute_retention_type(merged)
             if merged == prev:
                 unchanged_count += 1
             else:
