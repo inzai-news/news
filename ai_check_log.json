@@ -1918,5 +1918,25 @@
     "link": "https://news.google.com/articles/CBMiRkFVX3lxTE1sMFNSQlZoWTZ3akpaTjNMUmRIQXRVS2RNVG5nYldCMG1MOWljWUpzT2pTMldkcVEyMy12WGhOd2ZfTTFENkE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260725-0233",
+    "date": "2026-07-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "民間企業27者が興味／｢公共施行の区整｣に可能性／印旛中央の市場調査結果／印西市",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE4zWXlDMnFpWGVySUxRdmM3bkhYZW5rb2V4SFNHODdvMTJIVWEybElhc0tBLW56TThvelVBT1Vrbnd0SVF3dmE3OHZmQmlrc1pXWU5QRm52aUU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260725-0233",
+    "date": "2026-07-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】給食で30周年を祝う！“規格外の梨”を活用したSDGsメニューを市長と実食。地元農家の想いを繋ぐ食育ランチ会を開催",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhTWo1X2dEd3BjWThJLWRUWXczS09oTW94SExzRU9PRzRBM01lRmYxQVJkalBZdUNURGFIcWljdFFMQmJmLUZVZzRsTHkxaU1FZlE5LWpROUwxZ1ZZUzVvVldrMnlyUEtxeHc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
