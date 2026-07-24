@@ -70,9 +70,10 @@ AI判定除去件数  ：{apply-reviewの「除外」件数}
 
 1. `python pipeline.py store-pending` で未処理店舗一覧を取得する（6か月経過した処理済み店舗は自動的にtxtから削除される）。
 2. 各店舗についてWeb検索で開店/閉店情報を調査する。
-3. 情報が見つかったら `python pipeline.py store-add --store "店名" --date "YYYY年M月D日" --type 開店|閉店|リニューアル --link "URL" --publisher "情報源名"` で登録する（`news.json` に `category: 開店・閉店`, `retention_type: store_event`（6か月保存）として追加される）。
+3. 情報が見つかったら `python pipeline.py store-add --store "店名" --date "YYYY年M月D日" --type 開店|閉店|リニューアル --link "URL" --publisher "情報源名"` で登録する（`news.json` に `category: 開店・閉店`, `retention_type: store_event`（6か月保存）として追加される）。ユーザーから直接URL・タイトル・開店日を指定された場合はWeb検索を省略してそのままstore-addしてよい。
 4. 特定できなかった店舗は `python pipeline.py store-star --store "店名"` で★を付け、以後の調査対象から外す。
 5. 処理後、続けて通常の更新手順（1〜6）を流すかユーザーに確認する。
+   - **store_eventの保護**: store-addで登録した記事と同じリンクが、後から別ソース（グルメRSS等）で通常収集されても、`collect`時のマージ処理（`cmd_collect`のprev/item統合部分）が`retention_type: store_event`のカテゴリ・保存期間を上書きしないようガードしている（2026-07-25追加。以前はcategoryがnullでない別ソースの再取得で「開店・閉店」が別カテゴリに上書きされ、保存期間も3か月に短縮される不具合があった）。
 
 ## CronCreateスケジュールについて
 
