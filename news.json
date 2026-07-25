@@ -1129,7 +1129,7 @@
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
     "publisher": "pando.life",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1140,7 +1140,7 @@
     "pub_iso": "2026-05-09T16:00:00+09:00",
     "pub_str": "2026年5月9日",
     "publisher": "東洋経済オンライン",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1162,7 +1162,7 @@
     "pub_iso": "2026-05-18T16:00:00+09:00",
     "pub_str": "2026年5月18日",
     "publisher": "All About ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -1274,7 +1274,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
