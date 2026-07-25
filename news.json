@@ -1016,8 +1016,8 @@
     "title": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）",
     "link": "https://news.google.com/articles/CBMiT0FVX3lxTE43cnZwbkNkQUtXdlBJSkl4MElCYmw4T3ZMZExuejdqNk9BU0FUMVRlVUE3eUsyS2N1M1VoTzgyODFLZ3lNN2R6VnVGYnlRbEU?oc=5",
     "desc": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）  ほんのひきだし",
-    "pub_iso": "2026-05-13T16:00:00+09:00",
-    "pub_str": "2026年5月13日",
+    "pub_iso": "2026-05-12T16:00:00+09:00",
+    "pub_str": "2026年5月12日",
     "publisher": "ほんのひきだし",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
@@ -2490,6 +2490,25 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】2026年の夏休み期間中に鎌ケ谷小学校と道野辺小学校のプールが市民プールとして開放されます",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/26/kamagayagakkopoolkaiho2026/",
+    "pub_str": "2026年7月26日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "retention_type": "regular"
+  },
+  {
+    "title": "浅野なつき先生【こども絵画工作教室】体験会（2026年08月25日(火)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=13615&store=chibant",
+    "pub_str": "2026年7月26日",
+    "event_end_date": "2026-08-25",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
     "retention_type": "regular"
   }
 ]

@@ -1978,5 +1978,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE96TEMtWGUtamdzQldHRno5eWp4MndUVER0U0hWSlZYd1ctVGNldVpBYTFQZmxNNVdxdDdUNFVYakhRQ1VkRWhZTy1TbS1acXNLTGlDeVQ2bUdDQVRTMFVRTHFTdWdrSnJoYVE?oc=5",
     "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260726-0816",
+    "date": "2026-07-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動：写真",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTFBKOERVVlVIYllaR1RaVEpUajkyRXI3REttX2RTMzZ2NWVLUVlhNEdyNFdqZjFYeWdfdU1wQmVaeW9mWTN2djhib1J5bHR5UXpqaWRPWU43VDhqc01QaGE2eXByejNRdWoxbmc?oc=5",
+    "similar_to": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
