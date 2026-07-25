@@ -1968,5 +1968,15 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE5tTktsUGE4cERZSG9CbFhHa0RUVGhQQnRJLUI0clUzNlN4Nk1wSEppWHdEdVdmeG4zdDVRSXh5S01FaVM4blJJT1EzTnNJTVhFVnM0VQ?oc=5",
     "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260725-2116",
+    "date": "2026-07-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE96TEMtWGUtamdzQldHRno5eWp4MndUVER0U0hWSlZYd1ctVGNldVpBYTFQZmxNNVdxdDdUNFVYakhRQ1VkRWhZTy1TbS1acXNLTGlDeVQ2bUdDQVRTMFVRTHFTdWdrSnJoYVE?oc=5",
+    "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
