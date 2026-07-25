@@ -1938,5 +1938,25 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFBhTWo1X2dEd3BjWThJLWRUWXczS09oTW94SExzRU9PRzRBM01lRmYxQVJkalBZdUNURGFIcWljdFFMQmJmLUZVZzRsTHkxaU1FZlE5LWpROUwxZ1ZZUzVvVldrMnlyUEtxeHc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260725-1042",
+    "date": "2026-07-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市(千葉県)の情報",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE95TnBYSkJEMm9Xbm8tZ0FpdVRZZ0RRTFI4c1BXRk1YSmd6bmpGOHBUeEZjem5FREgtVHJFTmlwelgwRU5jQk52MEIxY2J0bTZuQ21RY3RJNjJxeGc?oc=5",
+    "similar_to": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260725-1042",
+    "date": "2026-07-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市に新たな児相　子どもが過ごす一時保護所は完全個室に　熊谷知事「幸せを実感しながら成長できる社会に」",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE5Dc0xZVE5Ld2VJY29xWEQtWmR3NGY5OFp3WU8zcXd2WnBFbG5aUU1WRzVONGNscDFaRHFSck9GMFBYZm1tMllibVFVMjlDTWtvN0dxbWVnRUhabkE4NUtkVHU5TjViUDRuanh3eWkzNGRrdzRkaTJvS9IBfkFVX3lxTE1CSS1URnJIQ3l5YVpGRmtacWp5aFNQb2hwQndiaEMtTTA5SG5yT2NoeDh2aFhNWUdjQXhvcUhEQURIcnNyTzBpRUFHNUc1MUluZ21xbEZQdDJRWDNqVDVRSVg0aGc0MzBMNjdwalpYR0Y3bTJOM2hpNEtJc2htQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
