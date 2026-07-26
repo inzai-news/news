@@ -1998,5 +1998,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE4zdjU0ZFNWRTRNUzJNVXpsMEpFZ2JFRWp4cmVTMDlhV3c4Z1NHaVhKVU53dkJXaXB6a1lOeWEtX0pfelZWSWY1NjYta19aVUNmTzdFNnZR?oc=5",
     "similar_to": "【千葉県印西市】印西市教育委員会、小中学校向け「生成AI導入授業パッケージ」と「生成AIハンドブック」を作成",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260726-2142",
+    "date": "2026-07-26",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市〜我孫子市で8ヶ所の街頭演説",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1pZUcyOVFxSGdMVUZtSU9XMWhfQ003a2dILThHczVMYVVsN01tR0plakhTR1dJZ08tUzRiMWJNei0yS2pMWEF4X3lJR3c4NDJmU0hSYXZUTHpkUGFsQ0Rv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース(ユーザー指示): 政治家個人の街頭演説・選挙活動系の記事は採用しない方針のため除外"
   }
 ]

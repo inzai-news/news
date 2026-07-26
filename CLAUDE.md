@@ -30,6 +30,7 @@
    - `needs_category: true` → 記事のタイトル・publisher・linkから最も適切なカテゴリを判断し `category_decision` に設定する。カテゴリは以下の7つのいずれか:
      `話題・その他` / `イベント・文化` / `市政・行政` / `開発・暮らし` / `開店・閉店` / `鎌ヶ谷・白井` / `イオンモール千葉ニュータウン`
    - 両方trueの場合は両方判断する。判断が付かない記事は `decision` を空のままにしてよい（次回実行まで据え置かれる）。
+   - **政治家個人の街頭演説・選挙活動系の記事は`decision: "exclude"`とする**（2026-07-26追加。選挙ドットコム等が配信する特定候補者の街頭演説告知は、市の行政発表やイベントとは異なる政治活動そのものの宣伝のため採用しない）。
    - 判断を書き込んだら `review_queue.json` をEditツールで上書き保存する。
 3. `python pipeline.py apply-review` を実行し、判断結果を `news.json` に反映する（`ai_check_log.json` にも記録される）。
 4. `python pipeline.py build` で `index.html` を生成する。
