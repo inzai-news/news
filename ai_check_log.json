@@ -1988,5 +1988,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFBKOERVVlVIYllaR1RaVEpUajkyRXI3REttX2RTMzZ2NWVLUVlhNEdyNFdqZjFYeWdfdU1wQmVaeW9mWTN2djhib1J5bHR5UXpqaWRPWU43VDhqc01QaGE2eXByejNRdWoxbmc?oc=5",
     "similar_to": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260726-2139",
+    "date": "2026-07-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "印西市教委、小中学校向け「生成AI導入授業パッケージ」と「生成AIハンドブック」作成",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE4zdjU0ZFNWRTRNUzJNVXpsMEpFZ2JFRWp4cmVTMDlhV3c4Z1NHaVhKVU53dkJXaXB6a1lOeWEtX0pfelZWSWY1NjYta19aVUNmTzdFNnZR?oc=5",
+    "similar_to": "【千葉県印西市】印西市教育委員会、小中学校向け「生成AI導入授業パッケージ」と「生成AIハンドブック」を作成",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
