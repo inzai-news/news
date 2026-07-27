@@ -2118,5 +2118,25 @@
     "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQR2V5NFRYelZMWU1Mek94TGJyUkl0Y09INHViekMxVEt3MGpoS3Blem53WmM3RnNLVDBRdF9QdEI1UFpoeS12TXJjSTRySG93SkZlNk9LTnp6aFVvSmtIUGZVbmMtYmpKM0hrSEh1eXh0LUsweXktVGlFZjhYS2g0LTJIT2hJUzFEbUdUVVlVaGRpMmVvM0ZCdk9MeVZuQ3F0ZzZMRGhTcDRpUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260728-0826",
+    "date": "2026-07-28",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "link": "https://news.google.com/articles/CBMiekFVX3lxTE43U283dlQydGpiZHhxNVk2R0hSRjgzTnFJTkxLWmIwNUJHenpDd3RTWUltWUFQeUhtYU5JdFk4UGFVVEFqejhXQ3ZTQ25uZDBTUXFKSXhsSzZMLWdFUktxN0E5RlhndGRiS3EwUXR5NGwtV1VWeEw4X3JB?oc=5",
+    "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260728-0826",
+    "date": "2026-07-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "みらいワークス × 千葉県印西市 地域の課題解決に向けたDX推進のために「CIO補佐官」を民間より募集",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE5BX2dDM3gtU19ZVGd4dnZYRWhWTWhNZVZHUjhTdVlsbkpHNWlVc0l5Nm1tZDJGQVZfWjJHRnZHbFNpOTQ2UzZXcV9TZzBEcnVXM0QydlRZbjVRMFc1d3F0WHNIalA4aVA0eHc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
