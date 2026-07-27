@@ -2098,5 +2098,25 @@
     "link": "https://chibanewtown.aeonmall.jp/event/7817dfc2-f38f-485f-997b-657a6360a409",
     "similar_to": "あそびの学校",
     "ai_reason": "既存の「あそびの学校」は7/6公開の月表記なし記事、今回は「あそびの学校 10月」で10月開催分の別イベントページ(リンクも別)。同一シリーズの別月開催のため別記事として採用"
+  },
+  {
+    "run_ts": "20260727-1912",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市｜レッツエンジョイ東京",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFB6bUhvbGdPZjZkcXExeHNYU2Q0eTNkdVNMVHV5S1BVWndBeVBpVzBNMHFxaFM2ZlN0NXhlclQxNGtBTDB3dDdxZHBOc3U2TFZyV0E?oc=5",
+    "similar_to": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1912",
+    "date": "2026-07-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "東電PGの千葉印西変電所、27年にフル稼働 データセンターに対応",
+    "link": "https://news.google.com/articles/CBMiqgFBVV95cUxQR2V5NFRYelZMWU1Mek94TGJyUkl0Y09INHViekMxVEt3MGpoS3Blem53WmM3RnNLVDBRdF9QdEI1UFpoeS12TXJjSTRySG93SkZlNk9LTnp6aFVvSmtIUGZVbmMtYmpKM0hrSEh1eXh0LUsweXktVGlFZjhYS2g0LTJIT2hJUzFEbUdUVVlVaGRpMmVvM0ZCdk9MeVZuQ3F0ZzZMRGhTcDRpUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

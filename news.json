@@ -2539,5 +2539,16 @@
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
     "retention_type": "regular"
+  },
+  {
+    "title": "印西市プレミアム付デジタル商品券は販売終了いたしました。",
+    "link": "https://www.city.inzai.lg.jp/0000021045.html",
+    "desc": "",
+    "pub_iso": "2026-07-27T16:56:09+09:00",
+    "pub_str": "2026年7月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
   }
 ]
