@@ -2038,5 +2038,65 @@
     "link": "https://chiba-lunch.com/shiroi-cafe-dining-fukurou-menu/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-dining-fukurou-menu",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260727-1702",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.8,
+    "title": "あそびの学校 9月",
+    "link": "https://chibanewtown.aeonmall.jp/event/b79540ef-c624-42ac-bb17-5a9146effd0d",
+    "similar_to": "あそびの学校",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1702",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "あそびの学校 11月",
+    "link": "https://chibanewtown.aeonmall.jp/event/1622134b-050d-4090-92b5-4da7b36044ee",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1702",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "あそびの学校 12月",
+    "link": "https://chibanewtown.aeonmall.jp/event/c8da6a8a-0e2d-47ec-b64f-62ab9900f21f",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1702",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "あそびの学校 1月",
+    "link": "https://chibanewtown.aeonmall.jp/event/9cd8a59c-dcd9-4549-abe0-91fb7cf39073",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1702",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "あそびの学校 2月",
+    "link": "https://chibanewtown.aeonmall.jp/event/687e3116-9f21-4b74-b889-dca458b82578",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1703",
+    "date": "2026-07-27",
+    "ai_decision": "keep",
+    "similarity": 0.75,
+    "title": "あそびの学校 10月",
+    "link": "https://chibanewtown.aeonmall.jp/event/7817dfc2-f38f-485f-997b-657a6360a409",
+    "similar_to": "あそびの学校",
+    "ai_reason": "既存の「あそびの学校」は7/6公開の月表記なし記事、今回は「あそびの学校 10月」で10月開催分の別イベントページ(リンクも別)。同一シリーズの別月開催のため別記事として採用"
   }
 ]

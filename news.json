@@ -2497,5 +2497,47 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "retention_type": "regular"
+  },
+  {
+    "title": "若年性認知症について",
+    "link": "https://www.city.inzai.lg.jp/0000020451.html",
+    "desc": "",
+    "pub_iso": "2026-07-27T12:35:11+09:00",
+    "pub_str": "2026年7月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度市民フォーラム「地域の力で超高齢社会を乗り切るには？」を開催します",
+    "link": "https://www.city.inzai.lg.jp/0000020421.html",
+    "desc": "",
+    "pub_iso": "2026-07-27T00:00:00+09:00",
+    "pub_str": "2026年7月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "介護のお仕事紹介＆映画「ケアニン2」上映会",
+    "link": "https://www.city.inzai.lg.jp/0000022103.html",
+    "desc": "",
+    "pub_iso": "2026-07-25T08:00:00+09:00",
+    "pub_str": "2026年7月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "あそびの学校 10月",
+    "link": "https://chibanewtown.aeonmall.jp/event/7817dfc2-f38f-485f-997b-657a6360a409",
+    "pub_str": "2026年7月27日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "retention_type": "regular"
   }
 ]
