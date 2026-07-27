@@ -2008,5 +2008,35 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1pZUcyOVFxSGdMVUZtSU9XMWhfQ003a2dILThHczVMYVVsN01tR0plakhTR1dJZ08tUzRiMWJNei0yS2pMWEF4X3lJR3c4NDJmU0hSYXZUTHpkUGFsQ0Rv?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース(ユーザー指示): 政治家個人の街頭演説・選挙活動系の記事は採用しない方針のため除外"
+  },
+  {
+    "run_ts": "20260727-1000",
+    "date": "2026-07-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "令和8年度第2回印西市都市計画審議会（令和8年8月10日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022123.html",
+    "similar_to": "令和8年度第1回印西市都市計画審議会（令和8年6月15日）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260727-1000",
+    "date": "2026-07-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷結縁寺近く、高台にあるカフェ｜改修完了後オープン【Café en. カフェエン】",
+    "link": "https://chiba-lunch.com/%e5%8d%b0%e8%a5%bf%e2%96%b7%e7%b5%90%e7%b8%81%e5%af%ba%e8%bf%91%e3%81%8f%e3%80%81%e9%ab%98%e5%8f%b0%e3%81%ab%e3%81%82%e3%82%8b%e3%82%ab%e3%83%95%e3%82%a7%ef%bd%9c%e6%94%b9%e4%bf%ae%e5%ae%8c%e4%ba%86/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258d%25b0%25e8%25a5%25bf%25e2%2596%25b7%25e7%25b5%2590%25e7%25b8%2581%25e5%25af%25ba%25e8%25bf%2591%25e3%2581%258f%25e3%2580%2581%25e9%25ab%2598%25e5%258f%25b0%25e3%2581%25ab%25e3%2581%2582%25e3%2582%258b%25e3%2582%25ab%25e3%2583%2595%25e3%2582%25a7%25ef%25bd%259c%25e6%2594%25b9%25e4%25bf%25ae%25e5%25ae%258c%25e4%25ba%2586",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260727-1000",
+    "date": "2026-07-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷保健福祉センターにあるカフェでランチ｜メニュー【Cafe&Dining FUKUROU】",
+    "link": "https://chiba-lunch.com/shiroi-cafe-dining-fukurou-menu/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-dining-fukurou-menu",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
