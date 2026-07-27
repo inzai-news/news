@@ -1393,6 +1393,7 @@ def cmd_apply_review(args):
 # ============================================================
 
 CATEGORY_COLORS = {
+    "新着":           ("#E8ECF7", "#223A70", "#152452"),
     "話題・その他":   ("#E3E5EA", "#6B7280", "#374151"),
     "イベント・文化": ("#F3E8FF", "#9333EA", "#6B21A8"),
     "市政・行政":     ("#E8F1FF", "#2563EB", "#1E3A8A"),
@@ -1404,6 +1405,7 @@ CATEGORY_COLORS = {
     "ジョイフル本田千葉ニュータウン店": ("#EFE3D5", "#8B5E34", "#4A2E15"),
 }
 CATEGORY_ICONS = {
+    "新着": "🆕",
     "話題・その他": "📰", "イベント・文化": "🎉", "市政・行政": "🏛",
     "開発・暮らし": "🌱", "開店・閉店": "🏪", "鎌ヶ谷・白井": "🗺",
     "イオンモール千葉ニュータウン": "🛍", "牧の原モア": "📍",
@@ -1413,6 +1415,7 @@ SCRAPED_COLOR = ("#EDE8F8", "#6B4FA7", "#3A1F6E")
 SCRAPED_ICON = "📍"
 MAX_ITEMS_PER_CAT = 20
 CATEGORY_MAX_ITEMS = {"ジョイフル本田千葉ニュータウン店": 40, "市政・行政": 40}
+NEW_ARRIVALS_COUNT = 20
 SCRAPED_MAX_ITEMS = 20
 SCRAPED_MAX_DAYS = 180
 CATEGORY_CUTOFF_DAYS = {"開店・閉店": 180, "イオンモール千葉ニュータウン": 180, "鎌ヶ谷・白井": 90, "牧の原モア": 180}
@@ -1658,6 +1661,20 @@ def build_html(articles):
         for cat in CATEGORY_ORDER if cat_map.get(cat)
     ]
     grid_html = ""
+    latest_arts = main_arts[:NEW_ARRIVALS_COUNT]
+    if latest_arts:
+        bg, fg, dark = CATEGORY_COLORS["新着"]
+        rows = "".join(render_item(i, new_links) for i in latest_arts)
+        grid_html += (
+            '<div class="cat-section">'
+            + '<div class="cat-header" style="background:' + bg + ';border-left:4px solid ' + fg + ';">'
+            + '<span class="cat-icon">' + CATEGORY_ICONS["新着"] + "</span>"
+            + '<span class="cat-name" style="color:' + dark + ';"> 新着</span>'
+            + '<span class="cat-count" style="color:' + fg + ';"> ' + str(len(latest_arts)) + "件</span>"
+            + "</div>"
+            + '<div class="cat-items">' + rows + "</div>"
+            + "</div>"
+        )
     for cat, items in active_cats:
         bg, fg, dark = CATEGORY_COLORS[cat]
         rows = "".join(render_item(i, new_links) for i in items)
