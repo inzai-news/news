@@ -812,7 +812,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2569,6 +2569,26 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "夏休み・書道練習会         7/30(木)・7/31(金)（2026年07月30日(木)～2026年07月31日(金)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=12769&store=chibant",
+    "pub_str": "2026年7月28日",
+    "event_end_date": "2026-07-31",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "retention_type": "regular"
+  },
+  {
+    "title": "荻野先生のキットパスで作る手形作品講習（2026年08月23日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=13980&store=chibant",
+    "pub_str": "2026年7月28日",
+    "event_end_date": "2026-08-23",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
     "retention_type": "regular"
   }
 ]
