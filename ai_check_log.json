@@ -2138,5 +2138,25 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE5BX2dDM3gtU19ZVGd4dnZYRWhWTWhNZVZHUjhTdVlsbkpHNWlVc0l5Nm1tZDJGQVZfWjJHRnZHbFNpOTQ2UzZXcV9TZzBEcnVXM0QydlRZbjVRMFc1d3F0WHNIalA4aVA0eHc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260728-1405",
+    "date": "2026-07-28",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE0tMGh4R0w0ZUZxVU0tNzh5bG9RUWI0d2x2RlpPOGpLcjdGbF9reTgycUlLZjRydmw1RHZhdHMzR2YyUXM3N0NWTXljRElOOUdzdTBFenMxVjJuREE?oc=5",
+    "similar_to": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260728-1405",
+    "date": "2026-07-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ガリバー千葉ニュータウン店の店舗ブログ",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE5HN01mSVAyZzMxUkp2ZjY3a3d0SXFtVm00SzR6eWU4ekVVU0hMbTRNbEtDVWVFanNNOVp1U2xXbFN5NEk4Ui1pSE14UzlTTDFTcVRobDFSbkpuT2RkTWpQODlYY3B3Tk0wSFBPOVFBa3ZvQVZERWFNSVktdmNMNjA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
