@@ -2158,5 +2158,25 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE5HN01mSVAyZzMxUkp2ZjY3a3d0SXFtVm00SzR6eWU4ekVVU0hMbTRNbEtDVWVFanNNOVp1U2xXbFN5NEk4Ui1pSE14UzlTTDFTcVRobDFSbkpuT2RkTWpQODlYY3B3Tk0wSFBPOVFBa3ZvQVZERWFNSVktdmNMNjA?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260728-1747",
+    "date": "2026-07-28",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE80bmlFbDV4YWFjZzlVT2FNRjFOSGUtdDhoZk9KSGxlbkFBMklscE1pemR3RF9SdFhvOVczY21xZm9rNmVMdDhLbkJMUEpVRmUyMF9KUkl0eGthUHlpSnJNakRkUjlxUjZXUVJB?oc=5",
+    "similar_to": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260728-1748",
+    "date": "2026-07-28",
+    "ai_decision": "exclude",
+    "similarity": 0.71,
+    "title": "【PR TIMES ビジネス・コンサルティング 広告・マーケティング】【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFAtclhBN1BZY3RyN2JwTG9ubEx6Q1FCNHhMalZZWEszVE41V2JRb1NyQkVVdEdKRzFUZWJUUzhIWnFXUHNYSkt5ZzVKRmJNZmZSZ3NMTnh0Ml9YQmpmQjM2c2dNZUJNM0hjVFg0Z29ieFpLWnZEMEJZeg?oc=5",
+    "similar_to": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
+    "ai_reason": "既存記事(PR TIMES発、2026年7月8日)と同一のプレスリリース(新コンセプトロゴ決定)を別配信先(茨城新聞クロスアイ)が転載しただけの重複記事のため除外"
   }
 ]
