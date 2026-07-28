@@ -812,7 +812,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1802,26 +1802,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【定期開催イベント】　植物育成ライトの本音のホンネ。（2026年07月25日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13407&store=chibant",
-    "pub_str": "2026年6月27日",
-    "event_end_date": "2026-07-25",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "クロスステッチを楽しもう！（2026年07月25日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13079&store=chibant",
-    "pub_str": "2026年6月26日",
-    "event_end_date": "2026-07-25",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
     "title": "季節の絵柄を使って　          グラスデコ作り（2026年08月23日(日)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=12117&store=chibant",
     "pub_str": "2026年6月25日",
@@ -2039,16 +2019,6 @@
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "アトレーヌ防水塗料実演会（2026年07月25日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13837&store=chibant",
-    "pub_str": "2026年7月20日",
-    "event_end_date": "2026-07-25",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
     "retention_type": "regular"
   },
   {
@@ -2589,6 +2559,15 @@
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【白井市】8月1日（土）「清水口夏まつり納涼大会」が七次第一公園で開催！ 盆踊りのほか太鼓やなしトレ体操あり、出店も楽しめます！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/29/shimizuguchinatsumatsuri2026/",
+    "pub_str": "2026年7月29日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
     "retention_type": "regular"
   }
 ]
