@@ -1762,46 +1762,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "ケルヒャー製品体験会（2026年07月25日(土)～2026年07月26日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13681&store=chibant",
-    "pub_str": "2026年7月1日",
-    "event_end_date": "2026-07-26",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "夏の除草対策に！マキタお試し体験イベント！（2026年07月25日(土)～2026年07月26日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13214&store=chibant",
-    "pub_str": "2026年6月30日",
-    "event_end_date": "2026-07-26",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ゆきひろこ先生による「夏休み・宿題制作会」（2026年07月26日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13078&store=chibant",
-    "pub_str": "2026年6月29日",
-    "event_end_date": "2026-07-26",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "はじめてのミニ四駆作り体験会（2026年07月26日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=11203&store=chibant",
-    "pub_str": "2026年6月28日",
-    "event_end_date": "2026-07-26",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
     "title": "季節の絵柄を使って　          グラスデコ作り（2026年08月23日(日)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=12117&store=chibant",
     "pub_str": "2026年6月25日",
@@ -2601,6 +2561,26 @@
     "publisher": "city.shiroi.chiba.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "夏レジンアートを作ろう（2026年08月29日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=13624&store=chibant",
+    "pub_str": "2026年7月30日",
+    "event_end_date": "2026-08-29",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "retention_type": "regular"
+  },
+  {
+    "title": "カスタムプレート実演販売（2026年08月29日(土)～2026年08月30日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=13003&store=chibant",
+    "pub_str": "2026年7月30日",
+    "event_end_date": "2026-08-30",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
     "retention_type": "regular"
   }
 ]

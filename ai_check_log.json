@@ -2188,5 +2188,15 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTFBQVFQ4NDJpdmVZTDlSaHJVd3dBeXYwUW1ySFhhRmowY3Z5VjFvWWoza1ZabEtfbllOMWd1LUVhQlhRTFRWa1RuSERYNkxNZ2twY3J0T2tVbXl2MVZjYmp5UG81RDczOUdvd3V3?oc=5",
     "similar_to": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260730-0809",
+    "date": "2026-07-30",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.94,
+    "title": "荻野先生のキットパスで作る手形作品講習（2026年08月29日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=13981&store=chibant",
+    "similar_to": "荻野先生のキットパスで作る手形作品講習（2026年08月23日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
