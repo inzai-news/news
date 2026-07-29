@@ -2178,5 +2178,15 @@
     "link": "https://news.google.com/articles/CBMieEFVX3lxTFAtclhBN1BZY3RyN2JwTG9ubEx6Q1FCNHhMalZZWEszVE41V2JRb1NyQkVVdEdKRzFUZWJUUzhIWnFXUHNYSkt5ZzVKRmJNZmZSZ3NMTnh0Ml9YQmpmQjM2c2dNZUJNM0hjVFg0Z29ieFpLWnZEMEJZeg?oc=5",
     "similar_to": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
     "ai_reason": "既存記事(PR TIMES発、2026年7月8日)と同一のプレスリリース(新コンセプトロゴ決定)を別配信先(茨城新聞クロスアイ)が転載しただけの重複記事のため除外"
+  },
+  {
+    "run_ts": "20260729-1258",
+    "date": "2026-07-29",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTFBQVFQ4NDJpdmVZTDlSaHJVd3dBeXYwUW1ySFhhRmowY3Z5VjFvWWoza1ZabEtfbllOMWd1LUVhQlhRTFRWa1RuSERYNkxNZ2twY3J0T2tVbXl2MVZjYmp5UG81RDczOUdvd3V3?oc=5",
+    "similar_to": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

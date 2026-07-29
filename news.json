@@ -812,7 +812,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2568,6 +2568,28 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
+    "retention_type": "regular"
+  },
+  {
+    "title": "高齢者虐待相談",
+    "link": "https://www.city.inzai.lg.jp/0000007971.html",
+    "desc": "",
+    "pub_iso": "2026-07-29T11:31:40+09:00",
+    "pub_str": "2026年7月29日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度会計年度任用職員の募集について（市立保育園）",
+    "link": "https://www.city.inzai.lg.jp/0000020922.html",
+    "desc": "",
+    "pub_iso": "2026-07-29T09:18:01+09:00",
+    "pub_str": "2026年7月29日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
     "retention_type": "regular"
   }
 ]
