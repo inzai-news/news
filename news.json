@@ -812,7 +812,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2589,6 +2589,17 @@
     "pub_str": "2026年7月29日",
     "publisher": "印西市",
     "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "シニア向け再就職支援セミナー＆個別相談会in印西市",
+    "link": "https://news.google.com/articles/CBMiiwFBVV95cUxPdGFCanRkZjU2ZWVJRFoxaEJseTZJNktLZDdOUEVnejJackFKZDliTlM4Ml95ZVhseDZ1aDN4c0UzX2stU3dvOVFEMHpHSUNnMmNrZmFXS3BLaXhtWXZrSS1ocnhkMXdTazJya25vUFo1VWZvRzNOWm1RNjZQMEpRa1VLdmZLdHJaeHJ3?oc=5",
+    "desc": "シニア向け再就職支援セミナー＆個別相談会in印西市  city.shiroi.chiba.jp",
+    "pub_iso": "2026-06-26T16:00:00+09:00",
+    "pub_str": "2026年6月26日",
+    "publisher": "city.shiroi.chiba.jp",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   }
