@@ -2198,5 +2198,15 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=13981&store=chibant",
     "similar_to": "荻野先生のキットパスで作る手形作品講習（2026年08月23日(日)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260731-0024",
+    "date": "2026-07-31",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "8月のイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/51274686-5e9f-4eec-b563-26317571a8cc",
+    "similar_to": "7月のイベント",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
