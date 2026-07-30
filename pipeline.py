@@ -544,7 +544,14 @@ TRAIN_GROUPS = [
 ]
 
 # 一般のekitan.com側は種別がフル表記のため、hokuso.ekitan.com側の略称表記に揃える
-EKITAN_TYPE_ABBREV = {"アクセス特急": "ア特", "通勤特急": "通特"}
+EKITAN_TYPE_ABBREV = {
+    "アクセス特急": "ア特",
+    "通勤特急": "通特",
+    "エアポート快特": "エ快",
+    "エアポート快特:成田スカイアクセス線経由": "エ快",
+    "モーニング・ウィング": "モ特",
+    "イブニング・ウィング": "イ特",
+}
 
 # ekitan.com(駅探)から取得する下り駅(浅草橋・品川・新橋・東銀座・東日本橋)共通の行き先フィルタ。
 # 新鎌ヶ谷以遠(成田スカイアクセス線・北総線経由で印西牧の原・成田空港方面)へ向かう行き先のみを残す
@@ -645,7 +652,8 @@ def fetch_train_timetable_ekitan(line_code: str, dw: str, table_index: int = 1, 
             train_type = li.get("data-tr-type", "").strip()
             if "スカイライナー" in train_type:
                 continue
-            train_type = EKITAN_TYPE_ABBREV.get(train_type, train_type)
+            # 未知の種別名(辞書に無いもの)は表示崩れを防ぐため先頭2文字に切り詰める
+            train_type = EKITAN_TYPE_ABBREV.get(train_type, train_type[:2])
             minute_tag = li.select_one("span.time-min")
             if not minute_tag:
                 continue
