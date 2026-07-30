@@ -497,27 +497,61 @@ def fetch_weather():
 TRAIN_TIMETABLE_URL = "https://hokuso.ekitan.com/jp/pc/T5"
 EKITAN_TIMETABLE_URL = "https://ekitan.com/timetable/railway/line-station/{code}/d2"
 
-# 上り: 印西牧の原・千葉ニュータウン中央 → 京成高砂・日本橋方面(hokuso.ekitan.com, d=1)
-TRAIN_STATIONS_UP = {
-    "inzaimakinohara": {"name": "印西牧の原", "site": "hokuso", "sl_code": "200-13", "d": "1"},
-    "chibanewtownchuo": {"name": "千葉ニュータウン中央", "site": "hokuso", "sl_code": "200-12", "d": "1"},
-}
-TRAIN_DIRECTION_LABEL_UP = "京成高砂・日本橋方面"
-
-# 下り: 浅草橋・新鎌ヶ谷 → 印西牧の原方面(浅草橋はhokuso.ekitan.comの対象外のため
-# 一般のekitan.com「駅探」を使用。新鎌ヶ谷はhokuso.ekitan.comのd=2(印旛日本医大方面)を使用)
-TRAIN_STATIONS_DOWN = {
-    "asakusabashi": {"name": "浅草橋", "site": "ekitan", "line_code": "222-15"},
-    "shinkamagaya": {"name": "新鎌ヶ谷", "site": "hokuso", "sl_code": "200-8", "d": "2", "exclude_types": {"ス"}},  # 「ス」=スカイライナー
-}
-TRAIN_DIRECTION_LABEL_DOWN = "印西牧の原・成田空港方面"
+# 電車時刻表ウィジェットの循環グループ(ボタンを押すたびにこの順で切り替わり、末尾の次は先頭に戻る)。
+# up: 印西牧の原・千葉ニュータウン中央 → 京成高砂・日本橋方面(hokuso.ekitan.com, d=1)
+# down_*: いずれも印西牧の原・成田空港方面(下り)の駅を追加したもの。浅草橋・新橋・東銀座・東日本橋は
+# 都営浅草線、品川は京急本線に属し、いずれもhokuso.ekitan.comの対象外(北総線に属さない)のため
+# 一般のekitan.com「駅探」(line-station/{路線コード}/d2)を使用する。table_indexは、そのページに並ぶ
+# 2つの方面テーブルのうち印西牧の原方面が何番目か(0始まり)を表す。新鎌ヶ谷のみ北総線内のためhokuso側
+# (d=2:印旛日本医大方面)を使用。
+TRAIN_GROUPS = [
+    {
+        "key": "up",
+        "stations": {
+            "inzaimakinohara": {"name": "印西牧の原", "site": "hokuso", "sl_code": "200-13", "d": "1"},
+            "chibanewtownchuo": {"name": "千葉ニュータウン中央", "site": "hokuso", "sl_code": "200-12", "d": "1"},
+        },
+        "direction_label": "京成高砂・日本橋方面",
+        "own_toggle_label": "上り印西牧の原、千葉ニュータウン発切り替え",
+    },
+    {
+        "key": "down_asakusabashi",
+        "stations": {
+            "asakusabashi": {"name": "浅草橋", "site": "ekitan", "line_code": "222-15", "table_index": 1},
+            "shinkamagaya": {"name": "新鎌ヶ谷", "site": "hokuso", "sl_code": "200-8", "d": "2", "exclude_types": {"ス"}},  # 「ス」=スカイライナー
+        },
+        "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
+        "own_toggle_label": "下り浅草橋、新鎌ヶ谷発切り替え",
+    },
+    {
+        "key": "down_shinagawa",
+        "stations": {
+            "shinagawa": {"name": "品川", "site": "ekitan", "line_code": "250-1", "table_index": 0},
+            "shimbashi": {"name": "新橋", "site": "ekitan", "line_code": "222-9", "table_index": 1},
+        },
+        "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
+        "own_toggle_label": "下り品川、新橋発切り替え",
+    },
+    {
+        "key": "down_ginza",
+        "stations": {
+            "higashiginza": {"name": "東銀座", "site": "ekitan", "line_code": "222-10", "table_index": 1},
+            "higashinihombashi": {"name": "東日本橋", "site": "ekitan", "line_code": "222-14", "table_index": 1},
+        },
+        "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
+        "own_toggle_label": "下り東銀座、東日本橋発切り替え",
+    },
+]
 
 # 一般のekitan.com側は種別がフル表記のため、hokuso.ekitan.com側の略称表記に揃える
 EKITAN_TYPE_ABBREV = {"アクセス特急": "ア特", "通勤特急": "通特"}
 
-# 浅草橋発の電車のうち、京成高砂より手前で終点になる・本線経由で印西を通らない行き先は除外する
-# (芝山千代田=東成田線, 押上/京成高砂/青砥=北総線に入らない, 京成佐倉/京成成田=本線経由で印西を通らない)
-ASAKUSABASHI_EXCLUDE_DESTS = {"芝山千代田", "押上", "京成高砂", "京成佐倉", "京成成田", "青砥"}
+# ekitan.com(駅探)から取得する下り駅(浅草橋・品川・新橋・東銀座・東日本橋)共通の行き先フィルタ。
+# 新鎌ヶ谷以遠(成田スカイアクセス線・北総線経由で印西牧の原・成田空港方面)へ向かう行き先のみを残す
+# (泉岳寺止まり・押上止まり・京成高砂止まりや、京成本線経由で新鎌ヶ谷を通らない京成成田/京成佐倉/
+# 宗吾参道/芝山千代田行きなどは除外する)。スカイライナーは駅探側の路線(都営浅草線・京急本線)を
+# 経由しないため元々出現しないが、念のためfetch_train_timetable_ekitan側でも種別名から除外する。
+NARITA_DIRECTION_INCLUDE_DESTS = {"新鎌ヶ谷", "印西牧の原", "印旛日本医大", "成田湯川", "空港第2ビル", "成田空港"}
 
 HOLIDAY_CSV_URL = "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"
 
@@ -575,14 +609,15 @@ def fetch_train_timetable(sl_code: str, dw: str, d: str = "1", exclude_types: se
     return trains
 
 
-def fetch_train_timetable_ekitan(line_code: str, dw: str, exclude_dests: set = None) -> list:
+def fetch_train_timetable_ekitan(line_code: str, dw: str, table_index: int = 1, include_dests: set = None) -> list:
     """一般のekitan.com(駅探)から指定路線コード(例:浅草橋=222-15)の時刻表を取得する。
     hokuso.ekitan.comの対象外の駅(北総線に属さない駅)用。
     ダイヤ区分はdw=0:平日 / dw=2:休日(土曜・休日をまとめて代表させるため休日側を採用)。
     ページには方面ごとに<table class="search-result-data ek-search-result">が2つ並んでおり、
-    タブの並び順(direction_code=1→2)と同じ順で出現するため、2つ目(押上方面、北総線に
-    直通する側)を使う。各電車は<li data-tr-type=種別 data-dest=行き先 data-start=当駅始発の場合のみ非空>
-    属性を持ち、行き先は既に正式名称なので変換不要。exclude_destsに含まれる行き先は除外する。
+    駅によって印西牧の原方面が何番目のテーブルかが異なるため(通常は2つ目=index1だが、品川のみ
+    1つ目=index0)、table_indexで指定する。各電車は<li data-tr-type=種別 data-dest=行き先
+    data-start=当駅始発の場合のみ非空>属性を持ち、行き先は既に正式名称なので変換不要。
+    include_destsを指定した場合はそこに含まれる行き先のみを残す(新鎌ヶ谷以遠へ向かう電車のみに絞る用途)。
     """
     url = EKITAN_TIMETABLE_URL.format(code=line_code)
     res = requests.get(url, params={"dw": dw}, headers=HEADERS, timeout=TIMEOUT)
@@ -590,11 +625,10 @@ def fetch_train_timetable_ekitan(line_code: str, dw: str, exclude_dests: set = N
     soup = BeautifulSoup(res.text, "html.parser")
 
     tables = soup.select("table.search-result-data.ek-search-result")
-    if len(tables) < 2:
+    if len(tables) <= table_index:
         return []
-    table = tables[1]
+    table = tables[table_index]
 
-    exclude_dests = exclude_dests or set()
     trains = []
     for tr in table.select("tr.ek-hour_line"):
         hour_tag = tr.select_one("td")
@@ -606,9 +640,11 @@ def fetch_train_timetable_ekitan(line_code: str, dw: str, exclude_dests: set = N
         hour = int(hour_text)
         for li in tr.select("li.ek-train-tooltip"):
             dest = li.get("data-dest", "").strip()
-            if not dest or dest in exclude_dests:
+            if not dest or (include_dests is not None and dest not in include_dests):
                 continue
             train_type = li.get("data-tr-type", "").strip()
+            if "スカイライナー" in train_type:
+                continue
             train_type = EKITAN_TYPE_ABBREV.get(train_type, train_type)
             minute_tag = li.select_one("span.time-min")
             if not minute_tag:
@@ -626,12 +662,20 @@ def fetch_train_timetable_ekitan(line_code: str, dw: str, exclude_dests: set = N
     return trains
 
 
+def all_train_stations() -> dict:
+    """TRAIN_GROUPS全体の駅定義をキー衝突なく1つの辞書にまとめて返す。"""
+    stations = {}
+    for group in TRAIN_GROUPS:
+        stations.update(group["stations"])
+    return stations
+
+
 def fetch_train_data() -> dict:
-    """全対象駅(上り2駅+下り2駅)の平日/土曜・休日の時刻表をまとめて取得する。
+    """全グループの全駅の平日/土曜・休日の時刻表をまとめて取得する。
     駅ごとに取得失敗しても他の駅の結果は返す(失敗した駅は空リストのまま)。
     """
     data = {}
-    for key, st in {**TRAIN_STATIONS_UP, **TRAIN_STATIONS_DOWN}.items():
+    for key, st in all_train_stations().items():
         entry = {"name": st["name"], "weekday": [], "weekend": []}
         if st["site"] == "hokuso":
             for dw, daytype in (("0", "weekday"), ("1", "weekend")):
@@ -642,7 +686,9 @@ def fetch_train_data() -> dict:
         else:  # ekitan
             for dw, daytype in (("0", "weekday"), ("2", "weekend")):
                 try:
-                    entry[daytype] = fetch_train_timetable_ekitan(st["line_code"], dw, ASAKUSABASHI_EXCLUDE_DESTS)
+                    entry[daytype] = fetch_train_timetable_ekitan(
+                        st["line_code"], dw, st.get("table_index", 1), NARITA_DIRECTION_INCLUDE_DESTS
+                    )
                 except Exception as e:
                     print(f"[WARN] 電車時刻表取得エラー({st['name']}/{daytype}): {e}", file=sys.stderr)
         data[key] = entry
@@ -689,7 +735,7 @@ def load_or_fetch_train_data():
     TRAIN_TIMETABLE_CHANGEDを立ててbuild実行時に報告できるようにする。
     """
     global TRAIN_TIMETABLE_CHANGED
-    expected_keys = set(TRAIN_STATIONS_UP) | set(TRAIN_STATIONS_DOWN)
+    expected_keys = set(all_train_stations())
     cache = load_json(TRAIN_CACHE_PATH, None)
     cache_has_all_stations = bool(cache) and expected_keys <= set(cache["train_data"].keys())
     if cache and cache_has_all_stations:
@@ -1471,10 +1517,10 @@ header{background:#fff;border-bottom:1px solid #e0e0d8;padding:14px 20px;display
 .weather-pop{display:block;font-size:10px;color:#2563EB;margin-top:1px}
 .weather-title{font-size:10px;font-weight:700;color:#888;letter-spacing:.02em;text-align:center;margin-bottom:4px}
 @media(max-width:480px){
-header{padding:10px 12px}
-.logo{font-size:16px}
-.updated{font-size:9px}
-.train-dir-toggle{font-size:9px;padding:4px 8px;border-radius:12px}
+header{padding:10px 12px;flex-wrap:wrap;row-gap:6px}
+.logo{font-size:16px;order:1}
+.updated{font-size:9px;order:2}
+.train-dir-toggle{font-size:9px;padding:4px 8px;border-radius:12px;order:3;flex-basis:100%;text-align:center}
 .hero{padding:10px;gap:12px;flex-wrap:nowrap;justify-content:center}
 .train-widget-title{font-size:7px;margin-bottom:3px}
 .train-divider{margin:0 2px 0 6px}
@@ -1638,16 +1684,21 @@ def build_html(articles):
             )
         return "".join(parts)
 
-    train_columns_up_html = build_train_columns_html(TRAIN_STATIONS_UP)
-    train_columns_down_html = build_train_columns_html(TRAIN_STATIONS_DOWN)
+    train_group_columns_html = ""
+    for i, group in enumerate(TRAIN_GROUPS):
+        hidden_cls = "" if i == 0 else " train-columns-hidden"
+        train_group_columns_html += (
+            '<div class="train-columns' + hidden_cls + '" id="train-columns-' + group["key"] + '">'
+            + build_train_columns_html(group["stations"])
+            + "</div>"
+        )
     train_html = (
         '<div class="train-widget">'
         + '<div class="train-widget-title" id="train-widget-title">'
         + '<span id="train-title-name">北総鉄道</span>'
-        + '<span class="train-direction" id="train-direction">(' + html.escape(TRAIN_DIRECTION_LABEL_UP) + ")</span>"
+        + '<span class="train-direction" id="train-direction">(' + html.escape(TRAIN_GROUPS[0]["direction_label"]) + ")</span>"
         + "</div>"
-        + '<div class="train-columns" id="train-columns-up">' + train_columns_up_html + "</div>"
-        + '<div class="train-columns train-columns-hidden" id="train-columns-down">' + train_columns_down_html + "</div>"
+        + train_group_columns_html
         + '<div class="train-note"><span class="train-dot">●</span>は当駅始発</div>'
         + "</div>"
     )
@@ -1721,15 +1772,23 @@ def build_html(articles):
         ensure_ascii=False,
     )
     holidays_json = json.dumps(train_holidays, ensure_ascii=False)
+    # ボタンのラベルは「次に切り替わる先」を表す(=次のグループ自身の自己紹介ラベル)ため、
+    # 現グループiのtoggleLabelには(i+1)番目のグループのown_toggle_labelを充てる
     train_group_meta_json = json.dumps({
-        "up": {"name": "北総鉄道", "direction": "(" + TRAIN_DIRECTION_LABEL_UP + ")", "toggleLabel": "下り時刻表切替"},
-        "down": {"name": "北総鉄道", "direction": "(" + TRAIN_DIRECTION_LABEL_DOWN + " ：印西へ向かう電車のみ表示)", "toggleLabel": "上り時刻表切替"},
+        TRAIN_GROUPS[i]["key"]: {
+            "name": "北総鉄道",
+            "direction": "(" + TRAIN_GROUPS[i]["direction_label"] + ")",
+            "toggleLabel": TRAIN_GROUPS[(i + 1) % len(TRAIN_GROUPS)]["own_toggle_label"],
+        }
+        for i in range(len(TRAIN_GROUPS))
     }, ensure_ascii=False)
+    train_group_keys_json = json.dumps([g["key"] for g in TRAIN_GROUPS], ensure_ascii=False)
     train_script = (
         "<script>\n"
         f"var TRAIN_DATA={train_data_json};\n"
         f"var JP_HOLIDAYS={holidays_json};\n"
         f"var TRAIN_GROUP_META={train_group_meta_json};\n"
+        f"var TRAIN_GROUP_KEYS={train_group_keys_json};\n"
         "(function(){\n"
         "  function pad2(n){return String(n).padStart(2,\"0\");}\n"
         "  function renderTrains(){\n"
@@ -1774,8 +1833,10 @@ def build_html(articles):
         "  var currentGroup=\"up\";\n"
         "  function setGroup(g){\n"
         "    currentGroup=g;\n"
-        "    document.getElementById(\"train-columns-up\").classList.toggle(\"train-columns-hidden\", g!==\"up\");\n"
-        "    document.getElementById(\"train-columns-down\").classList.toggle(\"train-columns-hidden\", g!==\"down\");\n"
+        "    TRAIN_GROUP_KEYS.forEach(function(k){\n"
+        "      var el=document.getElementById(\"train-columns-\"+k);\n"
+        "      if(el) el.classList.toggle(\"train-columns-hidden\", k!==g);\n"
+        "    });\n"
         "    var meta=TRAIN_GROUP_META[g];\n"
         "    document.getElementById(\"train-title-name\").textContent=meta.name;\n"
         "    document.getElementById(\"train-direction\").textContent=meta.direction;\n"
@@ -1784,11 +1845,14 @@ def build_html(articles):
         "  }\n"
         "  var toggleBtn=document.getElementById(\"train-dir-toggle\");\n"
         "  if(toggleBtn){\n"
-        "    toggleBtn.addEventListener(\"click\", function(){ setGroup(currentGroup===\"up\"?\"down\":\"up\"); });\n"
+        "    toggleBtn.addEventListener(\"click\", function(){\n"
+        "      var idx=TRAIN_GROUP_KEYS.indexOf(currentGroup);\n"
+        "      setGroup(TRAIN_GROUP_KEYS[(idx+1)%TRAIN_GROUP_KEYS.length]);\n"
+        "    });\n"
         "  }\n"
         "  function defaultGroup(){\n"
         "    var h=new Date(new Date().toLocaleString(\"en-US\",{timeZone:\"Asia/Tokyo\"})).getHours();\n"
-        "    return h>=16?\"down\":\"up\";\n"
+        "    return h>=16?\"down_asakusabashi\":\"up\";\n"
         "  }\n"
         "  setGroup(defaultGroup());\n"
         "  setInterval(renderTrains, 1000);\n"
