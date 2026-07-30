@@ -560,6 +560,11 @@ EKITAN_TYPE_ABBREV = {
 # 経由しないため元々出現しないが、念のためfetch_train_timetable_ekitan側でも種別名から除外する。
 NARITA_DIRECTION_INCLUDE_DESTS = {"新鎌ヶ谷", "印西牧の原", "印旛日本医大", "成田湯川", "空港第2ビル", "成田空港"}
 
+# 印西牧の原駅に実際に停車する種別(この駅自体のd=1/d=2両方向の発車データを実地確認して判明。
+# 「快速」「快特」「通勤特急」「アクセス特急」「エアポート快特」等はいずれもこの駅を通過する)。
+# 種別名に「特」が含まれるかどうかでは正しく判定できない(「特急」は停車するが「アクセス特急」等は通過するため)。
+INZAI_MAKINOHARA_STOP_TYPES = {"普通", "特急"}
+
 HOLIDAY_CSV_URL = "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"
 
 
@@ -1791,12 +1796,14 @@ def build_html(articles):
         for i in range(len(TRAIN_GROUPS))
     }, ensure_ascii=False)
     train_group_keys_json = json.dumps([g["key"] for g in TRAIN_GROUPS], ensure_ascii=False)
+    inzai_stop_types_json = json.dumps(sorted(INZAI_MAKINOHARA_STOP_TYPES), ensure_ascii=False)
     train_script = (
         "<script>\n"
         f"var TRAIN_DATA={train_data_json};\n"
         f"var JP_HOLIDAYS={holidays_json};\n"
         f"var TRAIN_GROUP_META={train_group_meta_json};\n"
         f"var TRAIN_GROUP_KEYS={train_group_keys_json};\n"
+        f"var INZAI_STOP_TYPES={inzai_stop_types_json};\n"
         "(function(){\n"
         "  function pad2(n){return String(n).padStart(2,\"0\");}\n"
         "  function renderTrains(){\n"
@@ -1829,7 +1836,7 @@ def build_html(articles):
         "          return '<div class=\"train-item\"><span class=\"train-time\"><span class=\"train-dot\"></span>--:--</span><span class=\"train-type\">--</span><span class=\"train-dest\">-----</span><span class=\"train-countdown\">'+emptyCd+'</span></div>';\n"
         "        }\n"
         "        var m=Math.floor(x.remain/60), s=x.remain%60;\n"
-        "        var typeCls=x.t.type.indexOf(\"特\")!==-1?\" train-type-express\":\"\";\n"
+        "        var typeCls=INZAI_STOP_TYPES.indexOf(x.t.type)===-1?\" train-type-express\":\"\";\n"
         "        var cdCls=i===0?\" train-countdown-next\":\"\";\n"
         "        var dot=x.t.origin?\"●\":\"\";\n"
         "        var farText=isNarrow?\"--:--\":\"あと--分--秒\";\n"
