@@ -219,15 +219,51 @@ def load_excluded_links() -> set:
     return {e["link"] for e in log if e.get("ai_decision") in ("auto_exclude", "exclude")}
 
 
-def load_new_badge_links() -> set:
-    """直近の更新で新規追加された記事(「新着」バッジ対象)のリンク集合。
-    更新が無かった回はここを触らないので、変化が出るまで前回の「新着」が残り続ける。
+NEW_BADGE_WINDOW_HOURS = 3
+
+
+def load_new_badge_links() -> dict:
+    """「新着」バッジ対象リンク→追加日時(JST ISO文字列)の辞書を読み込む。
+    旧形式(リストのみ)のデータが残っていた場合は追加日時が分からないため破棄する。
     """
-    return set(load_json(NEW_BADGE_PATH, []))
+    data = load_json(NEW_BADGE_PATH, {})
+    if isinstance(data, list):
+        return {}
+    return data
 
 
-def save_new_badge_links(links) -> None:
-    save_json_atomic(NEW_BADGE_PATH, sorted(links))
+def save_new_badge_links(data: dict) -> None:
+    save_json_atomic(NEW_BADGE_PATH, data)
+
+
+def mark_new_badge_links(new_links) -> None:
+    """指定リンクを「新着」バッジ対象として現在時刻付きで追加する(union、既存は消さない)。
+    NEW_BADGE_WINDOW_HOURS(3時間)を過ぎた既存エントリはこのタイミングで併せて削除する
+    (どのみちbuild時に期限切れとして描画されなくなるため、ファイル肥大化を防ぐための掃除)。
+    連続更新で直前に付いたばかりのバッジが次の更新で即座に消えてしまう問題を避けるため、
+    「今回追加されたものは全部差し替え」ではなく「追加日時が3時間以内のものは維持」という
+    形に2026-08-01に変更した。
+    """
+    now = datetime.now(JST)
+    cutoff = now - timedelta(hours=NEW_BADGE_WINDOW_HOURS)
+    data = {
+        link: ts for link, ts in load_new_badge_links().items()
+        if datetime.fromisoformat(ts) >= cutoff
+    }
+    now_iso = now.isoformat()
+    for link in new_links:
+        data[link] = now_iso
+    save_new_badge_links(data)
+
+
+def active_new_badge_links() -> set:
+    """現在時刻からNEW_BADGE_WINDOW_HOURS以内に追加されたリンクの集合を返す(バッジ描画用)。"""
+    now = datetime.now(JST)
+    cutoff = now - timedelta(hours=NEW_BADGE_WINDOW_HOURS)
+    return {
+        link for link, ts in load_new_badge_links().items()
+        if datetime.fromisoformat(ts) >= cutoff
+    }
 
 
 # ============================================================
@@ -1355,8 +1391,7 @@ def cmd_collect(args):
     append_ai_log(auto_log_entries)
 
     if new_links_this_run:
-        # 新規記事が出た=前回までの「新着」バッジを今回分で置き換える
-        save_new_badge_links(new_links_this_run)
+        mark_new_badge_links(new_links_this_run)
 
     combined_queue = existing_queue + review_items
     if combined_queue:
@@ -1457,8 +1492,7 @@ def cmd_apply_review(args):
     append_ai_log(log_entries)
 
     if kept_links_this_run:
-        # collect直後に実行される想定のため、直前のcollectで立てた「新着」に合流させる(上書きしない)
-        save_new_badge_links(load_new_badge_links() | set(kept_links_this_run))
+        mark_new_badge_links(set(kept_links_this_run))
 
     if remaining_queue:
         save_json_atomic(REVIEW_QUEUE_PATH, remaining_queue)
@@ -1650,7 +1684,7 @@ def build_html(articles):
     now_str = f"{now.year}年{now.month}月{now.day}日 {now.strftime('%H:%M')}"
     today = now.date()
     cutoff = today - timedelta(days=SCRAPED_MAX_DAYS)
-    new_links = load_new_badge_links()
+    new_links = active_new_badge_links()
 
     main_arts_all = [a for a in articles if a.get("category") in CATEGORY_ORDER]
     scraped_arts = [a for a in articles if a.get("category") not in CATEGORY_ORDER]
@@ -2088,8 +2122,8 @@ def cmd_store_add(args):
     final_items = [it for it in by_link.values() if not is_expired(it, today)]
     save_json_atomic(NEWS_PATH, final_items)
     # store-addはcollect/apply-reviewの外側で動くため、ここで明示的に「新着」バッジ対象に加えないと
-    # 手動登録した開店・閉店情報にバッジが付かない(既存の「新着」は消さずunionする)
-    save_new_badge_links(load_new_badge_links() | {args.link})
+    # 手動登録した開店・閉店情報にバッジが付かない
+    mark_new_badge_links({args.link})
     print(f"登録しました: {title}")
 
 
