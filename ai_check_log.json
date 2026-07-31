@@ -2208,5 +2208,15 @@
     "link": "https://chibanewtown.aeonmall.jp/event/51274686-5e9f-4eec-b563-26317571a8cc",
     "similar_to": "7月のイベント",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260731-2121",
+    "date": "2026-07-31",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "令和8年度第1回印西市史編さん委員会の開催について",
+    "link": "https://www.city.inzai.lg.jp/0000022238.html",
+    "similar_to": "令和8年度 第1回印西市社会教育委員会議開催について",
+    "ai_reason": "「印西市史編さん委員会」と類似検出元の「社会教育委員会議」は別の委員会の開催告知(タイトルパターンが似ているだけ)のため別記事として採用"
   }
 ]
