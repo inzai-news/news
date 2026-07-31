@@ -14,7 +14,7 @@
 - `news.json` — 統合ニュースデータ（公開対象、gitで管理）
 - `review_queue.json` — AI判断待ちの記事キュー（gitignore対象、判断後は空になり削除される）
 - `ai_check_log.json` — 重複判定AIログ（後から閾値の妥当性を検証するため。加えて、除外(exclude/auto_exclude)済みリンクの記憶としても使われ、`collect`実行時に一度除外判定した記事を再度重複判定・AIレビューにかけないようにする）
-- `new_badge.json` — 「新着」バッジ対象リンクの一覧（gitで管理）。`collect`で新規記事(ルールベース採用分)が出たら今回分で上書き、`apply-review`でAI判断の採用が出たら直前のcollect分に合流(union)させる。どちらも0件だった回は一切触らないため、更新が無い回は前回の「新着」がそのまま残り続ける
+- `new_badge.json` — 「新着」バッジ対象リンクの一覧（gitで管理）。`collect`で新規記事(ルールベース採用分)が出たら今回分で上書き、`apply-review`でAI判断の採用が出たら直前のcollect分に合流(union)させる。どちらも0件だった回は一切触らないため、更新が無い回は前回の「新着」がそのまま残り続ける。`store-add`もcollect/apply-reviewの外側で動くため、2026-07-31に同様に対象リンクをunionで追加するよう修正した(それまでは店舗追加時にバッジが付かない不具合があった)
 - `開店閉店.txt`（Shift-JIS） — 開店閉店情報の調査対象店舗リスト（gitignore対象、ローカルのみ）
 - `.gh_token` — GitHub Fine-grained PAT（gitignore対象）
 - `index.html` — 生成物（GitHub Pagesで配信）

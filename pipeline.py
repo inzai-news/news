@@ -2087,6 +2087,9 @@ def cmd_store_add(args):
     today = date.today()
     final_items = [it for it in by_link.values() if not is_expired(it, today)]
     save_json_atomic(NEWS_PATH, final_items)
+    # store-addはcollect/apply-reviewの外側で動くため、ここで明示的に「新着」バッジ対象に加えないと
+    # 手動登録した開店・閉店情報にバッジが付かない(既存の「新着」は消さずunionする)
+    save_new_badge_links(load_new_badge_links() | {args.link})
     print(f"登録しました: {title}")
 
 
