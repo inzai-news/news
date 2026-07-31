@@ -2248,5 +2248,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5wclFjUndpS05WNXVhUHRYS0xsenVId21CM2FWdFpLaUlaSDBNSk8yb2tvd2tFcEFTVE5ka3Y3MkVuVEdWRmNMa2ZFNTlKZngtNXdlRmRFTXAybHNCU3B3?oc=5",
     "similar_to": null,
     "ai_reason": "ルールベース(ユーザー指示): 選挙ドットコム配信の政治家個人(松本ひさし氏)の活動報告記事で、市の行政発表ではなく政治活動そのものの宣伝のため除外"
+  },
+  {
+    "run_ts": "20260731-2358",
+    "date": "2026-07-31",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ミニ電車や鉄道各社のブースが来場者喜ばす 「ほくそう春まつり2023」（千葉県印西市）【レポート】",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9HU1VxWTVxeXA0dmlPaWVCNkdsZWNCVUF1NFh5NWlPUW91UjFFVFlYdi1GVXVFR2xfOG9pb3FqeDl4RzJjQmwzQ1k0ZElqTzJraFR2R3Ywb1ZLa2J5dFZxV3dvQktpRGc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
