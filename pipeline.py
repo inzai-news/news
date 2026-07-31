@@ -44,8 +44,11 @@ AI_LOG_PATH = BASE_DIR / "ai_check_log.json"
 NEW_BADGE_PATH = BASE_DIR / "new_badge.json"
 STORE_LIST_PATH = BASE_DIR / "開店閉店.txt"
 INDEX_HTML_PATH = BASE_DIR / "index.html"
+SITEMAP_PATH = BASE_DIR / "sitemap.xml"
+ROBOTS_PATH = BASE_DIR / "robots.txt"
 TOKEN_PATH = BASE_DIR / ".gh_token"
 GITHUB_REPO = "inzai-news/news"
+SITE_URL = "https://inzai-news.github.io/news/"
 
 HEADERS = {
     "User-Agent": (
@@ -1894,6 +1897,7 @@ def build_html(articles):
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n",
         "<title>印西ニュース - 千葉県印西市のニュース</title>\n",
         "<meta name=\"description\" content=\"千葉県印西市の最新ニュース・話題をお届けします。\">\n",
+        "<link rel=\"canonical\" href=\"" + html.escape(SITE_URL) + "\">\n",
         "<link rel=\"icon\" type=\"image/png\" href=\"favicon.png\">\n",
         GA_TAG,
         "<style>\n", CSS, "</style>\n",
@@ -1916,12 +1920,41 @@ def build_html(articles):
     return "".join(parts)
 
 
+def build_sitemap_xml() -> str:
+    """検索エンジン向けのsitemap.xmlを生成する。現状index.htmlのみの単一ページサイトのため
+    URLは1件のみ。lastmodはbuild実行時のJST日付(記事は毎回更新されるため、常に「今日」でよい)。
+    """
+    lastmod = datetime.now(JST).date().isoformat()
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        "  <url>\n"
+        f"    <loc>{html.escape(SITE_URL)}</loc>\n"
+        f"    <lastmod>{lastmod}</lastmod>\n"
+        "    <changefreq>hourly</changefreq>\n"
+        "  </url>\n"
+        "</urlset>\n"
+    )
+
+
+def build_robots_txt() -> str:
+    """検索エンジンのクローラーがsitemap.xmlを発見できるようrobots.txtを生成する。"""
+    return (
+        "User-agent: *\n"
+        "Allow: /\n"
+        "\n"
+        f"Sitemap: {SITE_URL}sitemap.xml\n"
+    )
+
+
 def cmd_build(args):
     articles = load_news()
     print(f"{len(articles)}件の記事でHTMLを生成中...")
     content = build_html(articles)
     INDEX_HTML_PATH.write_text(content, encoding="utf-8")
     print(f"index.html を生成しました → {INDEX_HTML_PATH}")
+    SITEMAP_PATH.write_text(build_sitemap_xml(), encoding="utf-8")
+    ROBOTS_PATH.write_text(build_robots_txt(), encoding="utf-8")
     if NEW_WEATHER_ICONS_THIS_RUN:
         print(f"新しい天気アイコンをダウンロードしました: {', '.join(NEW_WEATHER_ICONS_THIS_RUN)}")
     if TRAIN_TIMETABLE_CHANGED:

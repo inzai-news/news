@@ -18,6 +18,7 @@
 - `開店閉店.txt`（Shift-JIS） — 開店閉店情報の調査対象店舗リスト（gitignore対象、ローカルのみ）
 - `.gh_token` — GitHub Fine-grained PAT（gitignore対象）
 - `index.html` — 生成物（GitHub Pagesで配信）
+- `sitemap.xml` / `robots.txt` — 検索エンジン向け生成物。2026-07-31追加、`build`のたびに再生成される(gitで管理)。単一ページサイトのため`sitemap.xml`は`https://inzai-news.github.io/news/`の1件のみで`lastmod`をbuild実行時のJST日付に更新するだけ。`robots.txt`はこの`sitemap.xml`へのリンクを含む固定内容。`index.html`の`<head>`にも同URLへの`<link rel="canonical">`を追加済み
 - `weather_icons/` — ウェザーニューズの天気アイコン画像キャッシュ（gitで管理、`build`時に無いものだけ自動ダウンロード）
 - `train_timetable_cache.json` — 北総鉄道の電車時刻表・祝日データのキャッシュ（gitignore対象、ローカルのみ）。30日以内なら再取得せずこれを使う
 - `参考/` — 旧Cowork/Code両系統の実体一式（gitignore対象、移行が落ち着いたら削除してよい）
