@@ -1533,7 +1533,6 @@ header{background:#fff;border-bottom:1px solid #e0e0d8;padding:14px 20px;display
 .train-countdown{font-size:10px;color:#bbb;width:56px;flex-shrink:0}
 .train-countdown-next{color:#555}
 .train-note{font-size:9px;color:#aaa;margin-top:6px;padding-left:11px}
-.train-empty{font-size:12px;color:#888}
 .weather-block{flex-shrink:0;display:flex;flex-direction:column;align-items:center;text-decoration:none;color:inherit}
 .weather-widget{display:flex;gap:8px}
 .weather-day{background:#f5f5f1;border-radius:8px;padding:8px 12px;text-align:center;width:70px;box-sizing:content-box}
@@ -1841,10 +1840,6 @@ def build_html(articles):
         "        var tSec=(+hm[0])*3600+(+hm[1])*60;\n"
         "        return {t:t, remain:tSec-nowSec};\n"
         "      }).filter(function(x){return x.remain>=0;});\n"
-        "      if(candidates.length===0){\n"
-        "        container.innerHTML='<div class=\"train-empty\">本日の運行は終了しました</div>';\n"
-        "        return;\n"
-        "      }\n"
         "      var FAR_SEC=99*60;\n"
         "      var list=candidates.slice(0,3);\n"
         "      while(list.length<3){ list.push(null); }\n"
