@@ -828,12 +828,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況 - building-pc.cocolog",
+    "title": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況",
     "link": "https://news.google.com/articles/CBMifEFVX3lxTE04YnZ6UmJsVUh3V2E5b0ROZDNvSmItVHE5M2t1dV8yZUdncXpYR0VVdEYzUUI2MDljdjJBQ25TemthNDN0UHdaRlhvNTh2ekRaeEdqTjBaZElPT1ZvbzVPUFk2SEUxN1E0S3diYTI0Uk52cDlQM2U0SDdhQTQ?oc=5",
-    "desc": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況  building-pc.cocolog-nifty.com",
+    "desc": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況  東京・大阪 都心上空ヘリコプター遊覧飛行",
     "pub_iso": "2026-05-29T16:00:00+09:00",
     "pub_str": "2026年5月29日",
-    "publisher": "nifty.com",
+    "publisher": "東京・大阪 都心上空ヘリコプター遊覧飛行",
     "source": "google-news-inzai-shi",
     "category": "イオンモール千葉ニュータウン",
     "retention_type": "regular"
@@ -1081,10 +1081,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "STRAIGHT PRESS",
+    "publisher": "straightpress.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2642,6 +2642,37 @@
     "pub_str": "2026年7月30日",
     "publisher": "読売新聞",
     "source": "google-news-inzai-chiba",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【白井市】8月2日（日）駄菓子屋あひるSHOPで「第一回 あひるSHOP夏祭り」開催！ お菓子つかみ取りや動物ふれあい体験あり、キッチンカーもやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/31/ahirushopnatsumatsuri2026/",
+    "pub_str": "2026年7月31日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "retention_type": "regular"
+  },
+  {
+    "title": "急病・急なケガと救急車の適切な利用について",
+    "link": "https://www.city.inzai.lg.jp/0000001776.html",
+    "desc": "",
+    "pub_iso": "2026-07-31T08:46:46+09:00",
+    "pub_str": "2026年7月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "市制30周年記念令和8年度社会を明るくする運動青少年健全育成大会を開催しました",
+    "link": "https://www.city.inzai.lg.jp/0000022183.html",
+    "desc": "",
+    "pub_iso": "2026-07-31T08:43:20+09:00",
+    "pub_str": "2026年7月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
     "category": "市政・行政",
     "retention_type": "regular"
   }
