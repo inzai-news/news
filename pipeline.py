@@ -517,7 +517,7 @@ TRAIN_GROUPS = [
     {
         "key": "down_asakusabashi",
         "stations": {
-            "asakusabashi": {"name": "浅草橋", "site": "ekitan", "line_code": "222-15", "table_index": 1},
+            "asakusabashi": {"name": "浅草橋", "site": "ekitan", "line_code": "222-15", "table_index": 1, "include_dests": "narita"},
             "shinkamagaya": {"name": "新鎌ヶ谷", "site": "hokuso", "sl_code": "200-8", "d": "2", "exclude_types": {"ス"}},  # 「ス」=スカイライナー
         },
         "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
@@ -526,8 +526,8 @@ TRAIN_GROUPS = [
     {
         "key": "down_shinagawa",
         "stations": {
-            "shinagawa": {"name": "品川", "site": "ekitan", "line_code": "250-1", "table_index": 0},
-            "shimbashi": {"name": "新橋", "site": "ekitan", "line_code": "222-9", "table_index": 1},
+            "shinagawa": {"name": "品川", "site": "ekitan", "line_code": "250-1", "table_index": 0, "include_dests": "narita"},
+            "shimbashi": {"name": "新橋", "site": "ekitan", "line_code": "222-9", "table_index": 1, "include_dests": "narita"},
         },
         "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
         "own_toggle_label": "下り品川、新橋発切り替え",
@@ -535,11 +535,28 @@ TRAIN_GROUPS = [
     {
         "key": "down_ginza",
         "stations": {
-            "higashiginza": {"name": "東銀座", "site": "ekitan", "line_code": "222-10", "table_index": 1},
-            "higashinihombashi": {"name": "東日本橋", "site": "ekitan", "line_code": "222-14", "table_index": 1},
+            "higashiginza": {"name": "東銀座", "site": "ekitan", "line_code": "222-10", "table_index": 1, "include_dests": "narita"},
+            "higashinihombashi": {"name": "東日本橋", "site": "ekitan", "line_code": "222-14", "table_index": 1, "include_dests": "narita"},
         },
         "direction_label": "印西牧の原・成田空港方面 ：印西へ向かう電車のみ表示",
         "own_toggle_label": "下り東銀座、東日本橋発切り替え",
+    },
+    {
+        # 印旛日本医大は北総線内の駅だがhokuso.ekitan.com側では上り(d=1)しか時刻表が存在しない
+        # (下り(成田空港方面)はエラーになる。おそらく北総鉄道自社線としての運行区間がここまでで、
+        # 先は成田空港線(成田高速鉄道アクセス)の管轄区間になるため)。上下とも一般のekitan.com
+        # (路線コード682-4、成田スカイアクセス線扱い)から取得する。このページはd=1/d=2どちらの
+        # URLでも同じ2テーブルが出力され、1つ目(table_index0)が京成高砂方面(上り)、2つ目
+        # (table_index1)が成田空港方面(下り)。上りは印旛日本医大始発の電車を幅広く含むため
+        # 行き先フィルタは不要(include_dests無し)。下りは他の下りグループと同じくnarita行き先
+        # フィルタを適用する。
+        "key": "inba_nihon_idai",
+        "stations": {
+            "inbanihonidai_up": {"name": "印旛日本医大(上り)", "site": "ekitan", "line_code": "682-4", "table_index": 0},
+            "inbanihonidai_down": {"name": "印旛日本医大(下り)", "site": "ekitan", "line_code": "682-4", "table_index": 1, "include_dests": "narita"},
+        },
+        "direction_label": "左：京成高砂方面(上り) ／ 右：成田空港方面(下り)",
+        "own_toggle_label": "印旛日本医大発切り替え",
     },
 ]
 
@@ -697,10 +714,11 @@ def fetch_train_data() -> dict:
                 except Exception as e:
                     print(f"[WARN] 電車時刻表取得エラー({st['name']}/{daytype}): {e}", file=sys.stderr)
         else:  # ekitan
+            include_dests = NARITA_DIRECTION_INCLUDE_DESTS if st.get("include_dests") == "narita" else None
             for dw, daytype in (("0", "weekday"), ("2", "weekend")):
                 try:
                     entry[daytype] = fetch_train_timetable_ekitan(
-                        st["line_code"], dw, st.get("table_index", 1), NARITA_DIRECTION_INCLUDE_DESTS
+                        st["line_code"], dw, st.get("table_index", 1), include_dests
                     )
                 except Exception as e:
                     print(f"[WARN] 電車時刻表取得エラー({st['name']}/{daytype}): {e}", file=sys.stderr)
