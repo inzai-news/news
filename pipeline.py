@@ -138,6 +138,17 @@ def is_store_event_title(title: str) -> bool:
     return bool(STORE_EVENT_TITLE_PATTERN.match(title or ""))
 
 
+def extract_store_event_name(title: str):
+    """開店・閉店店舗の定型タイトル「【YYYY年M月D日 種別】店名」から店名部分だけを取り出す。
+    定型タイトルでなければNoneを返す。collect時、通常収集された自然文タイトルの記事が
+    既存のstore-add登録(store_event)と同一店舗の話かどうかを、タイトル類似度とは別に
+    店名の部分一致で判定するために使う(店名を含むだけの定型タイトルは自然文タイトルとの
+    類似度が低く出るため、通常のtitle_similarityだけでは同一店舗の記事を見つけられない)。
+    """
+    m = STORE_EVENT_TITLE_PATTERN.match(title or "")
+    return title[m.end():].strip() if m else None
+
+
 def compute_retention_type(item: dict) -> str:
     return "store_event" if is_store_event_title(item.get("title", "")) else "regular"
 
@@ -1357,7 +1368,29 @@ def cmd_collect(args):
             })
             continue
 
-        needs_dedup_review = DUP_REVIEW_THRESHOLD <= similarity < DUP_AUTO_EXCLUDE_THRESHOLD
+        # タイトル類似度だけでは、store-add登録済みの定型タイトル(「【日付 種別】店名」)と
+        # 通常収集された自然文タイトルの記事が同一店舗の話でも類似度が低く出て見逃してしまう
+        # (例: 「【7月31日 閉店】くるまやラーメン印西木下東店」 vs 「くるまやラーメン印西木下東店が...閉店します」)。
+        # そのため、既存のstore_eventエントリの店名がタイトルに部分一致する場合は
+        # 類似度に関わらず要確認(needs_dedup_review)に回す(自動除外はしない。強盗事件等
+        # 別の話題の可能性もあるため、必ず人手/AIで内容を確認させる)。
+        store_match_item = None
+        # 店名・記事タイトルとも空白の有無で表記揺れがある(例:「くるまやラーメン 印西木下東店」)ため、
+        # 空白を除去してから部分一致を見る
+        candidate_title_nospace = re.sub(r"\s+", "", item["title"])
+        for other in recent_pool:
+            if other.get("retention_type") != "store_event":
+                continue
+            store_name = extract_store_event_name(other.get("title", ""))
+            if not store_name:
+                continue
+            if re.sub(r"\s+", "", store_name) in candidate_title_nospace:
+                store_match_item = other
+                break
+        if store_match_item is not None:
+            similar_item = store_match_item
+
+        needs_dedup_review = (DUP_REVIEW_THRESHOLD <= similarity < DUP_AUTO_EXCLUDE_THRESHOLD) or store_match_item is not None
         needs_category = category is None
 
         if not needs_dedup_review and not needs_category:
