@@ -2258,5 +2258,45 @@
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9HU1VxWTVxeXA0dmlPaWVCNkdsZWNCVUF1NFh5NWlPUW91UjFFVFlYdi1GVXVFR2xfOG9pb3FqeDl4RzJjQmwzQ1k0ZElqTzJraFR2R3Ywb1ZLa2J5dFZxV3dvQktpRGc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-0832",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「牧の原モアダンスコンテスト2025」開催レポート＆結果発表",
+    "link": "https://www.makinohara-more.com/event-topics/dance_contest2025/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-0832",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】市制施行30周年。ーともに歩んだ30年、ともに創るその先へー記念事業を年間通して展開",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1uSWFuNEFLdnUwYTRKU2s3TUEtcXg2SFctX1M5RXhFQXNQd05hRl9wcnV6T2VEM0o3d000U1VnYmQzM3g5N2NRZTJmdTNzbXZVWkpVX2lXVQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-0832",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "四季彩 あづみ野(印西市/和食)＜ネット予約可",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE9LM0tjTjNFWGpLZ0o0UE13QktqaUVvUk1LanJZanRxN2pXbUk2QWZJWFJQc3ptZEVocUE0NlEtNzVtb3ZndFNGRS1ianNDUzdyYVV4T25oQ283NEFiSXFmdHowYjFtRTV1QW5PeHVLa2RySDJWSjV3YnFKXzg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-0832",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": 0.8,
+    "title": "【速報】首など３０カ所を刺し、母親を殺害した疑い 同居の４７歳男逮捕 千葉・印西署",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE14cWt3RzhabzV1ZWV3b0t4Z2dmejFIbkhqZmJ4dXdUOUR1RWFyeWdSYm04THVyT090LUxGTEh3aVlVdk5xQVowVzN2NS0taXFteEJFMTViZ2Q?oc=5",
+    "similar_to": "【速報】首など30カ所を刺し、母親を殺害した疑い 同居の47歳男逮捕 千葉・印西署（千葉日報オンライン）",
+    "ai_reason": "既存記事と同一事件の重複記事(全角/半角数字の表記違いのみで内容は同一)のため除外"
   }
 ]

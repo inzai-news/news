@@ -753,10 +753,10 @@
   {
     "title": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE43UXdwdjFVbWJnQXJmS0VZdUdJTzlzMWd5Q3ZrLW42aDltVHlmaWEzejRTVEF0bjI5SFU5QXpMRlJURll2Rmc0UTJ2TF95NU5KNlpj?oc=5",
-    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  福祉新聞Web",
+    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  fukushishimbun.com",
     "pub_iso": "2026-05-12T16:00:00+09:00",
     "pub_str": "2026年5月12日",
-    "publisher": "福祉新聞Web",
+    "publisher": "fukushishimbun.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1752,16 +1752,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "Minoriクリエイションスタジオ　夏休み絵画教室（2026年07月28日(火)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13267&store=chibant",
-    "pub_str": "2026年7月2日",
-    "event_end_date": "2026-07-28",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
     "title": "季節の絵柄を使って　          グラスデコ作り（2026年08月23日(日)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=12117&store=chibant",
     "pub_str": "2026年6月25日",
@@ -1802,15 +1792,6 @@
     "title": "成田空港のお得割引！N.PASSの申請・利用方法・注意｜千葉県成田周辺・茨城県一部も対象",
     "link": "https://inzaiparque.com/npass/",
     "pub_str": "2026年6月23日",
-    "publisher": "千葉ほくそうパルケ",
-    "source": "inzaiparque",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "第5回印西まちなか音楽祭~みんなで蒔こう！音楽の種｜2026年5月10日市民参加型イベント",
-    "link": "https://inzaiparque.com/machinakamusic2022/",
-    "pub_str": "2026年4月30日",
     "publisher": "千葉ほくそうパルケ",
     "source": "inzaiparque",
     "category": "話題・その他",
@@ -1864,17 +1845,6 @@
     "publisher": "読売新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ロゴデザインで芸術祭をPR 来春、成田市・印西市・栄町で開催",
-    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9oTE1kdFc5elRwemZCTVRoUUcxek9ORk9YWlYtWXFacDAzTjB4c2ZzRy1ZaEVhdTFISFM0aHdmWmMxZjVRN0FkYUd1bmtKaGZNYnlB?oc=5",
-    "desc": "ロゴデザインで芸術祭をPR 来春、成田市・印西市・栄町で開催  東京新聞デジタル",
-    "pub_iso": "2026-04-30T16:00:00+09:00",
-    "pub_str": "2026年4月30日",
-    "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -2350,10 +2320,10 @@
   {
     "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBJdVBvRHdjcE8wVExjZVdVdU1Ob0xaQ1Z3SlM3TEg5MWdDZGNKc1h5U1ZlWVdJalkxZTVLTEZUZ0dZZzJWdjloejFBNFUxUFk2dHZFYXp3c0ZIS2tSeXNNNmZxTXk1eFZEV09jeHhjaTlDUQ?oc=5",
-    "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  クレアウェブ",
+    "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  crea.bunshun.jp",
     "pub_iso": "2026-07-24T15:19:35+09:00",
     "pub_str": "2026年7月24日",
-    "publisher": "クレアウェブ",
+    "publisher": "crea.bunshun.jp",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -2772,5 +2742,67 @@
     "category": "開店・閉店",
     "desc": "",
     "retention_type": "store_event"
+  },
+  {
+    "title": "【印西市】「くるまやラーメン 印西木下東店」が2026年8月1日よりしばらくのあいだ閉店します。営業再開の予定は？",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/01/kurumayaramenkioroshiheiten2026aug/",
+    "pub_str": "2026年8月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】「大仏商店会 夏祭り」が8月1日（土）ちば興銀 鎌ケ谷支店駐車場で開催されます！ 夜店やゲーム、ステージイベントなど内容盛りだくさん！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/01/daibutsushotenkainatsumatsuri2026/",
+    "pub_str": "2026年8月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市平和祈念式典のお知らせ（8月15日12時　文化ホール）",
+    "link": "https://www.city.inzai.lg.jp/0000022138.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T00:00:01+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "世界の恒久平和に願いを込めて",
+    "link": "https://www.city.inzai.lg.jp/0000022137.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T00:00:01+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【令和8年8月】市民合同相談（法律相談・司法書士相談・税理士相談・人権よろず相談・行政相談・交通事故巡回相談）のご案内",
+    "link": "https://www.city.inzai.lg.jp/0000019722.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T00:00:00+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「INZAIまちフェス」ステージイベント出演者を募集します！ ",
+    "link": "https://www.city.inzai.lg.jp/0000022173.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T00:00:00+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
   }
 ]
