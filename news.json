@@ -834,7 +834,7 @@
     "pub_iso": "2026-05-29T16:00:00+09:00",
     "pub_str": "2026年5月29日",
     "publisher": "東京・大阪 都心上空ヘリコプター遊覧飛行",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イオンモール千葉ニュータウン",
     "retention_type": "regular"
   },
@@ -1129,7 +1129,7 @@
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
     "publisher": "pando.life",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1162,7 +1162,7 @@
     "pub_iso": "2026-05-18T16:00:00+09:00",
     "pub_str": "2026年5月18日",
     "publisher": "All About ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -1274,7 +1274,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2066,10 +2066,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T11:34:05+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2738,6 +2738,28 @@
     "pub_str": "2026年7月31日",
     "publisher": "印西市",
     "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "市長公約実現に向けたロードマップ（工程表）について",
+    "link": "https://www.city.inzai.lg.jp/0000020149.html",
+    "desc": "",
+    "pub_iso": "2026-07-31T22:00:00+09:00",
+    "pub_str": "2026年7月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県印西市】野崎副市長が育休を取得 トップ層が自ら実践し「男性の育児参加は当たり前」の組織風土をさらに推進",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9BaVRMWUJaQjVoNmdmMVZkRFZzakM4S25CTVRudS1CU1JUcDRnQ2FVT0VqSVpIVjVFZlZ4OGhpd3J2Rjlkc0VNSEx1NksxM2R4MHJibQ?oc=5",
+    "desc": "【千葉県印西市】野崎副市長が育休を取得 トップ層が自ら実践し「男性の育児参加は当たり前」の組織風土をさらに推進  ニコニコニュース",
+    "pub_iso": "2026-05-26T16:00:00+09:00",
+    "pub_str": "2026年5月26日",
+    "publisher": "ニコニコニュース",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   }

@@ -2218,5 +2218,35 @@
     "link": "https://www.city.inzai.lg.jp/0000022238.html",
     "similar_to": "令和8年度 第1回印西市社会教育委員会議開催について",
     "ai_reason": "「印西市史編さん委員会」と類似検出元の「社会教育委員会議」は別の委員会の開催告知(タイトルパターンが似ているだけ)のため別記事として採用"
+  },
+  {
+    "run_ts": "20260731-2316",
+    "date": "2026-07-31",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "NTTデータグループ、千葉県印西・白井エリアに大規模データセンター開発へ",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE82U0JyUDBLU01vaE5HMVpXS0tOTV9WZXdJNWNRSWVXOXdSMEFwcDYySF9wY0lpYno0ZE03WWNKeXJGOU5qSXUydElGRGNuRmotakdWM0hLNVpZck9TWTlYZjFpQ3BBY052d2xNOFBDR1JJNzU4?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260731-2316",
+    "date": "2026-07-31",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "液冷技術の最先端が集うイノベーションラボ「DRIL」、印西のデータセンターに現わる",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9VVU5kb0NaLVJNRFpWWno5M1VPWjc3di1FRUVoVlNlRTFpODVocEQ5Z3ZWMENzOWpUQjBya3ZoT1p2a0lmYzFvTlRPenNSY3paVi1Mbw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260731-2317",
+    "date": "2026-07-31",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市自衛隊協力会で講演 - 松本ひさし（マツモトヒサシ）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5wclFjUndpS05WNXVhUHRYS0xsenVId21CM2FWdFpLaUlaSDBNSk8yb2tvd2tFcEFTVE5ka3Y3MkVuVEdWRmNMa2ZFNTlKZngtNXdlRmRFTXAybHNCU3B3?oc=5",
+    "similar_to": null,
+    "ai_reason": "ルールベース(ユーザー指示): 選挙ドットコム配信の政治家個人(松本ひさし氏)の活動報告記事で、市の行政発表ではなく政治活動そのものの宣伝のため除外"
   }
 ]
