@@ -2762,5 +2762,15 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年7月31日 閉店】くるまやラーメン印西木下東店",
+    "link": "https://www.facebook.com/satoshi.kougo/posts/pfbid02Jb4se69bxjfA6L7G9pXX238xQR7vd5NRpHRJQdm2mueSi5iJNjPGoN38xUYV3ZSil",
+    "pub_str": "2026年7月31日",
+    "publisher": "Facebook",
+    "source": "開店閉店情報",
+    "category": "開店・閉店",
+    "desc": "",
+    "retention_type": "store_event"
   }
 ]
