@@ -2318,5 +2318,25 @@
     "link": "https://news.google.com/articles/CBMizgFBVV95cUxQMEVHVWF6UUNoVHhNRDB6SVdIb1dPbkJTdllrQzdlWEpxaHlkak9hazBCd2p4UjNyWlZoeDhFTWhFdzF1b0NxRGhGY0pTMnBkaUdnZldZdGdjb0Q0QmtFMkt4UGdzTl92S0ozLWFndnFNQ1FWQjlfSGFBd0xEc04xM05FREtCcHVkaF9SbzNIa1JMYXFaWlJZZjdmdmJnOXc2dXR2eDZvR0o2V2RJbC04WTl4NUoxS21xMTBFSklpU1NpVU1jYWtaY2VHUE1mUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-2104",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "はな膳 印旛日医大店(和食)の写真",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1XNGt2bXZ2aUVCZHN3U0VadkRwVm5WZ0JXQTRuNEhsaEVwWkxCSFpCdWQxN3pNTU1rT212SHAwaEdySWlTcFpjZnFVOTYydnUyQU9xUnVnMG0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-2104",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "カレーパンの日本一決定戦『カレーパングランプリ２０２２』で金賞受賞！地元の旬の野菜を使った『石窯焼き印西カレーパン』",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE4xemd5VHE5bDY0Q05ESTNPUHhGNzFWcGkwdDRDcFYwdUVLZ2l6T2ptWm55QlhlWWkyVjFaN2VrWFNwQmR6aHdlc00yMjVXTzlqUVRvR3VCV2xqeVlOQUNSMDVVcjZJY1JUSXc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
