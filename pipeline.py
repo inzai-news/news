@@ -1564,6 +1564,9 @@ SCRAPED_ICON = "📍"
 MAX_ITEMS_PER_CAT = 20
 CATEGORY_MAX_ITEMS = {"ジョイフル本田千葉ニュータウン店": 40, "市政・行政": 40}
 NEW_ARRIVALS_COUNT = 20
+# 印西市役所(publisher「印西市」)の記事は件数が多く「新着」バッジ・「新着」カテゴリを
+# 埋め尽くしてしまうため対象外とする(市政・行政カテゴリ自体には引き続き通常通り表示される)
+NEW_ARRIVALS_EXCLUDE_PUBLISHERS = {"印西市"}
 SCRAPED_MAX_ITEMS = 20
 SCRAPED_MAX_DAYS = 180
 CATEGORY_CUTOFF_DAYS = {"開店・閉店": 180, "イオンモール千葉ニュータウン": 180, "鎌ヶ谷・白井": 90, "牧の原モア": 180}
@@ -1717,7 +1720,11 @@ def build_html(articles):
     now_str = f"{now.year}年{now.month}月{now.day}日 {now.strftime('%H:%M')}"
     today = now.date()
     cutoff = today - timedelta(days=SCRAPED_MAX_DAYS)
-    new_links = active_new_badge_links()
+    publisher_by_link = {a.get("link"): a.get("publisher") for a in articles}
+    new_links = {
+        link for link in active_new_badge_links()
+        if publisher_by_link.get(link) not in NEW_ARRIVALS_EXCLUDE_PUBLISHERS
+    }
 
     main_arts_all = [a for a in articles if a.get("category") in CATEGORY_ORDER]
     scraped_arts = [a for a in articles if a.get("category") not in CATEGORY_ORDER]
@@ -1813,7 +1820,8 @@ def build_html(articles):
         for cat in CATEGORY_ORDER if cat_map.get(cat)
     ]
     grid_html = ""
-    latest_arts = main_arts[:NEW_ARRIVALS_COUNT]
+    new_arrivals_pool = [a for a in main_arts if a.get("publisher") not in NEW_ARRIVALS_EXCLUDE_PUBLISHERS]
+    latest_arts = new_arrivals_pool[:NEW_ARRIVALS_COUNT]
     if latest_arts:
         bg, fg, dark = CATEGORY_COLORS["新着"]
         rows = "".join(render_item(i, new_links) for i in latest_arts)
