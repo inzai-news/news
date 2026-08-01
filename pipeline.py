@@ -59,7 +59,7 @@ HEADERS = {
 TIMEOUT = 15
 JST = timezone(timedelta(hours=9))
 
-CATEGORY_ORDER = ["話題・その他", "イベント・文化", "市政・行政", "開発・暮らし", "開店・閉店", "鎌ヶ谷・白井", "イオンモール千葉ニュータウン", "牧の原モア", "ジョイフル本田千葉ニュータウン店"]
+CATEGORY_ORDER = ["話題・その他", "イベント・文化", "開発・暮らし", "開店・閉店", "鎌ヶ谷・白井", "市政・行政", "ジョイフル本田千葉ニュータウン店", "イオンモール千葉ニュータウン", "牧の原モア"]
 KAITEN_KEYWORDS = ["開店", "閉店", "オープン", "クローズ", "NEW OPEN", "new open"]
 
 REGULAR_RETENTION_MONTHS = 3
@@ -1567,6 +1567,9 @@ NEW_ARRIVALS_COUNT = 20
 # 印西市役所(publisher「印西市」)の記事は件数が多く「新着」バッジ・「新着」カテゴリを
 # 埋め尽くしてしまうため対象外とする(市政・行政カテゴリ自体には引き続き通常通り表示される)
 NEW_ARRIVALS_EXCLUDE_PUBLISHERS = {"印西市"}
+# 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
+# (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
+NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}
 SCRAPED_MAX_ITEMS = 20
 SCRAPED_MAX_DAYS = 180
 CATEGORY_CUTOFF_DAYS = {"開店・閉店": 180, "イオンモール千葉ニュータウン": 180, "鎌ヶ谷・白井": 90, "牧の原モア": 180}
@@ -1838,11 +1841,12 @@ def build_html(articles):
     for cat, items in active_cats:
         bg, fg, dark = CATEGORY_COLORS[cat]
         rows = "".join(render_item(i, new_links) for i in items)
+        cat_label = cat + "(新着対象外)" if cat in NEW_ARRIVALS_EXCLUDE_CATEGORIES else cat
         grid_html += (
             '<div class="cat-section">'
             + '<div class="cat-header" style="background:' + bg + ';border-left:4px solid ' + fg + ';">'
             + '<span class="cat-icon">' + CATEGORY_ICONS[cat] + "</span>"
-            + '<span class="cat-name" style="color:' + dark + ';"> ' + html.escape(cat) + "</span>"
+            + '<span class="cat-name" style="color:' + dark + ';"> ' + html.escape(cat_label) + "</span>"
             + '<span class="cat-count" style="color:' + fg + ';"> ' + str(len(items)) + "件</span>"
             + "</div>"
             + '<div class="cat-items">' + rows + "</div>"
