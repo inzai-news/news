@@ -2298,5 +2298,25 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE14cWt3RzhabzV1ZWV3b0t4Z2dmejFIbkhqZmJ4dXdUOUR1RWFyeWdSYm04THVyT090LUxGTEh3aVlVdk5xQVowVzN2NS0taXFteEJFMTViZ2Q?oc=5",
     "similar_to": "【速報】首など30カ所を刺し、母親を殺害した疑い 同居の47歳男逮捕 千葉・印西署（千葉日報オンライン）",
     "ai_reason": "既存記事と同一事件の重複記事(全角/半角数字の表記違いのみで内容は同一)のため除外"
+  },
+  {
+    "run_ts": "20260801-1319",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "第5回印西まちなか音楽祭~みんなで蒔こう！音楽の種｜2026年5月10日市民参加型イベント",
+    "link": "https://inzaiparque.com/machinakamusic2022/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260801-1319",
+    "date": "2026-08-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【AI予測】平岡の土地価格相場は坪7.6万円(10年前比+13.3%)! 10年後の価格推移も公開｜千葉県印西市",
+    "link": "https://news.google.com/articles/CBMizgFBVV95cUxQMEVHVWF6UUNoVHhNRDB6SVdIb1dPbkJTdllrQzdlWEpxaHlkak9hazBCd2p4UjNyWlZoeDhFTWhFdzF1b0NxRGhGY0pTMnBkaUdnZldZdGdjb0Q0QmtFMkt4UGdzTl92S0ozLWFndnFNQ1FWQjlfSGFBd0xEc04xM05FREtCcHVkaF9SbzNIa1JMYXFaWlJZZjdmdmJnOXc2dXR2eDZvR0o2V2RJbC04WTl4NUoxS21xMTBFSklpU1NpVU1jYWtaY2VHUE1mUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

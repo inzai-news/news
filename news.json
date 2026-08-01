@@ -753,10 +753,10 @@
   {
     "title": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE43UXdwdjFVbWJnQXJmS0VZdUdJTzlzMWd5Q3ZrLW42aDltVHlmaWEzejRTVEF0bjI5SFU5QXpMRlJURll2Rmc0UTJ2TF95NU5KNlpj?oc=5",
-    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  fukushishimbun.com",
+    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  福祉新聞Web",
     "pub_iso": "2026-05-12T16:00:00+09:00",
     "pub_str": "2026年5月12日",
-    "publisher": "fukushishimbun.com",
+    "publisher": "福祉新聞Web",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1013,12 +1013,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）",
+    "title": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日） - hon",
     "link": "https://news.google.com/articles/CBMiT0FVX3lxTE43cnZwbkNkQUtXdlBJSkl4MElCYmw4T3ZMZExuejdqNk9BU0FUMVRlVUE3eUsyS2N1M1VoTzgyODFLZ3lNN2R6VnVGYnlRbEU?oc=5",
-    "desc": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）  ほんのひきだし",
+    "desc": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）  hon-hikidashi.jp",
     "pub_iso": "2026-05-12T16:00:00+09:00",
     "pub_str": "2026年5月12日",
-    "publisher": "ほんのひきだし",
+    "publisher": "hikidashi.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2320,10 +2320,10 @@
   {
     "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBJdVBvRHdjcE8wVExjZVdVdU1Ob0xaQ1Z3SlM3TEg5MWdDZGNKc1h5U1ZlWVdJalkxZTVLTEZUZ0dZZzJWdjloejFBNFUxUFk2dHZFYXp3c0ZIS2tSeXNNNmZxTXk1eFZEV09jeHhjaTlDUQ?oc=5",
-    "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  crea.bunshun.jp",
+    "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  クレアウェブ",
     "pub_iso": "2026-07-24T15:19:35+09:00",
     "pub_str": "2026年7月24日",
-    "publisher": "crea.bunshun.jp",
+    "publisher": "クレアウェブ",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -2790,6 +2790,28 @@
     "link": "https://www.city.inzai.lg.jp/0000022173.html",
     "desc": "",
     "pub_iso": "2026-08-01T00:00:00+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "声の広報　令和8年8月号",
+    "link": "https://www.city.inzai.lg.jp/0000022213.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T12:00:00+09:00",
+    "pub_str": "2026年8月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年9月のeLTAX更改に伴うサービス停止について",
+    "link": "https://www.city.inzai.lg.jp/0000022054.html",
+    "desc": "",
+    "pub_iso": "2026-08-01T09:00:00+09:00",
     "pub_str": "2026年8月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
