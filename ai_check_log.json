@@ -2338,5 +2338,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE4xemd5VHE5bDY0Q05ESTNPUHhGNzFWcGkwdDRDcFYwdUVLZ2l6T2ptWm55QlhlWWkyVjFaN2VrWFNwQmR6aHdlc00yMjVXTzlqUVRvR3VCV2xqeVlOQUNSMDVVcjZJY1JUSXc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260802-1015",
+    "date": "2026-08-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "6/16（日）新鎌ヶ谷駅にセブンイレブン新京成ST新鎌ヶ谷店がオープン予定",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE8ycnpHdmpWNW1sQkxxRzQwRDY0eU8yUmxUczBjRFB4U2dJREIxS1gxMDVlZ0o2R09CZDlpcWwzTWVmTktoaVdlaXRKTGNodw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
