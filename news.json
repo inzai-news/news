@@ -1070,10 +1070,10 @@
   {
     "title": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援",
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1fTHZGTFlGNmRxMlIxa1BxUlB4djFoQ1J4clhmbFdOdEZWaWt5d3RveGwzVHBGbE1fLTVGb0sxQ1d0bWhNdGZIVUxDS2tTTTl1T3NhQWlNRmJELWgxSFNkX0VYVjU?oc=5",
-    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  edu.watch.impress.co.jp",
+    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  こどもとIT",
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
-    "publisher": "edu.watch.impress.co.jp",
+    "publisher": "こどもとIT",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1147,10 +1147,10 @@
   {
     "title": "千葉県人口、初の減少 流山・印西・柏は増加、白井・野田・松戸で減 2025年国勢調査速報",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB6WlFPNkM2M0NZX1ZFT1NORFBrVy02ZmFDdHJGRS13eE15VzBtUHN1bjJseVpVZXJoTDk5RERibDFDLV8zVGpuS2NqY1hRSGhYbkxCdXNB?oc=5",
-    "desc": "千葉県人口、初の減少 流山・印西・柏は増加、白井・野田・松戸で減 2025年国勢調査速報  朝日れすかPLUS",
+    "desc": "千葉県人口、初の減少 流山・印西・柏は増加、白井・野田・松戸で減 2025年国勢調査速報  resuka.co.jp",
     "pub_iso": "2026-05-21T16:00:00+09:00",
     "pub_str": "2026年5月21日",
-    "publisher": "朝日れすかPLUS",
+    "publisher": "resuka.co.jp",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2176,10 +2176,10 @@
   {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  nikkei.com",
+    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
     "pub_iso": "2026-07-23T16:00:00+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "nikkei.com",
+    "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2187,10 +2187,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
     "pub_iso": "2026-07-26T09:51:14+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "朝日れすかPLUS",
+    "publisher": "resuka.co.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2905,6 +2905,17 @@
     "link": "https://www.city.inzai.lg.jp/0000022200.html",
     "desc": "",
     "pub_iso": "2026-08-03T09:00:00+09:00",
+    "pub_str": "2026年8月3日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "パスポート申請から交付までの所要日数について",
+    "link": "https://www.city.inzai.lg.jp/0000021945.html",
+    "desc": "",
+    "pub_iso": "2026-08-03T13:00:00+09:00",
     "pub_str": "2026年8月3日",
     "publisher": "印西市",
     "source": "inzai-city-official",

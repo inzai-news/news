@@ -2388,5 +2388,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022244.html",
     "similar_to": "令和8年度印西市史編さん講座「知りたい歴史を調べてみよう！」を開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260803-1850",
+    "date": "2026-08-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "【市民課・一般事務】会計年度任用職員の募集について",
+    "link": "https://www.city.inzai.lg.jp/0000021594.html",
+    "similar_to": "【健康増進課・一般事務】会計年度任用職員の募集について",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
