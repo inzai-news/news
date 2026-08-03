@@ -233,17 +233,25 @@ def load_excluded_links() -> set:
 NEW_BADGE_WINDOW_HOURS = 3
 
 
-def load_new_badge_links() -> dict:
-    """「新着」バッジ対象リンク→追加日時(JST ISO文字列)の辞書を読み込む。
-    旧形式(リストのみ)のデータが残っていた場合は追加日時が分からないため破棄する。
+def load_new_badge_data() -> dict:
+    """「新着」バッジの状態を読み込む。形式は
+    {"links": {リンク: 追加日時(JST ISO文字列)}, "last_eligible": {"link":.., "ts":..} or None}。
+    "links"がNEW_BADGE_WINDOW_HOURS(3時間)以内の通常バッジ、"last_eligible"は
+    印西市役所等の新着除外対象を除いた直近1件を3時間を過ぎても保持するフォールバック枠
+    (「最後の更新が新着で分かるようにする」という本来の目的を、除外対象しか
+    追加されなかった更新回でも満たすための仕組み)。
+    旧形式(フラットな{link:ts}辞書、またはリストのみ)が残っていた場合は
+    linksとして引き継ぎ、last_eligibleは次回更新で自然に設定されるまでNoneとする。
     """
     data = load_json(NEW_BADGE_PATH, {})
     if isinstance(data, list):
-        return {}
+        return {"links": {}, "last_eligible": None}
+    if "links" not in data:
+        return {"links": data, "last_eligible": None}
     return data
 
 
-def save_new_badge_links(data: dict) -> None:
+def save_new_badge_data(data: dict) -> None:
     save_json_atomic(NEW_BADGE_PATH, data)
 
 
@@ -257,14 +265,25 @@ def mark_new_badge_links(new_links) -> None:
     """
     now = datetime.now(JST)
     cutoff = now - timedelta(hours=NEW_BADGE_WINDOW_HOURS)
-    data = {
-        link: ts for link, ts in load_new_badge_links().items()
+    data = load_new_badge_data()
+    links = {
+        link: ts for link, ts in data["links"].items()
         if datetime.fromisoformat(ts) >= cutoff
     }
     now_iso = now.isoformat()
     for link in new_links:
-        data[link] = now_iso
-    save_new_badge_links(data)
+        links[link] = now_iso
+    data["links"] = links
+
+    publisher_by_link = {a.get("link"): a.get("publisher") for a in load_news()}
+    eligible_new = [
+        link for link in new_links
+        if publisher_by_link.get(link) not in NEW_ARRIVALS_EXCLUDE_PUBLISHERS
+    ]
+    if eligible_new:
+        data["last_eligible"] = {"link": eligible_new[-1], "ts": now_iso}
+
+    save_new_badge_data(data)
 
 
 def active_new_badge_links() -> set:
@@ -272,9 +291,17 @@ def active_new_badge_links() -> set:
     now = datetime.now(JST)
     cutoff = now - timedelta(hours=NEW_BADGE_WINDOW_HOURS)
     return {
-        link for link, ts in load_new_badge_links().items()
+        link for link, ts in load_new_badge_data()["links"].items()
         if datetime.fromisoformat(ts) >= cutoff
     }
+
+
+def fallback_new_badge_link():
+    """新着除外対象(印西市役所等)を除いた直近1件のリンクを返す(3時間ウィンドウ無視)。
+    通常のnew_links(3時間以内)が空の場合の最終手段として使う。未設定ならNone。
+    """
+    last_eligible = load_new_badge_data().get("last_eligible")
+    return last_eligible["link"] if last_eligible else None
 
 
 # ============================================================
@@ -1728,6 +1755,13 @@ def build_html(articles):
         link for link in active_new_badge_links()
         if publisher_by_link.get(link) not in NEW_ARRIVALS_EXCLUDE_PUBLISHERS
     }
+    if not new_links:
+        # 直近3時間の新着が新着除外対象(印西市役所等)しかなかった場合、「最後の更新が
+        # 新着で分かるようにする」という目的を満たすため、除外対象を除いた直近1件まで
+        # 3時間ウィンドウを超えて遡って表示する
+        fallback_link = fallback_new_badge_link()
+        if fallback_link in publisher_by_link:
+            new_links = {fallback_link}
 
     main_arts_all = [a for a in articles if a.get("category") in CATEGORY_ORDER]
     scraped_arts = [a for a in articles if a.get("category") not in CATEGORY_ORDER]

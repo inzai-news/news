@@ -14,7 +14,8 @@
 - `news.json` — 統合ニュースデータ（公開対象、gitで管理）
 - `review_queue.json` — AI判断待ちの記事キュー（gitignore対象、判断後は空になり削除される）
 - `ai_check_log.json` — 重複判定AIログ（後から閾値の妥当性を検証するため。加えて、除外(exclude/auto_exclude)済みリンクの記憶としても使われ、`collect`実行時に一度除外判定した記事を再度重複判定・AIレビューにかけないようにする）
-- `new_badge.json` — 「新着」バッジ対象リンク→追加日時(JST ISO文字列)の辞書（gitで管理）。2026-08-01に「リンクの一覧を都度置き換え」形式から「追加日時を記録し、ビルド時に直近`NEW_BADGE_WINDOW_HOURS`(3時間)以内のものだけバッジ表示」形式に変更した(連続して「サイト更新して」が行われた際、直前の更新で付いたばかりのバッジが次の更新で新規記事が出た瞬間に消えてしまう問題があったため)。`collect`(ルールベース採用分)・`apply-review`(AI判断採用分)・`store-add`(手動登録分)はいずれも`mark_new_badge_links()`を呼び、対象リンクに現在時刻を記録してunionする(3時間を過ぎた既存エントリはこのタイミングで併せて削除)。`build`側は`active_new_badge_links()`で「現在時刻から3時間以内」のものだけを都度計算してバッジ表示に使う。旧リスト形式のデータが残っていた場合は追加日時が不明なため`load_new_badge_links()`が破棄する
+- `new_badge.json` — 「新着」バッジの状態（gitで管理）。`{"links": {リンク: 追加日時(JST ISO文字列)}, "last_eligible": {"link":.., "ts":..} or null}`の構造。2026-08-01に「リンクの一覧を都度置き換え」形式から「追加日時を記録し、ビルド時に直近`NEW_BADGE_WINDOW_HOURS`(3時間)以内のものだけバッジ表示」形式に変更した(連続して「サイト更新して」が行われた際、直前の更新で付いたばかりのバッジが次の更新で新規記事が出た瞬間に消えてしまう問題があったため)。`collect`(ルールベース採用分)・`apply-review`(AI判断採用分)・`store-add`(手動登録分)はいずれも`mark_new_badge_links()`を呼び、対象リンクに現在時刻を記録して`links`にunionする(3時間を過ぎた既存エントリはこのタイミングで併せて削除)。`build`側は`active_new_badge_links()`で「現在時刻から3時間以内」のものだけを都度計算してバッジ表示に使う。旧形式(フラットな`{link:ts}`辞書、またはリストのみ)が残っていた場合は`load_new_badge_data()`が`links`として引き継ぐ(`last_eligible`は判定材料が無いためNoneから開始)。
+  - **`last_eligible`によるフォールバック**: 2026-08-03追加。「新着」バッジの本来の目的は「最後の更新が新着で分かるようにする」ことなので、直近3時間の新着が印西市役所等の新着除外対象(`NEW_ARRIVALS_EXCLUDE_PUBLISHERS`)しか無かった更新回でも、画面上のバッジが0件にならないようにする仕組み。`mark_new_badge_links()`は追加分のうち除外対象でないものがあれば、その最新1件を`last_eligible`として3時間ウィンドウとは無関係に保持し続ける(除外対象でない新しい記事が来るまで上書きされない)。`build_html()`は通常の`new_links`(3時間以内・除外対象外)が空になった場合のみ、`fallback_new_badge_link()`で`last_eligible`を拾って表示する。
 - `開店閉店.txt`（Shift-JIS） — 開店閉店情報の調査対象店舗リスト（gitignore対象、ローカルのみ）
 - `.gh_token` — GitHub Fine-grained PAT（gitignore対象）
 - `index.html` — 生成物（GitHub Pagesで配信）

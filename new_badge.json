@@ -1,4 +1,10 @@
 {
-  "https://www.city.inzai.lg.jp/0000022187.html": "2026-08-03T12:45:08.309299+09:00",
-  "https://www.city.inzai.lg.jp/0000022200.html": "2026-08-03T12:45:08.309299+09:00"
+  "links": {
+    "https://www.city.inzai.lg.jp/0000022187.html": "2026-08-03T12:45:08.309299+09:00",
+    "https://www.city.inzai.lg.jp/0000022200.html": "2026-08-03T12:45:08.309299+09:00"
+  },
+  "last_eligible": {
+    "link": "https://chibanewtown.aeonmall.jp/event/2407c7b2-c99f-47b2-9ed3-5a13241fed17",
+    "ts": "2026-08-03T14:24:31.811624+09:00"
+  }
 }
