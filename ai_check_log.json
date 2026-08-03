@@ -2348,5 +2348,35 @@
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE8ycnpHdmpWNW1sQkxxRzQwRDY0eU8yUmxUczBjRFB4U2dJREIxS1gxMDVlZ0o2R09CZDlpcWwzTWVmTktoaVdlaXRKTGNodw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260803-0905",
+    "date": "2026-08-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://news.google.com/articles/CBMidkFVX3lxTFBKZ3YxeDd2MklKTldPX0VYMDA4Qm5xdmxIM2RpRmg5aFlQOEJNbGE0ZUNYdU9OdUVxVkpoLUJRRkk2WGJGVTJveUF6X3h6RFNmbGZWUS0tV2lfNVF2M2VQTUdhcW5tOVZTMnYybG1NYzdrb0hhdkE?oc=5",
+    "similar_to": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260803-0905",
+    "date": "2026-08-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ロゴデザインで芸術祭をPR 来春、成田市・印西市・栄町で開催",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9oTE1kdFc5elRwemZCTVRoUUcxek9ORk9YWlYtWXFacDAzTjB4c2ZzRy1ZaEVhdTFISFM0aHdmWmMxZjVRN0FkYUd1bmtKaGZNYnlB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260803-0905",
+    "date": "2026-08-03",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "【健康増進課・一般事務】会計年度任用職員の募集について",
+    "link": "https://www.city.inzai.lg.jp/0000022208.html",
+    "similar_to": "【道路管理課・一般事務】令和8年度会計年度任用職員の募集について",
+    "ai_reason": "類似記事とは募集部署・職種が異なる別の募集案内のため別記事として採用"
   }
 ]
