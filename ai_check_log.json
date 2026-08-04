@@ -2398,5 +2398,15 @@
     "link": "https://www.city.inzai.lg.jp/0000021594.html",
     "similar_to": "【健康増進課・一般事務】会計年度任用職員の募集について",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260804-1024",
+    "date": "2026-08-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷Newオープン！子連れもおすすめ！中華そば専門 田中そば店｜メニュー｜千葉ニュータウン店",
+    "link": "https://chiba-lunch.com/tanakasoba-shiroi-chiba-newtown/?utm_source=rss&utm_medium=rss&utm_campaign=tanakasoba-shiroi-chiba-newtown",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
