@@ -2418,5 +2418,25 @@
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE55UEtlRU5GNWt3TlFqUzJmaUVKdjRMbVBxei1ZLVNBSklha2lIUG1uU3BqV0I1SUdMc2gteDNrR0tJQzZQUklfOUo0eXVDdXlSdkNVY1oybVVXT3VVTW1HaUp4RjFvTC0zRENuc0RYQWtiZkQtajk3ODBn?oc=5",
     "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260804-1730",
+    "date": "2026-08-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "印西市制30周年記念 北総ライノス HORNS UP FES(千葉県)の情報",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBqd0dRaERaNkduWGpLOFZFUDRjUmJjalRuYlBab2FCWFRfNnRSM1Y0OVc1cjBhelpsNUZ2VlhPMVdfaGd1aVNtaWlZZHd2SWlqRUp3LXZSUWZOVXM?oc=5",
+    "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260804-1730",
+    "date": "2026-08-04",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "令和8年度第1回印西市学校給食センター運営委員会の開催結果（令和8年7月7日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022223.html",
+    "similar_to": "令和8年度第1回学校体育施設開放運営委員会開催結果（令和8年6月19日開催）",
+    "ai_reason": "類似記事は「学校体育施設開放運営委員会」で委員会・開催日とも別物のため別記事として採用"
   }
 ]
