@@ -2438,5 +2438,25 @@
     "link": "https://www.city.inzai.lg.jp/0000022223.html",
     "similar_to": "令和8年度第1回学校体育施設開放運営委員会開催結果（令和8年6月19日開催）",
     "ai_reason": "類似記事は「学校体育施設開放運営委員会」で委員会・開催日とも別物のため別記事として採用"
+  },
+  {
+    "run_ts": "20260804-2125",
+    "date": "2026-08-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん",
+    "link": "https://news.google.com/articles/CBMidkFVX3lxTE5MVjFHNUJVUThBbmFhSFlvTndLQ3JvS2NEUEgtOHd4cEkzTS1DRFBnMzlBMjFSTWdESHpSQXlqNkxiZG1TME8ybnV5T2FicWlRNEdLVTBldnZTNktNTmlhUUU0Nl9fRWpLQ3lRN1NZSHpvbENtLXc?oc=5",
+    "similar_to": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260804-2125",
+    "date": "2026-08-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【独自】印西市観光協に不適切会計疑惑 職員半数が離職、「協会私物化」の声 観光案内所が閉鎖 「命綱」の市の補助金見送り",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE16ZnBtUzNDOElSVHhOVFF2dHdJNm9QRlh1ejRqbEN3SHQ2OUdnS2Y4SnFQWjJlM3NpamNIcUNJMHVITl9od3k5ZDZUdk9pWkc3RGY2YzNQams?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
