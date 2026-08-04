@@ -2408,5 +2408,15 @@
     "link": "https://chiba-lunch.com/tanakasoba-shiroi-chiba-newtown/?utm_source=rss&utm_medium=rss&utm_campaign=tanakasoba-shiroi-chiba-newtown",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260804-1522",
+    "date": "2026-08-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "link": "https://news.google.com/articles/CBMiekFVX3lxTE55UEtlRU5GNWt3TlFqUzJmaUVKdjRMbVBxei1ZLVNBSklha2lIUG1uU3BqV0I1SUdMc2gteDNrR0tJQzZQUklfOUo0eXVDdXlSdkNVY1oybVVXT3VVTW1HaUp4RjFvTC0zRENuc0RYQWtiZkQtajk3ODBn?oc=5",
+    "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

@@ -841,10 +841,10 @@
   {
     "title": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた",
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5CdnV3M0VpZm5zdVl0QlVhMmswMGgwT2ZUbndKVm5ZOHh0eDV0WDZPbFV1UlBNOG5lclQxSFdrWGdfTDRqTERrRTE1V0kydGduZXZJaEtZaXdiSEEz?oc=5",
-    "desc": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた  マイナビニュース",
+    "desc": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた  news.mynavi.jp",
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
-    "publisher": "マイナビニュース",
+    "publisher": "news.mynavi.jp",
     "source": "google-news-inzai-chiba",
     "category": "開店・閉店",
     "retention_type": "regular"
@@ -2025,10 +2025,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T11:34:05+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2974,6 +2974,17 @@
     "publisher": "ｄメニューニュース",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBSbEdILVBuVlJQLVkyWV9ZNkNoeTNOZWpYelJNZk9YZDlBZkh4dUdMWVBCRWEyQ1FyUmdoODdhcnZoV0FGS1RXWTVBS0Q4eHA4a0Q0ckJaZDdfVFY5VXVscHdsX1BmSWRWQVFJWmU0dTIxUDhLbG9oRkNuSnYxeDg?oc=5",
+    "desc": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）  Yahoo!ニュース",
+    "pub_iso": "2026-08-04T11:15:58+09:00",
+    "pub_str": "2026年8月4日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
     "retention_type": "regular"
   }
 ]
