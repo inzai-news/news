@@ -2518,5 +2518,35 @@
     "link": "https://news.google.com/articles/CBMiWkFVX3lxTE13YUJ4WEViSXV1M2lhTXQwX1lsU1gzaUpNOTFrd1hUQkczaHNsaWF2blRaOExlRWktVVdaSDJ3dHl2NUJIOUJXOHZGLXp4Ung1U1ppSUdSa2lFUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260806-0756",
+    "date": "2026-08-06",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "印西市に日本の経済成長の現場を見た - japan",
+    "link": "https://news.google.com/articles/CBMiSEFVX3lxTFB5TlFzRWtKYXVmQ1pGY0l2VklBTlRpTmp5V3FaVVl0WkVpQTFvbjh6SGhWVXB4R09ZelNCOEI2a0xJMjFrbmtBZtIBTkFVX3lxTE4ybWRmeWNyald2U3loa2tndWZyc0FzQXNrbC11NEhYbklYSGYxZEVRdFBya1M3U2xidkZGbV81T0ExcENnOUNJbmdMajVFUQ?oc=5",
+    "similar_to": "印西市に日本の経済成長の現場を見た - japan",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260806-0756",
+    "date": "2026-08-06",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTFBua0dVeTEySk1UTWdiQWplM0ZlRmItLUxMY2VSNVJiSXdURncxRmVyZXRMc0xLdU1KdUZjazVMcXV1UmlxUU5VYlQ1R0p6VGhjZ0FyMnRrTm9zd1JZLUVURUQ3UHhGZmFIbEhFcGswRQ?oc=5",
+    "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260806-0756",
+    "date": "2026-08-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の天気予報(1時間・今日明日・週間)",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE9jZkVZSG5XVHNhNmRrNWRLMmpXTDJXVjhfS00wTThqNk5TaF9uNkxhWlFNZmg0NWt3aFJpdVpORFlHVXNKY1RhcVhvV1RzVkNZVm16ekMzYm9IaFU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
