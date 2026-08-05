@@ -2458,5 +2458,65 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE16ZnBtUzNDOElSVHhOVFF2dHdJNm9QRlh1ejRqbEN3SHQ2OUdnS2Y4SnFQWjJlM3NpamNIcUNJMHVITl9od3k5ZDZUdk9pWkc3RGY2YzNQams?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "イオン×ヒプノシスマイク コラボキャンペーン",
+    "link": "https://chibanewtown.aeonmall.jp/event/d7c96e2e-7eee-426a-b182-bbf26fab20f9",
+    "similar_to": "イオン×ヒプノシスマイク コラボ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月10日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14136&store=chibant",
+    "similar_to": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月10日(月)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月12日(水)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14135&store=chibant",
+    "similar_to": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月10日(月)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE5CVnFxMXp3VE9tckI5S2doWm5OTUw0RFV6c1JCOURzYXNHX0tCOWlJYzI2TzdSVUticFEtc0NZQUhfQmUxWkVpSVJzUm5QdTBpTzNxTzlhYlNQSk85U0JQcjJ1U0lCa2M2amc?oc=5",
+    "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "印西市制30周年記念 北総ライノス HORNS UP FES｜レッツエンジョイ東京",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9aejUzdzRaM3B6elNqeTBKNnpUWWx5TnZYX2Mwc0tuRWhGTEJtbGJQVVN0MGg3VUd5T2hNOFExOTVrUnhSX29kUGFzNl9ucnNORUE?oc=5",
+    "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260805-2051",
+    "date": "2026-08-05",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市原・ビッグホップガーデンモール印西の「モスバーガー BIGHOP印西店」でモスチーズバーガーセット",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTE13YUJ4WEViSXV1M2lhTXQwX1lsU1gzaUpNOTFrd1hUQkczaHNsaWF2blRaOExlRWktVVdaSDJ3dHl2NUJIOUJXOHZGLXp4Ung1U1ppSUdSa2lFUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
