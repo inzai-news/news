@@ -812,7 +812,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1114,10 +1114,10 @@
   {
     "title": "印西市更生保護女性会総会に出席",
     "link": "https://news.google.com/articles/CBMioAJBVV95cUxPU2xsdU9pRHk3NWVkdlBfdkJuSzZxWUttNzhNd2ExVDlkWFBjMDdmQ3ZzeWR6Uy1QN3hLLWdyRFRUcnV1QVQ2eXlOTTFVVEdIZEIzRFN5Q3lkaVBlQnlKLW9OdFI2R0FPcE43UE5IRlg5aG5GdkExOGhxS3diamI5YnRqSkpIcFVOeGlTY1AwSHV3cUczaHktblo2ZmllWUxnWFZCczdmVTVoa24wZlRMSVFpLVZpeFhQdmxIeVk0YXFnQ2ZJaGplQU5waktoVjJWMV9BdFdMWUFYQkJmTllmbk1oNmg0aUlTR0tsWElVRl9mQ01rRlZZeGstVXpZSlNpU3BqVDNYbFAtYThVX2FhenlMbTFmOTdJdk1GenoyN0Q?oc=5",
-    "desc": "印西市更生保護女性会総会に出席  公明党",
+    "desc": "印西市更生保護女性会総会に出席  komei.or.jp",
     "pub_iso": "2026-05-27T16:00:00+09:00",
     "pub_str": "2026年5月27日",
-    "publisher": "公明党",
+    "publisher": "komei.or.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1136,10 +1136,10 @@
   {
     "title": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBUQVlIbS0zd05zYjJtR0Z4VmFhWGhnUV9sX2xUbGVRTm1vbjJqeU1CVUtHcEJIcWx0aUhxM0IwUUVsd19oaHd4WGZ0eVNkU0I4LWgyeXlKZUZxU1pUeHdv?oc=5",
-    "desc": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実  東洋経済オンライン",
+    "desc": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実  toyokeizai.net",
     "pub_iso": "2026-05-09T16:00:00+09:00",
     "pub_str": "2026年5月9日",
-    "publisher": "東洋経済オンライン",
+    "publisher": "toyokeizai.net",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -3093,7 +3093,7 @@
     "title": "印西市全天候型こどもの遊び場整備プロジェクト",
     "link": "https://www.city.inzai.lg.jp/0000021927.html",
     "desc": "",
-    "pub_iso": "2026-08-06T09:06:48+09:00",
+    "pub_iso": "2026-08-06T10:01:50+09:00",
     "pub_str": "2026年8月6日",
     "publisher": "印西市",
     "source": "inzai-city-official",
