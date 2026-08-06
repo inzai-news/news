@@ -2548,5 +2548,25 @@
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTE9jZkVZSG5XVHNhNmRrNWRLMmpXTDJXVjhfS00wTThqNk5TaF9uNkxhWlFNZmg0NWt3aFJpdVpORFlHVXNKY1RhcVhvV1RzVkNZVm16ekMzYm9IaFU?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260806-1012",
+    "date": "2026-08-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷美味いと評判！コスパの良い、黒毛和牛焼肉店｜メニュー【川崎苑】",
+    "link": "https://chiba-lunch.com/inzai-kawasakien-yakiniku-shisui-menu/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-kawasakien-yakiniku-shisui-menu",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260806-1012",
+    "date": "2026-08-06",
+    "ai_decision": "keep",
+    "similarity": 0.79,
+    "title": "【監査委員事務局・一般事務】会計年度任用職員の募集について",
+    "link": "https://www.city.inzai.lg.jp/0000022265.html",
+    "similar_to": "【健康増進課・一般事務】会計年度任用職員の募集について",
+    "ai_reason": "類似記事は「健康増進課」の募集で、こちらは「監査委員事務局」の募集のため別部署・別記事として採用"
   }
 ]
