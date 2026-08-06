@@ -1070,10 +1070,10 @@
   {
     "title": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援",
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1fTHZGTFlGNmRxMlIxa1BxUlB4djFoQ1J4clhmbFdOdEZWaWt5d3RveGwzVHBGbE1fLTVGb0sxQ1d0bWhNdGZIVUxDS2tTTTl1T3NhQWlNRmJELWgxSFNkX0VYVjU?oc=5",
-    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  edu.watch.impress.co.jp",
+    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  こどもとIT",
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
-    "publisher": "edu.watch.impress.co.jp",
+    "publisher": "こどもとIT",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1114,10 +1114,10 @@
   {
     "title": "印西市更生保護女性会総会に出席",
     "link": "https://news.google.com/articles/CBMioAJBVV95cUxPU2xsdU9pRHk3NWVkdlBfdkJuSzZxWUttNzhNd2ExVDlkWFBjMDdmQ3ZzeWR6Uy1QN3hLLWdyRFRUcnV1QVQ2eXlOTTFVVEdIZEIzRFN5Q3lkaVBlQnlKLW9OdFI2R0FPcE43UE5IRlg5aG5GdkExOGhxS3diamI5YnRqSkpIcFVOeGlTY1AwSHV3cUczaHktblo2ZmllWUxnWFZCczdmVTVoa24wZlRMSVFpLVZpeFhQdmxIeVk0YXFnQ2ZJaGplQU5waktoVjJWMV9BdFdMWUFYQkJmTllmbk1oNmg0aUlTR0tsWElVRl9mQ01rRlZZeGstVXpZSlNpU3BqVDNYbFAtYThVX2FhenlMbTFmOTdJdk1GenoyN0Q?oc=5",
-    "desc": "印西市更生保護女性会総会に出席  komei.or.jp",
+    "desc": "印西市更生保護女性会総会に出席  公明党",
     "pub_iso": "2026-05-27T16:00:00+09:00",
     "pub_str": "2026年5月27日",
-    "publisher": "komei.or.jp",
+    "publisher": "公明党",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1136,10 +1136,10 @@
   {
     "title": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBUQVlIbS0zd05zYjJtR0Z4VmFhWGhnUV9sX2xUbGVRTm1vbjJqeU1CVUtHcEJIcWx0aUhxM0IwUUVsd19oaHd4WGZ0eVNkU0I4LWgyeXlKZUZxU1pUeHdv?oc=5",
-    "desc": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実  toyokeizai.net",
+    "desc": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実  東洋経済オンライン",
     "pub_iso": "2026-05-09T16:00:00+09:00",
     "pub_str": "2026年5月9日",
-    "publisher": "toyokeizai.net",
+    "publisher": "東洋経済オンライン",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1994,10 +1994,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -3105,6 +3105,37 @@
     "link": "https://www.city.inzai.lg.jp/0000022265.html",
     "desc": "",
     "pub_iso": "2026-08-06T10:00:00+09:00",
+    "pub_str": "2026年8月6日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "別所の獅子舞（地藏寺）2026年8月24日公開｜千葉県印西市無形文化財",
+    "link": "https://inzaiparque.com/bessho-shishimai/",
+    "pub_str": "2026年8月6日",
+    "publisher": "千葉ほくそうパルケ",
+    "source": "inzaiparque",
+    "category": "話題・その他",
+    "retention_type": "regular"
+  },
+  {
+    "title": "北総線千葉ニュータウン中央駅北側歩道を活用し、イベントを実施できる事業者・団体を募集します。",
+    "link": "https://www.city.inzai.lg.jp/0000021878.html",
+    "desc": "",
+    "pub_iso": "2026-08-06T18:18:32+09:00",
+    "pub_str": "2026年8月6日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風などに伴う農作物等の災害対策",
+    "link": "https://www.city.inzai.lg.jp/0000013246.html",
+    "desc": "",
+    "pub_iso": "2026-08-06T12:16:29+09:00",
     "pub_str": "2026年8月6日",
     "publisher": "印西市",
     "source": "inzai-city-official",

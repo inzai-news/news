@@ -2568,5 +2568,25 @@
     "link": "https://www.city.inzai.lg.jp/0000022265.html",
     "similar_to": "【健康増進課・一般事務】会計年度任用職員の募集について",
     "ai_reason": "類似記事は「健康増進課」の募集で、こちらは「監査委員事務局」の募集のため別部署・別記事として採用"
+  },
+  {
+    "run_ts": "20260806-2313",
+    "date": "2026-08-06",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "link": "https://news.google.com/articles/CBMi1gFBVV95cUxQSU9tN0VBQ1ltZE1pY2JaTTRyYUF6WmhzbmdYUlY5VzMxM0lBdmNCYnZBTm9WeHpWLVVyZHdVZ292czRrVWI4TGEzSzdfTzRaMmQwclVKT3g0WTdwM0JFc1NoTWFGT1hDcXlBaHJ6Mmo4THoxZnVNWDloZl9ha2l5ZWVGbWt5RVVZeWVJYjVTVHdmWU14YndwTTFFb2QzMXRwVEd2LUlZa1dVcmI4TTBRVHdVTFhDQVdrX2poM1B6a3dVVHFrWUZnUUdabVRNRmxYdHl3SG530gGGAUFVX3lxTE9XcHMySThSRW1ScU1DSi1zU2pfNkZuVGdlQ3k4THl0NzB4SXVWN0lXaTM1QURMcGE5WmpkMV9kRDl5SGhucl9jWVJjaVlqTWFyQXRiTUJrdmVkM1NVNEd6N0ZWTzdOVkxkVHIzaXliYVB3cWVxTF93eFc3SGpqWFZYWFA3WGRR?oc=5",
+    "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260806-2313",
+    "date": "2026-08-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9UVFVlQWZXUDVnVm90cnRhZGtzdkhNOXRUb1pqNTIwN1AwUS0xaGhsWEZBenVDYUcwc1U3STZJN0k1MzdCTzU1S1lNWHlsTDVtaXRtMUJLZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
