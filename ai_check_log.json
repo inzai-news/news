@@ -2618,5 +2618,15 @@
     "link": "https://news.google.com/articles/CBMiYEFVX3lxTE5kNU1qaVZNOTlpZDE5WWVKVEM5LWVOMWsxa2hMRDRaVzltNFNWNkgtVjVQelhnNGZYV2lMQ0N6bjRlRi1LUHZGem1Fc0ROWkt5N1RRbEx4MkdXYzFaN1pYcA?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260807-1116",
+    "date": "2026-08-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西牧の原駅にて朝のご挨拶",
+    "link": "https://news.google.com/articles/CBMiiwJBVV95cUxQUVNkaEQ0aWcta3dyUmJCOTI3bWhCcmZMaC1pOE9IMTYzQWxONnVVTV9WN29RZndwODh6bEx5bWQ3VFdndS1KeFNwVW5xUS01VUd2Tm1tSEtNNmhCTVVWNjlQcFFBekYxZlVudU5HbGdtTll2T3NTVHhfX1lPdE9HdFpabUJGQnNmTklLNm12VXBsaFZ6XzVSYk1CN2h3emtDZGZrYUZtR0k5Z203RFFvZmxWUGpxdWNjQ19idDFRNTBBYTg5TEVPSVFiVzhPLXJLMmlLX1pReG9QMTJPOUNxQU9iZHR0N3R4VjhOZklSTjFoWWxvZ2NDdlJYM09jTjlRdTE5Z0phRFFacTQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "政治家個人の街頭活動報告のため除外(CLAUDE.mdルール: 政治家個人の街頭演説・選挙活動系記事は除外)。誤って採用していたものを事後削除。"
   }
 ]
