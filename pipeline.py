@@ -1316,6 +1316,7 @@ def cmd_collect(args):
     review_items = []
     auto_log_entries = []
     run_ts = datetime.now(JST).strftime("%Y%m%d-%H%M")
+    collected_at_iso = datetime.now(JST).isoformat()
 
     for item in candidates:
         link = item["link"]
@@ -1353,6 +1354,7 @@ def cmd_collect(args):
             by_link[link] = merged
             continue
 
+        item["collected_at"] = collected_at_iso
         category = item.get("category") or guess_category_from_title(item["title"])
         item["category"] = category
         item["retention_type"] = compute_retention_type(item)
@@ -1601,6 +1603,12 @@ SCRAPED_MAX_ITEMS = 20
 SCRAPED_MAX_DAYS = 180
 CATEGORY_CUTOFF_DAYS = {"開店・閉店": 180, "イオンモール千葉ニュータウン": 180, "鎌ヶ谷・白井": 90, "牧の原モア": 180}
 DEFAULT_CUTOFF_DAYS = 90
+# Google News等で数日遅れて配信され、元記事のpub_strが実際の収集日より大きく古い記事向け。
+# 乖離がこの日数以上ある場合のみ、表示順の基準日をpub_str(元記事の発表日)ではなく
+# collected_at(このパイプラインが初めて収集した日)に差し替える(「新着」バッジが付いているのに
+# 数日前の記事群に埋もれて見える問題への対処)。通常収集(乖離が小さい記事)の並び順は
+# 従来通りpub_str基準のままにするための閾値。
+LATE_SYNDICATION_THRESHOLD_DAYS = 2
 
 PUBLISHER_ALIASES = {"印西市": "印西市役所"}
 PUBLISHER_URL_FALLBACKS = [
@@ -1774,9 +1782,27 @@ def build_html(articles):
         return d >= today - timedelta(days=days)
 
     main_arts = [a for a in main_arts_all if date_ok(a)]
+
+    def effective_sort_date(item):
+        """表示順の基準日。通常はpub_str(元記事の発表日)をそのまま使うが、
+        Google News等での配信遅延によりcollected_at(収集日)がpub_strより
+        LATE_SYNDICATION_THRESHOLD_DAYS日以上後になっている記事は、収集日を基準日として扱う
+        (発表から数日遅れて出てきた記事が、実際には新着なのに古い記事群に埋もれるのを防ぐため)。
+        """
+        pub_date = parse_pub_str(item.get("pub_str", "")) or date.min
+        collected_at = item.get("collected_at")
+        if collected_at and pub_date != date.min:
+            try:
+                collected_date = datetime.fromisoformat(collected_at).date()
+            except ValueError:
+                return pub_date
+            if (collected_date - pub_date).days >= LATE_SYNDICATION_THRESHOLD_DAYS:
+                return collected_date
+        return pub_date
+
     # pub_strが同日の記事は、news.json内での追加順(=後から追加されたもの)が上に来るようにする
     added_order = {id(a): i for i, a in enumerate(articles)}
-    main_arts.sort(key=lambda a: (parse_pub_str(a.get("pub_str", "")) or date.min, added_order[id(a)]), reverse=True)
+    main_arts.sort(key=lambda a: (effective_sort_date(a), added_order[id(a)]), reverse=True)
 
     weather_days = fetch_weather()
     weather_html = ""
@@ -2195,6 +2221,7 @@ def cmd_store_add(args):
         "category": "開店・閉店",
         "desc": args.desc or "",
     }
+    item["collected_at"] = datetime.now(JST).isoformat()
     item["retention_type"] = compute_retention_type(item)
     by_link[args.link] = item
     today = date.today()
