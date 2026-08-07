@@ -2588,5 +2588,35 @@
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9UVFVlQWZXUDVnVm90cnRhZGtzdkhNOXRUb1pqNTIwN1AwUS0xaGhsWEZBenVDYUcwc1U3STZJN0k1MzdCTzU1S1lNWHlsTDVtaXRtMUJLZw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260807-1046",
+    "date": "2026-08-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "あそびの学校 9月",
+    "link": "https://chibanewtown.aeonmall.jp/event/aee9431e-6038-4760-b60d-3dfca31d5a8f",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260807-1046",
+    "date": "2026-08-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "link": "https://news.google.com/articles/CBMigAFBVV95cUxQdWpINUVhNVV5NklESjdtWFotVWNreGdLaEE3RWZGMGRmWEh6SHk5aVk4a0ZybThQNXJQMGgxUWl5VDR1WGlmQjd2TkZLVnBhenhsakx6T0owN0pwY0Y4alM0M2FpdXpDWlFDSzZvTEJ3YnVuOUx6aWsxUjR6WWpCR9IBhgFBVV95cUxPV3BzMkk4UkVtUnFNQ0otc1NqXzZGblRnZUN5OEx5dDcweEl1VjdJV2kzNUFETHBhOVpqZDFfZEQ5eUhobnJfY1lSY2lZak1hckF0Yk1Ca3ZlZDNTVTRHejdGVk83TlZMZFRyM2l5YmFQd3FlcUxfd3hXN0hqalhWWFhQN1hkUQ?oc=5",
+    "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260807-1046",
+    "date": "2026-08-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の積雪レーダー【予想24時間】",
+    "link": "https://news.google.com/articles/CBMiYEFVX3lxTE5kNU1qaVZNOTlpZDE5WWVKVEM5LWVOMWsxa2hMRDRaVzltNFNWNkgtVjVQelhnNGZYV2lMQ0N6bjRlRi1LUHZGem1Fc0ROWkt5N1RRbEx4MkdXYzFaN1pYcA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
