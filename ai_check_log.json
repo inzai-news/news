@@ -2638,5 +2638,45 @@
     "link": "https://chiba-lunch.com/inzai-aebe-musashiya-cafe-italian/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-aebe-musashiya-cafe-italian",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260808-1016",
+    "date": "2026-08-08",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月12日(水)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14201&store=chibant",
+    "similar_to": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月10日(月)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260808-1016",
+    "date": "2026-08-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "順天堂大学と印西市におけるプロモーション活動の連携協力に伴う広告契約について｜ニュース＆イベント",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1IUEZWUGVLVGdGd2JiVlRadms0eWt5NklYXzdvenk5d3VkMFAyVTdLOE1FTnd0WUg2dXBZZXRTYmNoODVLbE5JWnc2VzV3SW84WTVPRw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260808-1016",
+    "date": "2026-08-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "台風7号 千葉や埼玉など約2280戸で停電発生 千葉・印西市や柏市などで約900戸（午後4時現在）",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE00Q0hMZVlIaVFhM3JDdk81aG5Lc21oYlFpWlEwY2dBNmhpd01PM2JlY0RDSVJ4MXBLWDRIRnAxb3hqa3BzYXJEOTQ2ZGx2UXY3Um9ENjdZaw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260808-1016",
+    "date": "2026-08-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷Newオープン！印西牧の原駅圏のパン屋さん｜メニュー【ぱんやニチゲツ】",
+    "link": "https://chiba-lunch.com/inzai-panya-nichigetsu/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-panya-nichigetsu",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
