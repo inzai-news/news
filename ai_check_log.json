@@ -2718,5 +2718,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTFBlSllZRDZPMzNUeWFzMUNvZ2tEWThBak9Ea29acFpNMTN5RzZjZXM1MkFKQWk3eTdFLTEyQURvbVd4aUhZRm4zN09yc1NJVWplODdqZUpiYkU1dkxm?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260808-2118",
+    "date": "2026-08-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "受け子か、詐欺未遂疑い２人逮捕 印西署",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBEdEhSLXRVbV9ZaDdsSzd0bHg1YWx6YUg1WkVTNFUxRHpDdWZGb2o1STRDdG9KS3RycW00SzJSS3NrRjdYS3FjU0hobWhOUmhrazdEaFBkTTQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "有料記事(千葉日報)のため除外。誤って採用していたものを事後削除(CLAUDE.mdルール追加に伴う対応)。"
   }
 ]

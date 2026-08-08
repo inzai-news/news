@@ -1,9 +1,4 @@
 {
-  "links": {
-    "https://news.google.com/articles/CBMiWEFVX3lxTFBEdEhSLXRVbV9ZaDdsSzd0bHg1YWx6YUg1WkVTNFUxRHpDdWZGb2o1STRDdG9KS3RycW00SzJSS3NrRjdYS3FjU0hobWhOUmhrazdEaFBkTTQ?oc=5": "2026-08-08T13:28:34.639616+09:00"
-  },
-  "last_eligible": {
-    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBEdEhSLXRVbV9ZaDdsSzd0bHg1YWx6YUg1WkVTNFUxRHpDdWZGb2o1STRDdG9KS3RycW00SzJSS3NrRjdYS3FjU0hobWhOUmhrazdEaFBkTTQ?oc=5",
-    "ts": "2026-08-08T13:28:34.639616+09:00"
-  }
+  "links": {},
+  "last_eligible": null
 }
