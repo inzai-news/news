@@ -2698,5 +2698,25 @@
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE1mSDZXLTE3X1Y0NTlKcE4wRlVqRG5GcnFVeFhYM1A2eWxORVhqQkJZbGlXaU51R2FCRkxObXpUaHBZS0NpalFoZ2RrRTVKV2hxOWRGdVhJMFl4dTA0QWhuQWRNT3hJZw?oc=5",
     "similar_to": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260808-1825",
+    "date": "2026-08-08",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE9URmhXQ0U1SXpKak56aEVqempueXFIX240bGd2M0lldzFYRWlMdll0UGxLNlFVamVqcFJuaXBnNDB5bElRdW82YnhyV1hZS2R1TWRjT2J6cTdqTEl1ZXhwYXl0SmE2akNTdVJrMFhUOTYtZw?oc=5",
+    "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260808-1825",
+    "date": "2026-08-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市に高電力・液冷対応のデータセンター",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTFBlSllZRDZPMzNUeWFzMUNvZ2tEWThBak9Ea29acFpNMTN5RzZjZXM1MkFKQWk3eTdFLTEyQURvbVd4aUhZRm4zN09yc1NJVWplODdqZUpiYkU1dkxm?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
