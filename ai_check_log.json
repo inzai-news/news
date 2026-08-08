@@ -2678,5 +2678,25 @@
     "link": "https://chiba-lunch.com/inzai-panya-nichigetsu/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-panya-nichigetsu",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260808-1327",
+    "date": "2026-08-08",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "【白井市】8月8日（土）・9日（日）は夏祭り！ 白井総合公園で「おしゃれ市場 キッチンカー＆マルシェ」が夕方より開催されます！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/08/oshareichibashiroi2026aug/",
+    "similar_to": "【白井市】7月11日（土）は初夏まつり！ 白井総合公園で「おしゃれ市場 キッチンカー＆マルシェ」が開催されます！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260808-1327",
+    "date": "2026-08-08",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE1mSDZXLTE3X1Y0NTlKcE4wRlVqRG5GcnFVeFhYM1A2eWxORVhqQkJZbGlXaU51R2FCRkxObXpUaHBZS0NpalFoZ2RrRTVKV2hxOWRGdVhJMFl4dTA0QWhuQWRNT3hJZw?oc=5",
+    "similar_to": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
