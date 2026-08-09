@@ -801,7 +801,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1048,10 +1048,10 @@
   {
     "title": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり",
     "link": "https://news.google.com/articles/CBMiiAFBVV95cUxORlFGUkVQZWRBYTVQTVBHVm5wSjVZdTQySUp5Q19BTVN1cF85MEduMTZ0eFBHOXludW0tbmJlbFpNUXVHdUE0d0M5MThwNXgwOEJfMXZsZzJ3My1vRXhNbnVsdjZONERyN0RLN1pZbU15UXhRSG4xdU5iNWlSQkZnSHk1dy1pS1FZ0gGOAUFVX3lxTE12X2IzS2MzRmkzaUZaZjVNbHhoamxqRmpiMGdmaDI0MGc2bEJPVzlYc3MtX2xUWDFsaVZpOWxDNlB1Nk5SLUxjeWtfQmlkRHZSY0QzLVpiTGxXZ3ZGR0c0dVB5UEF3QkdxNTFQSW50NkM0Z05NcWN1WnpPa1NUTG9zUlhjTEZmdk5NTkJzbFE?oc=5",
-    "desc": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり  ｄメニューニュース",
+    "desc": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり  topics.smt.docomo.ne.jp",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "ｄメニューニュース",
+    "publisher": "topics.smt.docomo.ne.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -1059,10 +1059,10 @@
   {
     "title": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援",
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1fTHZGTFlGNmRxMlIxa1BxUlB4djFoQ1J4clhmbFdOdEZWaWt5d3RveGwzVHBGbE1fLTVGb0sxQ1d0bWhNdGZIVUxDS2tTTTl1T3NhQWlNRmJELWgxSFNkX0VYVjU?oc=5",
-    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  こどもとIT",
+    "desc": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援  edu.watch.impress.co.jp",
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
-    "publisher": "こどもとIT",
+    "publisher": "edu.watch.impress.co.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1118,7 +1118,7 @@
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
     "publisher": "pando.life",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1151,7 +1151,7 @@
     "pub_iso": "2026-05-18T16:00:00+09:00",
     "pub_str": "2026年5月18日",
     "publisher": "All About ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -1257,13 +1257,13 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西DC、市に監査請求 住民「容認は違法、財政リスク」 - tokyo",
+    "title": "印西DC、市に監査請求 住民「容認は違法、財政リスク」",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1PU1poUWJlTEYwendab2NMcEVfY3dLTi1ZSlpxUWltVnJycmNwbDNmUUtFVFItVTR2U2JxU2pmY2RpVHRZVWctVDQtTlc1cUJtLVJR?oc=5",
-    "desc": "印西DC、市に監査請求 住民「容認は違法、財政リスク」  tokyo-np.co.jp",
+    "desc": "印西DC、市に監査請求 住民「容認は違法、財政リスク」  東京新聞デジタル",
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
-    "publisher": "np.co.jp",
-    "source": "google-news-inzai-shi",
+    "publisher": "東京新聞デジタル",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2166,10 +2166,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
     "pub_iso": "2026-07-23T21:48:33+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "CAMPFIRE (キャンプファイヤー)",
+    "publisher": "キャンプファイヤー",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2257,11 +2257,11 @@
   {
     "title": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市",
     "link": "https://news.google.com/articles/CBMigAFBVV95cUxQRXd4ZGR6c093MEp2R21jRUJlZ2Y0dTh6UkdRaDZ6UUlrbEt4MG9oYm5Md050cFBfb0paVnhkTDA4ZGQwdExQcFhWaGQtZ0V0NXpTZnI1MFJRbnhLVWNUMzdBaVRoWm8xVVRUU3pCMUJYdUl5Wm93RVdFaElJUGt0TNIBhgFBVV95cUxOXzFzcGU4YXZTQzgybVJQQVVobmdRQjNpOWp2RmVQRk9ieExZbTFHdXJ5aFgyVTFVbVBKN0YtYjhzVlZ5eFhDamxMTGxWRGJnUGxPNTNseWNQMks5WW5DMEgyc2NUYjdYRy1aQnYzbnVlUUhJZi1XQzhmM0lMcEcxNTVxVGNEUQ?oc=5",
-    "desc": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市  ｄメニューニュース",
+    "desc": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市  topics.smt.docomo.ne.jp",
     "pub_iso": "2026-07-24T16:00:00+09:00",
     "pub_str": "2026年7月24日",
-    "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
+    "publisher": "topics.smt.docomo.ne.jp",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },

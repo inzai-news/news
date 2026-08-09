@@ -2728,5 +2728,25 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBEdEhSLXRVbV9ZaDdsSzd0bHg1YWx6YUg1WkVTNFUxRHpDdWZGb2o1STRDdG9KS3RycW00SzJSS3NrRjdYS3FjU0hobWhOUmhrazdEaFBkTTQ?oc=5",
     "similar_to": "",
     "ai_reason": "有料記事(千葉日報)のため除外。誤って採用していたものを事後削除(CLAUDE.mdルール追加に伴う対応)。"
+  },
+  {
+    "run_ts": "20260809-1040",
+    "date": "2026-08-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE5SZEh6LU84YkI0NWtRX19FYUJpdVhseHZZNUQtUzBVR0E3cmZEWkhJWXBSOVA3anMwbnA2U2hlVmpKMlBFNmY4dFBzNmZrZV9IM3N6RGJ2OTJocmZMNDkwWHhpLTlBUEtrN3lJYzR1LWY1Zw?oc=5",
+    "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260809-1040",
+    "date": "2026-08-09",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西に屋内型パーク「リアルFPSアリーナ」がオープン 光・レーザーを使った遊びを満喫する新型テーマパーク",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTFB3cnJ4bE5UY3d0OGw4cEk2dHVaYmdqNXFtRElfcHNTQ0hHejdPVlpVRlZrNDZtR1A1M0dpMVRySEZhOVppeXdkLWx0VVU3UQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
