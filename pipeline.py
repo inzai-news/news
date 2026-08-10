@@ -1311,7 +1311,7 @@ def cmd_collect(args):
     pending_review_links = {e["item"]["link"] for e in existing_queue}
     excluded_links = load_excluded_links()
 
-    new_count = updated_count = unchanged_count = auto_excluded_count = skipped_pending = skipped_excluded = expired_new_count = 0
+    new_count = updated_count = unchanged_count = auto_excluded_count = skipped_pending = skipped_excluded = expired_new_count = publisher_excluded_count = 0
     new_links_this_run = []
     review_items = []
     auto_log_entries = []
@@ -1352,6 +1352,21 @@ def cmd_collect(args):
             else:
                 updated_count += 1
             by_link[link] = merged
+            continue
+
+        if item.get("publisher") in COLLECT_EXCLUDE_PUBLISHERS:
+            # 千葉日報等、有料記事・過去記事再配信が多いpublisherは審査にすら回さず除外
+            publisher_excluded_count += 1
+            auto_log_entries.append({
+                "run_ts": run_ts,
+                "date": today.isoformat(),
+                "ai_decision": "auto_exclude",
+                "similarity": None,
+                "title": item["title"],
+                "link": link,
+                "similar_to": "",
+                "ai_reason": f"ルールベース: publisher({item.get('publisher')})が収集除外対象のため",
+            })
             continue
 
         item["collected_at"] = collected_at_iso
@@ -1468,6 +1483,7 @@ def cmd_collect(args):
     print(
         f"合算: 新規{new_count} / 更新{updated_count} / 変化なし{unchanged_count} / "
         f"期限切れ{expired_count} / 自動除外(重複80%以上){auto_excluded_count} / "
+        f"自動除外(publisher){publisher_excluded_count} / "
         f"要AI判断(今回){len(review_items)}件 / 判断待ち(前回から){skipped_pending}件 / "
         f"除外済みスキップ{skipped_excluded}件 / 新規だが掲載期限切れ{expired_new_count}件"
     )
@@ -1596,6 +1612,10 @@ NEW_ARRIVALS_COUNT = 20
 # 印西市役所(publisher「印西市」)の記事は件数が多く「新着」バッジ・「新着」カテゴリを
 # 埋め尽くしてしまうため対象外とする(市政・行政カテゴリ自体には引き続き通常通り表示される)
 NEW_ARRIVALS_EXCLUDE_PUBLISHERS = {"印西市"}
+# 千葉日報(chibanippo.co.jp)は有料記事(paywall)の割合が高く、さらに過去記事の再配信が
+# 新着として再ヒットする事例も確認されたため、2026-08-10からcollect時点で収集自体から
+# 除外する(review_queue.jsonでのAI判断にすら回さない)
+COLLECT_EXCLUDE_PUBLISHERS = {"chibanippo.co.jp"}
 # 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
 # (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
 NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}

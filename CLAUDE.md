@@ -34,12 +34,13 @@
      `話題・その他` / `イベント・文化` / `市政・行政` / `開発・暮らし` / `開店・閉店` / `鎌ヶ谷・白井` / `イオンモール千葉ニュータウン`
    - 両方trueの場合は両方判断する。判断が付かない記事は `decision` を空のままにしてよい（次回実行まで据え置かれる）。
    - **政治家個人の街頭演説・選挙活動系の記事は`decision: "exclude"`とする**（2026-07-26追加。選挙ドットコム等が配信する特定候補者の街頭演説告知は、市の行政発表やイベントとは異なる政治活動そのものの宣伝のため採用しない）。
-   - **publisherが「千葉日報」系（`chibanippo.co.jp`）または「日本経済新聞」（日経、`nikkei.com`）の記事は有料記事(paywall)であることが多いため、リンク先を実際に開いて確認する**（2026-08-08追加。この2媒体は特に有料記事の割合が高いため優先的にチェックする。全publisherを毎回チェックする必要はない）。有料記事と判明した場合は`decision: "exclude"`、`reason`に「有料記事のため除外」等と記入する。リンク先が確認できない(Google Newsのリダイレクトが解決できない等)場合は、無理に除外判定せずそのまま`keep`してよい。
+   - **publisherが「日本経済新聞」（日経、`nikkei.com`）の記事は有料記事(paywall)であることが多いため、リンク先を実際に開いて確認する**（2026-08-08追加）。有料記事と判明した場合は`decision: "exclude"`、`reason`に「有料記事のため除外」等と記入する。リンク先が確認できない(Google Newsのリダイレクトが解決できない等)場合は、無理に除外判定せずそのまま`keep`してよい。
+     - **千葉日報（`chibanippo.co.jp`）は2026-08-10から`collect`実行時点で自動除外（`COLLECT_EXCLUDE_PUBLISHERS`）するようになったため、review_queueにはそもそも回ってこない**。有料記事の割合が高いことに加え、過去記事(2016年頃)の再配信が新着として再ヒットする事例も確認されたため、AI判断の手間をかけず収集自体から除外する方針に変更した(旧: 2026-08-08にリンク先確認方式を導入したが、2026-08-10にユーザーが実際に開いた2件がいずれも有料記事/過去記事の再配信と判明し、確認方式では取りこぼしがあると判断)。除外時は`ai_check_log.json`に`ai_decision: "auto_exclude"`として記録され、`collect`の出力に「自動除外(publisher)」件数として表示される。
    - 判断を書き込んだら `review_queue.json` をEditツールで上書き保存する。
 3. `python pipeline.py apply-review` を実行し、判断結果を `news.json` に反映する（`ai_check_log.json` にも記録される）。
 4. `python pipeline.py build` で `index.html` を生成する。
 5. `python pipeline.py publish` で git add/commit/push する。
-6. 最終的な件数サマリを以下のフォーマットでユーザーに報告する。数値は`collect`の出力（取得記事件数/新規の記事件数/タイトル完全一致の重複{exact_dup_count}/更新{updated_count}/変化なし{unchanged_count}/新規{new_count}/自動除外(重複80%以上){auto_excluded_count}/判断待ち{skipped_pending}/除外済みスキップ{skipped_excluded}/新規だが掲載期限切れ{expired_new_count}）と`apply-review`の出力（採用{kept}/除外{excluded}）から組み立てる。
+6. 最終的な件数サマリを以下のフォーマットでユーザーに報告する。数値は`collect`の出力（取得記事件数/新規の記事件数/タイトル完全一致の重複{exact_dup_count}/更新{updated_count}/変化なし{unchanged_count}/新規{new_count}/自動除外(重複80%以上){auto_excluded_count}/自動除外(publisher){publisher_excluded_count}/判断待ち{skipped_pending}/除外済みスキップ{skipped_excluded}/新規だが掲載期限切れ{expired_new_count}）と`apply-review`の出力（採用{kept}/除外{excluded}）から組み立てる。
 
 ```
 ======================================
@@ -57,6 +58,7 @@
 
 (除去内訳)
 80%類似除去件数 ：{collectの「自動除外(重複80%以上)」件数}
+publisher除外件数：{collectの「自動除外(publisher)」件数}
 AI判定除去件数  ：{apply-reviewの「除外」件数}
 期限切れ除去件数：{collectの「新規だが掲載期限切れ」件数}
 その他除去件数  ：{collectの「判断待ち(前回から)」+「除外済みスキップ」の合計}
@@ -65,7 +67,7 @@ AI判定除去件数  ：{apply-reviewの「除外」件数}
 ```
 
 検算: 「取得記事件数」＝「新規の記事件数」＋「既出記事件数」＋「重複記事件数」。
-また「新規の記事件数」＝「新規採用件数」＋「80%類似除去件数」＋「AI判定除去件数」＋「期限切れ除去件数」＋「その他除去件数」で一致するはず。
+また「新規の記事件数」＝「新規採用件数」＋「80%類似除去件数」＋「publisher除外件数」＋「AI判定除去件数」＋「期限切れ除去件数」＋「その他除去件数」で一致するはず。
 「重複記事件数」は、同一記事が複数のGoogle News検索クエリに重複してヒットした分（`collect`実行時に「タイトル完全一致の重複」として画面に表示される）。
 「期限切れ除去件数」は、Google News等から拾われた記事が実際には掲載期限(通常記事3か月/開店閉店6か月)を超えた過去記事の再ヒットだったケース。追加と同時に自動除外され、`ai_check_log.json`に記録されるため次回以降は「除外済みスキップ」に回る。
 

@@ -2818,5 +2818,21 @@
     "link": "https://news.google.com/articles/CBMic0FVX3lxTFBEU1dLTGVOLTc5b1pmZjZQU3prck1LSFVkVWJQT1ctcTZ0aTk1NlN4ejM3MkJndHFudjlBSkYwTm9xTWZrQ1hQeFByZ1Rpc2FweF96R0w0RlladWc4UmFBcFBaaFRSajlIM1o5WVp6bmc0a0k?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260810-2042",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "title": "印西市、５年連続１位 人口増の「好循環」評価 全都市住みよさランキング",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE1YcndJWEY1M19zZWxjaGZWY1htZVdObkR0N245NV9HRW53b0h1UGpXMERLaC12ZGQycUZoaXYtX0lQQkJFSlJlWEp3NHZzWkFabFd3cTdadUNEdHl1UXpJaDVONEtFc05PVXI0cmN5cTh3Z3QzZXVEOQ?oc=5",
+    "ai_reason": "ユーザー確認により、実際は過去記事の再配信(2016年頃の記事とみられる)または有料記事(paywall)と判明したため事後除外。"
+  },
+  {
+    "run_ts": "20260810-2042",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "title": "無免許、酒酔いの疑い 印西署、３２歳を逮捕",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFB6Z2ZMRWVOWkFHRHhCd0FUSmlieXdzT3BudTk1YUg5NnZfdDMybnpWNnN3SHZkWnBUclNzd3lhQUdxazR2WXRFOGRQbUMybEZJZE1Tc0EtYW4?oc=5",
+    "ai_reason": "ユーザー確認により、実際は過去記事の再配信(2016年頃の記事とみられる)または有料記事(paywall)と判明したため事後除外。"
   }
 ]
