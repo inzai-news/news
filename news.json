@@ -786,10 +786,10 @@
   {
     "title": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE1fOVdTelJoeUlMWWU2dFpnZnhCLWMyOWJVYTVmUmZQRklyVkV6OGx3QTRSVXN1LVdvUkZJczh3NjRUWF8waHBXSWRpR1BoclRXWUg2SXNWQThuU2lCUkFEMHVPaVZtdw?oc=5",
-    "desc": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」  yomiuri.co.jp",
+    "desc": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」  読売新聞",
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
-    "publisher": "yomiuri.co.jp",
+    "publisher": "読売新聞",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2971,7 +2971,7 @@
     "pub_iso": "2026-08-04T05:00:00+09:00",
     "pub_str": "2026年8月4日",
     "publisher": "chibanippo.co.jp",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -3303,6 +3303,42 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-10T16:57:50.858536+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "笑顔のひろば～認知症の方と家族の集い～を開催します",
+    "link": "https://www.city.inzai.lg.jp/0000021911.html",
+    "desc": "",
+    "pub_iso": "2026-08-10T16:42:40+09:00",
+    "pub_str": "2026年8月10日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-10T17:21:31.023965+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市、５年連続１位 人口増の「好循環」評価 全都市住みよさランキング",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE1YcndJWEY1M19zZWxjaGZWY1htZVdObkR0N245NV9HRW53b0h1UGpXMERLaC12ZGQycUZoaXYtX0lQQkJFSlJlWEp3NHZzWkFabFd3cTdadUNEdHl1UXpJaDVONEtFc05PVXI0cmN5cTh3Z3QzZXVEOQ?oc=5",
+    "desc": "印西市、５年連続１位 人口増の「好循環」評価 全都市住みよさランキング  chibanippo.co.jp",
+    "pub_iso": "2026-08-10T09:13:14+09:00",
+    "pub_str": "2026年8月10日",
+    "publisher": "chibanippo.co.jp",
+    "source": "google-news-inzai-shi",
+    "category": "市政・行政",
+    "collected_at": "2026-08-10T17:21:31.023965+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "無免許、酒酔いの疑い 印西署、３２歳を逮捕",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFB6Z2ZMRWVOWkFHRHhCd0FUSmlieXdzT3BudTk1YUg5NnZfdDMybnpWNnN3SHZkWnBUclNzd3lhQUdxazR2WXRFOGRQbUMybEZJZE1Tc0EtYW4?oc=5",
+    "desc": "無免許、酒酔いの疑い 印西署、３２歳を逮捕  chibanippo.co.jp",
+    "pub_iso": "2026-08-10T05:00:00+09:00",
+    "pub_str": "2026年8月10日",
+    "publisher": "chibanippo.co.jp",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
+    "collected_at": "2026-08-10T17:21:31.023965+09:00",
     "retention_type": "regular"
   }
 ]

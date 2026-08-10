@@ -2788,5 +2788,15 @@
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE1rWHdzSzhMYXFMbjFieVRWQTh1cE81UVJtLV9EQ1RUYkc4NkkyakFocEpWUWs3dXl5UmFIdklEQ1ZMWVV1YTBJTWh0SHI?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260810-1721",
+    "date": "2026-08-10",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.8,
+    "title": "印西市市制施行30周年記念HORNS UP FES",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE9SOHQ2bDRGd20xcWJpRW15YXlZQTVGTU0wSkVHWm95YWd1Ui0yRVZhMzVIYUVJQllnaTNJdDJYcUpGODdXSTNxeU1XRkFheENVaGRUZFh1NldMeGZvWmFNNkNvTFlUY3F3b1hv?oc=5",
+    "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
