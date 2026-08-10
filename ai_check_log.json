@@ -2748,5 +2748,15 @@
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTFB3cnJ4bE5UY3d0OGw4cEk2dHVaYmdqNXFtRElfcHNTQ0hHejdPVlpVRlZrNDZtR1A1M0dpMVRySEZhOVppeXdkLWx0VVU3UQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260810-1143",
+    "date": "2026-08-10",
+    "ai_decision": "keep",
+    "similarity": 0.74,
+    "title": "令和8年度第1回印西市子ども・子育て会議開催結果（令和8年7月13日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000021826.html",
+    "similar_to": "令和8年度第2回印西市地域公共交通会議の開催結果について（令和8年7月13日開催）",
+    "ai_reason": "類似記事は「地域公共交通会議」で委員会名が異なり、開催日が同じだけの別記事のため採用"
   }
 ]
