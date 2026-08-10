@@ -2798,5 +2798,25 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE9SOHQ2bDRGd20xcWJpRW15YXlZQTVGTU0wSkVHWm95YWd1Ui0yRVZhMzVIYUVJQllnaTNJdDJYcUpGODdXSTNxeU1XRkFheENVaGRUZFh1NldMeGZvWmFNNkNvTFlUY3F3b1hv?oc=5",
     "similar_to": "印西市制30周年記念 北総ライノス HORNS UP FES",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260810-2016",
+    "date": "2026-08-10",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTE9FNEw5UFBuY2l0aGxFckdWZmtWNE85YWxoUkIzVmZRaXRQY3EyMEdaeDZMZWhnTlY5ZEt6WnF6cjNfWlFjS3pCTFVWTTFDUXduMGZhemlNOVplOGs2cEpMdXRpR0QtRGx5QlJYakpVWUtZaEdoWkt5dklwRQ?oc=5",
+    "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260810-2016",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【順天堂大学】順天堂大学と印西市におけるプロモーション活動の連携協力に伴う広告契約について",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTFBEU1dLTGVOLTc5b1pmZjZQU3prck1LSFVkVWJQT1ctcTZ0aTk1NlN4ejM3MkJndHFudjlBSkYwTm9xTWZrQ1hQeFByZ1Rpc2FweF96R0w0RlladWc4UmFBcFBaaFRSajlIM1o5WVp6bmc0a0k?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
