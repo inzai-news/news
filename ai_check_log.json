@@ -2758,5 +2758,35 @@
     "link": "https://www.city.inzai.lg.jp/0000021826.html",
     "similar_to": "令和8年度第2回印西市地域公共交通会議の開催結果について（令和8年7月13日開催）",
     "ai_reason": "類似記事は「地域公共交通会議」で委員会名が異なり、開催日が同じだけの別記事のため採用"
+  },
+  {
+    "run_ts": "20260810-1657",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【9/28（日）】「マインクラフトで『牧の原モア』の中にお店を作ろう！」を開催しました",
+    "link": "https://www.makinohara-more.com/event-topics/minecraft20250928/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260810-1657",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "オレンジジュース自販機を設置しました！",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9%e8%87%aa%e8%b2%a9%e6%a9%9f%e3%82%92%e8%a8%ad%e7%bd%ae%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260810-1657",
+    "date": "2026-08-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "東成田発 京成高砂経由 千葉NT中央行き臨時特急を運転 「ほくそう春まつり2024」21日に開催（千葉県印西市） - tetsudo",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE1rWHdzSzhMYXFMbjFieVRWQTh1cE81UVJtLV9EQ1RUYkc4NkkyakFocEpWUWs3dXl5UmFIdklEQ1ZMWVV1YTBJTWh0SHI?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
