@@ -2834,5 +2834,25 @@
     "title": "無免許、酒酔いの疑い 印西署、３２歳を逮捕",
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTFB6Z2ZMRWVOWkFHRHhCd0FUSmlieXdzT3BudTk1YUg5NnZfdDMybnpWNnN3SHZkWnBUclNzd3lhQUdxazR2WXRFOGRQbUMybEZJZE1Tc0EtYW4?oc=5",
     "ai_reason": "ユーザー確認により、実際は過去記事の再配信(2016年頃の記事とみられる)または有料記事(paywall)と判明したため事後除外。"
+  },
+  {
+    "run_ts": "20260811-0825",
+    "date": "2026-08-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE5yQ1d4VDBuWC14eUtjNWVuaG5kWjFhSTlEWHo3dXJfYVVELWhrSGFGWnVpWWlubWg3MjZIY0pIZzJMYWJiYWFSVXNNT21pR2drTGFzVWVtZnJkaGk4WG95SnN5cG4wbmFmRXc?oc=5",
+    "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260811-0825",
+    "date": "2026-08-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "明るい廃墟からやや改善も\"致命的な欠点\"が…千葉ニュータウンの｢モール廃墟化｣の歴史と､ロピアでも復活しきれぬ現実",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBUQVlIbS0zd05zYjJtR0Z4VmFhWGhnUV9sX2xUbGVRTm1vbjJqeU1CVUtHcEJIcWx0aUhxM0IwUUVsd19oaHd4WGZ0eVNkU0I4LWgyeXlKZUZxU1pUeHdv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
