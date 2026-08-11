@@ -801,7 +801,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -812,7 +812,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1118,7 +1118,7 @@
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
     "publisher": "pando.life",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1252,7 +1252,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2133,12 +2133,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！ - camp",
+    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  camp-fire.jp",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "fire.jp",
+    "publisher": "CAMPFIRE (キャンプファイヤー)",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2230,7 +2230,7 @@
     "pub_iso": "2026-07-24T16:00:00+09:00",
     "pub_str": "2026年7月24日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -2874,10 +2874,10 @@
   {
     "title": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTFBSbEdILVBuVlJQLVkyWV9ZNkNoeTNOZWpYelJNZk9YZDlBZkh4dUdMWVBCRWEyQ1FyUmdoODdhcnZoV0FGS1RXWTVBS0Q4eHA4a0Q0ckJaZDdfVFY5VXVscHdsX1BmSWRWQVFJWmU0dTIxUDhLbG9oRkNuSnYxeDg?oc=5",
-    "desc": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）  news.yahoo.co.jp",
+    "desc": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）  Yahoo!ニュース",
     "pub_iso": "2026-08-04T11:15:58+09:00",
     "pub_str": "2026年8月4日",
-    "publisher": "news.yahoo.co.jp",
+    "publisher": "Yahoo!ニュース",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -2998,10 +2998,10 @@
   {
     "title": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可",
     "link": "https://news.google.com/articles/CBMidEFVX3lxTE9XYnBVcTBBT0ZxYXY3UEY0eDFjc2FDOGVvRWFWRmpLalAwdDBlNVJDZTZtNVNTZUFRWU4zUkhDbjNoNW1GUUVjYUJIM3ZQaXRVU3hxYlY4UTZxQkdWbHJJeDhaZHBkMmpGZ1VUUEN4MjlqT2JE?oc=5",
-    "desc": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可  ホットペッパーグルメ",
+    "desc": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可  hotpepper.jp",
     "pub_iso": "2026-08-05T01:19:02+09:00",
     "pub_str": "2026年8月5日",
-    "publisher": "ホットペッパーグルメ",
+    "publisher": "hotpepper.jp",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
