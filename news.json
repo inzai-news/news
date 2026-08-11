@@ -731,10 +731,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -812,7 +812,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2153,12 +2153,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
+    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！ - camp",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  camp-fire.jp",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "CAMPFIRE (キャンプファイヤー)",
+    "publisher": "fire.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3320,10 +3320,10 @@
   {
     "title": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFBTbFpXQzFoTWp2TlM4emRxRkVJMGN1UVA4eG1vS0VERnlyQVJ2M1FVaE5vNml0azI1YS1JUkRCdklvczNYdHdsbVRsOFhtMnRRYks0bkRUQ2toZ21Jc29QQVZKZnVibUJxQmRFemRFemtjOVZhaV9EZGxIYw?oc=5",
-    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  ITmedia",
+    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  itmedia.co.jp",
     "pub_iso": "2026-07-29T06:28:11+09:00",
     "pub_str": "2026年7月29日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-10T20:16:50.062676+09:00",
@@ -3382,6 +3382,40 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-08-11T18:01:39.251471+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "コストコのガソリンスタンド利用ガイド・注意・コツ",
+    "link": "https://inzaiparque.com/costco-gas/",
+    "pub_str": "2026年8月11日",
+    "publisher": "千葉ほくそうパルケ",
+    "source": "inzaiparque",
+    "category": "話題・その他",
+    "collected_at": "2026-08-11T22:26:01.039371+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "災害情報の提供をお願いします",
+    "link": "https://www.city.inzai.lg.jp/bousaiportal/0000014937.html",
+    "desc": "",
+    "pub_iso": "2026-08-11T19:52:40+09:00",
+    "pub_str": "2026年8月11日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-11T22:26:01.039371+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
+    "pub_iso": "2026-07-09T16:00:00+09:00",
+    "pub_str": "2026年7月9日",
+    "publisher": "xtech.nikkei.com",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-08-11T22:26:01.039371+09:00",
     "retention_type": "regular"
   }
 ]

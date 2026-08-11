@@ -2874,5 +2874,15 @@
     "link": "https://news.google.com/articles/CBMie0FVX3lxTE82OWNJemduX05kTVJERC1ldmdPNFloTVVGdmliM3VFSmd6YXR4Q21hQzZYaDlfb1EtSndGYTQxS01XaE55VHhiVWoxWnlaQmtETHp1RmNMMHRsazdsaGRTVGdBUkN1R3d3S183Ri1EbWNkVmJNMEZMdFVNUQ?oc=5",
     "similar_to": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260811-2226",
+    "date": "2026-08-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE40TzNCYnVfU1FpQjcwSFZLYnhtcXYySklmVHliekxBaFN1Q3BIVGU5d1NMVFNhWlg5ckR4QnlHbDFBZGVTMHRwc0JfLVEtb0J6ejBOUVVpcVZWb0EwZ0E2MDNMNXRuX0tjYURiT1ZqMTdMZw?oc=5",
+    "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
