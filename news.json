@@ -742,10 +742,10 @@
   {
     "title": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE43UXdwdjFVbWJnQXJmS0VZdUdJTzlzMWd5Q3ZrLW42aDltVHlmaWEzejRTVEF0bjI5SFU5QXpMRlJURll2Rmc0UTJ2TF95NU5KNlpj?oc=5",
-    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  fukushishimbun.com",
+    "desc": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す  福祉新聞Web",
     "pub_iso": "2026-05-12T16:00:00+09:00",
     "pub_str": "2026年5月12日",
-    "publisher": "fukushishimbun.com",
+    "publisher": "福祉新聞Web",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -883,10 +883,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
+    "publisher": "レッツエンジョイ東京",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2080,10 +2080,10 @@
   {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  nikkei.com",
+    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
     "pub_iso": "2026-07-23T16:00:00+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "nikkei.com",
+    "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2155,10 +2155,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "キャンプファイヤー",
+    "publisher": "CAMPFIRE (キャンプファイヤー)",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3347,6 +3347,41 @@
     "source": "inzainet-event",
     "category": "イベント・文化",
     "collected_at": "2026-08-11T08:25:51.645689+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "お花の寄せ植え体験会（2026年08月16日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14267&store=chibant",
+    "pub_str": "2026年8月11日",
+    "event_end_date": "2026-08-16",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-08-11T18:01:39.251471+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西▷ジョイフル本田 千葉ニュータウンに、ボリューム満点おしゃれイタリアン｜メニュー【ザ プレストンカフェ】",
+    "link": "https://chiba-lunch.com/inzai-joyfulhonda-chibanewtown-prestoncafe/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-joyfulhonda-chibanewtown-prestoncafe",
+    "desc": "知らなかった。この辺りで朝からやっているカフェを調べたら・・・え、ジョイフル本田に「ザ プレストンカフェ」？入ってみたら人気店でびっくりしたのですが、皆さん知っていましたか？ THE PRESTON CAFE　ザ プレス […]\nThe post 印西▷ジョイフル本田 千葉ニュータウンに、ボリューム満点おしゃれイタリアン｜メニュー【ザ プレストンカフェ】 first appeared on ちばも",
+    "pub_iso": "2026-08-11T17:53:58+09:00",
+    "pub_str": "2026年8月11日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-inzai",
+    "category": "話題・その他",
+    "collected_at": "2026-08-11T18:01:39.251471+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西シティリレーマラソン 2026",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE5uM2xiR1hEUjRBeFZZQUJhV3lZZVZMbEEyV2M5b1BVRENCSmhYYWFQY1pRWWwyYTdNYWE4dnp1V1RlR0VWT2FYbjBvaFM?oc=5",
+    "desc": "印西シティリレーマラソン 2026  RUNNET",
+    "pub_iso": "2026-08-06T16:33:31+09:00",
+    "pub_str": "2026年8月6日",
+    "publisher": "RUNNET",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-11T18:01:39.251471+09:00",
     "retention_type": "regular"
   }
 ]

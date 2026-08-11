@@ -2854,5 +2854,25 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBUQVlIbS0zd05zYjJtR0Z4VmFhWGhnUV9sX2xUbGVRTm1vbjJqeU1CVUtHcEJIcWx0aUhxM0IwUUVsd19oaHd4WGZ0eVNkU0I4LWgyeXlKZUZxU1pUeHdv?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260811-1801",
+    "date": "2026-08-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "お花の寄せ植え体験会（2026年08月23日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14269&store=chibant",
+    "similar_to": "お花の寄せ植え体験会（2026年08月16日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260811-1801",
+    "date": "2026-08-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（1/2枚目）",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTE82OWNJemduX05kTVJERC1ldmdPNFloTVVGdmliM3VFSmd6YXR4Q21hQzZYaDlfb1EtSndGYTQxS01XaE55VHhiVWoxWnlaQmtETHp1RmNMMHRsazdsaGRTVGdBUkN1R3d3S183Ri1EbWNkVmJNMEZMdFVNUQ?oc=5",
+    "similar_to": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
