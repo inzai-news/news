@@ -2884,5 +2884,15 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE40TzNCYnVfU1FpQjcwSFZLYnhtcXYySklmVHliekxBaFN1Q3BIVGU5d1NMVFNhWlg5ckR4QnlHbDFBZGVTMHRwc0JfLVEtb0J6ejBOUVVpcVZWb0EwZ0E2MDNMNXRuX0tjYURiT1ZqMTdMZw?oc=5",
     "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260812-1326",
+    "date": "2026-08-12",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "ハンドメイドリボンマルシェcharm",
+    "link": "https://chibanewtown.aeonmall.jp/event/2721f36b-c201-4eb6-a4c5-8c9cdd73350d",
+    "similar_to": "ハンドメイドリボンマルシェcharm",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

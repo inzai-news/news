@@ -812,7 +812,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1252,7 +1252,7 @@
     "pub_iso": "2026-05-30T16:00:00+09:00",
     "pub_str": "2026年5月30日",
     "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2742,11 +2742,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西市全天候型こどもの遊び場の指定管理者を募集",
+    "title": "【仕様書別紙の追加】印西市全天候型こどもの遊び場の指定管理者を募集",
     "link": "https://www.city.inzai.lg.jp/0000021817.html",
     "desc": "",
-    "pub_iso": "2026-08-03T08:00:00+09:00",
-    "pub_str": "2026年8月3日",
+    "pub_iso": "2026-08-12T09:00:00+09:00",
+    "pub_str": "2026年8月12日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -2878,7 +2878,7 @@
     "pub_iso": "2026-08-04T11:15:58+09:00",
     "pub_str": "2026年8月4日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "retention_type": "regular"
   },
@@ -2998,10 +2998,10 @@
   {
     "title": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可",
     "link": "https://news.google.com/articles/CBMidEFVX3lxTE9XYnBVcTBBT0ZxYXY3UEY0eDFjc2FDOGVvRWFWRmpLalAwdDBlNVJDZTZtNVNTZUFRWU4zUkhDbjNoNW1GUUVjYUJIM3ZQaXRVU3hxYlY4UTZxQkdWbHJJeDhaZHBkMmpGZ1VUUEN4MjlqT2JE?oc=5",
-    "desc": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可  hotpepper.jp",
+    "desc": "カリフォルニアスタイルキッチン(印西市/カフェ・スイーツ)＜ネット予約可  ホットペッパーグルメ",
     "pub_iso": "2026-08-05T01:19:02+09:00",
     "pub_str": "2026年8月5日",
-    "publisher": "hotpepper.jp",
+    "publisher": "ホットペッパーグルメ",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -3418,6 +3418,38 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-12T00:42:29.608940+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【KidsClub会員さま限定プレゼント有り♪】 ディズニー英語システム サンプリングイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/1010c05b-b4dd-4894-b52c-1fe1195c3f2d",
+    "pub_str": "2026年8月12日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-08-12T13:26:24.773608+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "楽しく作ろう♪手作りマリンドーム",
+    "link": "https://chibanewtown.aeonmall.jp/event/4b4522a7-f843-45df-af1d-1151601d3770",
+    "pub_str": "2026年8月12日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-08-12T13:26:24.773608+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和9年度 「こどもまんなか　児童福祉週間」 標語募集",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022258.html",
+    "desc": "",
+    "pub_iso": "2026-08-12T08:48:44+09:00",
+    "pub_str": "2026年8月12日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-12T13:26:24.773608+09:00",
     "retention_type": "regular"
   }
 ]
