@@ -2894,5 +2894,25 @@
     "link": "https://chibanewtown.aeonmall.jp/event/2721f36b-c201-4eb6-a4c5-8c9cdd73350d",
     "similar_to": "ハンドメイドリボンマルシェcharm",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-0945",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "MINAKO先生「ミニタペストリー」作り一日体験（2026年09月10日(木)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14288&store=chibant",
+    "similar_to": "MINAKO先生「ミニタペストリー」作り一日体験（2026年09月03日(木)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-0945",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】",
+    "link": "https://news.google.com/articles/CBMiYEFVX3lxTE5KR3NXREVWRUdfS0ZKSkxwX0o4bkpoYUxWN2ZwZ21CVktSX1c4WFdLcTh5ejYwUlhqeldGNXNRb3BoUlJETU84LXBac3BSc2VQcUFNYktlLXRRdmgxa0Y3LQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
