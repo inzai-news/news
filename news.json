@@ -731,10 +731,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -790,7 +790,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -872,10 +872,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
+    "publisher": "レッツエンジョイ東京",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -991,17 +991,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）",
-    "link": "https://news.google.com/articles/CBMiT0FVX3lxTE43cnZwbkNkQUtXdlBJSkl4MElCYmw4T3ZMZExuejdqNk9BU0FUMVRlVUE3eUsyS2N1M1VoTzgyODFLZ3lNN2R6VnVGYnlRbEU?oc=5",
-    "desc": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）  ほんのひきだし",
-    "pub_iso": "2026-05-13T16:00:00+09:00",
-    "pub_str": "2026年5月13日",
-    "publisher": "ほんのひきだし",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
     "title": "【千葉県印西市】小学生が地酒「龍の奇跡」の酒米を田植え。地域連携で特産品づくりを体験",
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE50cE5mUUxXUktucVlUQ1VzU2dqdkhWM3A1QzZxVzFkc3FfVWVDMDFwZm9aZmJMUExSRXdiN3JyN0kwOFV6UHgzRWwxbVh0NE9aSm9Jb2xlRnY5MlExcmNIQ21qWEkyOE8tN1E?oc=5",
     "desc": "【千葉県印西市】小学生が地酒「龍の奇跡」の酒米を田植え。地域連携で特産品づくりを体験  PR TIMES",
@@ -1107,7 +1096,7 @@
     "pub_iso": "2026-05-31T16:00:00+09:00",
     "pub_str": "2026年5月31日",
     "publisher": "pando.life",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1735,8 +1724,8 @@
     "title": "「INZAIまちフェス」を開催します！",
     "link": "https://www.city.inzai.lg.jp/0000019909.html",
     "desc": "",
-    "pub_iso": "2026-07-20T00:00:00+09:00",
-    "pub_str": "2026年7月20日",
+    "pub_iso": "2026-08-13T13:30:39+09:00",
+    "pub_str": "2026年8月13日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -2029,10 +2018,10 @@
   {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  nikkei.com",
+    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
     "pub_iso": "2026-07-23T16:00:00+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "nikkei.com",
+    "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2104,10 +2093,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "キャンプファイヤー",
+    "publisher": "CAMPFIRE (キャンプファイヤー)",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2199,7 +2188,7 @@
     "pub_iso": "2026-07-24T16:00:00+09:00",
     "pub_str": "2026年7月24日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -2632,8 +2621,8 @@
     "title": "「INZAIまちフェス」ステージイベント出演者を募集します！ ",
     "link": "https://www.city.inzai.lg.jp/0000022173.html",
     "desc": "",
-    "pub_iso": "2026-08-01T00:00:00+09:00",
-    "pub_str": "2026年8月1日",
+    "pub_iso": "2026-08-13T13:30:26+09:00",
+    "pub_str": "2026年8月13日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -3269,10 +3258,10 @@
   {
     "title": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFBTbFpXQzFoTWp2TlM4emRxRkVJMGN1UVA4eG1vS0VERnlyQVJ2M1FVaE5vNml0azI1YS1JUkRCdklvczNYdHdsbVRsOFhtMnRRYks0bkRUQ2toZ21Jc29QQVZKZnVibUJxQmRFemRFemtjOVZhaV9EZGxIYw?oc=5",
-    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  ITmedia",
+    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  itmedia.co.jp",
     "pub_iso": "2026-07-29T06:28:11+09:00",
     "pub_str": "2026年7月29日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-10T20:16:50.062676+09:00",
@@ -3380,10 +3369,10 @@
   {
     "title": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)",
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTE5vajVEX3NyRUo0bmFURVd5ZjNheTdpblhaTlVlQ1VVdGdpTUpIZTIyeTdDMmF1Y3NTbGk0M0dUYzJLblJkS2U2VWZOTDZCUks3WWVLQlB5S2M5Q0k?oc=5",
-    "desc": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)  Mshale",
+    "desc": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)  mshale.com",
     "pub_iso": "2026-08-11T08:57:46+09:00",
     "pub_str": "2026年8月11日",
-    "publisher": "Mshale",
+    "publisher": "mshale.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-12T00:42:29.608940+09:00",
@@ -3478,13 +3467,72 @@
   {
     "title": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)",
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBjSHFmZXhLYkRLdXZ6ZFZJRkhOemxCajd0a1d4eGNaS1pqdnkwa09veUpUUmdmcUdMa0o4T2otREN5cWxhdnlZUGFWd2ZkbUVteWduX1ItNEtaRlk?oc=5",
-    "desc": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)  Mshale",
+    "desc": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)  mshale.com",
     "pub_iso": "2026-08-12T19:29:13+09:00",
     "pub_str": "2026年8月12日",
-    "publisher": "Mshale",
+    "publisher": "mshale.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-13T09:45:53.797372+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ビカクシダの板付け体験（2026年08月29日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14319&store=chibant",
+    "pub_str": "2026年8月13日",
+    "event_end_date": "2026-08-29",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-08-13T14:43:48.641425+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "空・水・空芸術祭　ボランティアサポーターを募集します！",
+    "link": "https://www.city.inzai.lg.jp/0000022290.html",
+    "desc": "",
+    "pub_iso": "2026-08-13T13:32:36+09:00",
+    "pub_str": "2026年8月13日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-13T14:43:48.641425+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「空・水・空芸術祭」を開催します",
+    "link": "https://www.city.inzai.lg.jp/0000021502.html",
+    "desc": "",
+    "pub_iso": "2026-08-13T13:32:15+09:00",
+    "pub_str": "2026年8月13日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-13T14:43:48.641425+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "空・水・空芸術祭　作品募集",
+    "link": "https://www.city.inzai.lg.jp/0000021903.html",
+    "desc": "",
+    "pub_iso": "2026-08-13T13:31:38+09:00",
+    "pub_str": "2026年8月13日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-13T14:43:48.641425+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1LczdNdGtsZy1NUXNoQUVIOUstMWxOcno2QjNvWVYzaWdlWXN4OEg5WWdyQ0hLRE9UTnNJUTZQYlc2V3kyOVhIY2FFN2VsTjJERllOS3VqN1FVRkFT?oc=5",
+    "desc": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点｜Infoseekニュース  Infoseek",
+    "pub_iso": "2026-08-13T14:21:00+09:00",
+    "pub_str": "2026年8月13日",
+    "publisher": "Infoseek",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-08-13T14:43:48.641425+09:00",
     "retention_type": "regular"
   }
 ]

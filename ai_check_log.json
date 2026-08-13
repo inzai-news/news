@@ -2914,5 +2914,35 @@
     "link": "https://news.google.com/articles/CBMiYEFVX3lxTE5KR3NXREVWRUdfS0ZKSkxwX0o4bkpoYUxWN2ZwZ21CVktSX1c4WFdLcTh5ejYwUlhqeldGNXNRb3BoUlJETU84LXBac3BSc2VQcUFNYktlLXRRdmgxa0Y3LQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260813-1443",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE84MmRRUkdFMUJ2Wi1pWENoVVB6VURCM2dDaGc3SXRKb2ZlWEQyX09yWTRMR0RVOTR0bWxZWHFSb04wX3VVTERFNjdpSW9IMzRTYjNub1RQWndoaElTUTVFWjNkckhTdFlHZ0FmaV9B?oc=5",
+    "similar_to": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点｜Infoseekニュース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1443",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉･印西市が保育送迎ステーション開設 需要分散や保護者の負担軽減目指す",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE43UXdwdjFVbWJnQXJmS0VZdUdJTzlzMWd5Q3ZrLW42aDltVHlmaWEzejRTVEF0bjI5SFU5QXpMRlJURll2Rmc0UTJ2TF95NU5KNlpj?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260813-1443",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "印西シティリレーマラソン 2026",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE5ibGNEbDlMV3BpdUJlel9nZGJqSjE5R1RPQUhiQTJPVXQ4RFl4YWRIcVB6MnBKSXZrb1FLY2M3VWYwZ2drbmRfV1VSOVAwWWJMWGhaRmx3SGotVVBOdmhIdlNB?oc=5",
+    "similar_to": "印西シティリレーマラソン 2026",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
