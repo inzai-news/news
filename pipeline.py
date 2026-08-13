@@ -1369,6 +1369,20 @@ def cmd_collect(args):
             })
             continue
 
+        if WEATHER_ALERT_TITLE_PATTERN.search(item["title"]):
+            publisher_excluded_count += 1
+            auto_log_entries.append({
+                "run_ts": run_ts,
+                "date": today.isoformat(),
+                "ai_decision": "auto_exclude",
+                "similarity": None,
+                "title": item["title"],
+                "link": link,
+                "similar_to": "",
+                "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため",
+            })
+            continue
+
         item["collected_at"] = collected_at_iso
         category = item.get("category") or guess_category_from_title(item["title"])
         item["category"] = category
@@ -1616,6 +1630,11 @@ NEW_ARRIVALS_EXCLUDE_PUBLISHERS = {"印西市"}
 # 新着として再ヒットする事例も確認されたため、2026-08-10からcollect時点で収集自体から
 # 除外する(review_queue.jsonでのAI判断にすら回さない)
 COLLECT_EXCLUDE_PUBLISHERS = {"chibanippo.co.jp"}
+# 大雨警報・特別警報等、当日限りの気象警報の発表を伝えるだけの速報記事は採用しない(2026-08-13追加)。
+# 号外NET等ソース側で最初からカテゴリ(鎌ヶ谷・白井等)が付いている記事はneeds_category=Falseとなり
+# review_queueを経由せず自動採用されてしまうため、collect時点でタイトルパターンで弾く。
+# 「大雨(8月13日)に係る避難所情報」のような実用情報(避難所等)は「警報」「記録的」を含まないため対象外のまま残る。
+WEATHER_ALERT_TITLE_PATTERN = re.compile(r"警報|記録的.{0,5}(大)?雨")
 # 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
 # (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
 NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}

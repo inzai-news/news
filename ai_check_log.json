@@ -3302,5 +3302,37 @@
     "link": "https://news.google.com/articles/CBMieEFVX3lxTFBaM2ZkRTJCOUtORC04ekZJaktYcHdhWW5hNmRVQ3NQQVBrMEJlalBmbkswaFhmdXBOMnBLU0ROLW9pamQ3YUx5TFhubHd4WnpmOGVJOXlpUFFxQWZfWTV3MzRuLXgzS2pPdWFFajkyZTRIYUxQOTRKRw?oc=5",
     "similar_to": "我孫子市、印西市にレベル5 大雨特別警報【午後7時50分】 (2026年8月13日掲載)",
     "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2353",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "title": "【レベル4大雨危険警報】千葉県・印西市、白井市に発表 17:44時点（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE02akcyNTFiV0xZSXpBd2RaSk9FQ3JRR2NXaDktMHZXX0NkOFVrME42b0hiUUhvSXloUTdDZWpjN04wNHNGM2M3djJWaVJCbEhYYTJuS3c2eWs4Nk1TczVTYlF0TWlGV0dRVjhudWZDd0FWbFF4VHV6dG5EVzR6WTA?oc=5",
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため事後除外。source側で既にカテゴリ(鎌ヶ谷・白井等)が設定済みだったためreview_queueを経由せず自動採用されていたケース。"
+  },
+  {
+    "run_ts": "20260813-2353",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "title": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5IcEFCUmJ5eWV1YmVWMHZ0SHh1MEFlVkcyWFRXQWJnaHZvTVN1bTFVT0VfLWs2NnA1eWpLaEk2WDVLS3BMOXpwNzZuRnJISGtudzEwel9BVXRyTk9E?oc=5",
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため事後除外。source側で既にカテゴリ(鎌ヶ谷・白井等)が設定済みだったためreview_queueを経由せず自動採用されていたケース。"
+  },
+  {
+    "run_ts": "20260813-2353",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "title": "【レベル４土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE4tS05WcUk0M2QxME5LR1ItTGt0MmpEdm0zZWFLakUyY1pJbHBzX0tfUzFpaVNFbkk5MzE0T1QzVWNsa1dndlduaG5VajJGWnVXTHZvSkZoYVBmTVBWMHhLVHNYZFdNU3JhU2VkeExYc9IBdEFVX3lxTE02czNKUkhWVUZuRUdyM2xyeW5YbXREYjlxMnlKZEFnTFpGMDMwYTUxWjVUV21UZzdrWC1mdVZxSnQ2RXREZmhqd0EwY3liUVU1b0tmbHdQX3V1UHRXZjZoVUY0bm1oT1F6QzFad0l0Wl9Falhr?oc=5",
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため事後除外。source側で既にカテゴリ(鎌ヶ谷・白井等)が設定済みだったためreview_queueを経由せず自動採用されていたケース。"
+  },
+  {
+    "run_ts": "20260813-2353",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "title": "【特別警報】千葉・我孫子市、印西市にレベル5大雨特別警報 対象は14の市 気象庁と国土交通省が午後8時半から緊急会見",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE1tM05PODBhdmhCclZoSWhXeHJsRDhOVjlwUkowaVJXWUVfYk5nYVBhbTlHb1FPNE53cGlKTzFWSmhySzdzTkVIVE1yMlVjUQ?oc=5",
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため事後除外。source側で既にカテゴリ(鎌ヶ谷・白井等)が設定済みだったためreview_queueを経由せず自動採用されていたケース。"
   }
 ]
