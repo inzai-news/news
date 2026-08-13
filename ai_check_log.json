@@ -2972,5 +2972,105 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9XZE5fVS1VMk00M3ZFZS1pT3lFM2htUUV6aTVaczhMYjNlYTczZndNbVhhczlEUmhRODZ5YkI3OG5NNGQzYzhPRDV0RGJSM2Q1MDhSa28wcE5mcGNrSkM5YWF3RkNEYnFDR0JrT0VTWnJscEhVTE5UUG9LbjlNWUk?oc=5",
     "similar_to": null,
     "ai_reason": "大雨警報の発表を伝えるだけの当日限りの気象速報記事のため除外（2026-08-13追加ルール）"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "【レベル4土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9kMi1DYjJnT0dlYWxBNEtTNmEzeEJwcjh3RzdkdmloVEd4a2RLb2JpZ01NMXBmODVOR2pISUtPLUs0WkFHYXBEcnZMcVBOS3ZIU2I2WDktcTVISFFNYVVIZXFiNEJ0TklDVl9MNFpUdXF2ODdvM2RZZGFwQ25QYU0?oc=5",
+    "similar_to": "【レベル4大雨危険警報】千葉県・印西市、白井市に発表 17:44時点（TBS NEWS DIG Powered by JNN）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点 (2026年8月13日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE1iUUJ4NUtiVjB5S1JpX3dKdzY5Y0g2dXJqdXJVa3l3bUd4WU9hcUxRejNSQUVqaVQwZ3ZfTWdSekpSaTNGQW5zX2ZNeTZsRXA0UmFlWFFGYWYxZFVEZHc?oc=5",
+    "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点 (2026年8月13日掲載)",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "【レベル４土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点 (2026年8月13日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE5CTjFTblN3TUhLYmZNbnFUaHg3eW8wMk01VFRSY0cxZkdZX3FOSDhJOVhuMG9ycHdHV1NpRm1xdzNPRXVYck1pQ2ZOVEt1WWgzbFRKd2lXUk9lcTlHWGc?oc=5",
+    "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点 (2026年8月13日掲載)",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表(18:58時点)",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE1HYy1aeEExTHV0WVpWUUZQd0p6Q3BDNGdsVEtlN0xMb01sNG4tTXpwVUhJQWNwRXJzeFhfT0VDUUgxZTN0VzFfZF9QcGNkZw?oc=5",
+    "similar_to": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表(18:58時点)（FNNプライムオンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE1od0gxY0NxcmpjV2RwOFQxYlpReHJYMS1MV29OaExHWmpyVlQ4VERNcWVvTHBocGxhU1ZEM1hOLV9ORExrU01uVWlXOUxXbEYwbVowUm9yaVZwOF9FcmttN3JMMlhsMHdvdHZiRmNvY9IBdEFVX3lxTE04YTRSU3NiWEx5d0xnT2dSNGtBNFhwSmtTaldjSVhmNU1ua3M0NkgxOGVZSlptYTh3NS0wTVJPbGU5QUQxRXAtVmcxTFY1U0tDcjY4c1JRTnFqOEFHeTJEazdRZ2J2OG1HZy1aZXR3aDMtZjNX?oc=5",
+    "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点｜Infoseekニュース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "【レベル４土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE9NU1lQN2NINkZ4cVBJR3BLem9Sdi1NclFKNXBsX0hNNmZRUlNENTROaURqckFNV3FHZ2VEQUV0WmJoTFowc1o2cm13dEV6blgzajlfUW12akprWUJN?oc=5",
+    "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点｜Infoseekニュース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表(18:58時点)（FNNプライムオンライン）",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE9qemk3WmltekpoZnhBUk15VVZvODdXSUU2U21lTnprNWlxZlNKRVMwMkhrNFhlNzJoNS1xeUtvU0M1U3UyUGpwVDJWQjBhaWhGVDdQYzRrU01Ga0t6WjhuNEZFUmpJN2pHOFhsN25xQQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報・記録的短時間大雨情報の当日限りの速報記事のため除外（2026-08-13追加ルール）"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉 佐倉市付近と八千代市付近と印西市付近で記録的な大雨",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFA2QjFERVlub0hyN3luRE9pX0ptOVpZak90enM5eGhrYTZMd24xaEVzSFBwaGxGUzg2TFNJYmtud3N6QzRVYzZZeVdlMW1MN1piR2FULWVnUnZyMTFRR3FF?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報・記録的短時間大雨情報の当日限りの速報記事のため除外（2026-08-13追加ルール）"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1MejdadF9hRjhYcXdfenJYUzB4VF9lMEs5cXctbzhkWFpqX0tlMXBQaXdaWGtlcnZvc0FKS19RZjAtMEVVTTFWbHd0dDZGTGNPQWpzUTVRMA?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報の発表を伝えるだけの当日限りの速報記事のため除外（2026-08-13追加ルール）"
+  },
+  {
+    "run_ts": "20260813-1914",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": 0.71,
+    "title": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点 (2026年8月13日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9senczdm1VZS1uZFg2eTZEX3BUVndsV2VYc05PaC03RTV5Y2dOSGNZelNpWnF0YlV2THNvR0s1T2NLV1BwWkI3WWxPcEp6WTBSbnFRUGJ0TTA0dFpBLVE?oc=5",
+    "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点｜Infoseekニュース",
+    "ai_reason": "気象警報の発表を伝えるだけの当日限りの速報記事のため除外（2026-08-13追加ルール）"
   }
 ]
