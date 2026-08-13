@@ -3072,5 +3072,165 @@
     "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9senczdm1VZS1uZFg2eTZEX3BUVndsV2VYc05PaC03RTV5Y2dOSGNZelNpWnF0YlV2THNvR0s1T2NLV1BwWkI3WWxPcEp6WTBSbnFRUGJ0TTA0dFpBLVE?oc=5",
     "similar_to": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点｜Infoseekニュース",
     "ai_reason": "気象警報の発表を伝えるだけの当日限りの速報記事のため除外（2026-08-13追加ルール）"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE5KbUNodzRoNDhqRWtobktCdUJHYU9zVE0tQ20wWmZDVllKUzZQcExKWlV2QmVPd0doTE5Da0w4Qm8tZmNwamMyVUR5SEZNS0xUSDQyOHpCdDhkY2w0NnhwVGs5VzVZT2t0aUxUR1dB?oc=5",
+    "similar_to": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMi4AFBVV95cUxNVDhUZDRwTkEteTZxc1U4QnVtVDRqQ1lZbEdUaGYtazlSa0UwcG40Z0xWSTNrLWlxMGJZOC1GQ3dkWDRaQW8yUTZUU3VMdUE3WnJaaVBtaVdDWFhienF4WXRZc3lEbUJuQ084T2d3Q0k1N2o2ZHJQbDl4ZlF3QW52QnNOSEZNcWwyaGtKbTdMS2FWNDdUQUp6NFhKS0VjdDBDRlJQRjhhekdTR3RUQURod29XMFZZS3JlZGNNWkt0TWpUYVNmZndNeXEwTTFPT2hDMWNxRVo3eHN4cGQtVnFQWNIBkAFBVV95cUxPNUliSmFISDJfenRnd3FPOV9FRmh3NWoxdTRYZUgxdWlnSi1qTEpTS2VnX3B0QzFrRTdLY3RRV0V1MkhzbFdzMlc5Z2xINE04Rks3RW1heFJ0enU3dEliUzgxcnYxVkFyMnNDeTZEUFlQT3ZUcnJjV0xCRU40YVdWX1R5WTY0SDVtRl9tRFVEWmw?oc=5",
+    "similar_to": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.82,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE0tOGJNcDlxai1YYm9PZFNGb24zUldfbXpySWJpUnVPY01DR01GZ0hmaGNfSEFDQlJwVHVLSnM4SWdnc2ZEbnBVMjZGaXBfZXVYVWd4SzdpM2FpRjlUVHU0Yk42Q3RHLXkz?oc=5",
+    "similar_to": "我孫子市、印西市にレベル5 大雨特別警報【午後7時50分】｜Infoseekニュース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "【速報】千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTFBMNzdINHI2aVNTZy1wQjAzN3VSZzVval9RN0Q2X2l0aE8yc2tMczV1T1J0eUJnZThyUXlLWGJpbFN4blRfeXYxT1Fjdw?oc=5",
+    "similar_to": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 - news.tv",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE53eUxWXzlsWjFxOFZpQmFzZnVoVnNSM2EzNVUwRlB3VlBreng1UjN3WFZwNGl1eFJ5ZmhUdHFPbG54TElfUTU0bVJnbmdQSGNaZFRYTWZpcm4wTkY3OVFSVm1NNGdick1rRGxQQUZhRjJBZw?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報（2026年8月13日掲載）｜日テレNEWS NNN",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE1wZmtpMEhRZTZEQW1JaWdGVERodmZoSVpoRnd0VHBicEI1RHBZQmo4b1dIcVh6Zktod25iMkxMRkFkNi1wdUxzRU40UUVvVDlEVzhyLTBlMzhkV2FrazFGN21XY1R1WXB1Z0V6N2VwR1BvazJGR1JIR1NTdUQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【レベル５大雨特別警報】千葉県・我孫子市、印西市に発表 19:50時点",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE9ZYy1BT0VhTXhHcDIzUWEwVlp4UDRRZHVpbnZleEp6d0tqY3ZRMTRSRHgxaUJ0NlJTYUstSVVEeG40a2pQRVB1V0JxMDd0b0QtVHZQUVFjcDNDamRFZ0FtRVFQRW1lNzBOZVZKamJ3?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9oNzZ1M2stV081NUhmMHBOMFc1X0FqbGVjY0gwc3JaRTFSWVVjQy1HVDc5Q3dJclZMUktuVV9XOWxuWnVDYjFJRThjWXJOZmM2bW5DT0pVR1d2anFrQkdzMUNOMWZTS3c?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "我孫子市、印西市にレベル5 大雨特別警報【午後7時50分】｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE81dGs0ZlBNalA5Z3Z3UzhNMmcyc01TTjE0andXS1V1Ty1pMzRTT3FxaVBJRVFIRDZlaG56YkhPdnpsaUZQVFJ5eHM4UDJPQzNod1BEOV95NUJqN0VRZmdUeDlHQWRieDVk?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表（18:58時点）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9BR1ZIR3djeEZXeFR3Zlk1RGpza29TS1MwcWMySzdReTZIYlc2RlpxRUlfQlc3MHc5N1hBaUttZjhTR2FtWTlNamVfVlpmZ3hWb09aNXVqOWZDdEd6S3RveEg5a3Raek1SMHppOU1yVUVTeVpzcVJTZEFhUHVDNmc?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県にレベル5大雨特別警報 新たに印西市と我孫子市(19:50)",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9Dc3hJR3ZTNlViaDZLeUZSbWxneFV4U0NxSjd3aFpvZks2UDZzVk5UOFZQX19DMnJhZW1CbUwwMjBjdWJWSEtULThnZm5NNDRQRXpHUGI3aEo1MjA1TUJJ?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【特別警報】千葉・我孫子市、印西市にレベル5大雨特別警報 数十年に一度の重大な危険が差し迫った状況 対象は14の市 気象庁",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE1aZHExSEdidnlnLThiemRjdmtNZVN2RWh3b0Z0YWxxd0RxWXVqZC1CQXZvcmVwUUJaUVQtLUpDMzhvdTl6UHozdnlNQkRUREEzMU9XTVJLOU41RVdJQ2xTMjRFMDVERGpESGtoYVVR?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": 0.76,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市（ANNニュース）",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5vbFBiaml2dlpfNDllOWs1TC11c1A4cWZfdXpReEVtb1pPQ0wtUnhlVmdsWWlCRklaaDA5NEtfUmhXQzItV1NldGRfVjJCZ21DZ0FZQkltanRrVDJmeENFQ3N2NFA?oc=5",
+    "similar_to": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 - news.tv",
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "我孫子市 印西市にレベル５大雨特別警報 千葉県で14市に 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBOUWExd0xzTGVrM2tHYjJyOHZJbkJadS1yclJOd3NJZUJlN05obk9pS2NHSDdxZC05UEV5RDhmUHEzRDczQzQ3aDNZSXJINE9fR0huVFFOcUU4d2M?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【レベル5大雨特別警報･ライブ】千葉県・千葉市、市川市、船橋市、我孫子市、印西市などに発表【最新情報まとめ】（2026年8月13日 LIVE配信）",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9zN3hMclphakx1cEJFUWIyNGJhdUUxbTdUT1F2a083QjVmdXpTZGt3R2ZkYjNvYWhWV3RpX25HWlRLYUEzTldTRk9fWnRTNkplbHZmeENQWQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
+  },
+  {
+    "run_ts": "20260813-2111",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "我孫子市、印西市にレベル5 大雨特別警報【午後7時50分】（日テレNEWS NNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE5Va2pPUVFGTXpmYXl2MVJnZ1lRdGR1dncxMkRSejdXNU9pUE5nbFNPdUgtLXF4b1NVZnVtZ1VrUjdPcWZ1UTRzQWI1U2JVbE10R0pJX21NRlZ2X3lXeFRlN25jN1ZRTnQwWVQwc2x1MmF6TzJrNUVKUU1oR0k1Vzg?oc=5",
+    "similar_to": null,
+    "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため除外(2026-08-13追加ルール)"
   }
 ]
