@@ -2952,5 +2952,25 @@
     "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点｜Infoseekニュース",
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1LczdNdGtsZy1NUXNoQUVIOUstMWxOcno2QjNvWVYzaWdlWXN4OEg5WWdyQ0hLRE9UTnNJUTZQYlc2V3kyOVhIY2FFN2VsTjJERllOS3VqN1FVRkFT?oc=5",
     "ai_reason": "ユーザー指示により、警報等の当日限りの天気関連記事は採用しない方針に変更。事後除外。"
+  },
+  {
+    "run_ts": "20260813-1649",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】TSUTAYA BOOKSTORE 印西ビッグホップ「おやつ博覧会」を開催（5月13日～5月17日）",
+    "link": "https://news.google.com/articles/CBMiT0FVX3lxTE43cnZwbkNkQUtXdlBJSkl4MElCYmw4T3ZMZExuejdqNk9BU0FUMVRlVUE3eUsyS2N1M1VoTzgyODFLZ3lNN2R6VnVGYnlRbEU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260813-1650",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【レベル3大雨警報】千葉県・松戸市、印西市に発表 14:21時点（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9XZE5fVS1VMk00M3ZFZS1pT3lFM2htUUV6aTVaczhMYjNlYTczZndNbVhhczlEUmhRODZ5YkI3OG5NNGQzYzhPRDV0RGJSM2Q1MDhSa28wcE5mcGNrSkM5YWF3RkNEYnFDR0JrT0VTWnJscEhVTE5UUG9LbjlNWUk?oc=5",
+    "similar_to": null,
+    "ai_reason": "大雨警報の発表を伝えるだけの当日限りの気象速報記事のため除外（2026-08-13追加ルール）"
   }
 ]
