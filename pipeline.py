@@ -59,7 +59,7 @@ HEADERS = {
 TIMEOUT = 15
 JST = timezone(timedelta(hours=9))
 
-CATEGORY_ORDER = ["話題・その他", "市政・行政", "イベント・文化", "開発・暮らし", "開店・閉店", "鎌ヶ谷・白井", "ジョイフル本田千葉ニュータウン店", "イオンモール千葉ニュータウン", "牧の原モア"]
+CATEGORY_ORDER = ["市政・行政", "話題・その他", "イベント・文化", "開発・暮らし", "開店・閉店", "鎌ヶ谷・白井", "ジョイフル本田千葉ニュータウン店", "イオンモール千葉ニュータウン", "牧の原モア"]
 KAITEN_KEYWORDS = ["開店", "閉店", "オープン", "クローズ", "NEW OPEN", "new open"]
 
 REGULAR_RETENTION_MONTHS = 3
