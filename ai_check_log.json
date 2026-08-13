@@ -2944,5 +2944,13 @@
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE5ibGNEbDlMV3BpdUJlel9nZGJqSjE5R1RPQUhiQTJPVXQ4RFl4YWRIcVB6MnBKSXZrb1FLY2M3VWYwZ2drbmRfV1VSOVAwWWJMWGhaRmx3SGotVVBOdmhIdlNB?oc=5",
     "similar_to": "印西シティリレーマラソン 2026",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260813-1455",
+    "date": "2026-08-13",
+    "ai_decision": "exclude",
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1LczdNdGtsZy1NUXNoQUVIOUstMWxOcno2QjNvWVYzaWdlWXN4OEg5WWdyQ0hLRE9UTnNJUTZQYlc2V3kyOVhIY2FFN2VsTjJERllOS3VqN1FVRkFT?oc=5",
+    "ai_reason": "ユーザー指示により、警報等の当日限りの天気関連記事は採用しない方針に変更。事後除外。"
   }
 ]
