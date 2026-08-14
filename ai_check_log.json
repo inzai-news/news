@@ -3464,5 +3464,35 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000018.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260814-1537",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9sNEZDS29aQ2JqR0JrOE9JcXNlcjBYX2RTTzhQRU1iQkJpRG51VVZMdlkzbG45UndDSGU1TlJkMF9mNHZaVVRxSktVWHRCQ3Z2NG13UkdyVFRjazF5RWsw?oc=5",
+    "similar_to": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260814-1537",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル５大雨特別警報】千葉県・我孫子市、印西市に発表 19:50時点 (2026年8月13日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9aU0R4Zi1JS0xRdlVOSXJpZmxEVlVZR2RqcE9RWUNYc056NEhRMXpqSEFpMTJPNXgzOVRTRklSNjk3UkY2RUI1aE5FWGtqQmZIa284azF3OUJiT0lxOHc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-1537",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 最新の社会ニュース【随時更新】",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBEVjJSZFRsc0ZuMXUzSDdOajZfdWJrLWQ3QU1OYzRKbWhmR1NJLXlrOHYzOURMTHk4WEh1ZVRqRkJqeGRDTlp4eUpSZVdiNHh3dU03elNDTUNpdUE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]

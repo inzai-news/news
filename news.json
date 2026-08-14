@@ -468,8 +468,8 @@
     "title": "パスポートのオンライン申請　システムメンテナンスについて",
     "link": "https://www.city.inzai.lg.jp/0000021804.html",
     "desc": "",
-    "pub_iso": "2026-07-15T18:00:01+09:00",
-    "pub_str": "2026年7月15日",
+    "pub_iso": "2026-08-14T10:00:01+09:00",
+    "pub_str": "2026年8月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -953,7 +953,7 @@
     "pub_iso": "2026-06-30T16:00:00+09:00",
     "pub_str": "2026年6月30日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1482,7 +1482,7 @@
     "title": "【運行開始】ふれあいバスは8：00から運行を開始します。",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
-    "pub_iso": "2026-08-14T07:57:51+09:00",
+    "pub_iso": "2026-08-14T12:57:43+09:00",
     "pub_str": "2026年8月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -2072,10 +2072,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "キャンプファイヤー",
+    "publisher": "CAMPFIRE (キャンプファイヤー)",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3583,6 +3583,30 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-14T09:04:25.941060+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【令和8年8月16日（日曜日）】市制施行30周年記念事業HORNS UP FESを開催します",
+    "link": "https://www.city.inzai.lg.jp/0000022341.html",
+    "desc": "",
+    "pub_iso": "2026-08-14T13:03:56+09:00",
+    "pub_str": "2026年8月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-14T15:37:35.663672+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "8月14日の家庭ごみの収集は通常どおり行われます",
+    "link": "https://www.city.inzai.lg.jp/0000022345.html",
+    "desc": "",
+    "pub_iso": "2026-08-14T09:00:00+09:00",
+    "pub_str": "2026年8月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-14T15:37:35.663672+09:00",
     "retention_type": "regular"
   }
 ]
