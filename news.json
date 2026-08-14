@@ -718,11 +718,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "信息印西「中国語」 ～外国人市民のための広報紙～",
+    "title": "inzai Newsletter【中文】 ～外国人市民のための広報紙～",
     "link": "https://www.city.inzai.lg.jp/0000015770.html",
     "desc": "",
-    "pub_iso": "2026-07-07T13:10:41+09:00",
-    "pub_str": "2026年7月7日",
+    "pub_iso": "2026-08-14T08:55:05+09:00",
+    "pub_str": "2026年8月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -953,7 +953,7 @@
     "pub_iso": "2026-06-30T16:00:00+09:00",
     "pub_str": "2026年6月30日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -975,7 +975,7 @@
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -997,7 +997,7 @@
     "pub_iso": "2026-05-26T16:00:00+09:00",
     "pub_str": "2026年5月26日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1479,11 +1479,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "北総線・京成成田線（成田スカイアクセス線）は、雨の影響により、遅れと運休がでております。",
+    "title": "【運行開始】ふれあいバスは8：00から運行を開始します。",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
-    "pub_iso": "2026-07-17T15:36:11+09:00",
-    "pub_str": "2026年7月17日",
+    "pub_iso": "2026-08-14T07:57:51+09:00",
+    "pub_str": "2026年8月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -1588,16 +1588,6 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=13161&store=chibant",
     "pub_str": "2026年7月10日",
     "event_end_date": "2026-08-11",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "おがわさくら先生による「夏休みポスター作り教室」（2026年08月10日(月)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13160&store=chibant",
-    "pub_str": "2026年7月9日",
-    "event_end_date": "2026-08-10",
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
@@ -2005,17 +1995,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "（千葉）印西市大塚１丁目で下半身露出　４月１７日",
-    "link": "https://news.google.com/articles/CBMinAFBVV95cUxNSkkyWEhsTTJVaHZIdGNOR0ZTUThsQjYxSkdEQ3dNT1ZFaWphUU5OXzZmcUptTzFKQU9CcDRXeTZnUUVnbzFBR2Z1YkhkNDdSWkxpb19wbWZXZlpISEdraEl4czZfY0EzTW5iNmFZa09CVWoweXNabjBoOGl4ZXZjT0J4OHdMb2QzbFQtUHFsMWstY2QxYlVsanhVLWTSAaIBQVVfeXFMTUthMGVLanZyQUtrTnp3N3dtS3dnY0tGa2JHV2k1VzFsa3MxODdub3ZIU24yUW9XYkRiZ1JMTjhuc3RUQnE0Um1fSEtvdDRZVXZObW1ubGJOSEtNMzF1WGdYUkpIUHlxcHZxcFRRSHJLM2wxbm15aGVUSFJDUmxoQlZJTFhLUkhSVEFKZnEwMVhVaTdYM2FvTVhRdElNZFRQT0Vn?oc=5",
-    "desc": "（千葉）印西市大塚１丁目で下半身露出　４月１７日  ｄメニューニュース",
-    "pub_iso": "2026-05-13T16:00:00+09:00",
-    "pub_str": "2026年5月13日",
-    "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-chiba",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
     "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
@@ -2093,10 +2072,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "CAMPFIRE (キャンプファイヤー)",
+    "publisher": "キャンプファイヤー",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3101,10 +3080,10 @@
   {
     "title": "千葉県印西市、全市立中3生へオンライン国際交流授業を本格導入 生成AIと実践交流で英語力強化",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTFBfNTdxMWZVN2hUU0ZleHBBWjAwU2JYcDE2dV9YS2ZZaTFWSEQ1ampPT21PQjAwTHpqaHdyczFCRFpvZlZwem5SWi1kOEplX0d5REE0?oc=5",
-    "desc": "千葉県印西市、全市立中3生へオンライン国際交流授業を本格導入 生成AIと実践交流で英語力強化  kknews.co.jp",
+    "desc": "千葉県印西市、全市立中3生へオンライン国際交流授業を本格導入 生成AIと実践交流で英語力強化  教育家庭新聞社",
     "pub_iso": "2026-08-07T07:03:57+09:00",
     "pub_str": "2026年8月7日",
-    "publisher": "kknews.co.jp",
+    "publisher": "教育家庭新聞社",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -3351,7 +3330,7 @@
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
     "publisher": "xtech.nikkei.com",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
     "retention_type": "regular"
@@ -3557,6 +3536,53 @@
     "source": "prtimes-inzai-city",
     "category": "市政・行政",
     "collected_at": "2026-08-13T21:11:14.371152+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ジオラマ講師・瀬川たかし先生による1日体験講座「市街地戦闘の情景」（2026年09月13日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14310&store=chibant",
+    "pub_str": "2026年8月14日",
+    "event_end_date": "2026-09-13",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-08-14T09:04:25.941060+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "inzai Newsletter「やさしい日本語版」～外国人市民のための広報紙～",
+    "link": "https://www.city.inzai.lg.jp/0000015769.html",
+    "desc": "",
+    "pub_iso": "2026-08-14T08:55:21+09:00",
+    "pub_str": "2026年8月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-14T09:04:25.941060+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉ニュータウン地域等における下水道の使用自粛のお願い",
+    "link": "https://www.city.inzai.lg.jp/0000022344.html",
+    "desc": "",
+    "pub_iso": "2026-08-14T05:00:23+09:00",
+    "pub_str": "2026年8月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-14T09:04:25.941060+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "『初めての手話講習会』を開催します。",
+    "link": "https://www.city.inzai.lg.jp/0000022135.html",
+    "desc": "初めての手話講習会（全8回）のご案内ページです。",
+    "pub_iso": "2026-08-14T00:00:00+09:00",
+    "pub_str": "2026年8月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-14T09:04:25.941060+09:00",
     "retention_type": "regular"
   }
 ]

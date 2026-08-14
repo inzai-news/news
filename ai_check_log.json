@@ -3334,5 +3334,135 @@
     "title": "【特別警報】千葉・我孫子市、印西市にレベル5大雨特別警報 対象は14の市 気象庁と国土交通省が午後8時半から緊急会見",
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE1tM05PODBhdmhCclZoSWhXeHJsRDhOVjlwUkowaVJXWUVfYk5nYVBhbTlHb1FPNE53cGlKTzFWSmhySzdzTkVIVE1yMlVjUQ?oc=5",
     "ai_reason": "気象警報(大雨特別警報等)の発表を伝えるだけの当日限りの速報記事のため事後除外。source側で既にカテゴリ(鎌ヶ谷・白井等)が設定済みだったためreview_queueを経由せず自動採用されていたケース。"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "inzai Newsletter～外国人市民のための広報紙～",
+    "link": "https://www.city.inzai.lg.jp/0000013510.html",
+    "similar_to": "inzai Newsletter「やさしい日本語版」～外国人市民のための広報紙～",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル５大雨特別警報】千葉県・我孫子市、印西市に発表 19:50時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1iMHlpdEtfaXNQVlJ0eHhlbHJHQkNCZ1h6RTFwekhialFVaWhURFBGZXF2NjB2b2tkSWlmMm9Sdy05djI1V0dOd1gxWEJxUi1oUUQzVURaMA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 – Quebee キュエビー",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1NQ19LT20wbkx4RXZpdk1aejlscmZ5NlZ1S3lMZ2NoamJwbF9JcWJ5a2VSTUUxclQ2OHFQb1ZjRFVuLUVYZnUyb0tzc2pZMXUzOWt0MTJoWi0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表（18:58時点）",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxPVjZjMkZvODhBNnJRWl92cXhYNS1palRrX2kyNWowWm5ZdUpfRlZieWZ0b2NiR282TldpMWllUDNNYUpJLVZNZkRENnVhMXc1Q0JuNmRLMnFmMVZIbnhJelRNQU80RjNoUDVmV3dsMjhfdnUtS2RQdE1nd3lOdktYMnRsbXRNTnoxRHRwVU93?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市（テレビ朝日系（ANN））",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBFLTJDVXBLelA3ZGt6R250SVpPT1hCVFdNWnllTVF2WTgzaHIteW5vUVJTQ1B4dmFkOUFicmU0M0hKQ2dwRU9BRW1CY3F3RjZmQ1pUZmUycjZDMDBhc3F6TmNUTkZXTFlBLXktRmthSEt5R3g2Vlo5Wm9femRzdzA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報　我孫子、印西2市にも　計14市",
+    "link": "https://news.google.com/articles/CBMihwFBVV95cUxOVW5UTHBYSmJzNm8yZm9ITC1CWjFuOGtLTFN1UUdDSTJZck9YQ1Z3WEFMZHFvX0RmWGRYeFl2Rm5mZEFNb1gyNWFJV204ZkZFY0FKS1BjMy1LWFhTdVVQdTlaNzNOWk9XLWViLVppV25qc0pRdUthMGE0R3RzVlh6SlVsRFFOa2vSAYwBQVVfeXFMUDhDRk9paHB5UnFQX3EzT3Zfb04zTjlSdDd6VU9aQUprWE9TSDF4OERKZmNUeWFaYnVYOXhCUE1Dc0c2dkFIZ1UtWkowUWRYX2lNblNENERZbDVKeG5DMldQY1BKcDlRQmtZeTRxa1R1UnRTOFZTWFhYRWZqYXp1OEF3Q2Vxc1FabHhRczk?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1nM09Jemo0SGRWVEEyc3RxMk8xeDJTaUI5eEZZMXFld1V0VTFDbzNWbXdseWVxRHRIZzVpQ0YzUTJmWFhKRy0yRDBXYUJQRU11UVJkaV9xMA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル5大雨特別警報】千葉県・我孫子市、印西市に発表 19:50時点 (TBS NEWS DIG Powered by JNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxPWDdFbERvbUhkazV0Q3RyemNhOHgwQ1U3SFhvYmxFelJVX1dsREpRYUZhNHRqSUJGUi1PUWd5REZtTFo2WFg1YVp4ejJzdmNDYk91aENMQnlRSU1tbUVBVkphQjJEUTZEenpSdTRsaHNlOHFreEZQWFBnSm1JT0JsMFpGZEhZem1zeFFSQS1R?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "我孫子市、印西市にレベル5 大雨特別警報【午後7時50分】 (日テレNEWS NNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxNN0hoQ05wblpDMU1sUFpYRTRyWGV5TG56ejFtbVFPaVdKNjFZVklGd0IzQXRHdXgxRksyVVhjalNyUkdKMWtMVVc5ZnRLSDl4dl9PNGZ0Q2hUY1cxbHVTUXBERWhfUExrZVhtU01Nc3oxNHl6a1J3VEJCcHk3VEdGNGxsTGxFZWVJLTF3WjFB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiggFBVV95cUxPZVRPQTRRUWFMQUtTUzJBY1QzbHlzV0hsS0M5U3BKYkhYZnVjWFA2REpTWjlqSC1aeDBrZGR2VXFTa21BZV96MkJ6dVpHM2hHcVVNWEd1cFhqeUozWHVVV3FxXzBUUkh4MHV5c2hfMFpULXdWcjdvZDNwNUY0S2ZMbWxR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE9tY1VhZUlOZ2NZRzFVYzRkZEVvSElfQk9EbjdQY2VaNW8yNXVqZHg5RVI3TDB5X2ZoUkhxM0pWcGgyaHRfY1Q5TWpWcTRMNmlMaTlCaXlWUHBqR0RZMlpQZlBVR0lld2NaOVRLbE95ZlNNSVZT0gF0QVVfeXFMT21jVWFlSU5nY1lHMVVjNGRkRW9ISV9CT0RuN1BjZVo1bzI1dWpkeDlFUjdMMHlfZmhSSHEzSlZwaDJodF9jVDlNalZxNEw2aUxpOUJpeVZQcGpHRFkyWlBmUFVHSWV3Y1o5VEtsT3lmU01JVlM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE9raXlXcFBFTzNwclp2MWtaZU1kYW0tYlVPY3hweUJTdHdKRlZidnJyeDlDakg0VnIyMDFBeGptVGF6Ti03MVJ3TkRKNTk2TVlvdTJvNEtjRDl1a21qZ1BkX1ZCbzBibVVPVmNj?oc=5",
+    "similar_to": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260814-0904",
+    "date": "2026-08-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】給食で30周年を祝う！“規格外の梨”を活用したSDGsメニューを市長と実食。地元農家の想いを繋ぐ食育ランチ会を開催",
+    "link": "https://prtimes.jp/main/html/rd/p/000000018.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
