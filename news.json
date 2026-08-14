@@ -779,7 +779,7 @@
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -872,10 +872,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "レッツエンジョイ東京",
+    "publisher": "enjoytokyo.jp",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -997,7 +997,7 @@
     "pub_iso": "2026-05-26T16:00:00+09:00",
     "pub_str": "2026年5月26日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1479,10 +1479,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "【運行開始】ふれあいバスは8：00から運行を開始します。",
+    "title": "印西市の公共交通のご案内",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
-    "pub_iso": "2026-08-14T16:45:41+09:00",
+    "pub_iso": "2026-08-14T20:11:14+09:00",
     "pub_str": "2026年8月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -1868,10 +1868,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
+    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "選挙ドットコム",
+    "publisher": "go2senkyo.com",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2070,12 +2070,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
+    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！ - camp",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  camp-fire.jp",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "CAMPFIRE (キャンプファイヤー)",
+    "publisher": "fire.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3629,6 +3629,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-14T18:47:20.431959+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「ココハレまつり2026～わっしょいをめでる。～」が8月15日（土）イオンモール千葉ニュータウンで開催！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/14/kocoharematsuri2026/",
+    "pub_str": "2026年8月14日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-08-14T22:38:51.988538+09:00",
     "retention_type": "regular"
   }
 ]

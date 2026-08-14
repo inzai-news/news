@@ -3494,5 +3494,75 @@
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBEVjJSZFRsc0ZuMXUzSDdOajZfdWJrLWQ3QU1OYzRKbWhmR1NJLXlrOHYzOURMTHk4WEh1ZVRqRkJqeGRDTlp4eUpSZVdiNHh3dU03elNDTUNpdUE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル５大雨特別警報】千葉県・我孫子市、印西市に発表 19:50時点",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE9adW03dlBLbXJRbWRYMEdOUnp1YlNjTVUxRmFPU2J2c2RnV21SbUZsd0JLQ0pubFhYNDR3MGFsOUZJVTZEMzQxSkxUNlNaa2ljTGc5Rjd6ODZETW5DTXZwVHp6ZUNfNmVJTEdDTE05ONIBdEFVX3lxTFBaMVQzWTFfSkczdE1WZ1M1Y25nS3FXMl9qbmRzTFF4dlVEMndwY2IzelphUC13ajRpcTd2S0tPNW5uRkxzMjRPNHZENWRLUDNlRkNIWUhHaHFhRkdRYnY4Tjk4QUVVTmhqYmpVampaQmVxcnl3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE1MV0V5RUNsU3dKbXhIR0NSdk8wTExCUm9jbTFqY3dhUnhqTjlnUlVDUF9kaElDa21XWlFFWkl0WHhzQWtIbUhMTVNWZmFLWEVISG9lWmJFUlpGejQxX1lqOXJYakdLN205TlpwalpB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報（日テレNEWS NNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE1Fd1JfM1plal85bmtyZmctOGhlUmhVNEh4cFhHWG1UOVk2bG9ROGg5RlY4bmhlTlJtaklIME1WN3BrMjZndERCMmZMaV94cUF6TmpMZE4tRGpXSXlhTFlXNTZpYVl2NEpPWlhCb0NRRUs4U0N6QmZNai1nNlc4elE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４大雨危険警報】千葉県・印西市、白井市に発表 17:44時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE05V0lNMXRmU1p5VVNEd1JUZ2tRVkR4NVVpSk5Qc3FyU21lQXMwaHZJeEpFaWV1Vm5Xc3BXNlUxSlVtTE5yd0NKcDZIZW1UaW90OTVRMTdlNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点 (TBS NEWS DIG Powered by JNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxPcFJQZG4wQlJnZUZ2cTV1amdZZW9JY3E5Q1pBRXZTWk0zeGkyS2J4LUhZRlJQT3VOMXhEQWxkU0tPVW5sM29iUURvUXJ2S3VtWUpWM0FNaXd2a25iTTlFem9PZGRVSWFsWTVNN3RTRlp1bF9oTUFZUU1QLTc5VndZaElPV3hVekFYa0N4ZGdB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・鎌ケ谷市、印西市に発表 17:44時点",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFBqNmZybWhsTXo4aWFYZzM5V1QwMURDeXpXMVh4VHFPSjJ4Y2tNUzJBQktfVU91dGpaMjV1SVEtdUxPdVJjTVJOMXpSWjRYcDdyU0RzN21hbldBdVpMXzNQSFpBTkVTOFIzN2VWN0lqU1p2SURQbWFHYg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260814-2238",
+    "date": "2026-08-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル５大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE0taTA2NnlnYkNqaG10VEQzRUF6VzNYTEt6ZUhBcm9yU1NpSUpwZktxdV80Uy1WYWdSQ1JEUEhYaGpkamNadmx1bE43di1CbDlTcFc4U0tn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
