@@ -3653,5 +3653,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBmVXdwZ1RqREhadU00MGpTTjhzaUQtal9kbFc4U0J6dW5GYjFmSE9vNllCVUNBYmZwV05HUFlUQnhIdXNUSV9mSWVVTTc0SGk1QjR1N1BleUJta2NTa3RZ?oc=5",
     "similar_to": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260816-0031",
+    "date": "2026-08-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「印西市で人気のラーメン」ランキングTOP10！ 1位は「喜楽」【2025年2月版／Googleクチコミ】",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE1LUWNMWmtNUjVkQl9ZT2NkUjc5Y2tSWnVqMEFYVGt0X2lIN3c5dmY3VVBMc2hBeXpPTzVpZ0tNOTZrUTdBUm04Z2NiM21mUGhqcVgzR29aTHpsMV9GZzBMRFBSbw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
