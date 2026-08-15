@@ -3600,14 +3600,15 @@
     "retention_type": "regular"
   },
   {
-    "title": "牧の原テーブル レストラン／ショップ　閉店のお知らせ",
+    "title": "【2026年08月30日 閉店】牧の原テーブル レストラン/ショップ",
     "link": "https://www.makinohara-more.com/event-topics/%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%ef%bc%8f%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%80%80%e9%96%89%e5%ba%97%e3%81%ae%e3%81%8a/",
-    "pub_str": "2026年8月14日",
+    "pub_str": "2026年08月30日",
     "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "collected_at": "2026-08-14T18:47:20.431959+09:00",
-    "retention_type": "regular"
+    "source": "開店閉店情報",
+    "category": "開店・閉店",
+    "desc": "",
+    "collected_at": "2026-08-15T14:46:00.770953+09:00",
+    "retention_type": "store_event"
   },
   {
     "title": "いんざいふるさと産業まつりの見直しについて",
