@@ -1802,10 +1802,13 @@ def render_item(item, new_links):
     data_pub = (' data-pub="' + d.isoformat() + '"') if d else ""
     title = kaiten_label(item)
     new_html = '<span class="new-badge">新着</span>' if item.get("link") in new_links else ""
+    # announce_str(記事発表日)があれば日付欄はそちらを優先表示する。開店・閉店情報は
+    # pub_strに開店/閉店の実施日を入れる設計のため、記事が実際に発表された日を別途知りたい場合に使う
+    date_text = item.get("announce_str") or item.get("pub_str", "")
     return (
         '<a class="news-item"' + data_pub + ' href="' + html.escape(item["link"]) + '" target="_blank" rel="noopener">'
         + '<span class="news-title">' + html.escape(title) + "</span>"
-        + '<span class="news-date">' + html.escape(item.get("pub_str", "")) + pub_html
+        + '<span class="news-date">' + html.escape(date_text) + pub_html
         + '<span class="today-badge" style="display:none">今日</span>' + new_html + "</span>"
         + "</a>"
     )
@@ -2262,6 +2265,8 @@ def cmd_store_add(args):
         "category": "開店・閉店",
         "desc": args.desc or "",
     }
+    if getattr(args, "announce_date", None):
+        item["announce_str"] = args.announce_date
     item["collected_at"] = datetime.now(JST).isoformat()
     item["retention_type"] = compute_retention_type(item)
     by_link[args.link] = item
@@ -2316,6 +2321,7 @@ def main():
     p_add.add_argument("--link", required=True)
     p_add.add_argument("--publisher", default="")
     p_add.add_argument("--desc", default="")
+    p_add.add_argument("--announce-date", default="", help="元記事の発表日(YYYY年M月D日)。見出しの日付欄はこちらを優先表示する")
     p_add.set_defaults(func=cmd_store_add)
 
     p_star = sub.add_parser("store-star", help="開店閉店.txtの店舗に★を付与")

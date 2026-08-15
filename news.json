@@ -3607,7 +3607,8 @@
     "source": "開店閉店情報",
     "category": "開店・閉店",
     "desc": "",
-    "collected_at": "2026-08-15T14:46:00.770953+09:00",
+    "announce_str": "2026年8月14日",
+    "collected_at": "2026-08-15T14:54:08.662915+09:00",
     "retention_type": "store_event"
   },
   {

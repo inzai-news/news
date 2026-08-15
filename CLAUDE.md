@@ -78,7 +78,8 @@ AI判定除去件数  ：{apply-reviewの「除外」件数}
 
 1. `python pipeline.py store-pending` で未処理店舗一覧を取得する（6か月経過した処理済み店舗は自動的にtxtから削除される）。
 2. 各店舗についてWeb検索で開店/閉店情報を調査する。
-3. 情報が見つかったら `python pipeline.py store-add --store "店名" --date "YYYY年M月D日" --type 開店|閉店|リニューアル --link "URL" --publisher "情報源名"` で登録する（`news.json` に `category: 開店・閉店`, `retention_type: store_event`（6か月保存）として追加される）。ユーザーから直接URL・タイトル・開店日を指定された場合はWeb検索を省略してそのままstore-addしてよい。
+3. 情報が見つかったら `python pipeline.py store-add --store "店名" --date "YYYY年M月D日" --type 開店|閉店|リニューアル --link "URL" --publisher "情報源名" [--announce-date "YYYY年M月D日"]` で登録する（`news.json` に `category: 開店・閉店`, `retention_type: store_event`（6か月保存）として追加される）。ユーザーから直接URL・タイトル・開店日を指定された場合はWeb検索を省略してそのままstore-addしてよい。
+   - **`--date`と`--announce-date`の違い**（2026-08-15追加）: `--date`は開店/閉店の実施日で、タイトル「【日付 種別】店名」・`pub_str`（掲載期限の起算日）の両方に使われる。`--announce-date`は元記事(告知記事)が実際に発表された日で、指定すると`announce_str`として保存され、見出しの日付欄（`news-date`）はこちらを優先表示する（未指定なら従来通り`pub_str`＝実施日を表示）。「見出しの日付欄は記事発表日にしてほしい」という要望を受けて追加した。掲載期限判定・並び順は`--date`のまま変更していない（開店閉店情報は実施日ベースで6か月保持する設計を維持するため）。元記事の発表日が分かる場合は`--announce-date`も併せて指定するのが望ましい。
 4. 特定できなかった店舗は `python pipeline.py store-star --store "店名"` で★を付け、以後の調査対象から外す。
 5. 処理後、続けて通常の更新手順（1〜6）を流すかユーザーに確認する。
    - **store_eventの保護**: store-addで登録した記事と同じリンクが、後から別ソース（グルメRSS等）で通常収集されても、`collect`時のマージ処理（`cmd_collect`のprev/item統合部分）は`retention_type: store_event`の既存記事を一切上書きせずスキップする（タイトル・カテゴリ・保存期間すべて手動登録の内容を正とする。2026-07-25追加。以前はカテゴリだけでなくタイトル・出典元(source)まで別ソース側の内容で上書きされ、`kaiten_label()`がタイトル先頭の「【日付 開店】」パターンを検出できず「開店日不明」表示になる不具合があった）。
