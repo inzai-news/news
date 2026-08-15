@@ -2267,15 +2267,23 @@ def cmd_store_add(args):
     }
     if getattr(args, "announce_date", None):
         item["announce_str"] = args.announce_date
-    item["collected_at"] = datetime.now(JST).isoformat()
+    # 既存登録の情報を修正するために同じlinkでstore-addを再実行するケースがあるため、
+    # 既にcollected_atを持つ場合はそれを維持する(新規登録時のみ現在時刻をセットする)。
+    # 毎回リセットすると、内容を修正しただけの記事が「新着」「今日」バッジ扱いになってしまう(2026-08-15)。
+    prev_item = by_link.get(args.link)
+    if prev_item and prev_item.get("collected_at"):
+        item["collected_at"] = prev_item["collected_at"]
+    else:
+        item["collected_at"] = datetime.now(JST).isoformat()
     item["retention_type"] = compute_retention_type(item)
     by_link[args.link] = item
     today = date.today()
     final_items = [it for it in by_link.values() if not is_expired(it, today)]
     save_json_atomic(NEWS_PATH, final_items)
     # store-addはcollect/apply-reviewの外側で動くため、ここで明示的に「新着」バッジ対象に加えないと
-    # 手動登録した開店・閉店情報にバッジが付かない
-    mark_new_badge_links({args.link})
+    # 手動登録した開店・閉店情報にバッジが付かない(ただし既存登録の修正時は「新着」バッジを再度付けない)
+    if prev_item is None:
+        mark_new_badge_links({args.link})
     print(f"登録しました: {title}")
 
 
