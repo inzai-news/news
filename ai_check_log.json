@@ -3633,5 +3633,15 @@
     "link": "https://news.google.com/articles/CBMieEFVX3lxTE1ZMk9Ta2pUOHp6WjEtNTFYMlh6dzdNZlV1MnNTY3lsRUV5SWE4WWFFVVRSRVhNclVMbTR5UlBlbG5JSUM0R0dxZWQ2XzVFbzhNZnJiMWlOY25ydThoSEhNQkMwbWhEdWo1QkZpMnRvVmZMb1Rsd3VIYg?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260815-1843",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "道路冠水により吉田・岩戸線の一部区間を通行止めにしています（令和8年8月15日更新）",
+    "link": "https://www.city.inzai.lg.jp/0000022351.html",
+    "similar_to": "道路冠水により師戸・江川線の一部区間を通行止めにしています（令和8年8月15日更新）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
