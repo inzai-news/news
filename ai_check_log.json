@@ -3564,5 +3564,45 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE0taTA2NnlnYkNqaG10VEQzRUF6VzNYTEt6ZUhBcm9yU1NpSUpwZktxdV80Uy1WYWdSQ1JEUEhYaGpkamNadmx1bE43di1CbDlTcFc4U0tn?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260815-1430",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE1KRExNakg4UUY4cmFyVlR3STlyQUcxNXpMTHIwYmJodzN6RnUyamRmSkxWaEJGOGRIS3dScTZLekVaeFVLVFpqUEhaalpkbDR6UHc1b0hLTjZBU0s0emFuUGxxalNpTnFNY3drc2Q2RVhTazNpZHM0Ng?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260815-1430",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報　我孫子、印西2市にも　計14市",
+    "link": "https://news.google.com/articles/CBMijAFBVV95cUxQOENGT2locHlScVBfcTNPdl9vTjNOOVJ0N3pVT1pBSmtYT1NIMXg4REpmY1R5YVpidVg5eEJQTUNzRzZ2QUhnVS1aSjBRZFhfaU1uU0Q0RFlsNUp4bkMyV1BjUEpwOVFCa1l5NHFrVHVSdFM4VlNYWFhFZmphenU4QXdDZXFzUVpseFFzOdIBjAFBVV95cUxQOENGT2locHlScVBfcTNPdl9vTjNOOVJ0N3pVT1pBSmtYT1NIMXg4REpmY1R5YVpidVg5eEJQTUNzRzZ2QUhnVS1aSjBRZFhfaU1uU0Q0RFlsNUp4bkMyV1BjUEpwOVFCa1l5NHFrVHVSdFM4VlNYWFhFZmphenU4QXdDZXFzUVpseFFzOQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260815-1430",
+    "date": "2026-08-15",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「全農のお肉工房 印西店」オープン",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE44Yi1BM2UzLUo2Rmtkc0V5emxyR0lxMm9jN1dLS3BqdDhLVGM4Ymg0RU92WDd3eS16dFp4Ny1WZ3NKdUNveUpJTnNGcmdKcW0tREhTcWRwbVQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260815-1430",
+    "date": "2026-08-15",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "利根川木下（千葉県印西）(印西市)付近のライブカメラ",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9xOHlnZzI3VFFKUGtjMk55OU1KUVl5QmUyTHVoT1NqeXZaZ1dCWG1QTnhTQXBNRE9EYlpyRW90QzMyYmhheXFvczdqRjBnMTM4TWFBVklzLXBHLWFfZ1hGbHUwX0w3U0pp?oc=5",
+    "similar_to": null,
+    "ai_reason": "ニュース記事ではなくウェザーニュースのライブカメラ案内ページ(固定ページで日々の出来事を伝えるものではない)のため除外"
   }
 ]
