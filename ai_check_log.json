@@ -3643,5 +3643,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022351.html",
     "similar_to": "道路冠水により師戸・江川線の一部区間を通行止めにしています（令和8年8月15日更新）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260815-2143",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBmVXdwZ1RqREhadU00MGpTTjhzaUQtal9kbFc4U0J6dW5GYjFmSE9vNllCVUNBYmZwV05HUFlUQnhIdXNUSV9mSWVVTTc0SGk1QjR1N1BleUJta2NTa3RZ?oc=5",
+    "similar_to": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
