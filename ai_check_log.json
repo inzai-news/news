@@ -3604,5 +3604,14 @@
     "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9xOHlnZzI3VFFKUGtjMk55OU1KUVl5QmUyTHVoT1NqeXZaZ1dCWG1QTnhTQXBNRE9EYlpyRW90QzMyYmhheXFvczdqRjBnMTM4TWFBVklzLXBHLWFfZ1hGbHUwX0w3U0pp?oc=5",
     "similar_to": null,
     "ai_reason": "ニュース記事ではなくウェザーニュースのライブカメラ案内ページ(固定ページで日々の出来事を伝えるものではない)のため除外"
+  },
+  {
+    "run_ts": "20260815-1436",
+    "date": "2026-08-15",
+    "ai_decision": "exclude",
+    "title": "【関東80店舗目！】京都北白川 ラーメン魁力屋「ジョイフル本田千葉ニュータウン店」(千葉県印西市)が2026年7月6日(月)にグランドオープン！",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE5EQl9RRkROWVR2UXN5YmlMUmJaZWlKdmQ3LUNiNGQ3WVVXb0xqQkxGdTFQbkRWd3o3SE4zcmVPWVZRdUdfd25IMWo4czJxOWg4NGJvQUJ5UWFDYmVTa0RmVl94UjhEY2RrS3c?oc=5",
+    "similar_to": "【2026年7月6日 開店】京都北白川 ラーメン魁力屋 ジョイフル本田千葉ニュータウン店",
+    "ai_reason": "既にstore_eventとして登録済みの開店記事(印西とぴっく)と同一内容のPR TIMES配信記事のため、ユーザー指摘により事後除外。"
   }
 ]
