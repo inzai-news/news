@@ -1306,6 +1306,12 @@ def cmd_collect(args):
         it for it in existing_items
         if (parse_pub_str(it.get("pub_str", "")) or today) >= recent_cutoff
     ]
+    # store_eventは保存期間が180日と長く、PR TIMES等での再配信がpub_str上の発表日から
+    # 大きく遅れて(1か月以上後に)Google Newsに出てくることがあるため、店名部分一致チェックは
+    # recent_pool(30日窓)に限定せず、保持期間中の全store_eventを対象にする(2026-08-15追加。
+    # 「関東80店舗目！...グランドオープン」というPR TIMES記事が、pub_str上は既存store_event
+    # (7/6開店)より46日遅れて収集されたため30日窓から外れており、重複検出をすり抜けた実例あり)。
+    store_event_pool = [it for it in existing_items if it.get("retention_type") == "store_event"]
 
     existing_queue = load_json(REVIEW_QUEUE_PATH, [])
     pending_review_links = {e["item"]["link"] for e in existing_queue}
@@ -1433,16 +1439,17 @@ def cmd_collect(args):
         # 類似度に関わらず要確認(needs_dedup_review)に回す(自動除外はしない。強盗事件等
         # 別の話題の可能性もあるため、必ず人手/AIで内容を確認させる)。
         store_match_item = None
-        # 店名・記事タイトルとも空白の有無で表記揺れがある(例:「くるまやラーメン 印西木下東店」)ため、
-        # 空白を除去してから部分一致を見る
-        candidate_title_nospace = re.sub(r"\s+", "", item["title"])
-        for other in recent_pool:
-            if other.get("retention_type") != "store_event":
-                continue
+        # 店名・記事タイトルとも空白の有無や括弧の有無で表記揺れがある
+        # (例:「くるまやラーメン 印西木下東店」、「魁力屋「ジョイフル本田千葉ニュータウン店」」)ため、
+        # 空白と主要な括弧・引用符を除去してから部分一致を見る
+        def _normalize_for_match(s):
+            return re.sub(r"[\s「」『』()（）\"'　]+", "", s)
+        candidate_title_norm = _normalize_for_match(item["title"])
+        for other in store_event_pool:
             store_name = extract_store_event_name(other.get("title", ""))
             if not store_name:
                 continue
-            if re.sub(r"\s+", "", store_name) in candidate_title_nospace:
+            if _normalize_for_match(store_name) in candidate_title_norm:
                 store_match_item = other
                 break
         if store_match_item is not None:
