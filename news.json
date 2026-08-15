@@ -1479,11 +1479,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西市の公共交通のご案内",
+    "title": "【運行開始】路線バスの印旛学園線と順大線は運行を開始しました。",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
-    "pub_iso": "2026-08-14T20:11:14+09:00",
-    "pub_str": "2026年8月14日",
+    "pub_iso": "2026-08-15T14:46:51+09:00",
+    "pub_str": "2026年8月15日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -1858,10 +1858,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
+    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "選挙ドットコム",
+    "publisher": "go2senkyo.com",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2801,10 +2801,10 @@
   {
     "title": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTFBSbEdILVBuVlJQLVkyWV9ZNkNoeTNOZWpYelJNZk9YZDlBZkh4dUdMWVBCRWEyQ1FyUmdoODdhcnZoV0FGS1RXWTVBS0Q4eHA4a0Q0ckJaZDdfVFY5VXVscHdsX1BmSWRWQVFJWmU0dTIxUDhLbG9oRkNuSnYxeDg?oc=5",
-    "desc": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）  Yahoo!ニュース",
+    "desc": "「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）  news.yahoo.co.jp",
     "pub_iso": "2026-08-04T16:00:00+09:00",
     "pub_str": "2026年8月4日",
-    "publisher": "Yahoo!ニュース",
+    "publisher": "news.yahoo.co.jp",
     "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -3338,10 +3338,10 @@
   {
     "title": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)",
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTE5vajVEX3NyRUo0bmFURVd5ZjNheTdpblhaTlVlQ1VVdGdpTUpIZTIyeTdDMmF1Y3NTbGk0M0dUYzJLblJkS2U2VWZOTDZCUks3WWVLQlB5S2M5Q0k?oc=5",
-    "desc": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)  Mshale",
+    "desc": "【印西市と茨城県の未開通道路に向けて】家から遠いので中々行けなかった場所へこれから行きます！ Vicenza (LhjIHUNJXI)  mshale.com",
     "pub_iso": "2026-08-11T08:57:46+09:00",
     "pub_str": "2026年8月11日",
-    "publisher": "Mshale",
+    "publisher": "mshale.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-12T00:42:29.608940+09:00",
@@ -3436,10 +3436,10 @@
   {
     "title": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)",
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBjSHFmZXhLYkRLdXZ6ZFZJRkhOemxCajd0a1d4eGNaS1pqdnkwa09veUpUUmdmcUdMa0o4T2otREN5cWxhdnlZUGFWd2ZkbUVteWduX1ItNEtaRlk?oc=5",
-    "desc": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)  Mshale",
+    "desc": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)  mshale.com",
     "pub_iso": "2026-08-12T19:29:13+09:00",
     "pub_str": "2026年8月12日",
-    "publisher": "Mshale",
+    "publisher": "mshale.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-13T09:45:53.797372+09:00",
@@ -3667,6 +3667,18 @@
     "source": "chibamogu-shiroi",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-08-15T14:30:22.766008+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBCMGc5bXhqWENVYTg0dU1EbzRRaVNKa0ZVYmlhSW9kTnhtZV9vRHpjTlRJeWp5a2xsMzZhOWlQZWpUNXctaWdhbWpnLXBacEJQYUJfMmFNRDNTUmIzbFNB?oc=5",
+    "desc": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】  TBS NEWS DIG",
+    "pub_iso": "2026-08-03T16:00:00+09:00",
+    "pub_str": "2026年8月3日",
+    "publisher": "TBS NEWS DIG",
+    "source": "google-news-inzai-chiba",
+    "category": "開発・暮らし",
+    "collected_at": "2026-08-15T15:43:23.870488+09:00",
     "retention_type": "regular"
   }
 ]

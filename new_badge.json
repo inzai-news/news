@@ -2,7 +2,11 @@
   "links": {
     "https://www.city.inzai.lg.jp/0000022350.html": "2026-08-15T14:30:22.859519+09:00",
     "https://www.city.inzai.lg.jp/0000021658.html": "2026-08-15T14:30:22.859519+09:00",
-    "https://chiba-lunch.com/shiroi-cafe-bakery-irodor/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-bakery-irodor": "2026-08-15T14:30:22.859519+09:00"
+    "https://chiba-lunch.com/shiroi-cafe-bakery-irodor/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-bakery-irodor": "2026-08-15T14:30:22.859519+09:00",
+    "https://news.google.com/articles/CBMiX0FVX3lxTFBCMGc5bXhqWENVYTg0dU1EbzRRaVNKa0ZVYmlhSW9kTnhtZV9vRHpjTlRJeWp5a2xsMzZhOWlQZWpUNXctaWdhbWpnLXBacEJQYUJfMmFNRDNTUmIzbFNB?oc=5": "2026-08-15T15:43:23.931073+09:00"
   },
-  "last_eligible": null
+  "last_eligible": {
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBCMGc5bXhqWENVYTg0dU1EbzRRaVNKa0ZVYmlhSW9kTnhtZV9vRHpjTlRJeWp5a2xsMzZhOWlQZWpUNXctaWdhbWpnLXBacEJQYUJfMmFNRDNTUmIzbFNB?oc=5",
+    "ts": "2026-08-15T15:43:23.931073+09:00"
+  }
 }

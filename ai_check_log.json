@@ -3613,5 +3613,25 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE5EQl9RRkROWVR2UXN5YmlMUmJaZWlKdmQ3LUNiNGQ3WVVXb0xqQkxGdTFQbkRWd3o3SE4zcmVPWVZRdUdfd25IMWo4czJxOWg4NGJvQUJ5UWFDYmVTa0RmVl94UjhEY2RrS3c?oc=5",
     "similar_to": "【2026年7月6日 開店】京都北白川 ラーメン魁力屋 ジョイフル本田千葉ニュータウン店",
     "ai_reason": "既にstore_eventとして登録済みの開店記事(印西とぴっく)と同一内容のPR TIMES配信記事のため、ユーザー指摘により事後除外。"
+  },
+  {
+    "run_ts": "20260815-1543",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西、追突受け軽トラ女性死亡 印西署",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBGYkc2SjdITklFMUhlTDZTNU5zdTByWlB0Njk0UWo2elZpX1RGWlkwQWh3ajM0cDQzM2xLT19rVXh0aklMYmhVR2NxMk9BZDlYWDVsVmVWNHo?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260815-1543",
+    "date": "2026-08-15",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市、５年連続１位 人口増の「好循環」評価 全都市住みよさランキング",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE1ZMk9Ta2pUOHp6WjEtNTFYMlh6dzdNZlV1MnNTY3lsRUV5SWE4WWFFVVRSRVhNclVMbTR5UlBlbG5JSUM0R0dxZWQ2XzVFbzhNZnJiMWlOY25ydThoSEhNQkMwbWhEdWo1QkZpMnRvVmZMb1Rsd3VIYg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
