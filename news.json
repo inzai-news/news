@@ -1019,7 +1019,7 @@
     "pub_iso": "2026-06-08T16:00:00+09:00",
     "pub_str": "2026年6月8日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -3662,10 +3662,10 @@
   {
     "title": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBCMGc5bXhqWENVYTg0dU1EbzRRaVNKa0ZVYmlhSW9kTnhtZV9vRHpjTlRJeWp5a2xsMzZhOWlQZWpUNXctaWdhbWpnLXBacEJQYUJfMmFNRDNTUmIzbFNB?oc=5",
-    "desc": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】  TBS NEWS DIG",
+    "desc": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】  newsdig.tbs.co.jp",
     "pub_iso": "2026-08-03T16:00:00+09:00",
     "pub_str": "2026年8月3日",
-    "publisher": "TBS NEWS DIG",
+    "publisher": "newsdig.tbs.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-15T15:43:23.870488+09:00",
@@ -3691,6 +3691,18 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-08-16T09:13:44.156206+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
+    "pub_iso": "2026-08-16T18:09:42+09:00",
+    "pub_str": "2026年8月16日",
+    "publisher": "中古車のガリバー",
+    "source": "google-news-inzai-oshirase",
+    "category": "開発・暮らし",
+    "collected_at": "2026-08-16T20:27:22.042885+09:00",
     "retention_type": "regular"
   }
 ]
