@@ -3693,5 +3693,45 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9sMHpFal9NZEdwWFdIdVktc1NvT1FLWEJQRHhTSU1Qa0ltc0p6Vjl2ZlVYNDVUbm1yUjZjVUl2UDB5M1pObVhfYzc3TnFiZm1yTG5yR0dDN1kxVGRRVEc4?oc=5",
     "similar_to": null,
     "ai_reason": "選挙ドットコム配信の政治家個人の活動記録(街頭演説・行事参加報告等)のため除外(2026-07-26ルール)"
+  },
+  {
+    "run_ts": "20260817-0735",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【特別警報】千葉・我孫子市、印西市にレベル5大雨特別警報 対象は14の市 気象庁と国土交通省が午後8時半から緊急会見",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE45ejQyT0p1NGhzbWl3VHZ5WjBTekxwN0xtRm4tWjZaTElHQV9MTDRMUUlwOThsSkstT2xMUE9jc2RabGkzczZmM0VGbWtBWE5vQ1BwUkdEclc0SjN4dEVv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260817-0736",
+    "date": "2026-08-17",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "「～市制施行30周年～イルミライ★INZAI」点灯式キッチンカー出店者募集！",
+    "link": "https://www.city.inzai.lg.jp/0000016758.html",
+    "similar_to": "「～市制施行30周年～イルミライ★INZAI」点灯式ステージ参加団体募集",
+    "ai_reason": "同じ点灯式イベントだが「キッチンカー出店者募集」と「点灯スイッチを押す方の募集」は別内容の募集のため別記事として採用"
+  },
+  {
+    "run_ts": "20260817-0736",
+    "date": "2026-08-17",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "「「～市制施行30周年～イルミライ★INZAI」点灯式で点灯スイッチを押す方を募集！",
+    "link": "https://www.city.inzai.lg.jp/0000016728.html",
+    "similar_to": "「～市制施行30周年～イルミライ★INZAI」点灯式キッチンカー出店者募集！",
+    "ai_reason": "同じ点灯式イベントだが別の役割(点灯スイッチを押す方)の募集のため別記事として採用"
+  },
+  {
+    "run_ts": "20260817-0736",
+    "date": "2026-08-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市平和祈念式典】令和8年8月",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5kczZFaGlDNFkxbjNKS2NydldKTlVtUm9kaVJrNDF1cmJpa1NnWmNxU2g1OWhVRjlJS1VMLS10R3dBRklBVlNaOFRROEY3WTB6a19WWEduZElKdjlzRWEw?oc=5",
+    "similar_to": null,
+    "ai_reason": "直前に除外した同一記事(選挙ドットコム/go2senkyo.com)の別ドメイン経由の再配信のため除外(2026-07-26ルール)"
   }
 ]
