@@ -3683,5 +3683,15 @@
     "link": "https://news.google.com/articles/CBMiY0FVX3lxTE1BcW1XemF3eDNvclo0ajQ2dW50dElsUTRjMEZpN2tOaTRWZEo5VVdfck1kazd4ZnhSRXlQclllcFhDUjJoS202ZWNsbTEzS0RpdEYwTk9wcmZRRHdwNEpLb3JZZw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260816-2227",
+    "date": "2026-08-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市平和祈念式典】令和8年8月",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9sMHpFal9NZEdwWFdIdVktc1NvT1FLWEJQRHhTSU1Qa0ltc0p6Vjl2ZlVYNDVUbm1yUjZjVUl2UDB5M1pObVhfYzc3TnFiZm1yTG5yR0dDN1kxVGRRVEc4?oc=5",
+    "similar_to": null,
+    "ai_reason": "選挙ドットコム配信の政治家個人の活動記録(街頭演説・行事参加報告等)のため除外(2026-07-26ルール)"
   }
 ]
