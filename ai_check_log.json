@@ -3663,5 +3663,25 @@
     "link": "https://news.google.com/articles/CBMiY0FVX3lxTE1LUWNMWmtNUjVkQl9ZT2NkUjc5Y2tSWnVqMEFYVGt0X2lIN3c5dmY3VVBMc2hBeXpPTzVpZ0tNOTZrUTdBUm04Z2NiM21mUGhqcVgzR29aTHpsMV9GZzBMRFBSbw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260816-0913",
+    "date": "2026-08-16",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル３大雨警報】千葉県・松戸市、印西市に発表 14:21時点",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE5ZU2JsM0FTWGZ3ZHlWYjRZTmZDMW9NcFRSbnNVZnkwdF9GVFBXNW1wWVZFQUxvdUxPNGhuUkJweXd5RUFvY1oxZThpZms2YzFSMzlwX2dibURrN29aQ2xFWTgxcVVBSHZLa2dtV05hRGhuLVBqRHhXNw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260816-0913",
+    "date": "2026-08-16",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE1BcW1XemF3eDNvclo0ajQ2dW50dElsUTRjMEZpN2tOaTRWZEo5VVdfck1kazd4ZnhSRXlQclllcFhDUjJoS202ZWNsbTEzS0RpdEYwTk9wcmZRRHdwNEpLb3JZZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]

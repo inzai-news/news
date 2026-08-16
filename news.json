@@ -2052,10 +2052,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "CAMPFIRE (キャンプファイヤー)",
+    "publisher": "キャンプファイヤー",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2122,7 +2122,7 @@
     "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBJdVBvRHdjcE8wVExjZVdVdU1Ob0xaQ1Z3SlM3TEg5MWdDZGNKc1h5U1ZlWVdJalkxZTVLTEZUZ0dZZzJWdjloejFBNFUxUFk2dHZFYXp3c0ZIS2tSeXNNNmZxTXk1eFZEV09jeHhjaTlDUQ?oc=5",
     "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  クレアウェブ",
-    "pub_iso": "2026-07-24T15:19:35+09:00",
+    "pub_iso": "2026-07-24T16:00:00+09:00",
     "pub_str": "2026年7月24日",
     "publisher": "クレアウェブ",
     "source": "google-news-inzai-shi",
@@ -3666,7 +3666,7 @@
     "pub_iso": "2026-08-03T16:00:00+09:00",
     "pub_str": "2026年8月3日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-15T15:43:23.870488+09:00",
     "retention_type": "regular"
@@ -3681,6 +3681,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-15T21:43:27.921656+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】8月16日（日）市制30周年イベント「HORNS UP FES 2026」開催！ プロバスケットボールチーム「北総ライノス」をみんなで応援しよう！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/16/hornsupfes2026/",
+    "pub_str": "2026年8月16日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-16T09:13:44.156206+09:00",
     "retention_type": "regular"
   }
 ]
