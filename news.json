@@ -731,10 +731,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -876,7 +876,7 @@
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1052,7 +1052,7 @@
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
     "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -3186,10 +3186,10 @@
   {
     "title": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFBTbFpXQzFoTWp2TlM4emRxRkVJMGN1UVA4eG1vS0VERnlyQVJ2M1FVaE5vNml0azI1YS1JUkRCdklvczNYdHdsbVRsOFhtMnRRYks0bkRUQ2toZ21Jc29QQVZKZnVibUJxQmRFemRFemtjOVZhaV9EZGxIYw?oc=5",
-    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  ITmedia",
+    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  itmedia.co.jp",
     "pub_iso": "2026-07-29T06:28:11+09:00",
     "pub_str": "2026年7月29日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-10T20:16:50.062676+09:00",
@@ -3593,11 +3593,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "道路冠水により師戸・江川線の一部区間を通行止めにしています（令和8年8月15日更新）",
+    "title": "師戸・江川線の通行止めは解除いたしました。（令和8年8月17日更新）",
     "link": "https://www.city.inzai.lg.jp/0000022350.html",
     "desc": "",
-    "pub_iso": "2026-08-15T12:52:45+09:00",
-    "pub_str": "2026年8月15日",
+    "pub_iso": "2026-08-17T12:15:23+09:00",
+    "pub_str": "2026年8月17日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",

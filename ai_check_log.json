@@ -3773,5 +3773,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9wMWlGUEZ6emVlTVh6WTB5X1pWTUJmSVJEeTRJa0diUVB4bU4xeUNMeHhyd0w5ekViRDVwdXlNSE9QR21COEVoaWcydXBMOTRjUVpyVUN4cC1lQWFwNHlB?oc=5",
     "similar_to": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260817-1427",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "印西市に日本の経済成長の現場を見た",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTE1KWXk4WDN5NFRMaV9Ib21aeUdRaDViYmFFOU1XUHlDZ0hVTEpRZGZ5QUxzelVHZnhxWWdMaEk4Z0xFVl9VelVfMmZGR2JxYzMxakN6MXlOcVppZw?oc=5",
+    "similar_to": "印西市に日本の経済成長の現場を見た - japan",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
