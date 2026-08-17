@@ -3783,5 +3783,45 @@
     "link": "https://news.google.com/articles/CBMiWkFVX3lxTE1KWXk4WDN5NFRMaV9Ib21aeUdRaDViYmFFOU1XUHlDZ0hVTEpRZGZ5QUxzelVHZnhxWWdMaEk4Z0xFVl9VelVfMmZGR2JxYzMxakN6MXlOcVppZw?oc=5",
     "similar_to": "印西市に日本の経済成長の現場を見た - japan",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260817-1827",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "浅野なつき先生【こども絵画工作教室】体験会（2026年09月05日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14379&store=chibant",
+    "similar_to": "浅野なつき先生【こども絵画工作教室】体験会（2026年08月25日(火)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260817-1827",
+    "date": "2026-08-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "日本最大級のデータセンター14棟計画、大和ハウスが「DPDC印西パーク」公開",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFB6cGpNdDl0ekwxZmpBVlFlMjk5bUE2anQ4MUYtTjhSNE12aDBFcnc3YVN0Vnc3b3NBVVRjSEhkVl85RV9qYTVDYlJQNnhOTDRubEc1N0VCQlByOG5XX2pHZElOYXZHTDA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260817-1827",
+    "date": "2026-08-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西で巨大データセンターの建設ラッシュ、クラウド大手をひき付ける秘密",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE1GNEZHM2pFNjQ5Wmg5NzlYRklUeVJTUjE5YnBLbEJndDJUVWxOMmtVYWo3UlpBN2RrRzBLbmt5NG8yUE1KUm81SjloM295SURneEVrTURsOUNVVnRGbHVTbk9GME5SeHBpeml6Rw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260817-1827",
+    "date": "2026-08-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "KVH、千葉県印西市で新データセンターの運用を開始",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTFBEUVp3Y1RCUmVCbUxFZkFMOFhNS2dxNUROc3FYWkNXNUV2TWI5S2lWLTYxVVdWQ2NuejhJRE05djNvaUt1ZVlVMGJWaDJ6REVqTU9iZnRGc1JBR3Q1Z2tOR2tQcWJrZVpO?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
