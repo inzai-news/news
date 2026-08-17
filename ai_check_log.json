@@ -3763,5 +3763,15 @@
     "link": "https://chiba-lunch.com/shiroi-steak-ken-breakfast-morning/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-steak-ken-breakfast-morning",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260817-1227",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.99,
+    "title": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西～野田間をスルーする高規格道路に期待",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9wMWlGUEZ6emVlTVh6WTB5X1pWTUJmSVJEeTRJa0diUVB4bU4xeUNMeHhyd0w5ekViRDVwdXlNSE9QR21COEVoaWcydXBMOTRjUVpyVUN4cC1lQWFwNHlB?oc=5",
+    "similar_to": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
