@@ -3733,5 +3733,35 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5kczZFaGlDNFkxbjNKS2NydldKTlVtUm9kaVJrNDF1cmJpa1NnWmNxU2g1OWhVRjlJS1VMLS10R3dBRklBVlNaOFRROEY3WTB6a19WWEduZElKdjlzRWEw?oc=5",
     "similar_to": null,
     "ai_reason": "直前に除外した同一記事(選挙ドットコム/go2senkyo.com)の別ドメイン経由の再配信のため除外(2026-07-26ルール)"
+  },
+  {
+    "run_ts": "20260817-0937",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【特別警報】千葉・我孫子市、印西市にレベル5大雨特別警報 対象は14の市 気象庁と国土交通省が午後8時半から緊急会見",
+    "link": "https://news.google.com/articles/CBMidkFVX3lxTE9UOHN4dUZ0d1lhOFVPMUt0NENvenNTT1FkMEN4dlYta2xURWp4Q0Y0M21KOEUta09sQjI5Q0Uyc2dhWXplbDlhcXVUYTNyMEtYYjlJckdRQko0ZU1KNWNPTERQOXc4dHphVGxsa2lJNXNzdnpmMXc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260817-0937",
+    "date": "2026-08-17",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル５大雨特別警報 - kyoto",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1ET3VUckVZQnBGcHBTS0V0M0hoMXVhQmZQTHQxd2l5UHpLT1BNaDNDLXJxcFNkWXBPWF8zRkhJWEpISlp6eDhqN0xVOTRmUTV2bFhVeG9tVWE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260817-0937",
+    "date": "2026-08-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【終了】白井▷モーニング開始したので行ってみた！ステーキハンバーグ＆サラダバーけん白井店",
+    "link": "https://chiba-lunch.com/shiroi-steak-ken-breakfast-morning/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-steak-ken-breakfast-morning",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
