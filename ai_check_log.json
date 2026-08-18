@@ -3843,5 +3843,25 @@
     "link": "https://chiba-lunch.com/shiroi-torinogonsuke-kaisendon-lunch/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-torinogonsuke-kaisendon-lunch",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260818-1827",
+    "date": "2026-08-18",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉県佐倉市、八千代市、印西市に「記録的短時間大雨」に関する情報発表(18:58時点) - chiba",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFB4UVJaRGJwN0xHSHJoMS1OS3Y0LXI4YTdtWlh0V0o1alZWTXNnVDV1RThSRjB1dTVJb0hGVlU1U2pZTWg2aXVxZVBCMmdZY01JcVNrQlNuYldvYVJGLVJj?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260818-1827",
+    "date": "2026-08-18",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報 - chiba",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE0tampONzdVb2RkY2lVeXlMbmZ0WUhpT0VMWTE2bXZoQTBwQ3l6bWZveUNHSzhKNWxiU2VKM2Z3Z2toVUVNVjBWcnBXQUNhTWxOTkNIZFlSaFNab2hXek9N?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
