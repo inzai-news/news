@@ -3833,5 +3833,15 @@
     "link": "https://news.google.com/articles/CBMi5AFBVV95cUxQYkQ1WExQRUljMFk2R2QtOFpaZ0VVZ2hzVkZ0NERIYVliUnpUSDQ2VG55QzNXMF90b2JwMW9WWWZNSkVSQ0tlNTNvRFY3M2lrMkt3T0plNjluOHZnSGlteFZKRXJfQnVtclV4TTBheS1MeUpHSjVfYk9EeHMzRWNjakxDSkRFUjEwN0E5SEtqWm5uN19iMERRSWtJZFFIbHBINmFfUkRXNWJmNHRNbUt3dHhnLTk1dVhFUk9Pb08zUDRvRDNxSEtQWW5scGF3eW9mMDJZUDMtMWNqS1ZBT3RjVG5hMm4?oc=5",
     "similar_to": null,
     "ai_reason": "公明党配信の政治家個人の活動記事(平和祈念式典参加報告)のため除外(2026-07-26ルール)"
+  },
+  {
+    "run_ts": "20260818-0937",
+    "date": "2026-08-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷土日ランチがスタート！原価率80%超の海鮮丼｜メニュー【店名】とりのごん助　白井店",
+    "link": "https://chiba-lunch.com/shiroi-torinogonsuke-kaisendon-lunch/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-torinogonsuke-kaisendon-lunch",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
