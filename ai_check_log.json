@@ -3911,5 +3911,15 @@
     "title": "保護中: ゴスペルを歌おう！Be Blessed (ビー・ブレスト)｜千葉県印西市のゴスペルサークル",
     "link": "https://inzaiparque.com/beblessed/",
     "ai_reason": "WordPressのパスワード保護ページ(タイトルが「保護中: 」で始まる)で本文が閲覧できないため、ユーザー指摘により事後除外。"
+  },
+  {
+    "run_ts": "20260820-0037",
+    "date": "2026-08-20",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "駅前にデータセンター 住民、建築確認取り消し求め提訴 千葉・印西",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9QZkFod3NXcTNwdmFPLWdiNV9nOWFrSmFaMXVJZkNZZWNlYml6czQzbHVZTjhSTmtpV2Z6cEZ4Mm5rWVFvX05rUm43a0R4OHNXcnlYX2RMbTBLQ0E2UktwYnhBSzRvUFJY?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
