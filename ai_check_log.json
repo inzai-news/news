@@ -3883,5 +3883,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000044.000180020.html",
     "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260819-1827",
+    "date": "2026-08-19",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE9fUGFkWXpqQ3NHaDIyS0gzWHl0NGQ1SFdwTlBBbGZFRklJNVZqdGU1RUJlU0VmMkdaQ3F0VG5GZkJoaEw5MVJwMVlEVll2TUQ5MmNiX0VkNXkxNGNxcmJnNC0yWV93QkJOSGl3?oc=5",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に | 印西市のプレスリリース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
