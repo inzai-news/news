@@ -1389,6 +1389,20 @@ def cmd_collect(args):
             })
             continue
 
+        if PROTECTED_TITLE_PATTERN.match(item["title"]):
+            publisher_excluded_count += 1
+            auto_log_entries.append({
+                "run_ts": run_ts,
+                "date": today.isoformat(),
+                "ai_decision": "auto_exclude",
+                "similarity": None,
+                "title": item["title"],
+                "link": link,
+                "similar_to": "",
+                "ai_reason": "ルールベース: WordPressのパスワード保護ページ(本文閲覧不可)のため",
+            })
+            continue
+
         item["collected_at"] = collected_at_iso
         category = item.get("category") or guess_category_from_title(item["title"])
         item["category"] = category
@@ -1642,6 +1656,10 @@ COLLECT_EXCLUDE_PUBLISHERS = {"chibanippo.co.jp"}
 # review_queueを経由せず自動採用されてしまうため、collect時点でタイトルパターンで弾く。
 # 「大雨(8月13日)に係る避難所情報」のような実用情報(避難所等)は「警報」「記録的」を含まないため対象外のまま残る。
 WEATHER_ALERT_TITLE_PATTERN = re.compile(r"警報|記録的.{0,5}(大)?雨")
+# WordPressのパスワード保護ページはタイトルが「保護中: 」で始まり、本文が閲覧できない
+# (パスワードを知らないと中身が見れない)ため、収集時点で自動除外する(2026-08-19追加。
+# 千葉ほくそうパルケ(inzaiparque.com)で実例あり)
+PROTECTED_TITLE_PATTERN = re.compile(r"^保護中:\s*")
 # 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
 # (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
 NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}

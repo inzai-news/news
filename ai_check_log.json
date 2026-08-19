@@ -3903,5 +3903,13 @@
     "link": "https://www.city.inzai.lg.jp/0000022381.html",
     "similar_to": "令和8年度第2回印西市総合教育会議開催のお知らせ",
     "ai_reason": "「開催のお知らせ」(事前告知)に対する「開催しました」(開催結果報告)で内容が異なるため別記事として採用"
+  },
+  {
+    "run_ts": "20260819-2309",
+    "date": "2026-08-19",
+    "ai_decision": "exclude",
+    "title": "保護中: ゴスペルを歌おう！Be Blessed (ビー・ブレスト)｜千葉県印西市のゴスペルサークル",
+    "link": "https://inzaiparque.com/beblessed/",
+    "ai_reason": "WordPressのパスワード保護ページ(タイトルが「保護中: 」で始まる)で本文が閲覧できないため、ユーザー指摘により事後除外。"
   }
 ]
