@@ -3873,5 +3873,15 @@
     "link": "https://news.google.com/articles/CBMinAFBVV95cUxPZVpyVW1lT29GbnNBa2w4ZWw1a0NrdjQzTm81TUZnXzVuc0UtRFNMWFZ3ZlZaOUVTcFhjNFdPbms0QXp5U3JBMVZwYmpXLW1ZVTlLcjUzQi1Kam12S3FTR2Q0N0hWME1jQ1B0dzN0RU1xVml4UWJsVmhsZ2lfVk9HcWdRUTNYdEl0Y1diRnVVYW00M0tyaDFiYm5sT3HSAaIBQVVfeXFMT0l4NTgyRU1hX1U5dnM5YTNrdFoxRmplUk56V09VZEJuLXFEd2d5LXVLMFlJWVdlajJCS1hYWG9vY0ZKUHlHRDl1dEx4dE1yVjh6NFM5RXZ6dVJNZllaLTR2ZmVqQVVYMlpScGJUanZWcUViWjd6SXMzc0I3XzZMZmdjXzlZa3RBY2lQaE82bDMwakZ1SWVWWmhQeGlYUG9md2F3?oc=5",
     "similar_to": "（千葉）印西市牧の原でスカート内盗撮未遂　８月１４日［解決］",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260819-1627",
+    "date": "2026-08-19",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "link": "https://prtimes.jp/main/html/rd/p/000000044.000180020.html",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
