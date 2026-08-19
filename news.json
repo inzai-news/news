@@ -2062,7 +2062,7 @@
     "pub_iso": "2026-07-24T16:00:00+09:00",
     "pub_str": "2026年7月24日",
     "publisher": "crea.bunshun.jp",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "retention_type": "regular"
   },
@@ -3842,6 +3842,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-18T18:27:23.436174+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "大塚前公園夏祭り2026（8月22日（土））",
+    "link": "https://inzainet.com/event/otsukamae-260818/",
+    "pub_str": "2026年8月19日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-19T09:37:20.001569+09:00",
     "retention_type": "regular"
   }
 ]
