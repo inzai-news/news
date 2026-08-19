@@ -3893,5 +3893,15 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE9fUGFkWXpqQ3NHaDIyS0gzWHl0NGQ1SFdwTlBBbGZFRklJNVZqdGU1RUJlU0VmMkdaQ3F0VG5GZkJoaEw5MVJwMVlEVll2TUQ5MmNiX0VkNXkxNGNxcmJnNC0yWV93QkJOSGl3?oc=5",
     "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に | 印西市のプレスリリース",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260819-2027",
+    "date": "2026-08-19",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "令和8年度第2回印西市総合教育会議を開催しました。",
+    "link": "https://www.city.inzai.lg.jp/0000022381.html",
+    "similar_to": "令和8年度第2回印西市総合教育会議開催のお知らせ",
+    "ai_reason": "「開催のお知らせ」(事前告知)に対する「開催しました」(開催結果報告)で内容が異なるため別記事として採用"
   }
 ]
