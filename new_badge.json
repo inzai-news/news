@@ -1,6 +1,12 @@
 {
   "links": {
-    "https://www.city.inzai.lg.jp/0000008909.html": "2026-08-20T16:22:00.420909+09:00"
+    "https://www.city.inzai.lg.jp/0000008909.html": "2026-08-20T16:22:00.420909+09:00",
+    "https://www.city.inzai.lg.jp/0000022382.html": "2026-08-20T18:27:25.093959+09:00",
+    "https://www.city.inzai.lg.jp/0000022262.html": "2026-08-20T18:27:25.093959+09:00",
+    "https://news.google.com/articles/CBMiVkFVX3lxTE1wUXRCdGZwX21sRVZTRTYzdFJGWnB4SWcwczZXZHU5MDlaZEd1dGh4SXY0VXJjbnZQelFaekVVNXh3LVpZS3ZSSXltUmlsUks5amplaUF3?oc=5": "2026-08-20T18:27:25.093959+09:00"
   },
-  "last_eligible": null
+  "last_eligible": {
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1wUXRCdGZwX21sRVZTRTYzdFJGWnB4SWcwczZXZHU5MDlaZEd1dGh4SXY0VXJjbnZQelFaekVVNXh3LVpZS3ZSSXltUmlsUks5amplaUF3?oc=5",
+    "ts": "2026-08-20T18:27:25.093959+09:00"
+  }
 }
