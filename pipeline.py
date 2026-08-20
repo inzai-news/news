@@ -1649,8 +1649,8 @@ NEW_ARRIVALS_COUNT = 20
 NEW_ARRIVALS_EXCLUDE_PUBLISHERS = {"印西市"}
 # 千葉日報(chibanippo.co.jp)は有料記事(paywall)の割合が高く、さらに過去記事の再配信が
 # 新着として再ヒットする事例も確認されたため、2026-08-10からcollect時点で収集自体から
-# 除外する(review_queue.jsonでのAI判断にすら回さない)
-COLLECT_EXCLUDE_PUBLISHERS = {"chibanippo.co.jp"}
+# 除外する(review_queue.jsonでのAI判断にすら回さない)。毎日新聞も同様の理由で2026-08-20追加。
+COLLECT_EXCLUDE_PUBLISHERS = {"chibanippo.co.jp", "毎日新聞", "mainichi.jp"}
 # 大雨警報・特別警報等、当日限りの気象警報の発表を伝えるだけの速報記事は採用しない(2026-08-13追加)。
 # 号外NET等ソース側で最初からカテゴリ(鎌ヶ谷・白井等)が付いている記事はneeds_category=Falseとなり
 # review_queueを経由せず自動採用されてしまうため、collect時点でタイトルパターンで弾く。

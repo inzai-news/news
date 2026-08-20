@@ -3921,5 +3921,13 @@
     "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9QZkFod3NXcTNwdmFPLWdiNV9nOWFrSmFaMXVJZkNZZWNlYml6czQzbHVZTjhSTmtpV2Z6cEZ4Mm5rWVFvX05rUm43a0R4OHNXcnlYX2RMbTBLQ0E2UktwYnhBSzRvUFJY?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260820-1140",
+    "date": "2026-08-20",
+    "ai_decision": "exclude",
+    "title": "女の気持ち：優しい孫たち 千葉県印西市・今野礼子（主婦・70歳）",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9qZ0pTdUhWTmxFd2pZc2JDOFJlTFZ2dDVxTUdtZEN1NDIwM1hiYzhhTXVFWTRFaWwweWFuYzJ1WTNYWFV6WVJUZnktenQ5NF9qQ0xOb0lRTkg1bHpqYlo2LTRQMjljbmNF?oc=5",
+    "ai_reason": "毎日新聞は有料記事(paywall)の割合が高いため、ユーザー指摘によりcollect時点の自動除外対象に追加(2026-08-20)。既に採用済みだった本記事も事後除外。"
   }
 ]
