@@ -3949,5 +3949,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5qU1ZudlpDbmZYUExiOVlkazhmQTVUVWRYTm9yMm0tSDlGQmJKblZfOGJQZWdoQ3E4eGd6Sm9md2ZYNldGVkplRjIyTGdEcVhmcGxxNEdnVWhKMks2?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260821-0754",
+    "date": "2026-08-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 | ふくしまNEWS - KFBデジタル -",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5uYnUwcTRoWXIyQkx3cklDVHFyNEZYRDRfX2hlSkx4dXBIYmZoVnQwVjRNcnUybkw4Nk0xTzlBSndWQ2Z4UGcyY3J4VHlaYkQtaFRycmt3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
