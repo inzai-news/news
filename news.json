@@ -2326,10 +2326,10 @@
     "title": "千葉：印西ＤＣ計画巡る監査請求を棄却 市監査委員：地域ニュース",
     "link": "https://news.google.com/articles/CBMicEFVX3lxTE10SUhYMkxzeXZXVTBfckJGbXo5bXdTTVFkdzQ2U1ktcGR6UUFBU1FsMXRrd2Q4aUtLek5ibVMyNGdjczVHWmxuUHhhdjBHZWJVZ2M4d0d6dE14amdSa2YybGVTeEVZWURNemowRnVzRTE?oc=5",
     "desc": "千葉：印西ＤＣ計画巡る監査請求を棄却 市監査委員：地域ニュース  読売新聞",
-    "pub_iso": "2026-07-30T05:00:00+09:00",
+    "pub_iso": "2026-07-30T16:00:00+09:00",
     "pub_str": "2026年7月30日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -4003,8 +4003,8 @@
     "title": "災害援護資金貸付のご案内",
     "link": "https://www.city.inzai.lg.jp/0000022382.html",
     "desc": "",
-    "pub_iso": "2026-08-20T17:38:16+09:00",
-    "pub_str": "2026年8月20日",
+    "pub_iso": "2026-08-21T10:21:00+09:00",
+    "pub_str": "2026年8月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4078,6 +4078,42 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-21T09:37:20.973861+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉ニュータウン中央駅圏の地区計画の変更等に係る説明会開催のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022309.html",
+    "desc": "",
+    "pub_iso": "2026-08-21T11:48:58+09:00",
+    "pub_str": "2026年8月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-21T12:27:26.738109+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "本会議での一般質問通告（個人）",
+    "link": "https://www.city.inzai.lg.jp/0000000054.html",
+    "desc": "",
+    "pub_iso": "2026-08-21T00:00:01+09:00",
+    "pub_str": "2026年8月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-21T12:27:26.738109+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西牧の原駅圏の地区計画の変更等に係る説明会開催のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022189.html",
+    "desc": "",
+    "pub_iso": "2026-08-21T11:48:41+09:00",
+    "pub_str": "2026年8月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-21T12:27:26.738109+09:00",
     "retention_type": "regular"
   }
 ]
