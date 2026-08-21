@@ -3979,5 +3979,65 @@
     "link": "https://www.city.inzai.lg.jp/0000022189.html",
     "similar_to": "千葉ニュータウン中央駅圏の地区計画の変更等に係る説明会開催のお知らせ",
     "ai_reason": "千葉ニュータウン中央駅圏とは対象地区が異なる(印西牧の原駅圏)別の説明会告知のため採用"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "Juiceマルシェ（2026年09月21日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14157&store=chibant",
+    "similar_to": "",
+    "ai_reason": "ルールベース: イベント開催終了日(2026-09-21)から3日を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "クルリグラフお試し会（2026年09月21日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14139&store=chibant",
+    "similar_to": "",
+    "ai_reason": "ルールベース: イベント開催終了日(2026-09-21)から3日を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTFB2S05PenRzY29UM1lRblVUQ1YzaF9pNXZXeUwzYjN2V1RlalFGN3JEWGhzZ2RGak1XeTBaMlBPZkRjeUN3bEF4dExhbXJfVzIyUHVtbmpoS2N0RFFUeWFELXZGVmgzWHYzNVRHMlprR3hDOGM?oc=5",
+    "similar_to": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子市、印西市にもレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTE5YTGh2Q1RTYnZmME9LRUhBYXJpZnAyMDR5ZW1LLUt3Q2xJXzc4QjZVTWRJejJKcTVwZ2w4a0FCSGdtY0R6MU9BdmdUaw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "link": "https://prtimes.jp/main/html/rd/p/000000037.000180020.html",
+    "similar_to": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260822-0000",
+    "date": "2026-08-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】市制施行30周年。ーともに歩んだ30年、ともに創るその先へー記念事業を年間通して展開",
+    "link": "https://prtimes.jp/main/html/rd/p/000000009.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
