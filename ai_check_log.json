@@ -3959,5 +3959,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5uYnUwcTRoWXIyQkx3cklDVHFyNEZYRDRfX2hlSkx4dXBIYmZoVnQwVjRNcnUybkw4Nk0xTzlBSndWQ2Z4UGcyY3J4VHlaYkQtaFRycmt3?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260821-0937",
+    "date": "2026-08-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市牧の原でスカート内盗撮未遂　８月１４日［解決］",
+    "link": "https://news.google.com/articles/CBMiogFBVV95cUxPSXg1ODJFTWFfVTl2czlhM2t0WjFGamVSTnpXT1VkQm4tcUR3Z3ktdUswWUlZV2VqMkJLWFhYb29jRkpQeUdEOXV0THh0TXJWOHo0UzlFdnp1Uk1mWVotNHZmZWpBVVgyWlJwYlRqdlZxRWJaN3pJczNzQjdfNkxmZ2NfOVlrdEFjaVBoTzZsMzBqRnVJZVZaaFB4aVhQb2Z3YXfSAaIBQVVfeXFMT0l4NTgyRU1hX1U5dnM5YTNrdFoxRmplUk56V09VZEJuLXFEd2d5LXVLMFlJWVdlajJCS1hYWG9vY0ZKUHlHRDl1dEx4dE1yVjh6NFM5RXZ6dVJNZllaLTR2ZmVqQVVYMlpScGJUanZWcUViWjd6SXMzc0I3XzZMZmdjXzlZa3RBY2lQaE82bDMwakZ1SWVWWmhQeGlYUG9md2F3?oc=5",
+    "similar_to": "（千葉）印西市牧の原でスカート内盗撮未遂　８月１４日［解決］",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

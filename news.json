@@ -779,7 +779,7 @@
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -4056,6 +4056,28 @@
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-08-21T07:54:51.870902+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【わくわく広場】マル昇製茶対面販売",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%80%90%e3%82%8f%e3%81%8f%e3%82%8f%e3%81%8f%e5%ba%83%e5%a0%b4%e3%80%91%e3%83%9e%e3%83%ab%e6%98%87%e8%a3%bd%e8%8c%b6%e5%af%be%e9%9d%a2%e8%b2%a9%e5%a3%b2/",
+    "pub_str": "2026年8月21日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-08-21T09:37:20.973861+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "介護予防教室「のばせ！健康寿命」開催します！！",
+    "link": "https://www.city.inzai.lg.jp/0000020132.html",
+    "desc": "",
+    "pub_iso": "2026-08-21T09:00:00+09:00",
+    "pub_str": "2026年8月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-21T09:37:20.973861+09:00",
     "retention_type": "regular"
   }
 ]
