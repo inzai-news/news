@@ -4039,5 +4039,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000009.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260822-0037",
+    "date": "2026-08-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "政治家取材にSNS発信の子ブタ「ぶーみん」は何者？ 千葉・印西 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBmaXVYMHc1ZVFIMUpnekY5X1V4dW5pRDVETEtLTkFrQkdYYU1NbXhwZUF5ZS1paVVWV3BYazhEUFcyeWdPMTRDdE5HOGtIQ1RGby1jUkg5VThpQWEwaTFqTGMteURkYm8?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
