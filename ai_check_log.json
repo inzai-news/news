@@ -4079,5 +4079,15 @@
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE9yQ1dRQ1JNSEJvVVFKdTdYZWp6WjFSNWdmejN3MXU0MXY2TzhySDFST3VLVVdSREVReUJaZFhHdlNfLUxOU3FrSGk5WWVLcTBzTHRCeHRuNlZSSEFCdnMzSERzQy1IdVIwWG9ZcQ?oc=5",
     "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260822-1346",
+    "date": "2026-08-22",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉 佐倉市付近 八千代市付近 印西市付近で記録的短時間大雨",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBKYVJNdzdkTGRBaHE3cGhGMHVLSUsyZEV5TXN0bzVueVJUdUdVcFhpYWJMdXd4T3JuWC13NWY4MnE1VHBSS1VkZjlqdVIwLTR3UTd6OVdfNXNILVM2b1ZZ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
