@@ -4109,5 +4109,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE9ySFJ3ZVNvRmV4enFaNFFiektmXzBxMHNMUGRkc0FRa2h2Q1VMbTFvRFpmQ2RDY0g2MmE2cVdBcXhfRkpMM1phX1hCd3pzUTY3aXFxbzRR?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260822-2027",
+    "date": "2026-08-22",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉県印西警察署との多文化共生社会の推進の包括連携",
+    "link": "https://news.google.com/articles/CBMihAFBVV95cUxNbXF3M3NCdWVIdFBja2pMcjhMYmlwRkJHR0QxQVlkSzdKb1NsUE9wQ1kzZGpINWMtUzFmOGphTVR2ejRYMURkQjJnY09aUGI5MGd2ZlBoRkdpSUluNFNNb0J4OURtQ2JZMWNSY3pMOWR2RVF4ZUhma3VkQ1hMMUJ0NkRrVU4?oc=5",
+    "similar_to": "千葉県印西警察署との多文化共生社会の推進の包括連携",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
