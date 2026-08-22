@@ -4089,5 +4089,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBKYVJNdzdkTGRBaHE3cGhGMHVLSUsyZEV5TXN0bzVueVJUdUdVcFhpYWJMdXd4T3JuWC13NWY4MnE1VHBSS1VkZjlqdVIwLTR3UTd6OVdfNXNILVM2b1ZZ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260822-1627",
+    "date": "2026-08-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問",
+    "link": "https://prtimes.jp/main/html/rd/p/000000014.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
