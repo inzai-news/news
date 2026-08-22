@@ -4119,5 +4119,435 @@
     "link": "https://news.google.com/articles/CBMihAFBVV95cUxNbXF3M3NCdWVIdFBja2pMcjhMYmlwRkJHR0QxQVlkSzdKb1NsUE9wQ1kzZGpINWMtUzFmOGphTVR2ejRYMURkQjJnY09aUGI5MGd2ZlBoRkdpSUluNFNNb0J4OURtQ2JZMWNSY3pMOWR2RVF4ZUhma3VkQ1hMMUJ0NkRrVU4?oc=5",
     "similar_to": "千葉県印西警察署との多文化共生社会の推進の包括連携",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "独自に成長したニュータウン 印西市 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9ONFpTbk1jT1Q4MFJMenZaLWhKemEzWkN6aWpFYjFITkxONktnTWZNNU1uR2ZzVFQzb2FLU3F4Q3pxNjZ3V1JtdUtfekxoNkp6b1lJWG5lVlIzUlYwUU9F?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県内で住み続けたい街は？ 印西市が5年連続首位、大東建託調査 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE82dTFrSFdkYnBkeFlZaGdGcllXZ1dWYVVtRXc1NjJYNzRITWJPYlJrWmZmRTkyaDA4cUV5cF9Lc2pwUXJob0wzUWEwM3R4d09NRzIwMkdQNGJpVm9OTTQyM3N4RzNwb0E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "駅前データセンター新設に市議会も「NO」 千葉・印西市民も市長も反対してるのに、なぜ止められない？",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9yZnBQdkFkQ0x2U2psVE41Q3dxRnZvTTE0OXF0MjdHdWh1Q0ZBMUVnd1BWbHY0bG94a3dwc1lCYzd3SVBLRTZCRm9pNDBnd3FXUmRV?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市付近の天気",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTFBTdFBmVVRVSk5WOVlwVXg3MW9kOUlveU5DY0luOXZfazU2UlBGcDhIM0NuTk54UTYzNHU0REFfQ243ckFSMzRqNGxNd01RVDdi?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の乾燥指数",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE5vdlgyUkI4eVdjbVVpcU1yQm1JNGplRHByY19VTDY1RjF0VEp3V1VaWWZoTzY5cVhGX1VWQzdPTFhiMWlpZ0JZaGFPdEZLYU9HcTRPbWFwRQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "“DC銀座”千葉・印西には発熱する巨大な箱が建っていた 中西拓司・編集部",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE1JWDVvUGxvMjdVaFd0OXIzZTRrdHd2eDVsU2FtRFBoYkRBUzNOdl9tOF9Ka0NMakxoX05sM3BHWFRRYmphaUJ0M3IyNjBvSm1xbVZWNHRzWVp5eE1SVlg3TDFLRHVYYXFtSWVieFJsVWJRclZSUWxEWGRFMERwTG8?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市(千葉)の花粉飛散情報【2026】",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE92LUlXZmRPSThDeFN3QXo5dktOenFGazdkWWJQdTI4dGtIY2x2Q1p5ZVlnUXdHTmNRUy1jNVI1bFVOSUVvQjRaQjBrdThrY2hHLWZjOA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の初日の出時間【2026年】",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5IR2JITHJ6V3BQZG91MWxkVzA5cGRDZzJLdGRGa2xIbklWdnlseFluRFhTbURtbnhiZDN4X0w0bElBMXpHQS1BNVdjSHc1Zy03cXBtTmNENnBKbllr?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の天気予報(1時間・今日明日・週間)",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE9OaW9scm0zcGppTW1xVUV5T09UUnB1WnNtY29uM1RWaUJEQVNGRmZQWWdLaGU4TFB1QkJzeUhieVhBZ0hYb2hvRDQtamVxVzFsTUtUSjBVRmVDTEJQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の気圧予報",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE43M1hJZEtUR0JOMWNvbVBsWVlOcnQtcXFTMFp3UFgtQ090OTRLak1tWm1Ccll1WUtndm42elItVFdLYjFRSUNNZVgzbTd0ckhWRVhnbQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「データセンター銀座」千葉・印西、駅前建設で物議 日照権巡り懸念",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE11STA0SWQyYUh5VDRiUnlMQUdleHgxYmJsc2hhN2VLU2M2bGFfcHIxekRma283R3dCTjN4SThTUGk5YWMybFpMVWkyYWdRNmZBSGUyQnpoQjJQZDhFVjg1SlhuNUVhYnkwNkdyMQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "データセンター林立、千葉・印西 外資呼ぶ情報城下町 IN FOCUS",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE94MjRBTFM0RFVOMFJ0aHZhb0t3ZUVxSXVSSEx4U2dxZ0Q2OGJzczFmSXBmdWR0WUpITUVHajlFYXc3bmZ1Zkk0TzZlUEdzT25NWVNybnJtQWpyZExpMm00ZTdOc0QtNF9wckpKTA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "データセンター急増の印西市、住民から環境への影響懸念 市長も異論 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBXWHZ4dTVIM1owbkVQUDRLQ3dzX056OWJ4VzhqLWc5RkhqcVZ5a1E5YjR6UnVtRF81azRzX09Hak52TTFDaV9nbTB0Z3BHUDFudVRZdTJFTlo5LXNkd25WdnMzYURWSU0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉 印西｜2019年9月7日｜出没！アド街ック天国：テレビ東京 - tv",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9oQlltOXV0eWgzX3ItQTNlMm13Y0ZYWDY2TVluTDRzeC1ia01NS05WWDhyVTZzZW1qd1lTbnVjSFpJN083RjVKOENHY0NPLXUxSjBGaERoVXlLSkl6bjFOUDZsNkd5aWM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "野間口徹と行く千葉県印西市の旅！「座右の銘は現状維持」これまでの役者人生やプライベート語る",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTFBWWGwxWnRnUG50N3JidWxBNkxtQ1lzc1ZURnpOeTNCTk5uMnU0SmJGaGtHdHNuZUduMktVVWJvelFXSEdMazUwUVF2dE5uMDdnbWRsMWNJdXoxWnF3YXgzUzV0aHA2b2QtSjBPeERaMEdoOHBy?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西が「セカイのＩＮＺＡＩ」に データセンター集中、現地取材で謎解明【けいざい百景】",
+    "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1RMndPVWxyZ2g5NDNrMEZJTm04X3R3dV9qbFdTYVVZQ3FlUUZVeGR3ZE1qeUtlLW5lc215ZzJGa040eEpnXzhrM09MaWNaeVY4cVAxNzZob1JXZEttaUFxcQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の雨雲レーダー【予想60時間】",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE9GUHUzcXFTYV9TbEtvc3VMUlJ3Zk96TjBhQ0VmWFh4TWNMclc4X3E0dW1mMW1PWHByWWpvX3E0QkFoaHRPT2lsX21fdzR0VW0wcV9sNUNZblpkRUY2?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「駅前データセンター」反対集会に市長も駆けつけた 千葉・印西 計画撤回に持ち込む「3つの方法」とは",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTFBEa2w1blVRUWFSOUhFbjdIR094WjNxcWRtZl9jNkktRlZXSnQxZjR2WTMtUHhoeXFUTFFqLWtYbng2LU1qVWtxQ1lNUVgzSnQ0TmpV?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県で人口が増える流山市・印西市、その理由を探る",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTFBMMnZCdnY0aDBMS3lpekRLMnd1akdpV2tHRTM3OXN5emJjMjA2VVhJajRpblRETDBXZ2tkM2dYRW5QQTdQMld4Q0YzOXA3aG4zZTMxb0RyelhacEEySnpsMzhZcncxRXNWdmZDNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "人口増加率、千葉県印西市全国3位、流山・成田もTOP10",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE5zT2FBQk9JUXhZdElyX1RHdlpmRVhQS2FmWEFZcjlRckRWT1R4elF1cHhFLXlSTHZZejFyZlFIYUp3TTl6dVFnWUg1dVhhYTZZYmtLQ1loRGU1dS1VT1hKVWhfRFBLTTdSRUZJWQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "Google、千葉県印西市に日本初のデータセンターを開設",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTFBaNmp5STdsRXdJbjVKQjltVVFmUWw4ZUZsNkI4cDhUa1RhUnYxYlM0cERiaURkb3BXeFZ6U19RRWVMaHMxdGVUX0Y0eHhlc3BXQUFXekNpc1RKNkZJbHVrNWtQdDM1VUxlRjlr?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の天気",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE05M1dvazFiMFotWlhkSk5uZW9INkZzTWtreVk3ZVBXRnNhV21MWW5fUWJpclVZV2xuSEZkZFZRVXphWGdyZFptLW5aX20zZURNR2l2VEt1b2FHUVBiZFkyaVVxcmxrVy1X?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【洪水警報】千葉県・印西市、栄町に発表",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE9xMnhOb3FGUWRWUmRZOFJCZmtWOVg0X0dCa1BiY1dhd0pWTE45LXhnQ0hVbXlmN2ctRnh4X0paUWUxZ2p1cUIwUk1ZTmpvR1YwM3JqTEhn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「（仮称）千葉ニュータウンデータセンターパークプロジェクト」に着手｜大和ハウス工業オフィシャルサイト",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE9JUWVHRmp5NDE5V1o1MThEY241RDhvSktPNzhEa2g1cGZHLThTcWwxZ2hEWW5pOGFsRWJGTDA2X1BOcEk3dXk4X0d4NHhfOTFWZlgyVnpCVkloMXJXODk1NWM5azUwNlNLZkhxaUtiWnlockkt?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "肉のウヱキ 千葉ニュータウン店(印西市/居酒屋)＜ネット予約可",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE4tSTJzeU14RUlGZGZMSHFHRXI2cVpRamZnNzJlRk9wMUN6dlVNM1VEd3RDS1pUTE1LTEVESDQyRHBjdWNzNnN0T1RIT3Uzb1FN?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市(chiba)の お洗濯情報",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9nTDNoVk40UzM2RTBnNTRaRTg2Y0tuQnRpQVYyWlpwc21FRGplSmh1aFpKeXUyNzdCazBDTzVaOHlZWjVUZHpkbzJ5eFV4RVcyUTU1YXpHTGttRldaUTZR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "住みやすい街ランキングの常連、千葉県印西市が持つもう一つの「意外な顔」",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE04MU5zSzZscW94SW0zZGo0WXlEc2Z5aFItcEpHSFZoaTBhajJfNFNXckhFZ1A3Wm5WUkFBcW1oYXhvUGdnTEwyRjBUZjA0UHF1ZkROQVNn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ワイン酒場 バルデペロ(印西市/ダイニングバー・バル)",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9lOEgzUk5EdXhzUHJiMFAybFFSa0FHWGJiNktDelpYNjMycFFaNmF6dG00VG1pOGZqNnRMN2w1U3NlZ1lCbWIzajBfZUp2WlZm?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の服装指数",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1MTUhHV1ZWY0REWnNUQW16Q29LMF9vUWZrYUw0VWh4OGhidDNNeHpDV0ZEaVFEYTFYMXM5UHJuTlVpWDZGQ1Nmb0xEdVJoQ21ueVM0V1M5QkE1VEE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県は、ずっと面白い/印西市PR動画リリース",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTE5vdVV0bVNURkNIUUUwYkRpdU1pUzdLY2tUdXdDQWVzdUZzN01jbV9TYUcwYnFPUFRpd1Q2RVpXMWlXR2NqMng1TkFwZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の1時間天気",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1NSHZKQkE4d0l6c01OOURHVWh5dnBZREpqWXdKRDhVQTN1VXFUaWlaZ2thbXczVWpvTjhBNXBjNnI4LU5XVDNuMXRZek1fSTdSTGJnX0Y3N2tOTzVQN3dHX2N3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の2週間天気【予報精度No.1】",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE5BZmUyUFB5Z1haek9rYVotV3J1WmpwLVh6U0R0bkdUVFdzMUFYWUtNR2plVkEzWDNKbVA1clBwc2JxdTZIM245YXZIMjV5Rl9mVV9IUzMwOVlYM0tGd0VVOUpwOGk4Vmtt?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の3時間天気",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE9VczQxeFFnN2hQdXVNNnpvdFJzSlpqUFJIOGQtZ1NtdjYwbEdWZzY1T0ljOEtCV2pYdG81NWVnaGZnNG5ETTN4emZrRUJnYm5yRGZBT01HU1lvYzg0Z2FXellYUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の2週間天気(旧:10日間天気)",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE9PN3Z4blRkUDFnaVhTRlBpWmhrdlR2T1phRnh3cXo5YVJ3ckJOUEJZcDBQTlMwSXplMlFFZC1mYm1RTkI1LTktMlQ2cnpjOUtuVDRkYVJ4dDJVc1RYcXRNRVd0QQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市立小林子育て支援センターの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9DOG43LWVTNE5RanlGY2xUZ2lTLTFtZGF0ZlppVXNRY2gtNHljN3RhaFhYcm5nU2FGTlA2MDhzQ2g0dU43OERZSFVoOTYxQ3lkV1E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "人口増加率トップは千葉・印西市 「誇り持てる環境」人口増の背景に",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE04Nnk2bWlSeERITVBwYlpNY3owcnVlNkc1OFZSdWx5TDRHRFQtSi03WWFNcW9xT3JOcXh1SGdiVlJqVEZ3WTBWclBfMHRmc2dKYi13VGdTQVVhNnNjeEFiWWl5M2wzUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "草深公園(印西市)の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+    "link": "https://news.google.com/articles/CBMiT0FVX3lxTE1fbGwzZ2tqNmpaR283UzN6ZEJaUEFEQU9pb2dOSk9JY0trN293UG9MRExwUWliMlliWnN3cFB0ZHNIVHVFdUZLeXM0Wi13Rk0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の今日明日の天気",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9PODhpOGYtcUp3amR5cVpfMTVqRFVjNGRsU0hMbTNDZXJBRVh3b29kanVYcG5jMHFMRXZ1QW9kSnlwOTk0cmxyTENnUnEwWjJlQXRpYw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "グーグル､千葉印西市に日本初となるデータセンター開設へ",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE90OTRJSnhEY1VUQXZwUDhwTzloeENXUWdNc1dVUlplSXgzb0tsSjhla2NkSGFxYkFxRWI3NnZXN0ZzeXhaUTB4NzNGWDNzMGl6d2ttLWZQcw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「住み続けたい街」印西市が千葉トップ 浦安市など抑え2年連続 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9XRHhYWElHQXpfTElHM3EtcGNiVy16YW82S09VYzc1YUR4cThmUnpIUlJrRGRZNjF2MGgyaXRuMTFidmZWQXg5b3ZXZU5ETjZ6REhEaDhzZkhzeWNMeWtMZ0pNa3VUQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の洗濯指数",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE9tMVFlU3FVQXNGZ09TUDdjbzNRS1FFSEdmNTVmLTNFc0NQYzJ3QzViZWszWjFfSkZ0S2F3RjdYdElnUFIzRWRPUG92Q2wyN2JBSVk5V3FWZ2QwRVpRWThvbTlLdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "カルビ大将 千葉ニュータウン(印西市/焼肉・ホルモン)＜ネット予約可",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9IQk1jYS1XQ1VFUHFuLV9jeXluS090YmZCdWhsRFZyT3NIek5aQW5CdWJJeFJYSFVLQTBRN1VCY2RmVGQwdTM2akpqdkhQYkU5?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-0037",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉西地区予選会は印西市立大森小学校が大会2連覇（5月27日）",
+    "link": "https://news.google.com/articles/CBMiRkFVX3lxTE9lOEVTTkFNZHZqb1M4bFZ4RlVOTEpySnc0aEFXdG5lcDdmU1lLNjRXYWptWk55cTZMZE15LTljUnA2NXdjanc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
