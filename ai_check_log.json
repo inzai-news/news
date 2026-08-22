@@ -4059,5 +4059,25 @@
     "link": "https://news.google.com/articles/CBMic0FVX3lxTFBmX0treV9qOGdmYnlZRVJQUXRvMncxTzZWMTJqb0dJTjB3Nm5CMGhwUHdnWlZIZkl2TjlHRC0tRDB1RUVfYklreHFRRXprdjJXQVFlZER6R2s3M0w1Y3FwNS0wRTlGS1QtRXZqaFVFMGYxc3c?oc=5",
     "similar_to": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260822-1029",
+    "date": "2026-08-22",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "オリジナル缶バッジ作り体験（2026年08月22日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=16297&store=chibant",
+    "similar_to": "オリジナル缶バッジ作り体験（2026年09月12日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260822-1029",
+    "date": "2026-08-22",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE9yQ1dRQ1JNSEJvVVFKdTdYZWp6WjFSNWdmejN3MXU0MXY2TzhySDFST3VLVVdSREVReUJaZFhHdlNfLUxOU3FrSGk5WWVLcTBzTHRCeHRuNlZSSEFCdnMzSERzQy1IdVIwWG9ZcQ?oc=5",
+    "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
