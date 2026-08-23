@@ -4549,5 +4549,25 @@
     "link": "https://news.google.com/articles/CBMiRkFVX3lxTE9lOEVTTkFNZHZqb1M4bFZ4RlVOTEpySnc0aEFXdG5lcDdmU1lLNjRXYWptWk55cTZMZE15LTljUnA2NXdjanc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-1438",
+    "date": "2026-08-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTE1JNUhCdmNESkhVU0VZa2Zxd183cDc4QmlXLWotdHVvWTFmMTVxZWZVYzV1bjd5WG1TenUzN3NsR1ZrVGVqWXNzUHZZVEhUTkhDbm95b093cmhmVFpNRzNHY0wtZGlQMGgzOUJfZmxKTHNUZlk?oc=5",
+    "similar_to": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260823-1438",
+    "date": "2026-08-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "イオン鎌ヶ谷の本屋「未来屋書店」が1Fにリニューアルオープン",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTFBkRFZ4OU5fcGNsbVdRZmRHTU10d0VXbEFOVnpidFZWcG54cE03SW5Rc2wzU2dhWWlkeGxzSjFxY3Q1M1dnMmtCQ2paTmVoUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

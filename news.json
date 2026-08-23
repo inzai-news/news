@@ -1427,8 +1427,8 @@
     "title": "印西市の公共交通のご案内",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
-    "pub_iso": "2026-08-17T17:23:12+09:00",
-    "pub_str": "2026年8月17日",
+    "pub_iso": "2026-08-23T09:58:23+09:00",
+    "pub_str": "2026年8月23日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -3897,9 +3897,9 @@
     "retention_type": "regular"
   },
   {
-    "title": "令和8年度印西市史編さん講演会を開催",
+    "title": "令和8年度印西市史編さん講演会「戦国時代の印西地域の城と社会」を開催",
     "link": "https://www.city.inzai.lg.jp/0000022308.html",
-    "desc": "令和7年度印西市史編さん講演会\n講師及び演題\n橋本勝雄氏　「印西の旧石器時代－石器が語る地域の特質－」　　\n根本岳史氏　「東海道遺跡のナイフ形石器の発掘について」　",
+    "desc": "令和8年度印西市史編さん講演会\n講師及び演題\n井上哲郎氏　「戦国時代の印西地域の城と社会」",
     "pub_iso": "2026-08-20T00:00:01+09:00",
     "pub_str": "2026年8月20日",
     "publisher": "印西市",
@@ -4209,6 +4209,52 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-08-23T00:37:32.785823+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "現在、文化ホール・大森図書館の電話が不通です",
+    "link": "https://www.city.inzai.lg.jp/0000022412.html",
+    "desc": "",
+    "pub_iso": "2026-08-23T11:42:31+09:00",
+    "pub_str": "2026年8月23日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-23T14:38:11.119485+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "地震 千葉 印西市役所の警備員「横揺れ10秒ほど続いた」",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1pRkk1cnRSRmxWS3FNQU01cUFqbnlXYlJsNm9BWDR4MkpmeXhGUTdMMW52MDBLbEk3WHJtR2VEZHVkZzZ3RjFYVTQ5bnlxLXlZcTAyV1A2LURzMmVuNWM0?oc=5",
+    "desc": "地震 千葉 印西市役所の警備員「横揺れ10秒ほど続いた」  NHKニュース",
+    "pub_iso": "2026-08-23T02:43:16+09:00",
+    "pub_str": "2026年8月23日",
+    "publisher": "NHKニュース",
+    "source": "google-news-inzai-chiba",
+    "category": "市政・行政",
+    "collected_at": "2026-08-23T14:38:11.119485+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】800年の伝統を受け継ぐ「別所の獅子舞」は2026年8月23日と24日に奉納されます。一般公開は24日（月）の地蔵寺での奉納のみ",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/23/besshonoshishimai2026/",
+    "pub_str": "2026年8月23日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-23T14:38:11.119485+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE1MdWszTTVycVBMaS1hTDFDcThLVExCd2hodURjdTVIaXJqdXNYVEswaktRazJLUmRsWjZfckEzT3FFVE5sdmdNSHByRFdScm5IbmJjN0RpVDhYQ2RvdmQwckVqSXFLQ3cwMW8zODd0bXlZOS0wUW5ReW9HUjQxeEE?oc=5",
+    "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  Yahoo!ニュース",
+    "pub_iso": "2026-08-23T08:51:00+09:00",
+    "pub_str": "2026年8月23日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-08-23T14:38:11.119485+09:00",
     "retention_type": "regular"
   }
 ]
