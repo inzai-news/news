@@ -768,7 +768,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1186,7 +1186,7 @@
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -1239,17 +1239,6 @@
     "desc": "メキシカンタコスが人気と知り、久しぶりに印西牧の原駅すぐの「カリフォルニアスタイルキッチン」さんにお邪魔しました。 California Style Kitchen カリフォルニアスタイルキッチン ・印西牧の原駅すぐにあ […]\nThe post 印西▷野菜たっぷりタコスとハンバーガーが人気の店でランチ｜メニュー【カリフォルニアスタイルキッチン】 first appeared on ちばもぐ.",
     "pub_iso": "2026-06-07T11:46:00+09:00",
     "pub_str": "2026年6月7日",
-    "publisher": "ちばもぐ",
-    "source": "chibamogu-inzai",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西▷200円以下！天使の生パイがやみつきになるケーキ屋さん｜メニュー【パティスリー ジプソフィル】",
-    "link": "https://chiba-lunch.com/inzai-patisserie_zipsofil-menu-cake/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-patisserie_zipsofil-menu-cake",
-    "desc": "いつもの通り、伺おうと思ったお店が２店舗続けて閉まっていて、気づいたら国道464号の裏道（印西）にある「パティスリー ジプソフィル」さんの前にいました。2021年にオープンの洋菓子店です。 Patisserie Zips […]\nThe post 印西▷200円以下！天使の生パイがやみつきになるケーキ屋さん｜メニュー【パティスリー ジプソフィル】 first appeared on ちばもぐ.",
-    "pub_iso": "2026-05-23T08:36:34+09:00",
-    "pub_str": "2026年5月23日",
     "publisher": "ちばもぐ",
     "source": "chibamogu-inzai",
     "category": "話題・その他",
@@ -4265,6 +4254,29 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-08-23T18:13:47.249347+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "レザーキーホルダー＆コインケース作り体験（2026年09月23日(水)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=16293&store=chibant",
+    "pub_str": "2026年8月24日",
+    "event_end_date": "2026-09-23",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-08-24T00:26:26.864061+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「受診券」について",
+    "link": "https://www.city.inzai.lg.jp/0000013645.html",
+    "desc": "",
+    "pub_iso": "2026-08-24T00:00:01+09:00",
+    "pub_str": "2026年8月24日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-24T00:26:26.864061+09:00",
     "retention_type": "regular"
   }
 ]
