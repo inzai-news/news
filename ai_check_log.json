@@ -4569,5 +4569,35 @@
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTFBkRFZ4OU5fcGNsbVdRZmRHTU10d0VXbEFOVnpidFZWcG54cE03SW5Rc2wzU2dhWWlkeGxzSjFxY3Q1M1dnMmtCQ2paTmVoUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260823-1813",
+    "date": "2026-08-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件 - merkmal",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTFBIVzNBNlBGSER5NjJYV0FDY0IwUGxkQnQzSmdNVVB3WlJ5Sm5RSFNPQm9QekdFUU93bXk4dEdYYk56MjdyT2JUd0FzZUM?oc=5",
+    "similar_to": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260823-1813",
+    "date": "2026-08-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal） | 自動車情報・ニュース",
+    "link": "https://news.google.com/articles/CBMiiAFBVV95cUxNTnNpUlRyb1Q0bS1tVTVHZ2pEYW9oTVJUQW5NNGpsLWFzVE9rQkwtRjRsckFBYmVMUmhKNlVDSkFLaFQxYmtTREdxQ3pQXy1YcnhtUnVRRldvM0ZjRDZ4eUVxcXBNdkJYdlk2VGxVWkZMQVdQVmdtSk55dmtOTnlSbUJnNVhzS1Rf?oc=5",
+    "similar_to": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260823-1813",
+    "date": "2026-08-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "千葉の国道16号\"破滅の渋滞\"の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1Gdm1vX2d2R1FTYVRwRURNVE9kXzlKLU95X3IzQk80LVAxRXIyMTFfVmJzdHBtQTFPTkEyUzVVaHBHUXVGcEVRdThZRQ?oc=5",
+    "similar_to": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

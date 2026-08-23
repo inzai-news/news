@@ -768,7 +768,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1041,7 +1041,7 @@
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
     "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -4255,6 +4255,16 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-23T14:38:11.119485+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】8月29日（土）「とかみDEマルシェ」が戸神ホームズで開催！ ハンドメイドのお店やキッチンカー、ふれあい動物園もやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/23/tokamidemarche2026aug/",
+    "pub_str": "2026年8月23日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-23T18:13:47.249347+09:00",
     "retention_type": "regular"
   }
 ]
