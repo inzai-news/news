@@ -768,7 +768,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -3774,7 +3774,7 @@
     "pub_iso": "2026-08-15T16:38:45+09:00",
     "pub_str": "2026年8月15日",
     "publisher": "住宅新報",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-18T09:37:19.444889+09:00",
     "retention_type": "regular"
