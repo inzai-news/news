@@ -4629,5 +4629,15 @@
     "link": "https://chiba-lunch.com/inzai-patisserie_zipsofil-menu-cake/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-patisserie_zipsofil-menu-cake",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260824-1213",
+    "date": "2026-08-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "関東地方で未明に地震　千葉県内では浦安市と印西市で震度５弱　４人が軽いケガ",
+    "link": "https://news.google.com/articles/CBMi1wFBVV95cUxPMTIxT080SGNScU9Vak9CaC0wQnZOZ0tEUmxiTnFrTGVoWnk4V29zNnF0ZTlsd0RuRldfYi1EQ0I5bkZQTF9XNjVUSTl1UmFyTkVaMkJjSnNiVDJCQXlJU0VoQnBTbUt0bVowVi0wdUdhX21WRm5idmZzVEthb1lxRWpNLXJuNEUtYjg5VHViU2J2TWxqbmRuMGdkM0x4T2xhSWJuNzl0djJBdWVmd0RhTENOdDhNb21XbUM1dGdjbnpQTlFibEdsbFZDWFJjNHl2Z2g2ZXRBa9IBhwFBVV95cUxOUE5XaUJfNTJBUUdLY3RiSnlJNjB1OUNfT1FmSjBpbXFhRjdRNV9fZDhtYk5QS2FuVHZQcFlYT2Z4ZDRyWENaM1p3SWNDOEJBSV93cDR4MWphTGJwaDZ0emxpT0RJV0RZU2NCUVdfSEY1SHh2NUNBS05mdk55MlRaVWVERXU0TDQ?oc=5",
+    "similar_to": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
