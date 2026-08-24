@@ -3781,7 +3781,7 @@
     "retention_type": "regular"
   },
   {
-    "title": "大塚前公園夏祭り2026（8月22日（土））",
+    "title": "大塚前公園夏祭り2026（29日へ順延）（8月29日（土））",
     "link": "https://inzainet.com/event/otsukamae-260818/",
     "pub_str": "2026年8月19日",
     "publisher": "いんざいネット.com",
@@ -4277,6 +4277,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-24T00:26:26.864061+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA1MnNoTWExNXM5Y3NrWnQwX2g3bVZiVndSOW5oM0pSQTNKMk9HRTgwRlg1dHYxOUFwVHFHazlfaG5CRTF4T3lvcHZzdjJUbHMwLUJJT1QzZw?oc=5",
+    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  CLASSY.[クラッシィ]",
+    "pub_iso": "2026-08-23T17:55:15+09:00",
+    "pub_str": "2026年8月23日",
+    "publisher": "CLASSY.[クラッシィ]",
+    "source": "google-news-inzai-shi",
+    "category": "市政・行政",
+    "collected_at": "2026-08-24T09:58:37.337159+09:00",
     "retention_type": "regular"
   }
 ]

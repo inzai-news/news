@@ -4599,5 +4599,35 @@
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1Gdm1vX2d2R1FTYVRwRURNVE9kXzlKLU95X3IzQk80LVAxRXIyMTFfVmJzdHBtQTFPTkEyUzVVaHBHUXVGcEVRdThZRQ?oc=5",
     "similar_to": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260824-0958",
+    "date": "2026-08-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件",
+    "link": "https://news.google.com/articles/CBMijAFBVV95cUxNRGpHc29ZSUFoU3N1bXBjVUw4WktWRkp6SHI1ZFZNa3Q2VWtmQ213MFNnQm92YmdfdDFGcXkwVkpZRktsb2YxcWE3OFpjX1Zuck96a0hFNG1TdzZ5OE41VF81Z1VrcHp2YXhPZ3VyLVRBYXNFeHlQREVYTUhvZjFvQXZXY1loTmJIZW9wQdIBiAFBVV95cUxPZGVNb0ZVa1BUSDNkQWJPeUJDOFF4RmhBcHFPdjRIZkU3UDlsOTFUWnpBdVhJbUc4VXh3UmNZQWYybzBvcDIyUjU1QVNnbzJzNG9zQ2E5Q0JDdEk0NmlaU0RrcUllakJIRDlHWHM0VHBIZm1pNW91dHdaNlM5MjlWQkZvUF81X19s?oc=5",
+    "similar_to": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260824-0958",
+    "date": "2026-08-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件 - merkmal",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE4tR2IzY1hYRzV3ZUVZQVViR2c1UmdsNlRDQ1V5cUhsSVdIWGFMclJ5eDJWN29aWVRYUXQ0ckl4YWp6LW5XdkVLTllObFM?oc=5",
+    "similar_to": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260824-0958",
+    "date": "2026-08-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷200円以下！天使の生パイがやみつきになるケーキ屋さん｜メニュー【パティスリー ジプソフィル】",
+    "link": "https://chiba-lunch.com/inzai-patisserie_zipsofil-menu-cake/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-patisserie_zipsofil-menu-cake",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
