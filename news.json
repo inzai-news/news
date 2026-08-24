@@ -1186,7 +1186,7 @@
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -1795,16 +1795,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "レザーキーホルダー＆コインケース作り体験（2026年08月21日(金)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=13602&store=chibant",
-    "pub_str": "2026年7月22日",
-    "event_end_date": "2026-08-21",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "retention_type": "regular"
-  },
-  {
     "title": "【印西市】7月25日（土）「Cosmos Palette 夏祭り 2026」開催！ 盛りだくさんのステージLIVEのほかキッチンカーや屋台も楽しめる！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/22/cosmospalettenatsumatsuri2026/",
     "pub_str": "2026年7月22日",
@@ -1976,8 +1966,8 @@
     "title": "子育て支援拠点施設のおたより公開",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000017417.html",
     "desc": "各子育て支援拠点のおたよりを公開しました。ご活用ください。",
-    "pub_iso": "2026-07-24T07:00:01+09:00",
-    "pub_str": "2026年7月24日",
+    "pub_iso": "2026-08-25T07:00:01+09:00",
+    "pub_str": "2026年8月25日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4316,10 +4306,10 @@
   {
     "title": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1XbktJWUp0T1dvT2lPdDFtRko3cGFDYXR5eU9ETG1sbmF2ODR0djQ4d1d3LVFFMDhPWGFmTEV0RkxXOFdpWVRXZFFKRXkzNFJJenhxRTJRZDhlaWlhYkxR?oc=5",
-    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送",
+    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送株式会社",
     "pub_iso": "2026-08-24T09:59:00+09:00",
     "pub_str": "2026年8月24日",
-    "publisher": "千葉テレビ放送",
+    "publisher": "千葉テレビ放送株式会社",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
@@ -4335,6 +4325,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-24T16:13:47.980513+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西▷値上げしたザ ビフテキのステーキを、8年前と比較してみた｜メニュー【THE BIFTEKI BIGHOP】",
+    "link": "https://chiba-lunch.com/inzai-the-bifteki-bighop-lopia/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-the-bifteki-bighop-lopia",
+    "desc": "印西BIGHOPにある、有名な激安ステーキ屋さん「THE BIFTEKI」。最近も値上がりがあったのですが、8年前と比べてどのくらい違うのか比較してみました。 THE BIFTEKI ・価格が本当に安い！・SNSでは常に […]\nThe post 印西▷値上げしたザ ビフテキのステーキを、8年前と比較してみた｜メニュー【THE BIFTEKI BIGHOP】 first appeared on ち",
+    "pub_iso": "2026-08-24T22:34:51+09:00",
+    "pub_str": "2026年8月24日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-inzai",
+    "category": "話題・その他",
+    "collected_at": "2026-08-25T08:33:12.456495+09:00",
     "retention_type": "regular"
   }
 ]

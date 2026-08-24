@@ -4649,5 +4649,35 @@
     "link": "https://news.google.com/articles/CBMidkFVX3lxTE9oT3ZEWGtOQ25mLTlWby1sVjh5U1VtSmh6SG9VYXI2U2h6ZU5NT0tfUG8wLUtJckZFTVRscUc5cHJvSHVPVXBabU9YZlV4ZFdjRVMzalNKQmRjTXotbER0VWxDWVpMVDA1NXJBb0ZtZnRfTHl1Q3c?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260825-0833",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市原・BIG HOP バリューモールの「GEETA BIG-HOP 印西店」でチーズナンセット",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE9TYTdfdWJXcE1FME85bklmNjNtYkNvdFctWW5pVGMycUN5dHFzQjI5NUFObVZwTm1FTXhJWkJtTjNrNlRQMUJHQk52VUhWN2EzazlOVG82UkkyMy10?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-0833",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "とん吉(印西市/ラーメン)",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE42ZkgySFZlZnRFbDQ1dkMydzVaWTJTMXdXcWlLZi1hMXpnOVR4dnZScUlSRUh2cG42bExzUFZaWEhnb21FZTIzblFRRFRRNDVs?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-0833",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": 0.52,
+    "title": "【印西市】牧の原テーブル レストラン/ショップが8月30日（日）をもって営業終了します",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/24/makinoharatableeigyoshuryo/",
+    "similar_to": "【2026年08月30日 閉店】牧の原テーブル レストラン/ショップ",
+    "ai_reason": "既にstore_eventとして登録済みの同一店舗(牧の原テーブル レストラン/ショップ、8/30閉店)の重複記事のため除外"
   }
 ]
