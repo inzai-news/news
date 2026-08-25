@@ -4679,5 +4679,25 @@
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/24/makinoharatableeigyoshuryo/",
     "similar_to": "【2026年08月30日 閉店】牧の原テーブル レストラン/ショップ",
     "ai_reason": "既にstore_eventとして登録済みの同一店舗(牧の原テーブル レストラン/ショップ、8/30閉店)の重複記事のため除外"
+  },
+  {
+    "run_ts": "20260825-1538",
+    "date": "2026-08-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE5ic2YtT0VYNmI5NTc3aXB2QWF1dk05bzh3V2tOSUd4c3M2dkd5aV9PQVdQdVUwSm9lZHNLOWJQOWVHdzFmSW1wMTZIbkRUb2FjeUx0a19CSGx5anM?oc=5",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260825-1538",
+    "date": "2026-08-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.98,
+    "title": "【千葉県印西市】市制施行30周年記念事業　20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "link": "https://prtimes.jp/main/html/rd/p/000000042.000180020.html",
+    "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
