@@ -4699,5 +4699,45 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000042.000180020.html",
     "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260825-2018",
+    "date": "2026-08-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "バイリンガル・スピーチコンテスト in 印西",
+    "link": "https://news.google.com/articles/CBMihgFBVV95cUxNNnhLd3lKNXZObExKaXlmNWpyQ24zWlI1cFc4TFhEYlQ2OEdIakhoOFp1WjFTQWdLY240ekpHanBSQzcyVkkwLWFfWGVIVXdScUV3eVMxZVlzRTVvWkoyQXh4N3RlUFJQUjRFNng1eVZwRjNOc1VjZUg3Y0x2NXNTMEprS2NCZ9IBhgFBVV95cUxNNnhLd3lKNXZObExKaXlmNWpyQ24zWlI1cFc4TFhEYlQ2OEdIakhoOFp1WjFTQWdLY240ekpHanBSQzcyVkkwLWFfWGVIVXdScUV3eVMxZVlzRTVvWkoyQXh4N3RlUFJQUjRFNng1eVZwRjNOc1VjZUg3Y0x2NXNTMEprS2NCZw?oc=5",
+    "similar_to": "バイリンガル・スピーチコンテスト in 印西",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260825-2018",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "Cafe HATHIBUNME カフェハチブンメ(印西市/ダイニングバー・バル)",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE93SU1VZmhTM0xfQ3ZqM3F0VDFRTnJJNjNNZnFCNFV3WkpGam9TMTJsWXpvNWxPZk1PQ0NYM0JZaG5CWUpvbFVfUUN3UjJnN001?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2018",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市原・BIGHOPガーデンモール印西店の「かつてん BIGHOPガーデンモール 印西店」でかつてん丼＆ミニそばセット",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTE00dmZLcWtQLWI0czVFQzJyRkdqMHVDTW1HOHNNQ1pqYzhQZ2VHckZvQ3dXbHlKTk9PZXVyZUdSdENLX0wyaV9PZndRZlB4aFJtOGJMNnVILURKUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2018",
+    "date": "2026-08-25",
+    "ai_decision": "keep",
+    "similarity": 0.78,
+    "title": "「令和8年8月千葉豪雨災害義援金」の受付について",
+    "link": "https://www.city.inzai.lg.jp/0000022397.html",
+    "similar_to": "「令和8年熊本地震災害義援金」の受付について",
+    "ai_reason": "類似記事は熊本地震災害の義援金受付で、こちらは令和8年8月千葉豪雨災害の義援金受付。タイトル構造が似ているだけで別ニュース"
   }
 ]
