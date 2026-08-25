@@ -4749,5 +4749,45 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9nMGxaRVQxdUREYUY5YVBPNnlxMnZZTWhUdEQ2QlpKLXdRaERKenhzUjZWWEJkMTJ0UE1lY1N1X0FIY0xqYlp3QmtERVpjV3NL?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2330",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市長選、新顔の藤代氏が初当選 4選めざした現職らを破る",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFA0MEEzQkZSNmxyZ3RvRFE0NUxGdEpLTUFEcDNGUFlKeHl2cy1JTW9nclZBMUhCeTB4TWlwYUFBU2R0YWt4SnpUeWFVUGdJMWNWMnRrSUhTaHB0TmMySjRYMnNjU1FoLVE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2330",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "３０年かけた開発計画が白紙…千葉ニュータウン「印旛中央地区」で発起人会が解散、新市長と方針の違いで「けんか別れ」",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE80YjZTdTJjZ3N6Mzdkd0tDWWY0VG9qSGpNNXZPbC16cjRnY3pVTWlBN3QzbUdWMUsxeWZtNlM2aG1FNkI2SGd3WXo2aml0SmFYVjZBSzMwUlhPV2JLM3ZUWW53dTJrQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2330",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉】「一緒につくろう、印西市！！」集会に泉代表が参加",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE5ZZWViajlHTHRxVWZyUE9lSEFJRnRjV1IxYl80X3gtQVNEYVpNeHV2bGpaZUFQbXNhV1FGc3NpQ1htNTU5M2hOSFAwS2pvVDI3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260825-2330",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "wakuwakuベビーサイン【印西市】千葉県の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE16RDZ5dzJEeXZFX0NLTkgtVTIyUWpoWmxVRmdfakZEaW1VbU1ITlFFNktvNWkyblUwM243SkNWOExzUk1aQ1FiV1Bid05tQU0z?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
