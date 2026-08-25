@@ -3042,17 +3042,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "ぷにょぷにょアクアリウム（2026年08月22日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14242&store=chibant",
-    "pub_str": "2026年8月10日",
-    "event_end_date": "2026-08-22",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-08-10T16:57:50.858536+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市送迎保育ステーション事業整備及び運営業務委託（印西牧の原駅圏）に係る公募型プロポーザルの実施について",
     "link": "https://www.city.inzai.lg.jp/0000020266.html",
     "desc": "",
@@ -4421,6 +4410,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-25T20:18:09.118710+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】8月29日（土）「theGreenの夏祭り 2026」開催！ 盆踊りや縁日、キッチンカーもあり！ いんザイ君もやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/26/thegreennatsumatsuri2026/",
+    "pub_str": "2026年8月26日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-26T06:59:49.444745+09:00",
     "retention_type": "regular"
   }
 ]

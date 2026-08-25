@@ -4789,5 +4789,15 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE16RDZ5dzJEeXZFX0NLTkgtVTIyUWpoWmxVRmdfakZEaW1VbU1ITlFFNktvNWkyblUwM243SkNWOExzUk1aQ1FiV1Bid05tQU0z?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260826-0659",
+    "date": "2026-08-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTFBfYndud0J0MVd0Y084ZXVsOHBRQkpnazBzZmJBZVBneTE1MXk2Tm5ITnZGSW1BZnNFRi1DRkVSSE9jOEFDc3RPVFlDYWJaWVFsVENOUXI1aW9RcG1Kczl1MExXelhkN0MtVDliek41d2YtUQ?oc=5",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
