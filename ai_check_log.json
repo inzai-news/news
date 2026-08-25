@@ -4739,5 +4739,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022397.html",
     "similar_to": "「令和8年熊本地震災害義援金」の受付について",
     "ai_reason": "類似記事は熊本地震災害の義援金受付で、こちらは令和8年8月千葉豪雨災害の義援金受付。タイトル構造が似ているだけで別ニュース"
+  },
+  {
+    "run_ts": "20260825-2206",
+    "date": "2026-08-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "炭火串焼 シロマル 千葉ニュータウン店（しろまるちばにゅーたうん）",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9nMGxaRVQxdUREYUY5YVBPNnlxMnZZTWhUdEQ2QlpKLXdRaERKenhzUjZWWEJkMTJ0UE1lY1N1X0FIY0xqYlp3QmtERVpjV3NL?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
