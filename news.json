@@ -4295,10 +4295,10 @@
   {
     "title": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1XbktJWUp0T1dvT2lPdDFtRko3cGFDYXR5eU9ETG1sbmF2ODR0djQ4d1d3LVFFMDhPWGFmTEV0RkxXOFdpWVRXZFFKRXkzNFJJenhxRTJRZDhlaWlhYkxR?oc=5",
-    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送",
+    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送株式会社",
     "pub_iso": "2026-08-24T09:59:00+09:00",
     "pub_str": "2026年8月24日",
-    "publisher": "千葉テレビ放送",
+    "publisher": "千葉テレビ放送株式会社",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
@@ -4432,6 +4432,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-26T14:36:35.916232+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022395.html",
+    "desc": "",
+    "pub_iso": "2026-08-26T16:13:19+09:00",
+    "pub_str": "2026年8月26日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-26T19:00:56.365153+09:00",
     "retention_type": "regular"
   }
 ]
