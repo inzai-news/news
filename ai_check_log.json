@@ -4799,5 +4799,25 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBfYndud0J0MVd0Y084ZXVsOHBRQkpnazBzZmJBZVBneTE1MXk2Tm5ITnZGSW1BZnNFRi1DRkVSSE9jOEFDc3RPVFlDYWJaWVFsVENOUXI1aW9RcG1Kczl1MExXelhkN0MtVDliek41d2YtUQ?oc=5",
     "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260826-1436",
+    "date": "2026-08-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "「いんざい健康ちょきん運動」体験会のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022287.html",
+    "similar_to": "「いんざい健康ちょきん運動」体験会in防災DAYS　のお知らせ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260826-1436",
+    "date": "2026-08-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "関東地方で未明に地震　千葉県内では浦安市と印西市で震度５弱　４人が軽いケガ",
+    "link": "https://news.google.com/articles/CBMiggFBVV95cUxNTGVLRmRKU0tTaEdUS1dZT0I3WXI0M3dUVjJqTkdwVkJBWlRYbDJ2VXNxcy03dzBfR1JOV08zaUlJa3lwTzM1MGhfMUpUQjU1WkZaQTRqVUE0RmltSzUyTXltMnNEQm5qNHBhZ0hIMWZEazVORk1uYjlvMWtsd2ZBWnJR0gGHAUFVX3lxTE5QTldpQl81MkFRR0tjdGJKeUk2MHU5Q19PUWZKMGltcWFGN1E1X19kOG1iTlBLYW5UdlBwWVhPZnhkNHJYQ1ozWndJY0M4QkFJX3dwNHgxamFMYnBoNnR6bGlPRElXRFlTY0JRV19IRjVIeHY1Q0FLTmZ2TnkyVFpVZURFdTRMNA?oc=5",
+    "similar_to": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
