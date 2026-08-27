@@ -4829,5 +4829,75 @@
     "link": "https://www.city.inzai.lg.jp/0000022395.html",
     "similar_to": "令和8年度第1回印西市子ども・子育て会議開催結果（令和8年7月13日開催）",
     "ai_reason": "類似記事は子ども・子育て会議の開催結果で、こちらは図書館協議会の開催結果。別の会議体の別ニュース"
+  },
+  {
+    "run_ts": "20260827-1436",
+    "date": "2026-08-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "「いんざい健康ちょきん運動」体験会in防災DAYS　のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022435.html",
+    "similar_to": "「いんざい健康ちょきん運動」体験会in防災DAYS　のお知らせ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260827-1436",
+    "date": "2026-08-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "「いんざい健康ちょきん運動」体験会のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022437.html",
+    "similar_to": "「いんざい健康ちょきん運動」体験会in防災DAYS　のお知らせ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260827-1436",
+    "date": "2026-08-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "令和8年度第3回印西市地域公共交通会議の開催について（令和8年9月30日開催））",
+    "link": "https://www.city.inzai.lg.jp/0000022252.html",
+    "similar_to": "令和8年度第2回印西市地域公共交通会議の開催結果について（令和8年7月13日開催）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260827-1436",
+    "date": "2026-08-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.94,
+    "title": "印西DC計画 住民7人が市を提訴 監査請求棄却受け",
+    "link": "https://news.google.com/articles/CBMiYEFVX3lxTE9aWDU3NkZhM0ZjZWRnTF9pMjZ1ZHFmbGJBbnVtdTFqcVVfWjRQYkJKMXNoTExDcDNfWWR4VHY2NHhtbjJ1NFhXUzVSRFhYalJfRUotLS1kdHRIdmRrcktYcA?oc=5",
+    "similar_to": "印西DC計画　住民7人が市を提訴　 監査請求棄却受け",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260827-1437",
+    "date": "2026-08-27",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "模型・ジオラマ作り実演会（2026年09月19日(土)～2026年09月20日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=27139&store=chibant",
+    "similar_to": "マツダケン作品展（2026年09月19日(土)～2026年10月04日(日)）",
+    "ai_reason": "ジョイフル本田の別イベント(模型・ジオラマ作り実演会)のため別記事として採用。タイトル形式が似ているため類似度が高く出ただけ"
+  },
+  {
+    "run_ts": "20260827-1437",
+    "date": "2026-08-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】小学生が地酒「龍の奇跡」の酒米を田植え。地域連携で特産品づくりを体験",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE50cE5mUUxXUktucVlUQ1VzU2dqdkhWM3A1QzZxVzFkc3FfVWVDMDFwZm9aZmJMUExSRXdiN3JyN0kwOFV6UHgzRWwxbVh0NE9aSm9Jb2xlRnY5MlExcmNIQ21qWEkyOE8tN1E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260827-1437",
+    "date": "2026-08-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】野﨑副市長が育休を取得 トップ層が自ら実践し「男性の育児参加は当たり前」の組織風土をさらに推進",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTFA5eXlNeEMybm9jT29zMC0xYnhGTE5WUmkxLVRVQ2RaMHljV3pwSWFlYzFDcWNET0JSVU5tNjBrQWdXdjYyOGRnTmNjakppSGtHSFdySHFZaFBuU2lNelJtc19UWUNkVlhYUWc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
