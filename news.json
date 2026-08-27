@@ -757,7 +757,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1043,17 +1043,6 @@
     "publisher": "PR TIMES",
     "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西市更生保護女性会総会に出席",
-    "link": "https://news.google.com/articles/CBMioAJBVV95cUxPU2xsdU9pRHk3NWVkdlBfdkJuSzZxWUttNzhNd2ExVDlkWFBjMDdmQ3ZzeWR6Uy1QN3hLLWdyRFRUcnV1QVQ2eXlOTTFVVEdIZEIzRFN5Q3lkaVBlQnlKLW9OdFI2R0FPcE43UE5IRlg5aG5GdkExOGhxS3diamI5YnRqSkpIcFVOeGlTY1AwSHV3cUczaHktblo2ZmllWUxnWFZCczdmVTVoa24wZlRMSVFpLVZpeFhQdmxIeVk0YXFnQ2ZJaGplQU5waktoVjJWMV9BdFdMWUFYQkJmTllmbk1oNmg0aUlTR0tsWElVRl9mQ01rRlZZeGstVXpZSlNpU3BqVDNYbFAtYThVX2FhenlMbTFmOTdJdk1GenoyN0Q?oc=5",
-    "desc": "印西市更生保護女性会総会に出席  公明党",
-    "pub_iso": "2026-05-27T16:00:00+09:00",
-    "pub_str": "2026年5月27日",
-    "publisher": "公明党",
-    "source": "google-news-inzai-chiba",
-    "category": "市政・行政",
     "retention_type": "regular"
   },
   {
@@ -1904,10 +1893,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  CAMPFIRE (キャンプファイヤー)",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "キャンプファイヤー",
+    "publisher": "CAMPFIRE (キャンプファイヤー)",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -4528,6 +4517,39 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-27T19:15:50.791869+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】8月29日（土）「タイトリ×おやつとえがお夏まつり」が木下駅前にぎわい広場で開催！ キッチンカーや屋台、ワークショップも楽しめる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/27/tinytreatsnatsumatsuri2026/",
+    "pub_str": "2026年8月27日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-08-28T08:28:07.133756+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "はじめてのミニ四駆作り！（2026年09月27日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14142&store=chibant",
+    "pub_str": "2026年8月28日",
+    "event_end_date": "2026-09-27",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-08-28T08:28:07.133756+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "騒音、排熱、環境破壊懸念…千葉ニュータウン中央駅からわずか1kmの「データセンター銀座」を歩く",
+    "link": "https://news.google.com/articles/CBMihAFBVV95cUxPT2NuLTNQWVVIclQxaWJHQ2sxU3RpcVh3WmxuOXAzcTF2bGJtaHlyNk9feThxSUhHNnVqejBjWGdIYXdkMGhWb1Q5VDlmRkJQa2VQS2Rxd2dKcXpvSTU1dnhIclZNWU5NMjZYLWlhYWt2UEVEczFOQ1FmeUJBU0xONWg1N1LSAYoBQVVfeXFMTl9uczZxVzF2U3JOYTdKQ0dXTHIwX1UzZFA2U3BEZ0FNeGVacWxoTzhMclNXQlh5a3k1YVhkRHhxZVJkX0RnMmZhdHdlRjJtc3JOS2FtSENXNm5jVm9ic3R6T1RrcW83QUFSU1JnUm03NXZYTWstVEhZTF9xX2FaTFB5eEtJalRaa1lB?oc=5",
+    "desc": "騒音、排熱、環境破壊懸念…千葉ニュータウン中央駅からわずか1kmの「データセンター銀座」を歩く  ｄメニューニュース",
+    "pub_iso": "2026-08-15T07:08:28+09:00",
+    "pub_str": "2026年8月15日",
+    "publisher": "ｄメニューニュース",
+    "source": "google-news-inzai-chiba",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-08-28T08:28:07.133756+09:00",
     "retention_type": "regular"
   }
 ]
