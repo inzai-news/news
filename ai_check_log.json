@@ -4899,5 +4899,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFA5eXlNeEMybm9jT29zMC0xYnhGTE5WUmkxLVRVQ2RaMHljV3pwSWFlYzFDcWNET0JSVU5tNjBrQWdXdjYyOGRnTmNjakppSGtHSFdySHFZaFBuU2lNelJtc19UWUNkVlhYUWc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260827-1915",
+    "date": "2026-08-27",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMiiwFBVV95cUxOZGpmWlNDTURTSGVKQkdCaUczblBWYU5xcWo3VFA1WElLQzFzbkdla1ZaWU5tS2ZLNUE2MG1xSmNPUVY5QWV2aEI0OFRtczJfUHVNeExaOFFaTEo1TzdUR3FGUktsMncwWERxTFRFSlUyWVZJNXpDdlB6UXFzcWRVS1hvcFRWUnk1MEdN0gGQAUFVX3lxTE81SWJKYUhIMl96dGd3cU85X0VGaHc1ajF1NFhlSDF1aWdKLWpMSlNLZWdfcHRDMWtFN0tjdFFXRXUySHNsV3MyVzlnbEg0TThGSzdFbWF4UnR6dTd0SWJTODFydjFWQXIyc0N5NkRQWVBPdlRycmNXTEJFTjRhV1ZfVHlZNjRINW1GX21EVURabA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
