@@ -735,7 +735,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -757,7 +757,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -768,7 +768,7 @@
     "pub_iso": "2026-05-28T16:00:00+09:00",
     "pub_str": "2026年5月28日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -865,7 +865,7 @@
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -898,7 +898,7 @@
     "pub_iso": "2026-07-14T16:00:00+09:00",
     "pub_str": "2026年7月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "retention_type": "regular"
   },
@@ -920,7 +920,7 @@
     "pub_iso": "2026-07-08T16:00:00+09:00",
     "pub_str": "2026年7月8日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -931,7 +931,7 @@
     "pub_iso": "2026-06-26T16:00:00+09:00",
     "pub_str": "2026年6月26日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -942,7 +942,7 @@
     "pub_iso": "2026-06-30T16:00:00+09:00",
     "pub_str": "2026年6月30日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -953,7 +953,7 @@
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -986,7 +986,7 @@
     "pub_iso": "2026-06-08T16:00:00+09:00",
     "pub_str": "2026年6月8日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1019,7 +1019,7 @@
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
     "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1517,7 +1517,7 @@
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1908,7 +1908,7 @@
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
     "publisher": "キャンプファイヤー",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -3735,7 +3735,7 @@
     "pub_iso": "2026-08-19T14:09:24+09:00",
     "pub_str": "2026年8月19日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-19T14:27:23.056866+09:00",
     "retention_type": "regular"
@@ -4212,7 +4212,7 @@
     "pub_iso": "2026-08-23T17:55:15+09:00",
     "pub_str": "2026年8月23日",
     "publisher": "CLASSY.[クラッシィ]",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-24T09:58:37.337159+09:00",
     "retention_type": "regular"
@@ -4246,7 +4246,7 @@
     "pub_iso": "2026-08-24T09:59:00+09:00",
     "pub_str": "2026年8月24日",
     "publisher": "千葉テレビ放送",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
     "retention_type": "regular"
@@ -4330,7 +4330,7 @@
     "pub_iso": "2026-08-25T11:16:00+09:00",
     "pub_str": "2026年8月25日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-25T15:38:36.998395+09:00",
     "retention_type": "regular"
@@ -4454,7 +4454,7 @@
     "pub_iso": "2026-08-27T07:38:25+09:00",
     "pub_str": "2026年8月27日",
     "publisher": "東京新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
     "retention_type": "regular"
@@ -4492,6 +4492,30 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ニュースポーツ教室の開催について",
+    "link": "https://www.city.inzai.lg.jp/0000015779.html",
+    "desc": "",
+    "pub_iso": "2026-08-27T15:54:28+09:00",
+    "pub_str": "2026年8月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-27T16:13:43.947880+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "スポーツ健康フェス2026開催のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000020474.html",
+    "desc": "",
+    "pub_iso": "2026-08-27T15:51:15+09:00",
+    "pub_str": "2026年8月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-27T16:13:43.947880+09:00",
     "retention_type": "regular"
   }
 ]
