@@ -757,7 +757,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1019,7 +1019,7 @@
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
     "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1904,10 +1904,10 @@
   {
     "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
-    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー(クラウドファンディング)",
+    "desc": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！  キャンプファイヤー",
     "pub_iso": "2026-08-01T16:00:00+09:00",
     "pub_str": "2026年8月1日",
-    "publisher": "キャンプファイヤー(クラウドファンディング)",
+    "publisher": "キャンプファイヤー",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
