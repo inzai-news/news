@@ -1808,13 +1808,43 @@ def normalize_publisher(pub, link=""):
     return pub
 
 
+
+KAITEN_LABEL_PATTERN = re.compile(r"^【(\d{4}年\d{1,2}月\d{1,2}日\s*(?:開店|閉店|リニューアル)|(?:開店|閉店|リニューアル)日不明)】")
+KAITEN_DATE_IN_TITLE_PATTERN = re.compile(r"(\d{1,2})月(\d{1,2})日")
+
+
 def kaiten_label(item):
+    """開店・閉店カテゴリのタイトル先頭を【YYYY年M月D日 種別】(不明なら【種別日不明】)に統一する。
+    store-add由来のstore_eventは既にこの形式でtitleが確定しているため素通しする。それ以外の
+    (RSS等から自動分類された)regular記事は、記事自身の見出しが「【印西市】...」等の無関係な
+    括弧で始まることが多く、旧実装(先頭が「【」かどうかだけで判定)はこれを誤って
+    「既にフォーマット済み」と誤認していたため、正しいラベル形式にのみマッチする正規表現に変更した
+    (2026-08-29)。あわせて、タイトル中に「8月16日」のような具体的な日付があればpub_strの年と
+    組み合わせて日付入りラベルを生成し、無ければ【開店日不明】等にフォールバックする。
+    """
     if item.get("category") != "開店・閉店":
         return item.get("title", "")
     title = item.get("title", "")
-    if title.startswith("【"):
+    if KAITEN_LABEL_PATTERN.match(title):
         return title
-    kind = "閉店" if "閉店" in title else "開店"
+    if "リニューアル" in title:
+        kind = "リニューアル"
+    elif "閉店" in title or "閉業" in title:
+        kind = "閉店"
+    else:
+        kind = "開店"
+    m = KAITEN_DATE_IN_TITLE_PATTERN.search(title)
+    pub_date = parse_pub_str(item.get("pub_str", ""))
+    if m and pub_date:
+        month, day = int(m.group(1)), int(m.group(2))
+        try:
+            candidate = date(pub_date.year, month, day)
+            # 記事日付より60日以上過去になる場合は、年をまたいだ翌年の予定と判断する
+            if (pub_date - candidate).days > 60:
+                candidate = date(pub_date.year + 1, month, day)
+            return f"【{candidate.year}年{candidate.month}月{candidate.day}日 {kind}】{title}"
+        except ValueError:
+            pass
     return f"【{kind}日不明】{title}"
 
 
