@@ -4909,5 +4909,15 @@
     "link": "https://news.google.com/articles/CBMiiwFBVV95cUxOZGpmWlNDTURTSGVKQkdCaUczblBWYU5xcWo3VFA1WElLQzFzbkdla1ZaWU5tS2ZLNUE2MG1xSmNPUVY5QWV2aEI0OFRtczJfUHVNeExaOFFaTEo1TzdUR3FGUktsMncwWERxTFRFSlUyWVZJNXpDdlB6UXFzcWRVS1hvcFRWUnk1MEdN0gGQAUFVX3lxTE81SWJKYUhIMl96dGd3cU85X0VGaHc1ajF1NFhlSDF1aWdKLWpMSlNLZWdfcHRDMWtFN0tjdFFXRXUySHNsV3MyVzlnbEg0TThGSzdFbWF4UnR6dTd0SWJTODFydjFWQXIyc0N5NkRQWVBPdlRycmNXTEJFTjRhV1ZfVHlZNjRINW1GX21EVURabA?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260829-0921",
+    "date": "2026-08-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "第3回印西市議会定例会開会",
+    "link": "https://news.google.com/articles/CBMi_gFBVV95cUxNTHRocUxaRlk1czVOcVE2bVlRaHQ4LXJZRkNtTVFTRWNVTk4waUVGRTR1U29vcmhKc2xCQlVzaW05bU5xZzBuYi16em84THRLNGJrRjZsRXpuZ1N3S0Y2TFVTMzlSRzZyajA5eU5XWjRORnJYT1FDRzJqNlR1TVZlN1RWUjhJNzNFYUVWNEplYWlUTXBHcVJodG4wM3F5cVpiQXhaR3gzX18xdVl5bWlLR2JjSFlUZGVHNktEN2tyVnJvWnVzVmx6djVmR1FiU0ZVWkZLalZRYWkycHBKaHM0UFY1bk42amhGMmVNb2ljaC1tMUpvbTIzNzlqckpOdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ユーザー指摘: 公明党(政党アカウント)発信のため除外。以後collect時点でPOLITICAL_PARTY_PUBLISHERSにより自動除外"
   }
 ]

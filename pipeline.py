@@ -1403,6 +1403,20 @@ def cmd_collect(args):
             })
             continue
 
+        if item.get("publisher") in POLITICAL_PARTY_PUBLISHERS:
+            publisher_excluded_count += 1
+            auto_log_entries.append({
+                "run_ts": run_ts,
+                "date": today.isoformat(),
+                "ai_decision": "auto_exclude",
+                "similarity": None,
+                "title": item["title"],
+                "link": link,
+                "similar_to": "",
+                "ai_reason": f"ルールベース: publisher({item.get('publisher')})が政党アカウントのため",
+            })
+            continue
+
         item["collected_at"] = collected_at_iso
         category = item.get("category") or guess_category_from_title(item["title"])
         item["category"] = category
@@ -1660,6 +1674,15 @@ WEATHER_ALERT_TITLE_PATTERN = re.compile(r"警報|記録的.{0,5}(大)?雨")
 # (パスワードを知らないと中身が見れない)ため、収集時点で自動除外する(2026-08-19追加。
 # 千葉ほくそうパルケ(inzaiparque.com)で実例あり)
 PROTECTED_TITLE_PATTERN = re.compile(r"^保護中:\s*")
+# publisherが政党の公式アカウント名の記事は、行政ニュース(議会開会等)であっても発信元が
+# 政治活動の宣伝を兼ねるため採用しない(2026-08-29追加。実例:「第3回印西市議会定例会開会」publisher:公明党)。
+# 既存の「政治家個人の街頭演説・選挙活動系記事を除外する」運用ルールと同じ考え方を、
+# 政党アカウント発信の記事にもcollect時点の自動除外として適用する。
+POLITICAL_PARTY_PUBLISHERS = {
+    "自由民主党", "自民党", "公明党", "立憲民主党", "日本維新の会", "維新の会",
+    "国民民主党", "日本共産党", "共産党", "れいわ新選組", "社会民主党", "社民党",
+    "参政党", "NHK党", "みんなでつくる党",
+}
 # 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
 # (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
 NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}
