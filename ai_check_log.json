@@ -4919,5 +4919,25 @@
     "link": "https://news.google.com/articles/CBMi_gFBVV95cUxNTHRocUxaRlk1czVOcVE2bVlRaHQ4LXJZRkNtTVFTRWNVTk4waUVGRTR1U29vcmhKc2xCQlVzaW05bU5xZzBuYi16em84THRLNGJrRjZsRXpuZ1N3S0Y2TFVTMzlSRzZyajA5eU5XWjRORnJYT1FDRzJqNlR1TVZlN1RWUjhJNzNFYUVWNEplYWlUTXBHcVJodG4wM3F5cVpiQXhaR3gzX18xdVl5bWlLR2JjSFlUZGVHNktEN2tyVnJvWnVzVmx6djVmR1FiU0ZVWkZLalZRYWkycHBKaHM0UFY1bk42amhGMmVNb2ljaC1tMUpvbTIzNzlqckpOdw?oc=5",
     "similar_to": "",
     "ai_reason": "ユーザー指摘: 公明党(政党アカウント)発信のため除外。以後collect時点でPOLITICAL_PARTY_PUBLISHERSにより自動除外"
+  },
+  {
+    "run_ts": "20260829-0924",
+    "date": "2026-08-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "みんなのコード、印西市の小中学校向け生成AI教材を作成 導入授業パッケージとハンドブックで利活用を支援",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1fTHZGTFlGNmRxMlIxa1BxUlB4djFoQ1J4clhmbFdOdEZWaWt5d3RveGwzVHBGbE1fLTVGb0sxQ1d0bWhNdGZIVUxDS2tTTTl1T3NhQWlNRmJELWgxSFNkX0VYVjU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260829-0924",
+    "date": "2026-08-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTFAwb1dWU3JQeFBGLVhjSmJ4NTd4TDdNcmd0TkduVFd2Wng0NDNWcHdsSEUyTzJSMTdBbWV2cU4ydTEzN3RoOXpMeEg3RWUyd0R6OUZFVWZHLURVWE1FVjFBeVMzNE53cnNkTTBuZGdR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
