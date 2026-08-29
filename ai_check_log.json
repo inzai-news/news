@@ -4939,5 +4939,25 @@
     "link": "https://news.google.com/articles/CBMibkFVX3lxTFAwb1dWU3JQeFBGLVhjSmJ4NTd4TDdNcmd0TkduVFd2Wng0NDNWcHdsSEUyTzJSMTdBbWV2cU4ydTEzN3RoOXpMeEg3RWUyd0R6OUZFVWZHLURVWE1FVjFBeVMzNE53cnNkTTBuZGdR?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260829-2242",
+    "date": "2026-08-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "第43回「印西ニュータウン秋祭り」を、2026年9月20日に開催します！",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1nODh6S2hEaTVWdU1ScW51YU1yeF9hd3d3eG1xUktSZWkydlpvYjg1V3JIVEVSVHNfckpRQ2dVZ3BjaDlva2UwbmxqUHJmcUJpMzNR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ユーザー指摘: CAMPFIRE(クラウドファンディング)発信のため除外。以後collect時点で自動除外"
+  },
+  {
+    "run_ts": "20260829-2242",
+    "date": "2026-08-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ユーザー指摘: CAMPFIRE(クラウドファンディング)発信のため除外。以後collect時点で自動除外"
   }
 ]

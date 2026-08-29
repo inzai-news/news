@@ -1417,6 +1417,20 @@ def cmd_collect(args):
             })
             continue
 
+        if (item.get("publisher") or "").startswith(CAMPFIRE_PUBLISHER_PREFIX):
+            publisher_excluded_count += 1
+            auto_log_entries.append({
+                "run_ts": run_ts,
+                "date": today.isoformat(),
+                "ai_decision": "auto_exclude",
+                "similarity": None,
+                "title": item["title"],
+                "link": link,
+                "similar_to": "",
+                "ai_reason": f"ルールベース: publisher({item.get('publisher')})がCAMPFIRE(クラウドファンディング)のため",
+            })
+            continue
+
         item["collected_at"] = collected_at_iso
         category = item.get("category") or guess_category_from_title(item["title"])
         item["category"] = category
@@ -1683,6 +1697,10 @@ POLITICAL_PARTY_PUBLISHERS = {
     "国民民主党", "日本共産党", "共産党", "れいわ新選組", "社会民主党", "社民党",
     "参政党", "NHK党", "みんなでつくる党",
 }
+# CAMPFIRE(クラウドファンディングサイト)発信の記事は、個人・団体の資金調達ページの
+# 宣伝が実質でニュース性が低いため、2026-08-29追加でcollect時点から自動除外する
+# (実例:「古民家占いカフェをオープンします」という個人事業の資金調達ページ)。
+CAMPFIRE_PUBLISHER_PREFIX = "CAMPFIRE"
 # 上記の除外対象を主に含むカテゴリには、カテゴリ見出しに「(新着対象外)」と表示して分かりやすくする
 # (実際の除外判定はpublisher単位のため、同じカテゴリ内でも除外されない記事が混在する場合はある)
 NEW_ARRIVALS_EXCLUDE_CATEGORIES = {"市政・行政"}
