@@ -4959,5 +4959,25 @@
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
     "similar_to": "",
     "ai_reason": "ユーザー指摘: CAMPFIRE(クラウドファンディング)発信のため除外。以後collect時点で自動除外"
+  },
+  {
+    "run_ts": "20260830-0906",
+    "date": "2026-08-30",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "みんなのコード、印西市の小中学校向け生成AI教材を作成（こどもとIT）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE95ZE90XzM2Sm1VRUNRa0VCMFM0X3VJdDNlRE5QS2FUSUR1SVliNC1jdktlTVhTcXQtOFVoNmtFWThacEcwQ2hGMi14cm5wYzEzbUxTYmI2NTQxREl6anl4RjI1RDRTODNsU3ptYVdlNmlKRWVPTW56bndvUUx1djQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260830-0906",
+    "date": "2026-08-30",
+    "ai_decision": "exclude",
+    "similarity": 0.38,
+    "title": "【印西市】7月にオープンした「京都北白川ラーメン魁力屋 ジョイフル本田千葉ニュータウン店」でコク旨ラーメン食べてきました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/30/kairikiyajoyfulhondachibant/",
+    "similar_to": "【2026年7月6日 開店】京都北白川 ラーメン魁力屋 ジョイフル本田千葉ニュータウン店",
+    "ai_reason": "既に採用済みの魁力屋開店記事と同一店舗の食レポ記事のため重複除外"
   }
 ]
