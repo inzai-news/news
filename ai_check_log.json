@@ -4989,5 +4989,15 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1rVTk5c19xV0hfbmRSejU2OElfbUtUWndRRF9yWlJFTEJSMGVvYm95aTl5WFN4OUdwbkRmNm9IRFhaaVJMOHBDeXJNSk42ajZiMDFqdg?oc=5",
     "similar_to": "",
     "ai_reason": "ユーザー指摘: 過去(6月開催)のイベントの内容が3か月近く遅れて再配信(財経新聞)された古い記事のため削除"
+  },
+  {
+    "run_ts": "20260830-0924",
+    "date": "2026-08-30",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE04YnZ6UmJsVUh3V2E5b0ROZDNvSmItVHE5M2t1dV8yZUdncXpYR0VVdEYzUUI2MDljdjJBQ25TemthNDN0UHdaRlhvNTh2ekRaeEdqTjBaZElPT1ZvbzVPUFk2SEUxN1E0S3diYTI0Uk52cDlQM2U0SDdhQTQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
