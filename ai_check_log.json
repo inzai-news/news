@@ -4979,5 +4979,15 @@
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/30/kairikiyajoyfulhondachibant/",
     "similar_to": "【2026年7月6日 開店】京都北白川 ラーメン魁力屋 ジョイフル本田千葉ニュータウン店",
     "ai_reason": "既に採用済みの魁力屋開店記事と同一店舗の食レポ記事のため重複除外"
+  },
+  {
+    "run_ts": "20260830-0912",
+    "date": "2026-08-30",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】準備も運営も出演者自身で。みんなでつくる「印西まちなか音楽祭」に過去最多の3.2万人が来場",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1rVTk5c19xV0hfbmRSejU2OElfbUtUWndRRF9yWlJFTEJSMGVvYm95aTl5WFN4OUdwbkRmNm9IRFhaaVJMOHBDeXJNSk42ajZiMDFqdg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ユーザー指摘: 過去(6月開催)のイベントの内容が3か月近く遅れて再配信(財経新聞)された古い記事のため削除"
   }
 ]
