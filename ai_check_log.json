@@ -4999,5 +4999,15 @@
     "link": "https://news.google.com/articles/CBMifEFVX3lxTE04YnZ6UmJsVUh3V2E5b0ROZDNvSmItVHE5M2t1dV8yZUdncXpYR0VVdEYzUUI2MDljdjJBQ25TemthNDN0UHdaRlhvNTh2ekRaeEdqTjBaZElPT1ZvbzVPUFk2SEUxN1E0S3diYTI0Uk52cDlQM2U0SDdhQTQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260830-1218",
+    "date": "2026-08-30",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE1fOVdTelJoeUlMWWU2dFpnZnhCLWMyOWJVYTVmUmZQRklyVkV6OGx3QTRSVXN1LVdvUkZJczh3NjRUWF8waHBXSWRpR1BoclRXWUg2SXNWQThuU2lCUkFEMHVPaVZtdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
