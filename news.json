@@ -773,17 +773,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "千葉：印西・駅前ＤＣ建設住民らが監査請求：地域ニュース",
-    "link": "https://news.google.com/articles/CBMicEFVX3lxTE9JaUNVZVRxUTBSbk85R3ZZbDJsSlh0dWQyekxXbnVKbnJ1SDRYbE03aHhHS3MyTjRScHBpNHpPR1dTcjA3dVpMdUFiU0kxN3hxdXdTRTNqTjhiYmIzR0pMTHFBbkMxU3dXZHJ0dkZleW8?oc=5",
-    "desc": "千葉：印西・駅前ＤＣ建設住民らが監査請求：地域ニュース  読売新聞",
-    "pub_iso": "2026-05-30T16:00:00+09:00",
-    "pub_str": "2026年5月30日",
-    "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
-    "category": "開発・暮らし",
-    "retention_type": "regular"
-  },
-  {
     "title": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた",
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5CdnV3M0VpZm5zdVl0QlVhMmswMGgwT2ZUbndKVm5ZOHh0eDV0WDZPbFV1UlBNOG5lclQxSFdrWGdfTDRqTERrRTE1V0kydGduZXZJaEtZaXdiSEEz?oc=5",
     "desc": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた  マイナビニュース",
@@ -1111,17 +1100,6 @@
     "publisher": "読売新聞",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西DC、市に監査請求 住民「容認は違法、財政リスク」",
-    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1PU1poUWJlTEYwendab2NMcEVfY3dLTi1ZSlpxUWltVnJycmNwbDNmUUtFVFItVTR2U2JxU2pmY2RpVHRZVWctVDQtTlc1cUJtLVJR?oc=5",
-    "desc": "印西DC、市に監査請求 住民「容認は違法、財政リスク」  東京新聞デジタル",
-    "pub_iso": "2026-05-30T16:00:00+09:00",
-    "pub_str": "2026年5月30日",
-    "publisher": "東京新聞デジタル",
-    "source": "google-news-inzai-chiba",
-    "category": "開発・暮らし",
     "retention_type": "regular"
   },
   {
@@ -4552,6 +4530,16 @@
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「牧の原モア ダンスコンテスト2026」の出場応募締切は9月13日（日）まで延長。10月18日当日は「REAL AKIBA BOYZ」の龍さんと勇太さんがやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/30/makinoharamoredancecontest2026boshuencho/",
+    "pub_str": "2026年8月30日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "牧の原モア",
+    "collected_at": "2026-08-31T00:33:29.011855+09:00",
     "retention_type": "regular"
   }
 ]
