@@ -2157,7 +2157,7 @@
     "pub_iso": "2026-07-30T16:00:00+09:00",
     "pub_str": "2026年7月30日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -4540,6 +4540,18 @@
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-08-30T12:18:47.248124+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
+    "pub_iso": "2026-08-18T16:00:00+09:00",
+    "pub_str": "2026年8月18日",
+    "publisher": "NHKニュース",
+    "source": "google-news-inzai-chiba",
+    "category": "市政・行政",
+    "collected_at": "2026-08-30T17:29:12.603970+09:00",
     "retention_type": "regular"
   }
 ]
