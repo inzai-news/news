@@ -5049,5 +5049,15 @@
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5nYXhqbFFDUWh3RllabWlqMC1SaDk1cFZ3N1dJOUxkSEx4UU14bExzeTBWdE4yX2p5aFhLSndTZXMycVlkZWJNRlNseHNEUTV4WDNfcHVfUTIzZUw0N3pwc2pIVGg?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260831-2218",
+    "date": "2026-08-31",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTFAyd3JBbUljaVVXbXZYRHA4MUN6TC15UnB5YjduZzhBeUhmbE5aR0l3dXFSdURTS2NuM09hQ3M2RVMxd0E2N2JLQ0dYNW10NEpqRGp0NzN5dnR3MVBBZ3NYTXFReWd6ZzNqenc?oc=5",
+    "similar_to": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
