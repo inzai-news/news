@@ -11,7 +11,7 @@
   {
     "title": "【10月18日開催】牧の原モア ダンスコンテスト2026 出演者募集！",
     "link": "https://www.makinohara-more.com/event-topics/1018%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2-%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882026-%e5%87%ba%e6%bc%94%e8%80%85%e5%8b%9f%e9%9b%86/",
-    "pub_str": "2026年7月2日",
+    "pub_str": "2026年8月31日",
     "publisher": "牧の原モア",
     "source": "makinohara-more",
     "category": "牧の原モア",
@@ -735,7 +735,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -757,7 +757,7 @@
     "pub_iso": "2026-06-11T16:00:00+09:00",
     "pub_str": "2026年6月11日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -832,7 +832,7 @@
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -865,7 +865,7 @@
     "pub_iso": "2026-07-14T16:00:00+09:00",
     "pub_str": "2026年7月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "retention_type": "regular"
   },
@@ -887,7 +887,7 @@
     "pub_iso": "2026-07-08T16:00:00+09:00",
     "pub_str": "2026年7月8日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -898,7 +898,7 @@
     "pub_iso": "2026-06-26T16:00:00+09:00",
     "pub_str": "2026年6月26日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -909,7 +909,7 @@
     "pub_iso": "2026-06-30T16:00:00+09:00",
     "pub_str": "2026年6月30日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -920,7 +920,7 @@
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -953,7 +953,7 @@
     "pub_iso": "2026-06-08T16:00:00+09:00",
     "pub_str": "2026年6月8日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -975,7 +975,7 @@
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
     "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1440,7 +1440,7 @@
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -3626,7 +3626,7 @@
     "pub_iso": "2026-08-19T16:00:00+09:00",
     "pub_str": "2026年8月19日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-19T14:27:23.056866+09:00",
     "retention_type": "regular"
@@ -4091,7 +4091,7 @@
     "pub_iso": "2026-08-23T17:55:15+09:00",
     "pub_str": "2026年8月23日",
     "publisher": "CLASSY.[クラッシィ]",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-24T09:58:37.337159+09:00",
     "retention_type": "regular"
@@ -4125,7 +4125,7 @@
     "pub_iso": "2026-08-24T09:59:00+09:00",
     "pub_str": "2026年8月24日",
     "publisher": "千葉テレビ放送",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
     "retention_type": "regular"
@@ -4209,7 +4209,7 @@
     "pub_iso": "2026-08-25T11:16:00+09:00",
     "pub_str": "2026年8月25日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-25T15:38:36.998395+09:00",
     "retention_type": "regular"
@@ -4327,13 +4327,13 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
     "pub_iso": "2026-08-27T07:38:25+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "np.co.jp",
-    "source": "google-news-inzai-shi",
+    "publisher": "東京新聞",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
     "retention_type": "regular"
