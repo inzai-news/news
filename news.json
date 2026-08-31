@@ -4218,8 +4218,8 @@
     "title": "マイナポータルアプリが「マイナアプリ」に刷新されました",
     "link": "https://www.city.inzai.lg.jp/0000022429.html",
     "desc": "",
-    "pub_iso": "2026-08-25T17:23:57+09:00",
-    "pub_str": "2026年8月25日",
+    "pub_iso": "2026-08-31T16:30:01+09:00",
+    "pub_str": "2026年8月31日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4327,12 +4327,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T07:38:25+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -4564,6 +4564,76 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-31T16:18:47.417412+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "セブン-イレブン牧の原モア店が10月中旬オープンします",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%82%bb%e3%83%96%e3%83%b3-%e3%82%a4%e3%83%ac%e3%83%96%e3%83%b3%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2%e5%ba%97%e3%81%8c10%e6%9c%88%e4%b8%ad%e6%97%ac%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3/",
+    "pub_str": "2026年8月31日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "都市計画の概要",
+    "link": "https://www.city.inzai.lg.jp/0000000522.html",
+    "desc": "",
+    "pub_iso": "2026-08-31T17:07:44+09:00",
+    "pub_str": "2026年8月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "都市計画変更の手続き（印西牧の原東地区地区計画）",
+    "link": "https://www.city.inzai.lg.jp/0000022249.html",
+    "desc": "",
+    "pub_iso": "2026-08-31T17:05:24+09:00",
+    "pub_str": "2026年8月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "地域猫不妊去勢手術助成金の交付について",
+    "link": "https://www.city.inzai.lg.jp/0000009102.html",
+    "desc": "",
+    "pub_iso": "2026-08-31T17:00:00+09:00",
+    "pub_str": "2026年8月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "祖父母手帳",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000018705.html",
+    "desc": "",
+    "pub_iso": "2026-08-31T16:48:19+09:00",
+    "pub_str": "2026年8月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "父子健康手帳",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000011594.html",
+    "desc": "",
+    "pub_iso": "2026-08-31T16:47:34+09:00",
+    "pub_str": "2026年8月31日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
     "retention_type": "regular"
   }
 ]
