@@ -773,17 +773,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた",
-    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5CdnV3M0VpZm5zdVl0QlVhMmswMGgwT2ZUbndKVm5ZOHh0eDV0WDZPbFV1UlBNOG5lclQxSFdrWGdfTDRqTERrRTE1V0kydGduZXZJaEtZaXdiSEEz?oc=5",
-    "desc": "千葉県印西「NRT 14」サイト内に「Lenovo Neptune」検証拠点がオープン。現地で見てきた  マイナビニュース",
-    "pub_iso": "2026-05-31T16:00:00+09:00",
-    "pub_str": "2026年5月31日",
-    "publisher": "マイナビニュース",
-    "source": "google-news-inzai-chiba",
-    "category": "開店・閉店",
-    "retention_type": "regular"
-  },
-  {
     "title": "【2026年6月15日 開店】リーフ鍼灸整骨院",
     "link": "https://chibanewtown.aeonmall.jp/news/renewal/f30befc6-0acf-48c0-8bbd-21f7ac18670e",
     "pub_str": "2026年6月15日",
@@ -828,10 +817,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "レッツエンジョイ東京",
+    "publisher": "enjoytokyo.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -997,17 +986,6 @@
     "pub_iso": "2026-06-01T16:00:00+09:00",
     "pub_str": "2026年6月1日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "第133回▶印西ラグビースクール（千葉県） ｜Rkids＜ラグビーキッズ＞",
-    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9EZkJoZXFDejRxNnRJUVZYcExTa212OWJDSE9oUU5aTXVLejNTNGdrT3hIQjdRTDREX1N1bWZXM3o2V2dQYUx4QS1RNWFVcUY3LVE?oc=5",
-    "desc": "第133回▶印西ラグビースクール（千葉県） ｜Rkids＜ラグビーキッズ＞  pando.life",
-    "pub_iso": "2026-05-31T16:00:00+09:00",
-    "pub_str": "2026年5月31日",
-    "publisher": "pando.life",
     "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3000,7 +2978,7 @@
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
     "publisher": "xtech.nikkei.com",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
     "retention_type": "regular"
@@ -4327,12 +4305,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T07:38:25+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -4634,6 +4612,168 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年9月1日 閉店】トイザらス・ベビーザらス",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/a07d6840-64ab-4d0e-af7c-1ced93f38fd3",
+    "pub_str": "2026年9月1日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "【2026年9月1日 閉店】パステルデザート",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/5849a40c-4059-4e7b-9dde-55b7f6f14cce",
+    "pub_str": "2026年9月1日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "【2026年9月1日 閉店】フレーベル館 Kinder Platz",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/baf2e602-10ad-4949-9687-6d4bdb9e91cc",
+    "pub_str": "2026年9月1日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "9月のイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/de717672-0a11-488e-93d4-279647dc264c",
+    "pub_str": "2026年8月31日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "まちのおしごと体験",
+    "link": "https://chibanewtown.aeonmall.jp/event/9d09c84d-5c55-4f3a-b2c0-832d8ec1f35d",
+    "pub_str": "2026年9月1日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "＜イオンモールのSDGsアクション＞",
+    "link": "https://chibanewtown.aeonmall.jp/event/45aec3ad-acec-4a8b-8506-e38e440a076f",
+    "pub_str": "2026年8月21日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】イルミライ★INZAIの2026年の点灯式イベントのスイッチャーやステージ出演ダンス団体の募集が始まりました！ 応募期間は9月14日（月）まで",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/01/illmiraiinzai2026switcherboshu/",
+    "pub_str": "2026年9月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】24時間営業の冷凍味付肉専門店「肉屋の肉ヤ 千葉鎌ヶ谷店」が6月にオープンしていました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/01/nikuyanonikuyakamagaya/",
+    "pub_str": "2026年9月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】貝柄山公園で9月26日（土）に開催される「KAMAGAYA MIRAI DAY」の、夜空へ浮かべるスカイランタンは事前申込制となっています",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/31/kamagayamiraidayskylantern/",
+    "pub_str": "2026年8月31日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度小規模土地改良事業補助金について",
+    "link": "https://www.city.inzai.lg.jp/0000022394.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:01+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "行政評価結果(令和7年度分）",
+    "link": "https://www.city.inzai.lg.jp/0000022221.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:01+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": " 9月1日は『防災の日』",
+    "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022426.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度乳幼児期子育て連続講座「乳幼児のこどもの心のコーチング」（全6回）",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022096.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【令和8年9月】市民合同相談（法律相談・司法書士相談・税理士相談・人権よろず相談・行政相談・交通事故巡回相談）のご案内",
+    "link": "https://www.city.inzai.lg.jp/0000019906.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "秋の全国交通安全運動",
+    "link": "https://www.city.inzai.lg.jp/0000022389.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T08:11:11.945272+09:00",
     "retention_type": "regular"
   }
 ]

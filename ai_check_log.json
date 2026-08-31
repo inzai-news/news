@@ -5059,5 +5059,45 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFAyd3JBbUljaVVXbXZYRHA4MUN6TC15UnB5YjduZzhBeUhmbE5aR0l3dXFSdURTS2NuM09hQ3M2RVMxd0E2N2JLQ0dYNW10NEpqRGp0NzN5dnR3MVBBZ3NYTXFReWd6ZzNqenc?oc=5",
     "similar_to": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260901-0811",
+    "date": "2026-09-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.82,
+    "title": "【PR TIMES その他 教育・資格・人材】【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFBFNV9ta1F3a0x0Y3hRWkdNSVUyRnJUYXJOVmEyMTdSWEFJNWljSFZGUzBfdWI1RDhmeW5VZXdCclFkNW5YMDZsSGNRZDBNRV9xNFZOb0NIWFhKRWpYbUVmekRBSmhJTmw1eC1zcWVVSnBpbFQ5eTljUQ?oc=5",
+    "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260901-0811",
+    "date": "2026-09-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "あの印西でも反対の声、AI立国に向けてオープンなデータセンター議論が必要だ",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTFBJTmpMV0twbENCZFBLc0J0dEpScXVTLXc0b1NsWGo3R0FxQXpCZ3REeUp5cG9jcGFHamgwS2dkUWNRMlFTN2lWRU9Zd2ozSXZRSTI4c0hwamhDQWNHNVB0a3I1cklSTDJHQ0ZsTA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260901-0811",
+    "date": "2026-09-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西に東京ドーム7個分のデータセンター、仕掛ける大和ハウス工業の狙い",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBJV21iaTNFQ0NsdzdRNkxFUFcxN2YzeWZlZVdncHZtZ09RRjdVT0ZUUVRzb25GZ2V1ZExITVpmZlNZR2RvNTA0NTBlMFhNdHJWX2NtMExvTXowV2dOSlNjSEZmbUJLZzQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260901-0811",
+    "date": "2026-09-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "グーグルが同社日本初のデータセンターを開設、千葉県印西市に",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTFB5MHpKYTYybFJQbTQ2ZGh2RE5lTGk4Q0NoaWFhalN3T0NHdmtpc1UzSXRFTU9aQUYzRFI1VFNIRjBTUnJIbE1MLVdQYmZhcVMzQnVybzVjNlhhSkFa?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
