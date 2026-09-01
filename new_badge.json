@@ -1,7 +1,10 @@
 {
   "links": {
-    "https://www.city.inzai.lg.jp/0000022456.html": "2026-09-01T16:37:22.965986+09:00",
-    "https://www.city.inzai.lg.jp/0000018336.html": "2026-09-01T18:37:25.069083+09:00"
+    "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/02/inzaibousaidays2026/": "2026-09-02T08:44:34.536425+09:00",
+    "https://prtimes.jp/main/html/rd/p/000000024.000180020.html": "2026-09-02T08:44:34.536425+09:00"
   },
-  "last_eligible": null
+  "last_eligible": {
+    "link": "https://prtimes.jp/main/html/rd/p/000000024.000180020.html",
+    "ts": "2026-09-02T08:44:34.536425+09:00"
+  }
 }

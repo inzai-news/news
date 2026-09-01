@@ -5139,5 +5139,55 @@
     "link": "https://news.google.com/articles/CBMiaEFVX3lxTE1OeV9hY09hYTFiV2R0TzRsWGstckJFWE1IMlZUdlc3T3FqSWxfS3dWclQxVXNmU3l6a1I2NEw0VnllQTFYVjVPN2FXVDVQN3oyc0V5S0xLVVIxMEs0bElwdTdLSFRFRXo2?oc=5",
     "similar_to": "駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ…千葉・印西",
     "ai_reason": "ユーザー指摘: 6/11発表の同一記事(読売新聞)が別Google Newsクエリ経由で再収集された重複のため削除"
+  },
+  {
+    "run_ts": "20260902-0844",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "牧の原東地区でデータセンター建設制限 印西市、地区計画変更へ議案提出",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBiTzlrc1NrQXUxVUVZSExHRi1GWGpRRHBWcXNlSHlyU1M3NDdUMFlWOHUtem1HNGxMbVVfR2VOLTRyXzhFZWptUGFUendSUzBUTVVoYU96NVk?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260902-0844",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "宇山（印西市出身）優勝 トランポリン世界選手権代表最終選考会",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBVYTlRdldpVG5CY05GTEp4Z3EyZkRFcUdXQkdERVpYcW51YmpwX011NXlUb2ppZTFpYmRkSUdzRnJhd1BUU2tsaEM5VENoeXpxMF8wR29WZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260902-0844",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "芥川賞選考委員に印西出身村田さん",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE05LTA0UUVzWkRDcGxzdERibnNheDhWUFEtY1M4Tm5jaGtKaTktNm1rT2lFWUdUbXZMMUtOcWU4OVhPTnJkNU1ZLWEwalpaNVhmRnpfY09PR0g?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260902-0844",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "酒酔い運転の疑い 印西署、男逮捕",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9EWmkzMG1RSmlJOFg1TmVLeWJuU0lneTlsenpyZW5NVVFVVHB4SURhN2pHaHY3ZjlHck5ObkFQRXpnZGRHYlh6ZmkyanlQS3MybjFJSFFDM0cxS0xza3c?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260902-0844",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "バイリンガル・スピーチコンテスト in 印西",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE4zRk1pM1BEU3VkYnduWnZrS2otcmZCR2lyTF9oOGF5TnZzcTFTZmZvNnp4ZVhhOS03WmVpTGZXM21NS0w2YS1hUTBldmxhaE1WLWRNcExGaUJUY0hBUGV2Q296dmJ3dktUS2tn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
