@@ -5129,5 +5129,15 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE5aX25Za1ZKbk5pdVFJdlBSLWxIV25xMEE5Z09QeWc5WUpWRW05ZWtaa2dLZUFzS2FjbHI1R2I2VkhPWWFYcDVKdXVGVVp2cVVGVEFEdWRodkNhblBMZHRFRmh3U0E3U1pNNDNF?oc=5",
     "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260901-2337",
+    "date": "2026-09-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西:駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE1OeV9hY09hYTFiV2R0TzRsWGstckJFWE1IMlZUdlc3T3FqSWxfS3dWclQxVXNmU3l6a1I2NEw0VnllQTFYVjVPN2FXVDVQN3oyc0V5S0xLVVIxMEs0bElwdTdLSFRFRXo2?oc=5",
+    "similar_to": "駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ…千葉・印西",
+    "ai_reason": "ユーザー指摘: 6/11発表の同一記事(読売新聞)が別Google Newsクエリ経由で再収集された重複のため削除"
   }
 ]

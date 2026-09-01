@@ -1866,6 +1866,9 @@ def kaiten_label(item):
     return f"【{kind}日不明】{title}"
 
 
+DISCOVERY_STALE_THRESHOLD_DAYS = 14
+
+
 def discovery_date(item):
     """記事の「発見日」= collected_at(このパイプラインが初めて収集した日)の日付。
     collected_atが無い(2026-08-08より前からある)記事はpub_str(元記事の発表日)にフォールバックする。
@@ -1874,14 +1877,24 @@ def discovery_date(item):
     「実際いつの記事か」(表示情報)を分離するため。両者を混在させる(ハイライト等はpub_str基準、並び順だけ
     collected_at基準、等)と、上位に来た記事がハイライトされない等の見た目の不整合が起きるため、
     新着性に関わる判定は必ずこの関数で統一する(2026-08-08)。
+    ただし、collected_atがpub_str(元記事の発表日)よりDISCOVERY_STALE_THRESHOLD_DAYS(14日)以上
+    後になっている場合はpub_strの日付を使う(2026-09-01追加。「駅前データセンター計画...」という
+    6/11発表の記事が、別のGoogle News検索クエリ経由で9/1に再収集され、明らかに古い内容にも関わらず
+    「新着」「今日」バッジが付いてしまう実例があったため。collected_atベースの新着判定は、数日程度の
+    RSS配信遅延を新着として拾うための仕組みであり、数週間〜数か月遅れての再配信にまで適用すると
+    古いニュースが新着扱いされてしまう)。
     """
     collected_at = item.get("collected_at")
+    pub_date = parse_pub_str(item.get("pub_str", ""))
     if collected_at:
         try:
-            return datetime.fromisoformat(collected_at).date()
+            d = datetime.fromisoformat(collected_at).date()
+            if pub_date and (d - pub_date).days > DISCOVERY_STALE_THRESHOLD_DAYS:
+                return pub_date
+            return d
         except ValueError:
             pass
-    return parse_pub_str(item.get("pub_str", ""))
+    return pub_date
 
 
 def render_item(item, new_links):
