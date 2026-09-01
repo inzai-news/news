@@ -5099,5 +5099,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTFB5MHpKYTYybFJQbTQ2ZGh2RE5lTGk4Q0NoaWFhalN3T0NHdmtpc1UzSXRFTU9aQUYzRFI1VFNIRjBTUnJIbE1MLVdQYmZhcVMzQnVybzVjNlhhSkFa?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260901-0937",
+    "date": "2026-09-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "第133回▶印西ラグビースクール（千葉県） ｜Rkids＜ラグビーキッズ＞",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9EZkJoZXFDejRxNnRJUVZYcExTa212OWJDSE9oUU5aTXVLejNTNGdrT3hIQjdRTDREX1N1bWZXM3o2V2dQYUx4QS1RNWFVcUY3LVE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

@@ -817,10 +817,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "enjoytokyo.jp",
+    "publisher": "レッツエンジョイ東京",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -4305,12 +4305,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
     "pub_iso": "2026-08-27T07:38:25+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "np.co.jp",
+    "publisher": "東京新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -4480,8 +4480,8 @@
     "title": "そうふけ公民館主催事業「体幹をきたえよう！」",
     "link": "https://www.city.inzai.lg.jp/0000021913.html",
     "desc": "",
-    "pub_iso": "2026-08-28T11:17:06+09:00",
-    "pub_str": "2026年8月28日",
+    "pub_iso": "2026-09-01T09:09:43+09:00",
+    "pub_str": "2026年9月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4774,6 +4774,42 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-01T08:11:11.945272+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「印西市市制施行30周年記念・民話絵本発行記念　有賀忍氏講演会」を開催します！",
+    "link": "https://www.city.inzai.lg.jp/0000022388.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T09:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T09:37:22.590663+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市移動スーパー事業実施事業者の募集について",
+    "link": "https://www.city.inzai.lg.jp/0000022451.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T09:00:00+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T09:37:22.590663+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "9月10日から16日は自殺予防週間です",
+    "link": "https://www.city.inzai.lg.jp/0000017466.html",
+    "desc": "",
+    "pub_iso": "2026-09-01T00:00:01+09:00",
+    "pub_str": "2026年9月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-01T09:37:22.590663+09:00",
     "retention_type": "regular"
   }
 ]
