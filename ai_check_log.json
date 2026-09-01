@@ -5109,5 +5109,15 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9EZkJoZXFDejRxNnRJUVZYcExTa212OWJDSE9oUU5aTXVLejNTNGdrT3hIQjdRTDREX1N1bWZXM3o2V2dQYUx4QS1RNWFVcUY3LVE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260901-1237",
+    "date": "2026-09-01",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFAtQ3NkN25rV1M2ZUs2N1U3SGxKdW9nQWVZbE1pMS1LMUNYd3lEel9Ba210MWloczY0VEkwNHRsYVNrZ2hweHRrVzBpWUtvSjFNZDk0V3Q2dEo?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
