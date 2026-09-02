@@ -4621,14 +4621,16 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】24時間営業の冷凍味付肉専門店「肉屋の肉ヤ 千葉鎌ヶ谷店」が6月にオープンしていました！",
+    "title": "【2026年6月25日 開店】肉屋の肉ヤ 千葉鎌ヶ谷店",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/01/nikuyanonikuyakamagaya/",
-    "pub_str": "2026年9月1日",
+    "pub_str": "2026年6月25日",
     "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
+    "source": "開店閉店情報",
     "category": "開店・閉店",
+    "desc": "",
+    "announce_str": "2026年9月1日",
     "collected_at": "2026-09-01T08:11:11.945272+09:00",
-    "retention_type": "regular"
+    "retention_type": "store_event"
   },
   {
     "title": "【鎌ケ谷市】貝柄山公園で9月26日（土）に開催される「KAMAGAYA MIRAI DAY」の、夜空へ浮かべるスカイランタンは事前申込制となっています",
