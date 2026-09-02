@@ -4481,16 +4481,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "セブン-イレブン牧の原モア店が10月中旬オープンします",
-    "link": "https://www.makinohara-more.com/event-topics/%e3%82%bb%e3%83%96%e3%83%b3-%e3%82%a4%e3%83%ac%e3%83%96%e3%83%b3%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2%e5%ba%97%e3%81%8c10%e6%9c%88%e4%b8%ad%e6%97%ac%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3/",
-    "pub_str": "2026年8月31日",
-    "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "collected_at": "2026-08-31T18:18:48.509246+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "都市計画の概要",
     "link": "https://www.city.inzai.lg.jp/0000000522.html",
     "desc": "",
@@ -4903,5 +4893,17 @@
     "category": "牧の原モア",
     "collected_at": "2026-09-02T14:37:24.690833+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年10月中旬 開店】セブン-イレブン牧の原モア店",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%82%bb%e3%83%96%e3%83%b3-%e3%82%a4%e3%83%ac%e3%83%96%e3%83%b3%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2%e5%ba%97%e3%81%8c10%e6%9c%88%e4%b8%ad%e6%97%ac%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3/",
+    "pub_str": "2026年10月15日",
+    "announce_str": "2026年8月31日",
+    "publisher": "牧の原モア",
+    "source": "開店閉店情報",
+    "category": "開店・閉店",
+    "desc": "",
+    "collected_at": "2026-08-31T18:18:48.509246+09:00",
+    "retention_type": "store_event"
   }
 ]

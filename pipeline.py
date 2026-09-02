@@ -64,7 +64,7 @@ KAITEN_KEYWORDS = ["開店", "閉店", "オープン", "クローズ", "NEW OPEN
 
 REGULAR_RETENTION_MONTHS = 3
 STORE_EVENT_RETENTION_MONTHS = 6
-STORE_EVENT_TITLE_PATTERN = re.compile(r"^【(\d{4})年(\d{1,2})月(\d{1,2})日\s+(開店|閉店|リニューアル)】")
+STORE_EVENT_TITLE_PATTERN = re.compile(r"^【(\d{4})年(\d{1,2})月(?:(\d{1,2})日|上旬|中旬|下旬)\s+(開店|閉店|リニューアル)】")
 EVENT_END_GRACE_DAYS = 3
 
 DUP_AUTO_EXCLUDE_THRESHOLD = 0.8
@@ -1827,7 +1827,7 @@ def normalize_publisher(pub, link=""):
 
 
 
-KAITEN_LABEL_PATTERN = re.compile(r"^【(\d{4}年\d{1,2}月\d{1,2}日\s*(?:開店|閉店|リニューアル)|(?:開店|閉店|リニューアル)日不明)】")
+KAITEN_LABEL_PATTERN = re.compile(r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)\s*(?:開店|閉店|リニューアル)|(?:開店|閉店|リニューアル)日不明)】")
 KAITEN_DATE_IN_TITLE_PATTERN = re.compile(r"(\d{1,2})月(\d{1,2})日")
 
 
@@ -2305,7 +2305,7 @@ def latest_event_date(name, news_items):
         if name not in item.get("title", ""):
             continue
         m = STORE_EVENT_TITLE_PATTERN.match(item["title"])
-        if m:
+        if m and m.group(3):
             y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
             dates.append(date(y, mo, d))
     return max(dates) if dates else None
