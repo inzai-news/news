@@ -5199,5 +5199,25 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE1CRjExMVNKNXY1Mk10Rmd2M2VZZEhmZktHUk96eDQ1ZlhmNEpCcTF2akZ4VEt3NWhEYkI1RjJkeHVCV0ZnZjdDNlFsMFIyaUVTR0hNY3U5RFFlNDBUcGxRWHVRbWc5TjlIdEE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260902-1237",
+    "date": "2026-09-02",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE8wVGMxV1VPTnRIRXZXc2tiVTFqakZpOXdfa0QxRVIxWHpOZ0ctWk5SVEhoMVc0R2dvUXFSSWFnQzJQX3RNSzUxRTBNc1RHTnF3TXc?oc=5",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260902-1237",
+    "date": "2026-09-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問 - foods",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB6S0RZcTlBMkIyTm8zbEFDNlQtUldwbEF3UFZVX0tPQkJnNGRDNDFKakE0Yl9yckstLUFPLTdFaE9KTGVNajduUDZmbGlwRHU4TTlsYk5R?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
