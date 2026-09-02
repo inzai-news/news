@@ -960,10 +960,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "STRAIGHT PRESS",
+    "publisher": "straightpress.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3322,10 +3322,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "221616.com",
+    "publisher": "中古車のガリバー",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -4940,6 +4940,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-02T18:37:25.739924+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE0xLS1NT0czTTlmUW1NX2RjSE8xVW1URkJJdG5YSUxpdTNqeGUzcnIxYVczbEdfY2RXRm9TUDF1YWNoVDdvTXdGUzRQeGc?oc=5",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  newspicks.com",
+    "pub_iso": "2026-06-21T16:00:00+09:00",
+    "pub_str": "2026年6月21日",
+    "publisher": "newspicks.com",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-02T20:37:26.015400+09:00",
     "retention_type": "regular"
   }
 ]
