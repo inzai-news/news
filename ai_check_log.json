@@ -5239,5 +5239,95 @@
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1vZEQzcjZ6bVBZNG9BVG1YN29xeVlTME5uNkhKZTUtWHJiM1pwSVZUQzE4X0F3Q08wWWxwd1d3bjJYbktUMXRLMFA3ajNvVUZSX2dMMWlJbkx2cUh5SXBIQ2N0TTg?oc=5",
     "similar_to": null,
     "ai_reason": "IQAirの汎用大気汚染指数ページ(特定ニュースでなく常時更新される定型コンテンツ)のため除外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市】まつや市議ボランティアランナーに！ - まつや知美（マツヤトモミ）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE02TU9hVDdCMTRPMFJkYjd6WHJiSnRKSXZvWmtiYUpIdktueWxCbmUzUmFuUVBfN25qMmxmYVY5WEZlSlhyclMzNlFDVGZod3ZGdVh6V1c3UDhHSTM3NTEw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5MOV9Fb05qUnpaVGdLdkwtTzh5bTM4amlnNkRhVGRhNFBQamlLd0Q1aF81WFlNUFdoTUNDZnhZc1BBdG5LZVQwZ3BLSHNlT0d0V2x3WG1rVktFWjRlcVJ1LTByZlNMZ9IBa0FVX3lxTE9yNzBsM3FDanNFVTJ2U1JPMTZoeEJ5cXczTFFiTG5xVTZyWm5OSWxGNnJGNjVGS1lmMXBkNFNHNS1nNDIzYm4yUV9kRl9lOHVEWjd0UzhrdktOZ2NNTjZ6NDRFaThzWE0tU0Nj?oc=5",
+    "similar_to": "千葉の国道16号“破滅の渋滞”の救世主!? 新ルート「千葉北西連絡道路」とは？ 魔の交差点「呼塚」の大混雑も解消に？ 印西〜野田間をスルーする高規格道路に期待",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE5FQVdXXzliMUJSaktqeFI4SWFBbmxHdGpwWFMwcnQtMG1XZU5rNXpFTU84Mjk1QkRFZTFWMTJzeHJCa21rUnlza1poY1daOHA2Wm5qVTFMTUtVMXdaNVdQbkRkQWJUcjd5TThsaTNsRXpodw?oc=5",
+    "similar_to": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【AI予測】小林浅間の土地売却価格相場は坪21万円(10年前比+19.6%)! 10年後の価格推移も公開｜千葉県印西市",
+    "link": "https://news.google.com/articles/CBMi5gFBVV95cUxQbFpaTFpzM2NrSS1VaF80T25odlRzZV9ienBmWGlqWXBVcWZYNXozZlJ1blZYYmtPQTlEWnl2ZllkbWJfSmxMdGpmc1IwLUUwV2RDVGJ1bEprUmZEeEJuR0JMYnN6cHUxT1JQbEtHTUdSSGJRY1JEbm5hLWwtT1JjbXFFTnlXeEZxRnByNHhNY0ItZktUSW5Nc0hkcHZGSk9lX1NibElUdFhVYVB0dVhZaE5zQkluQS1oczR0NzNmUEhTVE85SDE0X1dhUnJJM0JsdU5ja1BaNjVoT0FEVkg4bW4xQ2FNQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉商科大学生と鎌ケ谷・白井・印西の3市が連携！ 防災イベント「いきのこれ!! まなぼー祭」を12/20に開催",
+    "link": "https://news.google.com/articles/CBMiQ0FVX3lxTE8zSTdkclpsV0dWd3JobTR3TWZBWDNRTHF0QlRpbGJsU1JKU3Fsd3hwenE0b3B4bG1xNEpiRU10bGlQQ1E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「ヴェレーナガーデン千葉ニュータウン中央」全274区画 完売のお知らせ 大規模戸建て新街区誕生",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE9HbllySGwyUG9nc1FjbTdTekZvR2dfQTRianZvcy03VzBpNGNJX25GS0FEMTlMNm5FT2VoUFVia3JrQVVlSE1oSlI4TGhPQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "鉄道30社以上がブース共演 「ほくそう春まつり2024」盛大に開催 臨時特急も運転（千葉県印西市）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9WcVZzUl9jZjhGY3ZKSlJGYWRpdkl1OWNFUGVuWGhPcmo2WmZZOVlPX1dxdk4xbXlGVHlSZTdIbjRTNVE0S1ZBUVZqVVBsOFZoQldlOC1zRXNTeVlWX1JR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】広報紙「広報いんざい」を全面リニューアル。暮らしのシーンで“探しやすい”A4サイズの冊子へ。2026年5月号から新デザインでスタート",
+    "link": "https://prtimes.jp/main/html/rd/p/000000016.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0755",
+    "date": "2026-09-03",
+    "ai_decision": "keep",
+    "similarity": 0.74,
+    "title": "マツダケンと描く水彩ワークショップ（2026年10月03日(土)～2026年10月04日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant",
+    "similar_to": "マツダケン作品展（2026年09月19日(土)～2026年10月04日(日)）",
+    "ai_reason": "マツダケン作品展とは別の水彩ワークショップイベント"
   }
 ]
