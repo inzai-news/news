@@ -5189,5 +5189,15 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE4zRk1pM1BEU3VkYnduWnZrS2otcmZCR2lyTF9oOGF5TnZzcTFTZmZvNnp4ZVhhOS03WmVpTGZXM21NS0w2YS1hUTBldmxhaE1WLWRNcExGaUJUY0hBUGV2Q296dmJ3dktUS2tn?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260902-0937",
+    "date": "2026-09-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【夏のいちご栽培】千葉県印西市の太陽光利用型植物工場で見学ツアー開催 | 日栄インテック株式会社のプレスリリース",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE1CRjExMVNKNXY1Mk10Rmd2M2VZZEhmZktHUk96eDQ1ZlhmNEpCcTF2akZ4VEt3NWhEYkI1RjJkeHVCV0ZnZjdDNlFsMFIyaUVTR0hNY3U5RFFlNDBUcGxRWHVRbWc5TjlIdEE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

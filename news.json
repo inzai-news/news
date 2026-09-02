@@ -960,10 +960,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "STRAIGHT PRESS",
+    "publisher": "straightpress.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -4347,10 +4347,10 @@
   {
     "title": "騒音、排熱、環境破壊懸念…千葉ニュータウン中央駅からわずか1kmの「データセンター銀座」を歩く",
     "link": "https://news.google.com/articles/CBMihAFBVV95cUxPT2NuLTNQWVVIclQxaWJHQ2sxU3RpcVh3WmxuOXAzcTF2bGJtaHlyNk9feThxSUhHNnVqejBjWGdIYXdkMGhWb1Q5VDlmRkJQa2VQS2Rxd2dKcXpvSTU1dnhIclZNWU5NMjZYLWlhYWt2UEVEczFOQ1FmeUJBU0xONWg1N1LSAYoBQVVfeXFMTl9uczZxVzF2U3JOYTdKQ0dXTHIwX1UzZFA2U3BEZ0FNeGVacWxoTzhMclNXQlh5a3k1YVhkRHhxZVJkX0RnMmZhdHdlRjJtc3JOS2FtSENXNm5jVm9ic3R6T1RrcW83QUFSU1JnUm03NXZYTWstVEhZTF9xX2FaTFB5eEtJalRaa1lB?oc=5",
-    "desc": "騒音、排熱、環境破壊懸念…千葉ニュータウン中央駅からわずか1kmの「データセンター銀座」を歩く  ｄメニューニュース",
+    "desc": "騒音、排熱、環境破壊懸念…千葉ニュータウン中央駅からわずか1kmの「データセンター銀座」を歩く  topics.smt.docomo.ne.jp",
     "pub_iso": "2026-08-15T07:08:28+09:00",
     "pub_str": "2026年8月15日",
-    "publisher": "ｄメニューニュース",
+    "publisher": "topics.smt.docomo.ne.jp",
     "source": "google-news-inzai-chiba",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-08-28T08:28:07.133756+09:00",
@@ -4856,6 +4856,16 @@
     "source": "prtimes-inzai-city",
     "category": "市政・行政",
     "collected_at": "2026-09-02T08:44:34.456794+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【9/19（土）・20（日）】夏の終わりの盆踊り大会2026開催！",
+    "link": "https://www.makinohara-more.com/event-topics/bonbdori202609/",
+    "pub_str": "2026年9月2日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-09-02T09:37:21.892551+09:00",
     "retention_type": "regular"
   }
 ]
