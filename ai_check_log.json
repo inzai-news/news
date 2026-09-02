@@ -5219,5 +5219,25 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB6S0RZcTlBMkIyTm8zbEFDNlQtUldwbEF3UFZVX0tPQkJnNGRDNDFKakE0Yl9yckstLUFPLTdFaE9KTGVNajduUDZmbGlwRHU4TTlsYk5R?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260902-1637",
+    "date": "2026-09-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県人口、初の減少 流山・印西・柏は増加、白井・野田・松戸で減 2025年国勢調査速報",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB6WlFPNkM2M0NZX1ZFT1NORFBrVy02ZmFDdHJGRS13eE15VzBtUHN1bjJseVpVZXJoTDk5RERibDFDLV8zVGpuS2NqY1hRSGhYbkxCdXNB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260902-1637",
+    "date": "2026-09-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西の大気汚染指数 (AQI) と 日本の大気汚染",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE1vZEQzcjZ6bVBZNG9BVG1YN29xeVlTME5uNkhKZTUtWHJiM1pwSVZUQzE4X0F3Q08wWWxwd1d3bjJYbktUMXRLMFA3ajNvVUZSX2dMMWlJbkx2cUh5SXBIQ2N0TTg?oc=5",
+    "similar_to": null,
+    "ai_reason": "IQAirの汎用大気汚染指数ページ(特定ニュースでなく常時更新される定型コンテンツ)のため除外"
   }
 ]
