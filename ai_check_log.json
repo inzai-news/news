@@ -5699,5 +5699,25 @@
     "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5yT0hrcGg0NmJRakJNSlZyalp0cmxuWnoydEJUTXhsVWtYdmJ6NTNxU0N1eThtTkc4NDBzR3RrUzJCdzU0S2ZRVU1lVy10UGotUzJ4ZFU0VWpmUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-0017",
+    "date": "2026-09-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "link": "https://prtimes.jp/main/html/rd/p/000000040.000180020.html",
+    "similar_to": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260904-0017",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】小学生が地酒「龍の奇跡」の酒米を田植え。地域連携で特産品づくりを体験",
+    "link": "https://prtimes.jp/main/html/rd/p/000000019.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

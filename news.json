@@ -3312,10 +3312,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "221616.com",
+    "publisher": "中古車のガリバー",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -5066,6 +5066,30 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-03T18:10:52.237991+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://prtimes.jp/main/html/rd/p/000000034.000180020.html",
+    "desc": "[印西市]\n印西市では今年、新たな平和学習事業として市内中学生18人を広島市へ派遣します。被爆地を実際に訪れ、戦争や被爆の歴史に触れ、平和の尊さについて考える機会を創出することで、次代を担うこどもたちの学びを深...",
+    "pub_iso": "2026-07-14T00:00:00+09:00",
+    "pub_str": "2026年7月14日",
+    "publisher": "PR TIMES",
+    "source": "prtimes-inzai-city",
+    "category": "市政・行政",
+    "collected_at": "2026-09-04T00:17:05.327904+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
+    "link": "https://prtimes.jp/main/html/rd/p/000000033.000180020.html",
+    "desc": "[印西市]\n[画像: https://prtimes.jp/i/180020/33/resize/d180020-33-1982fef9e05b36b0289f-0.png ]\nこのたび印西市は、「住みよさ」のその先を目指し、子育てをはじめ、新時代の健やかで持続可能なまちづくりを推進する、...",
+    "pub_iso": "2026-07-08T00:00:00+09:00",
+    "pub_str": "2026年7月8日",
+    "publisher": "PR TIMES",
+    "source": "prtimes-inzai-city",
+    "category": "市政・行政",
+    "collected_at": "2026-09-04T00:17:05.327904+09:00",
     "retention_type": "regular"
   }
 ]
