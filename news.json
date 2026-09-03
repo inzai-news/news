@@ -960,10 +960,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "straightpress.jp",
+    "publisher": "STRAIGHT PRESS",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -1397,7 +1397,7 @@
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2832,8 +2832,8 @@
     "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE5vZ2lQdmFPZEpjd0djc1J6c2lycXUwQW1kc0VtUGg3NjcwYktVOGEtVVJJUkhXLUY0UjEwYU5OZEI1VVg0M3RLWmN2OHY3Sl95bi1LanRKUUdrYjlOTDdzcjAxWUVmVHhqZGYw?oc=5",
     "desc": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー  時事ドットコム",
-    "pub_iso": "2026-08-10T15:16:00+09:00",
-    "pub_str": "2026年8月10日",
+    "pub_iso": "2026-08-11T16:00:00+09:00",
+    "pub_str": "2026年8月11日",
     "publisher": "時事ドットコム",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -3057,7 +3057,7 @@
     "pub_iso": "2026-08-12T19:29:13+09:00",
     "pub_str": "2026年8月12日",
     "publisher": "Mshale",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-08-13T09:45:53.797372+09:00",
     "retention_type": "regular"
@@ -3690,8 +3690,8 @@
     "title": "北総線・成田スカイアクセス",
     "link": "https://www.city.inzai.lg.jp/0000008909.html",
     "desc": "",
-    "pub_iso": "2026-08-20T14:33:49+09:00",
-    "pub_str": "2026年8月20日",
+    "pub_iso": "2026-09-03T11:21:12+09:00",
+    "pub_str": "2026年9月3日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4972,9 +4972,31 @@
     "pub_iso": "2026-07-05T16:00:00+09:00",
     "pub_str": "2026年7月5日",
     "publisher": "TVO テレビ大阪",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-09-03T09:12:11.193460+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "田島燃　木のアート「浮遊する魂」（前期 9月19日(土)～26日(土) 後期10月24日(土)～31日(土)）",
+    "link": "https://inzainet.com/event/garellywarane_260903/",
+    "pub_str": "2026年9月3日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-03T12:10:40.724496+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見",
+    "link": "https://prtimes.jp/main/html/rd/p/000000031.000180020.html",
+    "desc": "[印西市]\n印西市は2026年7月5日、全国の水辺で展開される参加型アクション「水辺で乾杯」に初めて参加し、印旛沼を望むBBQハウスSETOで「水辺の夕涼みイベント」を開催しました。参加者は青いアイテムを身に着けて集い、音...",
+    "pub_iso": "2026-07-10T00:00:00+09:00",
+    "pub_str": "2026年7月10日",
+    "publisher": "PR TIMES",
+    "source": "prtimes-inzai-city",
+    "category": "市政・行政",
+    "collected_at": "2026-09-03T12:10:40.724496+09:00",
     "retention_type": "regular"
   }
 ]

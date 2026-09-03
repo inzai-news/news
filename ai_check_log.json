@@ -5389,5 +5389,105 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTFAydzQyYUNnU1J0em9NMkRzcHVldVdscmhOMlBMdFdOTnYxdkZpbTJiMVBybFV3ei0xeUluZTkxc3FBQ3c4bEhtcVZZVWx6UHFfSm5UdDdxaUo?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】千葉県の大雨特別警報 我孫子、印西2市にも 計14市 - home",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTFA0NEhYaTRwbHBVSzNjUDhJZGFRTTNaX3UxcHBlNFlVNlVMQ3FmR0xtZEo4aVlWX1dHbXhUNDFVV21wQUJFdDdiZ3d0Qk8wVWFmd0trcDkwQnRqZFItUlFRdFF2UnBscUNF?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "子どもの一時保護所に個室も 児童相談所の開所式 千葉 印西",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE03VG1jcE9xUGNXdEQwWm5MMzBIWm1BTEQ0TmRqOVl2R1lxUU1RQUtBTWN5TGZQMldzUUFweUw4Y0lrbHA4cGdCU25fNEJFaXVMXzlwMGwyR3k?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "少し前ですが、印西市のフリースクール「ぴおねろの森」を視察させていただきました。 - 小林さやか（コバヤシサヤカ）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1UZmQ0Zjg5akxhLXhLbkVsQ1B3dV83eW9sNElhNkRNZnNjWjQtUGZtWnBRNVp3am1YNUJLNXNVZ291dHJyNEh6NUROSE5TcVpLSjVxa2dENm1mV1M0OWI4?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ブイゾーン印西店（千葉県）の来店レポート（2026月05月16日）",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE5DVy13dkZMTTVOTG9xUERWQWd0ZEhuZUNMdjJibS1mdUJ6TFhPc0hUeEFTbDRyTDRKa1pjSkZZR0ptMm9fRjNKbzJVVmM2bmo2STZ6TDVjX3d2WjMwSjBOTDNGSQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市】入学式！",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9oNFVUTDlNc0YwczBlbTkwdlg2VU41eTZrWlQ4dW1yNFhibDJZenRmZXcwdDRrNEFRNEl2elhCc2xOQXB6cU5PZVpTWW5lVUdGLW8teHF5NDNzS3RxMDBv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ブイゾーン印西店（千葉県）の来店レポート（2026月05月23日）",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE91VkV0eHNkdUxObjd1c3hJUk5LQjZpcUplZWRsbnoyUmtBWXRyVXVNY0QyRUZrTklIcTRfbndzTUtaRDVTRnVXUTNwNWdqN3A3OFFybVBEdzNLZ05Yb01ZMGJycEg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】野崎副市長が育休を取得 トップ層が自ら実践し「男性の育児参加は当たり前」の組織風土をさらに推進",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9BaVRMWUJaQjVoNmdmMVZkRFZzakM4S25CTVRudS1CU1JUcDRnQ2FVT0VqSVpIVjVFZlZ4OGhpd3J2Rjlkc0VNSEx1NksxM2R4MHJibQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "NTTデータグループ、千葉県印西・白井エリアに約200MWの「東京TKY12データセンター」開発を始動",
+    "link": "https://news.google.com/articles/CBMivwFBVV95cUxNTTJCNl96VEJLaUo2YjJWcExaekpTbHJwenIzMXRZRFFGSlZMTDYtMmM0QW0yd0ZPckxwQkV4ak92VXk2d2oxWlBwWGk3QWVvSlVUZ3pQZWE0SkVzbGl3Y0ZSLWVjRy05NWQ2dkdyRTliYmtxOFY0ODhRVF9VUmJqTXZYX0oyWWtFWm5UMXRjSU1HUGpkM3NCMm8wREM3V3lBREVCNk1sMzk5anJnM0VIb0hvMWdwZHMzRGVsOWNmQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "沿線の最新情報を満載 北総鉄道が無料情報誌「もっと北総Smile 2026」（千葉県印西市など） - tetsudo",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9malFZZUJrVTJId2toVHJWZ25ERU5TLVItZE1uWW5nOHIxRUNldzloOERhOHhyaDN0U1RPY0dibU13WmhGSW9SbndUaTU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBvYXdUTTVDZTZJZkFJcjBwSHh3V3MwVG9MT1hqUjF1ejNNSW9TT3lrV2Zoa3VmYW1XNmxwZktuMWEweXB1ZEh1YWhkTzVuVVpTaG1IQw?oc=5",
+    "similar_to": null,
+    "ai_reason": "既存のPR TIMES記事(同一タイトル・同一発表日7/14)の再配信のため除外"
   }
 ]
