@@ -5489,5 +5489,45 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBvYXdUTTVDZTZJZkFJcjBwSHh3V3MwVG9MT1hqUjF1ejNNSW9TT3lrV2Zoa3VmYW1XNmxwZktuMWEweXB1ZEh1YWhkTzVuVVpTaG1IQw?oc=5",
     "similar_to": null,
     "ai_reason": "既存のPR TIMES記事(同一タイトル・同一発表日7/14)の再配信のため除外"
+  },
+  {
+    "run_ts": "20260903-1410",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印旛圏域（成田市・佐倉市・四街道市・八街市・印西市・白井市・富里市・酒々井町・栄町）における医療機能ごとの病床の状況",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTFB4YXlBV0N6SGg2S3BVclNTeWZwRFhveXAtSkE1U0Y2UndqUGlUV0tKVHBiazZSbHN1Zk1PbVZFMlZnSnQ1c3FFYjMwNVFCMGViM2xVUFZraVRpUG1TbUpwaWxSbkRHelp4dk8tcg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1410",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "ＮＴＴ－反発 ＮＴＴデータ、千葉県印西で国内最大級のデータセンター計画 | 個別記事 | ニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE9SNFVfRTZXcWhIWGhiaGUwc1ZyZnhnU25MYVRJN2VhbFBtMUpCVXo0RWFra1E3Y0x1bHVaM1RQczZVN1Qtek5WcTFfWVBxMEtNZEoxTjFJU1JnR1JI?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1410",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "MCデジタル・リアルティ、NRTキャンパス（千葉県 印西市）にて、3棟目となるNRT14データセンターを開業",
+    "link": "https://news.google.com/articles/CBMiwgFBVV95cUxQYWtCUXF3NXFoQlI2NjRsSWhEd1FXb1lTQVN5UGxZMVNwSXBUMXYzOGZxNndicEdaY1JNVHVIc0I5MV9odEY3ZGNrWlBzMklwQ1YxdEZLMGdQU2I0cktBbjgwcnlUNWlZVWpZaVZFTV9MaWlycWdXRDJVTU1tZldyR0ZqVzctQjRNT1d4MmFjNjhMT1ZsNkxDOHNuMnlwQlRiMFM2SnhqaTU2dTVOSlJJRXlIVlQ0NzNOV05CLXYtTGNDdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1410",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「空・水・空芸術祭」千葉県が成田市、印西市、栄町と新たな芸術祭開催へ",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFB5WE03ZS1fTndrMlRxa3RZMTM3X2puTGNTSFZzc1VWWndpSXhpbkNvT1llUlJYQWM3akVDWlJVSEo0VDJla0QwbGdwR19sRnY0bTVQMGdtUWItZWk4RUFV?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
