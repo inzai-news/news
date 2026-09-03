@@ -5659,5 +5659,35 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=28038&store=chibant",
     "similar_to": "いんざい防災DAYS-家族・地域で考える日常防災と救急 -（2026年09月05日(土)～2026年09月06日(日)）",
     "ai_reason": "同じ防災DAYS内の別プログラム(キャラクター来場イベント)"
+  },
+  {
+    "run_ts": "20260903-2010",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE91WlVKTEg5QmFybUQtVXZRaUdkSEFDbFQ4b21IQmllMFdrMEpYYlItSXphdk1JeE92Z3lKdWFaMVNFcHJIZE5BWDkzRmVCZ0Y4ZlhmMA?oc=5",
+    "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260903-2010",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市空手道大会】盛大に開催！",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9CQXlFdzBLcDBVLWZEVFNUVjBLTlFRYVBVSlZCd3VmOGJXM1h5STJ3S0VJd1BvbHYxbmFEQXpyTldmVWFEU0p2X2t1REIyaDl1Vmkta0tzc2JuVzZ2SDhF?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-2010",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9NWWhOV0ZfSXpxQzluLU13clhJZ1VDQ0I0VlQ3cEUtWHBTUWVsa21BTUtnWE5QRmktRnFBdnYyR01MMVVKQ3dIUWZPM1lfeFFPMC1VdA?oc=5",
+    "similar_to": null,
+    "ai_reason": "既存記事(千葉日報オンライン、同一タイトル)の重複のため除外"
   }
 ]
