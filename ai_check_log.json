@@ -5529,5 +5529,65 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFB5WE03ZS1fTndrMlRxa3RZMTM3X2puTGNTSFZzc1VWWndpSXhpbkNvT1llUlJYQWM3akVDWlJVSEo0VDJla0QwbGdwR19sRnY0bTVQMGdtUWItZWk4RUFV?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1610",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【夏のいちご栽培】千葉県印西市の太陽光利用型植物工場で見学ツアー開催",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTFB0TW0zb1lBRkFZR2VSZGF3UHY1Q0VMRTBBeEM3aThvTENNaGZHVlRJMTBYbDdkaV83MmQxNkQ0ZUFqQ1B0OFMzdHFKS211WGFmQmxMZQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1610",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "データセンター立地考慮し配慮を 印西市、景観審答申受け通知",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1vSTdHY3FLSTZVemVscHZJb19YWWJpR0pCckFDTzc3N2t1Z1ZYUkhzcUpnRFF0QjVTM1pNd3JMUFBZQVFYbHU2S3VCWF9BM2pBY2NJWHZVMFA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260903-1610",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "１３議案を提出 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1RVmJlaUgyYWdpdHdZc21CbWJYUElnbFFWbmZ5SnhCNDBJaFlGRG1GdG5kTy1pbXEwcTQ2R2Nkb0hTWHBRZVNjVXJWNjBVdXZPTVkyaEdEUkM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260903-1610",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "駅前で預かり保育所へ送迎 子育て支援拠点オープン 印西市",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBEVkVLcDd1N1hxOUZjVGNGRTUyVEx2Yk1wbVRXVHhMNEZSQWRGQ0tZWVctZ2lHOTdjcll6UUZyTTJ5RTZha1Q1aUNjNEoxYnJSVjdOSFBsZkk?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260903-1610",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "9つの市と町を管轄する印旛児童相談所が千葉・印西に開所 子ども守る体制強化へ",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE1tMjZmcXJhRTB5aUtqdU9EVXF5a1p2Y2tMUi1fcVlndFFRdXJKZm9GMXc1YTdnLWcyLU8zVDdaS2swaS1sQ1ptUXlFdjBpQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1611",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉：隣接マンション売却勧誘 都内業者が過激チラシ 「今売らないと…」不安あおる 印西ＤＣ建設 ：地域ニュース",
+    "link": "https://news.google.com/articles/CBMicEFVX3lxTE42dmpJa0tON3NrOVVlSFZCQ2hIOTZlbk1FUzRJcktpOVhuNEQ2cUtlSXRCOTV2MmRaVXdFMmFLRGIyMzFVN1h4Y1lYUlpDWnI4Y28xSGZaSGw3ZnZMYzVfTmtzOFpLaGxnNzZDN0hLeVI?oc=5",
+    "similar_to": null,
+    "ai_reason": "既存の読売新聞記事(同一ニュース、6/11発表)の別配信のため除外"
   }
 ]
