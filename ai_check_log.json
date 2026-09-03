@@ -5589,5 +5589,75 @@
     "link": "https://news.google.com/articles/CBMicEFVX3lxTE42dmpJa0tON3NrOVVlSFZCQ2hIOTZlbk1FUzRJcktpOVhuNEQ2cUtlSXRCOTV2MmRaVXdFMmFLRGIyMzFVN1h4Y1lYUlpDWnI4Y28xSGZaSGw3ZnZMYzVfTmtzOFpLaGxnNzZDN0hLeVI?oc=5",
     "similar_to": null,
     "ai_reason": "既存の読売新聞記事(同一ニュース、6/11発表)の別配信のため除外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE5hcEJfUmVPV2ZubEFseDVYR3NBSzhUZGwzTUxuYXdSNVpXNUxJWENNSXpqLU1KZlFVWmVJd0FLX0tLNm1GRkxqUFoyWGxFRk55LUN3SGVfZTdkMnBJcXpMU2NtSTYtOXd2VVBpUVV3SmFHSmdv?oc=5",
+    "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市】まちづくりを学ぶ",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5KdHVrdGlaNHZBdmZqUDZmRjlqd1g2RXlCOS05Nll6M2FHUzlyX2dSZllzYzV3d3k2Q3hJQ0Z2ZEtfazFWQ1hISHh3OGlaM21QM2JQaEpXcEtwcmFxYjlJ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "市民制作印西舞台のご当地アニメ！市内の駅や商業施設でPR動画の放送開始！新キャラクター声優も発表！",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBiTW9UZDB3N3hVeTRfQ1J6YUFRa3VGaEFOQk5RblpXVUhjalFKY0pyeDVVeGVUWnpQNTNmYkRlbnYxTWFVOVVyOWttU1R4cksyWXdMM1EzMmJqa2c?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "シンガポール・ケッペル系REIT、千葉・印西のデータセンター買収",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE05ckhiTzRtYWh0S0tpMWxxc0pMTm45R0d5TmJad2taaTRiNk1HVGl4QzZZR0lEcW9HZHI1cnNXd19aYndMN2htbTFXRV9ZM1dOMFZ4RjF2TzY1X0xmWUNKb2NwS0VuYWM3U1V3ZQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市と白井市がまちづくりで連携へ 他にデータセンターへの規制も",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE1iR2NGRE9EU1BuSG9US1VWSXJCU1l0elVuUm40YVNualVLMDUyZTBBbi1IV0ZOc09HU1gzcnpzY2V2cENuem9nd21kbmVIZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1810",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】初のスカイランタン打ち上げや抽選会も楽しめる「夏の終わりの盆踊り大会2025」開催",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9lNHQzYzBqOFpfbHlfQi1OcHVKZEd1TzNweklWTFFYY3FzNEFPOFo0XzBxejJxT3BiSmxmeVRGLTNQOVFDN3pIeGJzVjRqTU80ZlpB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-1811",
+    "date": "2026-09-03",
+    "ai_decision": "keep",
+    "similarity": 0.74,
+    "title": "いんざい防災DAYS　じょい太・でけ太が遊びに来るよ！！（2026年09月05日(土)～2026年09月06日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=28038&store=chibant",
+    "similar_to": "いんざい防災DAYS-家族・地域で考える日常防災と救急 -（2026年09月05日(土)～2026年09月06日(日)）",
+    "ai_reason": "同じ防災DAYS内の別プログラム(キャラクター来場イベント)"
   }
 ]

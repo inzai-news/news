@@ -898,7 +898,7 @@
     "pub_iso": "2026-06-30T16:00:00+09:00",
     "pub_str": "2026年6月30日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -2831,10 +2831,10 @@
   {
     "title": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE5vZ2lQdmFPZEpjd0djc1J6c2lycXUwQW1kc0VtUGg3NjcwYktVOGEtVVJJUkhXLUY0UjEwYU5OZEI1VVg0M3RLWmN2OHY3Sl95bi1LanRKUUdrYjlOTDdzcjAxWUVmVHhqZGYw?oc=5",
-    "desc": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー  時事ドットコム",
+    "desc": "【千葉県印西市】ごみの“最期”まで見たら意識が変わった。親子24人が1日で体験した「ごみの一生」見学ツアー  jiji.com",
     "pub_iso": "2026-08-11T16:00:00+09:00",
     "pub_str": "2026年8月11日",
-    "publisher": "時事ドットコム",
+    "publisher": "jiji.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-10T16:57:50.858536+09:00",
@@ -3312,10 +3312,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "中古車のガリバー",
+    "publisher": "221616.com",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -5045,6 +5045,27 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-09-03T16:10:39.884213+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市・白井市・印西市】7日ごろまで大雨が続く可能性。あなたの家の浸水リスク、知っていますか？",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/03/mamorioh-heavyrain/",
+    "pub_str": "2026年9月3日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-09-03T18:10:52.237991+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "いんざい防災DAYS　じょい太・でけ太が遊びに来るよ！！（2026年09月05日(土)～2026年09月06日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=28038&store=chibant",
+    "pub_str": "2026年9月3日",
+    "event_end_date": "2026-09-06",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-03T18:10:52.237991+09:00",
     "retention_type": "regular"
   }
 ]
