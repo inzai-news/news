@@ -768,7 +768,7 @@
     "pub_iso": "2026-06-05T16:00:00+09:00",
     "pub_str": "2026年6月5日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -1397,7 +1397,7 @@
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
     "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -3537,10 +3537,10 @@
   {
     "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFBRVlZvS0VwcDEyakZRTEZnb1NDQVQtS3l6V0ZPeE5aMTB1TzR0UHJZbXh3ZDNrVEphNGdyZjFDZVVidHpsMWtWSFp2ZmVtZGVVeTd4MlpwQmdBWmZzRXp0WXJzRk5GVVU5WEE?oc=5",
-    "desc": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に  prtimes.jp",
+    "desc": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に  PR TIMES",
     "pub_iso": "2026-08-19T16:00:00+09:00",
     "pub_str": "2026年8月19日",
-    "publisher": "prtimes.jp",
+    "publisher": "PR TIMES",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-19T14:27:23.056866+09:00",
@@ -3947,7 +3947,7 @@
     "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE1MdWszTTVycVBMaS1hTDFDcThLVExCd2hodURjdTVIaXJqdXNYVEswaktRazJLUmRsWjZfckEzT3FFVE5sdmdNSHByRFdScm5IbmJjN0RpVDhYQ2RvdmQwckVqSXFLQ3cwMW8zODd0bXlZOS0wUW5ReW9HUjQxeEE?oc=5",
     "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  Yahoo!ニュース",
-    "pub_iso": "2026-08-24T04:49:00+09:00",
+    "pub_iso": "2026-08-24T16:00:00+09:00",
     "pub_str": "2026年8月24日",
     "publisher": "Yahoo!ニュース",
     "source": "google-news-inzai-shi",
@@ -4966,12 +4966,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "出没！アド街ック天国 ～千葉 印西～ - tv",
+    "title": "出没！アド街ック天国 ～千葉 印西～",
     "link": "https://news.google.com/articles/CBMiY0FVX3lxTFByZmdrZS1DLU5nR3hjMUhETW1RUTJndTBIdXhYcGVVNHZ5VHFuLW45ZENCdExTN2k2M3ljdzc1T01zZVl1MDl1d0VTV3UzMVZjYko2ZE9YX0NOMWNhaXdFaG9IQQ?oc=5",
-    "desc": "出没！アド街ック天国 ～千葉 印西～  tv-osaka.co.jp",
+    "desc": "出没！アド街ック天国 ～千葉 印西～  TVO テレビ大阪",
     "pub_iso": "2026-07-05T16:00:00+09:00",
     "pub_str": "2026年7月5日",
-    "publisher": "osaka.co.jp",
+    "publisher": "TVO テレビ大阪",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-09-03T09:12:11.193460+09:00",
@@ -5090,6 +5090,16 @@
     "source": "prtimes-inzai-city",
     "category": "市政・行政",
     "collected_at": "2026-09-04T00:17:05.327904+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】9月13日（日）北総花の丘公園で「オータムフェア」が開催されます！ コントステージやマジックショー、フリーマーケット、野菜や梨の販売もあり！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/04/hananookakoenautumfair2026/",
+    "pub_str": "2026年9月4日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-04T08:47:38.288070+09:00",
     "retention_type": "regular"
   }
 ]

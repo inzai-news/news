@@ -5719,5 +5719,35 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000019.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-0847",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西DC、市に監査請求 住民「容認は違法、財政リスク」",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1PU1poUWJlTEYwendab2NMcEVfY3dLTi1ZSlpxUWltVnJycmNwbDNmUUtFVFItVTR2U2JxU2pmY2RpVHRZVWctVDQtTlc1cUJtLVJR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-0847",
+    "date": "2026-09-04",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・我孫子、印西もレベル5大雨特別警報",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE5RNmdxM012OWFib2IwOW9VNHNrS2pubHJKakowN3lfSVExWU9vSWxaZXVzTXg4djdzQTNMSEM0OGR5ZWdpb2xjUGZoUkhnWWpZT1E4WGtrbE13SGt1OElmRW9Od3J0Vno0TlhqZXlZQdIBdEFVX3lxTE9tY1VhZUlOZ2NZRzFVYzRkZEVvSElfQk9EbjdQY2VaNW8yNXVqZHg5RVI3TDB5X2ZoUkhxM0pWcGgyaHRfY1Q5TWpWcTRMNmlMaTlCaXlWUHBqR0RZMlpQZlBVR0lld2NaOVRLbE95ZlNNSVZT?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260904-0848",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の天気予報（きょう・あす・週間）",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE02YlNuV3EyRVpTcklxN0FoeTNBSzlkZUtkZF9NUlAyQWNBRHhiNnllOVByYlFjQ2h1WlhWSWl0OW9yejFJOTE0cWd3QUlEWXd6b1ptNUozOFg0ZFZ6bWc?oc=5",
+    "similar_to": null,
+    "ai_reason": "IQAirと同様の汎用天気予報テンプレページ(特定ニュースでなく常時更新される定型コンテンツ)のため除外"
   }
 ]
