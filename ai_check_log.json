@@ -5329,5 +5329,65 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant",
     "similar_to": "マツダケン作品展（2026年09月19日(土)～2026年10月04日(日)）",
     "ai_reason": "マツダケン作品展とは別の水彩ワークショップイベント"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "(探訪 ググッと首都圏) 東電PG千葉印西変電所（千葉県印西市） 電力「爆食」データ拠点支え 来年フル稼働、供給なお不安",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE15Yy1qLTRtUEtvSHU2ejBkc2dKOVc4YjVWTTZod2dHbUFnTnQ4OXVIVDNCVm9PT2tHQzUtRDJuQkNTUkZJaGVnNlBtT3JhM2tvU01peXpQY0J6Y253WTJPS2x2M0U2S2NTeGV3Tw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「空・水・空芸術祭」千葉県が成田市、印西市、栄町と新たな芸術祭開催へ",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTFBLcG5qZlV0LWZ0SGpwdnVXMk02cUFZNlNoOGJlWmI1QjFCazFaS3NTN09zNVh3VWhpUG1UeHNfQ1QzMlZuX2ltdzhBc1JVdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市と白井市が連携協定 子育て支援やデータセンターでルール作り検討",
+    "link": "https://news.google.com/articles/CBMidkFVX3lxTFBoMlotRXFwd1hrd0RtbEFfWXN0cEI2NFBQNlZPVUxNSHBXYXkwZ2RjdXJJY0ZLMFFPRFJFcXZ2T09aU0R3cm94UHBBNG9WeTBkS3AwQ0lPSmp6b3dNT2thWks0Nm52V1VPQmh1bXo4VXVGRV9rU3c?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉 印西市 データセンター事業者と景観配慮など申し合わせ",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE0wUlVUYXo3UFE3ajJhY3RuNEE1S2hxMEswNmlIcGxxOGFGSVhfMEJqanMyUEhkU2RPNE5MaC1TUWI1Q2Fzd29xc1pzdnEwZVpuVWx6QUpIMWM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "小学生が市長にプレゼン！人・自然・データが集まる千葉県印西市・藤代健吾市長とせんべい焼きを体験！首長と○○やってみたまとめ",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTE4tbmZMRjhvaXJBS1FHNkZiSUhtdG4zYmd0S0E5cEc5cmNEM1pUOTcyODh1aG5fdVpmdG1OdG9YWFZPOTlfc1FqUmdGZVh0elllZDJtT1lINUtDaGZSQTNsbHdLTQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260903-0912",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "7月22日〜8月15日 イオンモール千葉ニュータウンで「 夏休みわくわく北総鉄道祭り 」開催",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFAydzQyYUNnU1J0em9NMkRzcHVldVdscmhOMlBMdFdOTnYxdkZpbTJiMVBybFV3ei0xeUluZTkxc3FBQ3c4bEhtcVZZVWx6UHFfSm5UdDdxaUo?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

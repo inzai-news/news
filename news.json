@@ -960,10 +960,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "STRAIGHT PRESS",
+    "publisher": "straightpress.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -4953,6 +4953,28 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-03T07:55:23.742074+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "イオンモール特別企画 イベントキャラバン イオンモール よしもと全国お笑いツアー ～生のお笑いイベントを全国へ！～",
+    "link": "https://chibanewtown.aeonmall.jp/event/1ab7559a-bd53-441e-aec8-1c7a928fb83c",
+    "pub_str": "2026年9月3日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-03T09:12:11.193460+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "出没！アド街ック天国 ～千葉 印西～",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTFByZmdrZS1DLU5nR3hjMUhETW1RUTJndTBIdXhYcGVVNHZ5VHFuLW45ZENCdExTN2k2M3ljdzc1T01zZVl1MDl1d0VTV3UzMVZjYko2ZE9YX0NOMWNhaXdFaG9IQQ?oc=5",
+    "desc": "出没！アド街ック天国 ～千葉 印西～  TVO テレビ大阪",
+    "pub_iso": "2026-07-05T16:00:00+09:00",
+    "pub_str": "2026年7月5日",
+    "publisher": "TVO テレビ大阪",
+    "source": "google-news-inzai-chiba",
+    "category": "話題・その他",
+    "collected_at": "2026-09-03T09:12:11.193460+09:00",
     "retention_type": "regular"
   }
 ]

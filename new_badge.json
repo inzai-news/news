@@ -1,9 +1,11 @@
 {
   "links": {
-    "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant": "2026-09-03T07:55:35.294000+09:00"
+    "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant": "2026-09-03T07:55:35.294000+09:00",
+    "https://chibanewtown.aeonmall.jp/event/1ab7559a-bd53-441e-aec8-1c7a928fb83c": "2026-09-03T09:12:11.263853+09:00",
+    "https://news.google.com/articles/CBMiY0FVX3lxTFByZmdrZS1DLU5nR3hjMUhETW1RUTJndTBIdXhYcGVVNHZ5VHFuLW45ZENCdExTN2k2M3ljdzc1T01zZVl1MDl1d0VTV3UzMVZjYko2ZE9YX0NOMWNhaXdFaG9IQQ?oc=5": "2026-09-03T09:12:23.656075+09:00"
   },
   "last_eligible": {
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant",
-    "ts": "2026-09-03T07:55:35.294000+09:00"
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTFByZmdrZS1DLU5nR3hjMUhETW1RUTJndTBIdXhYcGVVNHZ5VHFuLW45ZENCdExTN2k2M3ljdzc1T01zZVl1MDl1d0VTV3UzMVZjYko2ZE9YX0NOMWNhaXdFaG9IQQ?oc=5",
+    "ts": "2026-09-03T09:12:23.656075+09:00"
   }
 }
