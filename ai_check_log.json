@@ -5689,5 +5689,15 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9NWWhOV0ZfSXpxQzluLU13clhJZ1VDQ0I0VlQ3cEUtWHBTUWVsa21BTUtnWE5QRmktRnFBdnYyR01MMVVKQ3dIUWZPM1lfeFFPMC1VdA?oc=5",
     "similar_to": null,
     "ai_reason": "既存記事(千葉日報オンライン、同一タイトル)の重複のため除外"
+  },
+  {
+    "run_ts": "20260903-2210",
+    "date": "2026-09-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市原・BIGHOP印西バリューモールの「無尽蔵 BIGHOP印西店」でラーメン",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5yT0hrcGg0NmJRakJNSlZyalp0cmxuWnoydEJUTXhsVWtYdmJ6NTNxU0N1eThtTkc4NDBzR3RrUzJCdzU0S2ZRVU1lVy10UGotUzJ4ZFU0VWpmUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
