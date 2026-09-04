@@ -5779,5 +5779,25 @@
     "link": "https://www.city.inzai.lg.jp/0000020493.html",
     "similar_to": "印西シティリレーマラソン 2026",
     "ai_reason": "印西市公式の参加者募集ページ(既存の紹介記事とは別の実用情報)"
+  },
+  {
+    "run_ts": "20260904-2010",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "日本最大のデータセンターは「印西のAWS」か、環境省のデータから分析",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE9sRVRnMnJjSmRqYVUzRWR5S05Vc3dhS0ZsbnBRWjFKbkZfUzdvU01yV0l3dmpBS1JhZllaMi1sZlFaRGZnUGFySzFrT0t3U0d2VEpuRndYczdHMTB5SGd0TDdhNXFnQzRXOGNtaA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-2010",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西に「300MW」の超巨大DC、オーストラリアのエアトランクが建設",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE44MjB3Z3JVLUgwWHp5UnRwVFdtLXVhNUQxMDZmODZ6UkJSeF9HTXIxWEkyYmN0MkdDZTItSlh0NzlDWnVrMFZOZDR3NWljR2NMRTZzNjV0a0JQQUFu?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
