@@ -821,7 +821,7 @@
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -1591,8 +1591,8 @@
     "title": "印西市指定給水装置工事事業者一覧表",
     "link": "https://www.city.inzai.lg.jp/0000003022.html",
     "desc": "",
-    "pub_iso": "2026-07-21T13:14:57+09:00",
-    "pub_str": "2026年7月21日",
+    "pub_iso": "2026-09-04T09:37:41+09:00",
+    "pub_str": "2026年9月4日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -1996,8 +1996,8 @@
     "title": "令和8年度会計年度任用職員の募集について（市立保育園）",
     "link": "https://www.city.inzai.lg.jp/0000020922.html",
     "desc": "",
-    "pub_iso": "2026-07-29T09:18:01+09:00",
-    "pub_str": "2026年7月29日",
+    "pub_iso": "2026-09-04T09:50:49+09:00",
+    "pub_str": "2026年9月4日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -3946,10 +3946,10 @@
   {
     "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE1MdWszTTVycVBMaS1hTDFDcThLVExCd2hodURjdTVIaXJqdXNYVEswaktRazJLUmRsWjZfckEzT3FFVE5sdmdNSHByRFdScm5IbmJjN0RpVDhYQ2RvdmQwckVqSXFLQ3cwMW8zODd0bXlZOS0wUW5ReW9HUjQxeEE?oc=5",
-    "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  Yahoo!ニュース",
+    "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  news.yahoo.co.jp",
     "pub_iso": "2026-08-24T16:00:00+09:00",
     "pub_str": "2026年8月24日",
-    "publisher": "Yahoo!ニュース",
+    "publisher": "news.yahoo.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-23T14:38:11.119485+09:00",
@@ -5112,6 +5112,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-04T09:12:09.402018+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "若者求職者就職相談会in印西市",
+    "link": "https://www.city.inzai.lg.jp/0000022497.html",
+    "desc": "",
+    "pub_iso": "2026-09-04T11:33:48+09:00",
+    "pub_str": "2026年9月4日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-04T12:10:40.110576+09:00",
     "retention_type": "regular"
   }
 ]

@@ -5749,5 +5749,15 @@
     "link": "https://news.google.com/articles/CBMiXkFVX3lxTE02YlNuV3EyRVpTcklxN0FoeTNBSzlkZUtkZF9NUlAyQWNBRHhiNnllOVByYlFjQ2h1WlhWSWl0OW9yejFJOTE0cWd3QUlEWXd6b1ptNUozOFg0ZFZ6bWc?oc=5",
     "similar_to": null,
     "ai_reason": "IQAirと同様の汎用天気予報テンプレページ(特定ニュースでなく常時更新される定型コンテンツ)のため除外"
+  },
+  {
+    "run_ts": "20260904-1210",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "巡回バスと保育所バスを組み合わせた送迎保育ステーション、印西市で開設｜新・公民連携最前線｜PPPまちづくり",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTE1KT2FzRDQ2c2ZyUlNLWDNnRGpzc2VCWUd5NHRCYTVBYjE0LUQydnBFNjRySGFPQWROeGhpeGprVGxXcWN0R0Jyc3FwcDRlRU1VNGxnaGdMWjlLZmh6REVVM3RBTERsS3RoWC1CY0NEVW90UHlxeHJJNm1xNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
