@@ -5759,5 +5759,25 @@
     "link": "https://news.google.com/articles/CBMie0FVX3lxTE1KT2FzRDQ2c2ZyUlNLWDNnRGpzc2VCWUd5NHRCYTVBYjE0LUQydnBFNjRySGFPQWROeGhpeGprVGxXcWN0R0Jyc3FwcDRlRU1VNGxnaGdMWjlLZmh6REVVM3RBTERsS3RoWC1CY0NEVW90UHlxeHJJNm1xNA?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-1810",
+    "date": "2026-09-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "あの印西でも反対の声、AI立国に向けてオープンなデータセンター議論が必要だ（2ページ目）",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE52b3BKN3ZDeG12Y2NRRS1GUktvXzZOeFk5dE16SjdEVWUtUUZENU9iV1p0SUxVbmtGMkN0emFvZWY3YW94VUM2R1Zqbk5zVEZvX3hqWDl6T1FvdFNoSjVzSl9fOXktWG41TzhsYzhDZklGZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260904-1811",
+    "date": "2026-09-04",
+    "ai_decision": "keep",
+    "similarity": 0.71,
+    "title": "印西シティリレーマラソン参加者募集",
+    "link": "https://www.city.inzai.lg.jp/0000020493.html",
+    "similar_to": "印西シティリレーマラソン 2026",
+    "ai_reason": "印西市公式の参加者募集ページ(既存の紹介記事とは別の実用情報)"
   }
 ]
