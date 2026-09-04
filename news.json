@@ -960,10 +960,10 @@
   {
     "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
-    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  STRAIGHT PRESS",
+    "desc": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！  straightpress.jp",
     "pub_iso": "2026-06-10T16:00:00+09:00",
     "pub_str": "2026年6月10日",
-    "publisher": "STRAIGHT PRESS",
+    "publisher": "straightpress.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3946,10 +3946,10 @@
   {
     "title": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE1MdWszTTVycVBMaS1hTDFDcThLVExCd2hodURjdTVIaXJqdXNYVEswaktRazJLUmRsWjZfckEzT3FFVE5sdmdNSHByRFdScm5IbmJjN0RpVDhYQ2RvdmQwckVqSXFLQ3cwMW8zODd0bXlZOS0wUW5ReW9HUjQxeEE?oc=5",
-    "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  news.yahoo.co.jp",
+    "desc": "なぜ「つくばエクスプレス沿線」では人が増えているのか？ 人口310万人減の日本で、つくば・流山・印西に見る“人が集まる街”の条件（Merkmal）  Yahoo!ニュース",
     "pub_iso": "2026-08-24T16:00:00+09:00",
     "pub_str": "2026年8月24日",
-    "publisher": "news.yahoo.co.jp",
+    "publisher": "Yahoo!ニュース",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-23T14:38:11.119485+09:00",
@@ -5124,6 +5124,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-04T12:10:40.110576+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "農産物の移動販売",
+    "link": "https://www.city.inzai.lg.jp/0000012593.html",
+    "desc": "",
+    "pub_iso": "2026-09-03T00:00:01+09:00",
+    "pub_str": "2026年9月3日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-04T14:11:19.616013+09:00",
     "retention_type": "regular"
   }
 ]
