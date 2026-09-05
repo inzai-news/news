@@ -5799,5 +5799,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE44MjB3Z3JVLUgwWHp5UnRwVFdtLXVhNUQxMDZmODZ6UkJSeF9HTXIxWEkyYmN0MkdDZTItSlh0NzlDWnVrMFZOZDR3NWljR2NMRTZzNjV0a0JQQUFu?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260905-1836",
+    "date": "2026-09-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTFAxZmhPZXhQTVFLUGFJZ0pCVEEtNmhRMW41MjE2NUUwTGFGUmlYd2ppQlBhRWktMEEzb1U3bDZyWkg2cFh4MGNtalNETGVkeXh4TEM1TFdvLVdiS1lKdlhVcjhrMDZNZUM2QURteGs1b29vdw?oc=5",
+    "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
