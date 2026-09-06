@@ -5829,5 +5829,15 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBaUm1OOGo0NkU4cHVvRzlWRWczY3FCQ1NpYlpjVEFwRnV3bEN6UGt3S0NydDVlTmdtQ0hYQWcwd2ZWQkNTc1pkWnNNb0VpY2xRajVRUy05ZmM0NUZ3a3JGTlIwa0VITTZfalFMMmRIeU9rUQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260906-2010",
+    "date": "2026-09-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市の駅前に建設予定のデータセンター、実態は「工場」か「倉庫」では…住民らが監査請求",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTFB1eWFsN3pBY0ZzZl9BQWpDdHpLQWF0NEZxbEVUTEtxeXdfcmJRRWkxTlBXbks5Mlo3Z1BhVGx0cWFBQkpjYjF5T214MGVybGZmN1hUQld6QUUxQ1ZpZkxwQlNUTGFwQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
