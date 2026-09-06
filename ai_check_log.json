@@ -5809,5 +5809,25 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTFAxZmhPZXhQTVFLUGFJZ0pCVEEtNmhRMW41MjE2NUUwTGFGUmlYd2ppQlBhRWktMEEzb1U3bDZyWkg2cFh4MGNtalNETGVkeXh4TEM1TFdvLVdiS1lKdlhVcjhrMDZNZUM2QURteGs1b29vdw?oc=5",
     "similar_to": "【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260906-1808",
+    "date": "2026-09-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "GAFAの「黒子」が明かすAIデータセンターの想像を絶する未来、印西NRT12で聞いた",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE1XVU9YcWpfUm1Jb3F0RmFvejQ5X3hRRjVINU9wWW03VXA1UGkwcGJXNWRLVF9EdFEySWcwNXloSHI0ZUpEM0dQMW5US3VyZVJqRzA5TW5oRTBRcFlha2ZhOUZkcWh2Zmo1TlUxRg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260906-1808",
+    "date": "2026-09-06",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "日本最大のデータセンターは「印西のAWS」か、環境省のデータから分析（2ページ目）",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTFBaUm1OOGo0NkU4cHVvRzlWRWczY3FCQ1NpYlpjVEFwRnV3bEN6UGt3S0NydDVlTmdtQ0hYQWcwd2ZWQkNTc1pkWnNNb0VpY2xRajVRUy05ZmM0NUZ3a3JGTlIwa0VITTZfalFMMmRIeU9rUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
