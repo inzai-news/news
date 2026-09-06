@@ -4416,10 +4416,10 @@
   {
     "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
-    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  news.web.nhk",
     "pub_iso": "2026-08-18T16:00:00+09:00",
     "pub_str": "2026年8月18日",
-    "publisher": "NHKニュース",
+    "publisher": "news.web.nhk",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
@@ -5203,6 +5203,18 @@
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-09-06T18:08:00.445262+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【解説】千葉県が誇るデジタルの二大拠点！印西市と柏市のデータセンター徹底比較",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5pamZ4NXotZUFsRmRLUk9uREFuUVBWU09uTVRxMjc2VW82WmlUMUZaR1BiTElFVE9MLWFCZDQzXzdPRElwNGZkaHJEZnRCTFNpc0RIS1hkZTVJeXBG?oc=5",
+    "desc": "【解説】千葉県が誇るデジタルの二大拠点！印西市と柏市のデータセンター徹底比較  YouTube",
+    "pub_iso": "2026-09-06T18:52:38+09:00",
+    "pub_str": "2026年9月6日",
+    "publisher": "YouTube",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-06T22:10:41.342889+09:00",
     "retention_type": "regular"
   }
 ]
