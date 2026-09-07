@@ -5869,5 +5869,15 @@
     "link": "https://www.makinohara-more.com/event-topics/%e3%82%bb%e3%83%96%e3%83%b3-%e3%82%a4%e3%83%ac%e3%83%96%e3%83%b3%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2%e5%ba%97%e3%81%8c10%e6%9c%8815%e6%97%a5%ef%bc%88%e6%9c%a8%ef%bc%89%e3%82%aa%e3%83%bc/",
     "similar_to": "【2026年10月中旬 開店】セブン-イレブン牧の原モア店",
     "ai_reason": "既存store_event(中旬表記)を正確な開店日10/15に更新するため、この記事自体は重複除外"
+  },
+  {
+    "run_ts": "20260907-1810",
+    "date": "2026-09-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷100日後に閉店するチョコクロワッサン店が、ベルエモコでオープン｜メニュー【トニーベイク】",
+    "link": "https://chiba-lunch.com/shiroi-tonybakebelemoco-chocolate-croissant/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-tonybakebelemoco-chocolate-croissant",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
