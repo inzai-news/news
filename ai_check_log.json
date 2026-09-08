@@ -5879,5 +5879,15 @@
     "link": "https://chiba-lunch.com/shiroi-tonybakebelemoco-chocolate-croissant/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-tonybakebelemoco-chocolate-croissant",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260908-0921",
+    "date": "2026-09-08",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷野菜たっぷりタコスとハンバーガーが人気の店でランチ｜メニュー【カリフォルニアスタイルキッチン】",
+    "link": "https://chiba-lunch.com/inzai-california-style-kitchen/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-california-style-kitchen",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
