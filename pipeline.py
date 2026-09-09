@@ -65,7 +65,7 @@ KAITEN_KEYWORDS = ["開店", "閉店", "オープン", "クローズ", "NEW OPEN
 REGULAR_RETENTION_MONTHS = 3
 STORE_EVENT_RETENTION_MONTHS = 6
 STORE_EVENT_TITLE_PATTERN = re.compile(
-    r"^【(?:(\d{4})年(\d{1,2})月(?:(\d{1,2})日|上旬|中旬|下旬)|(?:開店|閉店|リニューアル)日不明)\s+(開店|閉店|リニューアル)】"
+    r"^【(?:(\d{4})年(\d{1,2})月(?:(\d{1,2})日|上旬|中旬|下旬)?|(?:開店|閉店|リニューアル)日不明)\s+(開店|閉店|リニューアル)】"
 )
 EVENT_END_GRACE_DAYS = 3
 
@@ -1834,7 +1834,7 @@ def normalize_publisher(pub, link=""):
 
 
 KAITEN_LABEL_PATTERN = re.compile(
-    r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)\s*(開店|閉店|リニューアル)|(開店|閉店|リニューアル)日不明\s*(開店|閉店|リニューアル))】"
+    r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)?\s*(開店|閉店|リニューアル)|(開店|閉店|リニューアル)日不明\s*(開店|閉店|リニューアル))】"
 )
 KAITEN_DATE_IN_TITLE_PATTERN = re.compile(r"(\d{1,2})月(\d{1,2})日")
 KAITEN_KIND_CSS_CLASS = {"開店": "kaiten-open", "閉店": "kaiten-close", "リニューアル": "kaiten-renewal"}

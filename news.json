@@ -2742,14 +2742,15 @@
     "retention_type": "regular"
   },
   {
-    "title": "【印西市】「ヒマラヤスポーツ＆ゴルフ イオンモール千葉ニュータウン店」が8月16日（日）をもって閉店します",
+    "title": "【2026年8月16日 閉店】ヒマラヤスポーツ＆ゴルフ イオンモール千葉ニュータウン店",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/10/himarayaheiten/",
     "pub_str": "2026年8月10日",
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "開店・閉店",
     "collected_at": "2026-08-10T11:43:12.093145+09:00",
-    "retention_type": "regular"
+    "retention_type": "store_event",
+    "announce_str": "2026年8月10日"
   },
   {
     "title": "令和8年度第1回印西市子ども・子育て会議開催結果（令和8年7月13日開催）",
@@ -5107,14 +5108,15 @@
     "retention_type": "regular"
   },
   {
-    "title": "【印西市】5月に閉店した「ヴィレッジヴァンガード イオンモール千葉ニュータウン店」跡地にインテリアショップ「CRASH GATE」が11月にオープンするみたい",
+    "title": "【2026年11月 開店】CRASH GATE（イオンモール千葉ニュータウン、ヴィレッジヴァンガード跡地）",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/06/aeonchibantopenjoho2026/",
     "pub_str": "2026年9月6日",
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "開店・閉店",
     "collected_at": "2026-09-06T18:08:00.445262+09:00",
-    "retention_type": "regular"
+    "retention_type": "store_event",
+    "announce_str": "2026年9月6日"
   },
   {
     "title": "大雨に係る避難所情報",
