@@ -5899,5 +5899,35 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE44SG5RUFpxc0JpbEFmU2lscncwTVgwYndYYjhqM1h0dWZfNjJRMkQ1UW81eDZfX2FLdDB2bEh0MUtxRnY3RkdqeXNPbjhtWHBIWFkwa2EtWDJyckIzWElUcWxtVURrRV8xV0E?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260909-1122",
+    "date": "2026-09-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、3時間後鎮火（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFA5ZWhMdDFGcUI1c0g3aExRbkh5OGRCcVRoODVLODVjTGk3UzhRaVBpMmo1VzZYbVBFbDdVSHlkU0Y3QjZTSkljbkVBaTdUNmttUWo0eVNuTF9DemJ1RUFtb0ljRThVa0hzdExvbjRZNWwwbDU5ZlFYQnRJNGxTX3M?oc=5",
+    "similar_to": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260909-1122",
+    "date": "2026-09-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.94,
+    "title": "「異臭のようなものが…」　商業施設付近の地下で火災か　印西、３時間後鎮火",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE0tcVVDcWs1WGhfUEZCejlqVU5EZG53T0V6RGdsZ0RNdVp6QVZzNmtVSnMweFYwYW84SV9OODZlWWJfZ2MxZlJaZFZPWTdvRGd1U3FmX1ZOc3ZJTDBYeUNMSjF2NVpCbHFPN1hDRWtTNW1zYWlSdVViWjR6MGRsd9IBgwFBVV95cUxOQlFrT2lnamVQOGlEZTNhOUZPV1NwWWl0cnRlSUt1S3RmeW9BZEt2eUI0UnVBVXhHel9CWjZkZlViWEREWklZUmYyVzUtVHd6dnd4a2pTWWlNa2Q1NDFyMkEwOWJkOHItemZFdFRObVZLamV2UzZWamVsWWxieUxOb1FrSQ?oc=5",
+    "similar_to": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260909-1122",
+    "date": "2026-09-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
+    "link": "https://news.google.com/articles/CBMicEFVX3lxTE4tY1dxeHpadC1EV2dzQ21LMHRaNFBHR3VkcE9BYlVBMlhMam9vZDVnMTQ5RmxDZ0JuMGo2QzJZcm1iOHp0WHJMQnpfbjJGRVBXNi13MDVDMlNoemRuOHpBMVFOdFZhRnZaRUlLdEx6TXI?oc=5",
+    "similar_to": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
