@@ -1791,16 +1791,18 @@ header{padding:10px 12px;flex-wrap:wrap;row-gap:6px}
 .cat-count{font-size:11px;font-weight:600}
 .news-item{display:flex;flex-direction:column;gap:3px;padding:9px 12px;background:#fff;border-top:1px solid #ededea;transition:background .15s}
 .news-item:hover{background:#f9f9f6}
+.news-item.kaiten-open{background:#dff3e3}
+.news-item.kaiten-open:hover{background:#cdecd3}
+.news-item.kaiten-close{background:rgba(0,0,0,.12)}
+.news-item.kaiten-close:hover{background:rgba(0,0,0,.18)}
+.news-item.kaiten-renewal{background:#e0edfa}
+.news-item.kaiten-renewal:hover{background:#cfe3f7}
 .news-item.today{background:#fffbe8}
 .news-item.today:hover{background:#fff5cc}
 .news-item.recent{background:#fffbe8}
 .news-item.recent:hover{background:#fff5cc}
 .news-title{font-size:13px;font-weight:500;color:#1a1a18;line-height:1.5}
 .news-item:hover .news-title{color:#1D9E75}
-.kaiten-tag{padding:0 4px;border-radius:3px;margin-right:2px}
-.kaiten-open{background:#dff3e3}
-.kaiten-close{background:rgba(0,0,0,.12)}
-.kaiten-renewal{background:#e0edfa}
 .news-date{font-size:10px;color:#aaa}
 .cat-items{flex:1;overflow-y:auto;min-height:0}
 .cat-items::-webkit-scrollbar{width:4px}
@@ -1921,17 +1923,16 @@ def render_item(item, new_links):
     d = discovery_date(item)
     data_pub = (' data-pub="' + d.isoformat() + '"') if d else ""
     label, kind, rest_title = kaiten_label_parts(item)
-    if label:
-        kaiten_class = KAITEN_KIND_CSS_CLASS.get(kind, "")
-        title_html = '<span class="kaiten-tag ' + kaiten_class + '">' + html.escape(label) + "</span>" + html.escape(rest_title)
-    else:
-        title_html = html.escape(rest_title)
+    title_html = html.escape((label or "") + rest_title)
+    row_class = "news-item"
+    if kind:
+        row_class += " " + KAITEN_KIND_CSS_CLASS.get(kind, "")
     new_html = '<span class="new-badge">新着</span>' if item.get("link") in new_links else ""
     # announce_str(記事発表日)があれば日付欄はそちらを優先表示する。開店・閉店情報は
     # pub_strに開店/閉店の実施日を入れる設計のため、記事が実際に発表された日を別途知りたい場合に使う
     date_text = item.get("announce_str") or item.get("pub_str", "")
     return (
-        '<a class="news-item"' + data_pub + ' href="' + html.escape(item["link"]) + '" target="_blank" rel="noopener">'
+        '<a class="' + row_class + '"' + data_pub + ' href="' + html.escape(item["link"]) + '" target="_blank" rel="noopener">'
         + '<span class="news-title">' + title_html + "</span>"
         + '<span class="news-date">' + html.escape(date_text) + pub_html
         + '<span class="today-badge" style="display:none">今日</span>' + new_html + "</span>"
