@@ -5889,5 +5889,15 @@
     "link": "https://chiba-lunch.com/inzai-california-style-kitchen/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-california-style-kitchen",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260909-0956",
+    "date": "2026-09-09",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】準備も運営も出演者自身で。みんなでつくる「印西まちなか音楽祭」に過去最多の3.2万人が来場",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE44SG5RUFpxc0JpbEFmU2lscncwTVgwYndYYjhqM1h0dWZfNjJRMkQ1UW81eDZfX2FLdDB2bEh0MUtxRnY3RkdqeXNPbjhtWHBIWFkwa2EtWDJyckIzWElUcWxtVURrRV8xV0E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
