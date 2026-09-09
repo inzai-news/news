@@ -5323,10 +5323,10 @@
   {
     "title": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTFBYTzVFd1VXWm90cGhVcEpLZm51RzVkaHVobDY1aGNDRkkySkY3Ri1sTE52Y2pNTTFreUVCUGk4Y0pnQU5HZ0syY1pENA?oc=5",
-    "desc": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火  47NEWS",
+    "desc": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火  47news.jp",
     "pub_iso": "2026-09-08T05:00:00+09:00",
     "pub_str": "2026年9月8日",
-    "publisher": "47NEWS",
+    "publisher": "47news.jp",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-09-09T00:45:01.743576+09:00",
@@ -5394,6 +5394,30 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-09T11:22:32.195109+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「ゆるカフェ」開催",
+    "link": "https://www.city.inzai.lg.jp/0000022507.html",
+    "desc": "",
+    "pub_iso": "2026-09-09T11:36:40+09:00",
+    "pub_str": "2026年9月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-09T12:09:28.267241+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "福祉タクシー（重度心身障害者等）について",
+    "link": "https://www.city.inzai.lg.jp/0000002705.html",
+    "desc": "",
+    "pub_iso": "2026-09-09T09:00:00+09:00",
+    "pub_str": "2026年9月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-09T12:09:28.267241+09:00",
     "retention_type": "regular"
   }
 ]
