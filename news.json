@@ -5209,14 +5209,16 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】9月10日に開業する新鎌ヶ谷駅直結商業施設「ekubo京成 新鎌ケ谷」にコワーキングスペース「KEISEI×BIZcomfort新鎌ケ谷」がオープンします！",
+    "title": "【2026年9月10日 開店】KEISEI×BIZcomfort新鎌ケ谷（コワーキングスペース）",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/08/bizcomfortshinkamagaya/",
-    "pub_str": "2026年9月8日",
+    "pub_str": "2026年9月10日",
     "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
+    "source": "開店閉店情報",
     "category": "開店・閉店",
+    "desc": "",
+    "announce_str": "2026年9月8日",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
-    "retention_type": "regular"
+    "retention_type": "store_event"
   },
   {
     "title": "社会保険労務士による年金相談所の開設",
@@ -5265,14 +5267,14 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】コープ鎌ケ谷店前の老舗手作りケーキのお店「菓子工房 ハートランド」が閉店していました",
+    "title": "【閉店日不明 閉店】菓子工房 ハートランド",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/08/heartlandheiten/",
     "pub_str": "2026年9月8日",
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "開店・閉店",
     "collected_at": "2026-09-09T00:45:01.743576+09:00",
-    "retention_type": "regular"
+    "retention_type": "store_event"
   },
   {
     "title": "Minori先生とギフトカードを作ろう！（2026年09月19日(土)～2026年09月20日(日)）",

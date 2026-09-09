@@ -64,7 +64,9 @@ KAITEN_KEYWORDS = ["開店", "閉店", "オープン", "クローズ", "NEW OPEN
 
 REGULAR_RETENTION_MONTHS = 3
 STORE_EVENT_RETENTION_MONTHS = 6
-STORE_EVENT_TITLE_PATTERN = re.compile(r"^【(\d{4})年(\d{1,2})月(?:(\d{1,2})日|上旬|中旬|下旬)\s+(開店|閉店|リニューアル)】")
+STORE_EVENT_TITLE_PATTERN = re.compile(
+    r"^【(?:(\d{4})年(\d{1,2})月(?:(\d{1,2})日|上旬|中旬|下旬)|(?:開店|閉店|リニューアル)日不明)\s+(開店|閉店|リニューアル)】"
+)
 EVENT_END_GRACE_DAYS = 3
 
 DUP_AUTO_EXCLUDE_THRESHOLD = 0.8
@@ -1795,6 +1797,10 @@ header{padding:10px 12px;flex-wrap:wrap;row-gap:6px}
 .news-item.recent:hover{background:#fff5cc}
 .news-title{font-size:13px;font-weight:500;color:#1a1a18;line-height:1.5}
 .news-item:hover .news-title{color:#1D9E75}
+.kaiten-tag{padding:0 4px;border-radius:3px;margin-right:2px}
+.kaiten-open{background:#dff3e3}
+.kaiten-close{background:rgba(0,0,0,.12)}
+.kaiten-renewal{background:#e0edfa}
 .news-date{font-size:10px;color:#aaa}
 .cat-items{flex:1;overflow-y:auto;min-height:0}
 .cat-items::-webkit-scrollbar{width:4px}
@@ -1827,43 +1833,55 @@ def normalize_publisher(pub, link=""):
 
 
 
-KAITEN_LABEL_PATTERN = re.compile(r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)\s*(?:開店|閉店|リニューアル)|(?:開店|閉店|リニューアル)日不明)】")
+KAITEN_LABEL_PATTERN = re.compile(
+    r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)\s*(開店|閉店|リニューアル)|(開店|閉店|リニューアル)日不明\s*(開店|閉店|リニューアル))】"
+)
 KAITEN_DATE_IN_TITLE_PATTERN = re.compile(r"(\d{1,2})月(\d{1,2})日")
+KAITEN_KIND_CSS_CLASS = {"開店": "kaiten-open", "閉店": "kaiten-close", "リニューアル": "kaiten-renewal"}
 
 
-def kaiten_label(item):
-    """開店・閉店カテゴリのタイトル先頭を【YYYY年M月D日 種別】(不明なら【種別日不明】)に統一する。
+def kaiten_label_parts(item):
+    """開店・閉店カテゴリのタイトルを (先頭ラベル文字列, 種別, 残りのタイトル) に分解する。
+    先頭ラベルは【YYYY年M月D日 種別】(不明なら【種別日不明 種別】)の形式に統一する。末尾を常に
+    種別(開店/閉店/リニューアル)で終わらせているのは、表示側でラベル部分だけ背景色を変えたい
+    (開店=薄緑、閉店=薄黒)という要望(2026-09-09)に対応するため、種別の判定をラベル文字列の
+    末尾だけ見れば済むようにしたもの(旧形式は日付不明時「【開店日不明】」で末尾が種別語でなかった)。
     store-add由来のstore_eventは既にこの形式でtitleが確定しているため素通しする。それ以外の
     (RSS等から自動分類された)regular記事は、記事自身の見出しが「【印西市】...」等の無関係な
     括弧で始まることが多く、旧実装(先頭が「【」かどうかだけで判定)はこれを誤って
-    「既にフォーマット済み」と誤認していたため、正しいラベル形式にのみマッチする正規表現に変更した
+    「既にフォーマット済み」と誤認していたため、正しいラベル形式にのみマッチする正規表現を使う
     (2026-08-29)。あわせて、タイトル中に「8月16日」のような具体的な日付があればpub_strの年と
-    組み合わせて日付入りラベルを生成し、無ければ【開店日不明】等にフォールバックする。
+    組み合わせて日付入りラベルを生成し、無ければ【開店日不明 開店】等にフォールバックする。
+    カテゴリが開店・閉店でない場合は(None, None, タイトル全文)を返す。
     """
     if item.get("category") != "開店・閉店":
-        return item.get("title", "")
+        return None, None, item.get("title", "")
     title = item.get("title", "")
-    if KAITEN_LABEL_PATTERN.match(title):
-        return title
+    m = KAITEN_LABEL_PATTERN.match(title)
+    if m:
+        label = m.group(0)
+        kind = m.group(2) or m.group(4)
+        return label, kind, title[m.end():]
     if "リニューアル" in title:
         kind = "リニューアル"
     elif "閉店" in title or "閉業" in title:
         kind = "閉店"
     else:
         kind = "開店"
-    m = KAITEN_DATE_IN_TITLE_PATTERN.search(title)
+    d = KAITEN_DATE_IN_TITLE_PATTERN.search(title)
     pub_date = parse_pub_str(item.get("pub_str", ""))
-    if m and pub_date:
-        month, day = int(m.group(1)), int(m.group(2))
+    if d and pub_date:
+        month, day = int(d.group(1)), int(d.group(2))
         try:
             candidate = date(pub_date.year, month, day)
             # 記事日付より60日以上過去になる場合は、年をまたいだ翌年の予定と判断する
             if (pub_date - candidate).days > 60:
                 candidate = date(pub_date.year + 1, month, day)
-            return f"【{candidate.year}年{candidate.month}月{candidate.day}日 {kind}】{title}"
+            label = f"【{candidate.year}年{candidate.month}月{candidate.day}日 {kind}】"
+            return label, kind, title
         except ValueError:
             pass
-    return f"【{kind}日不明】{title}"
+    return f"【{kind}日不明 {kind}】", kind, title
 
 
 DISCOVERY_STALE_THRESHOLD_DAYS = 14
@@ -1902,14 +1920,19 @@ def render_item(item, new_links):
     pub_html = " · " + html.escape(pub) if pub else ""
     d = discovery_date(item)
     data_pub = (' data-pub="' + d.isoformat() + '"') if d else ""
-    title = kaiten_label(item)
+    label, kind, rest_title = kaiten_label_parts(item)
+    if label:
+        kaiten_class = KAITEN_KIND_CSS_CLASS.get(kind, "")
+        title_html = '<span class="kaiten-tag ' + kaiten_class + '">' + html.escape(label) + "</span>" + html.escape(rest_title)
+    else:
+        title_html = html.escape(rest_title)
     new_html = '<span class="new-badge">新着</span>' if item.get("link") in new_links else ""
     # announce_str(記事発表日)があれば日付欄はそちらを優先表示する。開店・閉店情報は
     # pub_strに開店/閉店の実施日を入れる設計のため、記事が実際に発表された日を別途知りたい場合に使う
     date_text = item.get("announce_str") or item.get("pub_str", "")
     return (
         '<a class="news-item"' + data_pub + ' href="' + html.escape(item["link"]) + '" target="_blank" rel="noopener">'
-        + '<span class="news-title">' + html.escape(title) + "</span>"
+        + '<span class="news-title">' + title_html + "</span>"
         + '<span class="news-date">' + html.escape(date_text) + pub_html
         + '<span class="today-badge" style="display:none">今日</span>' + new_html + "</span>"
         + "</a>"
