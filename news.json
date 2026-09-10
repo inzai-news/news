@@ -4136,12 +4136,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -5102,10 +5102,10 @@
   {
     "title": "【解説】千葉県が誇るデジタルの二大拠点！印西市と柏市のデータセンター徹底比較",
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5pamZ4NXotZUFsRmRLUk9uREFuUVBWU09uTVRxMjc2VW82WmlUMUZaR1BiTElFVE9MLWFCZDQzXzdPRElwNGZkaHJEZnRCTFNpc0RIS1hkZTVJeXBG?oc=5",
-    "desc": "【解説】千葉県が誇るデジタルの二大拠点！印西市と柏市のデータセンター徹底比較  YouTube",
+    "desc": "【解説】千葉県が誇るデジタルの二大拠点！印西市と柏市のデータセンター徹底比較  youtu.be",
     "pub_iso": "2026-09-06T18:52:38+09:00",
     "pub_str": "2026年9月6日",
-    "publisher": "YouTube",
+    "publisher": "youtu.be",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-06T22:10:41.342889+09:00",
@@ -5423,6 +5423,26 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-10T12:09:25.129367+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年9月11日 リニューアル】ABstore",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/e5b81f4c-7f49-4549-8ae7-f629f5dc316d",
+    "pub_str": "2026年9月11日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-10T14:09:31.663658+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "国連難民支援キャンペーン",
+    "link": "https://chibanewtown.aeonmall.jp/event/7198f438-1993-448c-b77e-00ee3fab90bd",
+    "pub_str": "2026年9月10日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-10T14:09:31.663658+09:00",
     "retention_type": "regular"
   }
 ]
