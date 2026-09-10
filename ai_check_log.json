@@ -5929,5 +5929,15 @@
     "link": "https://news.google.com/articles/CBMicEFVX3lxTE4tY1dxeHpadC1EV2dzQ21LMHRaNFBHR3VkcE9BYlVBMlhMam9vZDVnMTQ5RmxDZ0JuMGo2QzJZcm1iOHp0WHJMQnpfbjJGRVBXNi13MDVDMlNoemRuOHpBMVFOdFZhRnZaRUlLdEx6TXI?oc=5",
     "similar_to": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260911-0007",
+    "date": "2026-09-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に - yama.minato",
+    "link": "https://news.google.com/articles/CBMid0FVX3lxTE0zSWp4TXRGOGJxUndDOEZQSGZCdFI2YVNxTkN4YWcydHRIdk5zYTgwYWo2TFdEMERHVGZKUlpSMEYwMVZ6MEktYlJ0UzdFSXhibkl6dm0tcU1MWTVvM0l3aUxEUVRGYkxOekYyVl82aE9FU1ppOWlF?oc=5",
+    "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
