@@ -5939,5 +5939,15 @@
     "link": "https://news.google.com/articles/CBMid0FVX3lxTE0zSWp4TXRGOGJxUndDOEZQSGZCdFI2YVNxTkN4YWcydHRIdk5zYTgwYWo2TFdEMERHVGZKUlpSMEYwMVZ6MEktYlJ0UzdFSXhibkl6dm0tcU1MWTVvM0l3aUxEUVRGYkxOekYyVl82aE9FU1ppOWlF?oc=5",
     "similar_to": "【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260911-0842",
+    "date": "2026-09-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】出演者自身が運営も担うユニークな音楽祭、第5回「印西まちなか音楽祭」開催！",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

@@ -726,7 +726,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -797,10 +797,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
+    "publisher": "レッツエンジョイ東京",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -5196,8 +5196,8 @@
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
     "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
-    "pub_iso": "2026-09-09T22:48:55+09:00",
-    "pub_str": "2026年9月9日",
+    "pub_iso": "2026-09-10T08:00:21+09:00",
+    "pub_str": "2026年9月10日",
     "publisher": "日経不動産マーケット情報",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -5445,5 +5445,26 @@
     "category": "話題・その他",
     "collected_at": "2026-09-10T18:48:06.100311+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "地域でつながる日　～みんなで体験 SDGs～　あいおいニッセイ同和損保",
+    "link": "https://chibanewtown.aeonmall.jp/event/9b31861e-2a18-47e0-923a-7f0fd8143914",
+    "pub_str": "2026年9月11日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-11T08:42:38.270794+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年9月10日 開店】ekubo京成 新鎌ケ谷（新鎌ケ谷駅直結商業施設）",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/11/ekubokeiseishinkamagayaopen/",
+    "pub_str": "2026年9月10日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-09-11T08:42:38.270794+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年9月11日"
   }
 ]
