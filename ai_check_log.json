@@ -5949,5 +5949,15 @@
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE9MZmlMM0I2NnprbWZsR1NUaW5kR3pGYWtNbG9yQjhYdjZmTDh0a3pWMjhNZXJMZktYR1FIODRDNGh4VDlpaE9JQkJpd1RuVW80UG9j?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260911-2358",
+    "date": "2026-09-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "模型・ジオラマ作り実演会（2026年10月03日(土)～2026年10月04日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=29893&store=chibant",
+    "similar_to": "模型・ジオラマ作り実演会（2026年09月19日(土)～2026年09月20日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
