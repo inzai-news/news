@@ -1,10 +1,13 @@
 {
   "links": {
-    "https://chibanewtown.aeonmall.jp/event/9b31861e-2a18-47e0-923a-7f0fd8143914": "2026-09-11T08:42:38.332591+09:00",
-    "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/11/ekubokeiseishinkamagayaopen/": "2026-09-11T08:42:38.332591+09:00"
+    "https://chibanewtown.aeonmall.jp/event/a5c8c801-a082-4620-822a-567e7028d4cd": "2026-09-11T12:40:06.950719+09:00",
+    "https://chibanewtown.aeonmall.jp/event/e12e38af-10af-4b1a-b971-fb02072576bb": "2026-09-11T12:40:06.950719+09:00",
+    "https://chibanewtown.aeonmall.jp/event/095a2b36-666e-4352-a6cb-0d2275dee702": "2026-09-11T12:40:06.950719+09:00",
+    "https://inzainet.com/event/culturehall-260907/": "2026-09-11T12:40:06.950719+09:00",
+    "https://inzainet.com/event/morinoongakukai260909/": "2026-09-11T12:40:06.950719+09:00"
   },
   "last_eligible": {
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/11/ekubokeiseishinkamagayaopen/",
-    "ts": "2026-09-11T08:42:38.332591+09:00"
+    "link": "https://inzainet.com/event/morinoongakukai260909/",
+    "ts": "2026-09-11T12:40:06.950719+09:00"
   }
 }

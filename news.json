@@ -81,9 +81,9 @@
     "retention_type": "regular"
   },
   {
-    "title": "びしょぬれ北極モール2026",
+    "title": "イオンモールの秋休み シルバーウィーク5DAYS",
     "link": "https://chibanewtown.aeonmall.jp/event/2a22f404-085e-45b5-8f34-7413663a385a",
-    "pub_str": "2026年7月16日",
+    "pub_str": "2026年9月11日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -1634,10 +1634,10 @@
   {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
+    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  nikkei.com",
     "pub_iso": "2026-07-23T16:00:00+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "日本経済新聞",
+    "publisher": "nikkei.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -3217,10 +3217,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "中古車のガリバー",
+    "publisher": "221616.com",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -5466,5 +5466,55 @@
     "collected_at": "2026-09-11T08:42:38.270794+09:00",
     "retention_type": "store_event",
     "announce_str": "2026年9月11日"
+  },
+  {
+    "title": "GAPリサイクルデニムでチャーム·ワッペン作り",
+    "link": "https://chibanewtown.aeonmall.jp/event/a5c8c801-a082-4620-822a-567e7028d4cd",
+    "pub_str": "2026年9月11日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-11T12:40:06.892996+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "期間限定！！陶器市",
+    "link": "https://chibanewtown.aeonmall.jp/event/e12e38af-10af-4b1a-b971-fb02072576bb",
+    "pub_str": "2026年9月11日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-11T12:40:06.892996+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ディズニー英語システム サンプリングイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/095a2b36-666e-4352-a6cb-0d2275dee702",
+    "pub_str": "2026年9月11日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-11T12:40:06.892996+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ふるいはあたらしい！いんざい文化体験 for KIDS　浦部の神楽編（10月4日(日)）",
+    "link": "https://inzainet.com/event/culturehall-260907/",
+    "pub_str": "2026年9月11日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-11T12:40:06.892996+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "第12回草深の森　森の音楽会（10月24日(土)）",
+    "link": "https://inzainet.com/event/morinoongakukai260909/",
+    "pub_str": "2026年9月11日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-11T12:40:06.892996+09:00",
+    "retention_type": "regular"
   }
 ]
