@@ -865,10 +865,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "lnews.jp",
+    "publisher": "物流ニュースのLNEWS",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1615,10 +1615,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "朝日れすかPLUS",
+    "publisher": "resuka.co.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -5543,6 +5543,17 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-09-12T10:43:53.643295+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "コチョウランのポット苗植え替え体験会（2026年09月22日(火)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=29916&store=chibant",
+    "pub_str": "2026年9月12日",
+    "event_end_date": "2026-09-22",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-12T18:17:31.521432+09:00",
     "retention_type": "regular"
   }
 ]
