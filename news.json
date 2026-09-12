@@ -1485,10 +1485,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -5555,5 +5555,15 @@
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-12T18:17:31.521432+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年10月5日 リニューアル】トヨタカローラ千葉",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/12f570a6-bc8a-4d13-a38a-1aaa7d2b5caf",
+    "pub_str": "2026年10月5日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-13T00:37:27.377641+09:00",
+    "retention_type": "store_event"
   }
 ]
