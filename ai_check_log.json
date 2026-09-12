@@ -5959,5 +5959,15 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=29893&store=chibant",
     "similar_to": "模型・ジオラマ作り実演会（2026年09月19日(土)～2026年09月20日(日)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260912-1153",
+    "date": "2026-09-12",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ…千葉・印西",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5LSVliS1FpVHVfMWhTTFYtdXZUaUVnYi1LbTRhcHNtWkhRandidHM5S0lORURFWmpjbXdOTVl2R1VCOHJxN3lXTFBPZ01aLW4yR0dxalgwbEpiQ1Q2T2RiTjRGT1RxZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

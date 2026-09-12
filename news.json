@@ -717,7 +717,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -781,7 +781,7 @@
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -3853,12 +3853,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問",
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問 - classy",
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA1MnNoTWExNXM5Y3NrWnQwX2g3bVZiVndSOW5oM0pSQTNKMk9HRTgwRlg1dHYxOUFwVHFHazlfaG5CRTF4T3lvcHZzdjJUbHMwLUJJT1QzZw?oc=5",
-    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  CLASSY.[クラッシィ]",
+    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  classy-online.jp",
     "pub_iso": "2026-08-23T17:55:15+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "CLASSY.[クラッシィ]",
+    "publisher": "online.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-08-24T09:58:37.337159+09:00",
