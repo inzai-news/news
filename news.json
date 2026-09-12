@@ -717,7 +717,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -781,7 +781,7 @@
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -865,10 +865,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "物流ニュースのLNEWS",
+    "publisher": "lnews.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -5165,10 +5165,10 @@
   {
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
-    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
+    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  nfm.nikkeibp.co.jp",
     "pub_iso": "2026-09-10T14:28:40+09:00",
     "pub_str": "2026年9月10日",
-    "publisher": "日経不動産マーケット情報",
+    "publisher": "nfm.nikkeibp.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
