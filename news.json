@@ -153,15 +153,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "イオンモール　キッズクラブ",
-    "link": "https://chibanewtown.aeonmall.jp/event/69772730-ce80-4848-8a23-f3d98da81892",
-    "pub_str": "2026年6月11日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "夏じたくラボ 夏休みの準備、はじめよう。",
     "link": "https://chibanewtown.aeonmall.jp/event/43061c13-20d7-4352-85bb-4616cb6457be",
     "pub_str": "2026年6月19日",
@@ -726,7 +717,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -739,17 +730,6 @@
     "publisher": "千葉日報オンライン",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ…千葉・印西",
-    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5LSVliS1FpVHVfMWhTTFYtdXZUaUVnYi1LbTRhcHNtWkhRandidHM5S0lORURFWmpjbXdOTVl2R1VCOHJxN3lXTFBPZ01aLW4yR0dxalgwbEpiQ1Q2T2RiTjRGT1RxZw?oc=5",
-    "desc": "駅前データセンター計画、隣接マンションに「今売らないと価値なくなる」と不安あおるチラシ…千葉・印西  読売新聞",
-    "pub_iso": "2026-06-11T16:00:00+09:00",
-    "pub_str": "2026年6月11日",
-    "publisher": "読売新聞",
-    "source": "google-news-inzai-chiba",
-    "category": "開発・暮らし",
     "retention_type": "regular"
   },
   {
@@ -797,11 +777,11 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
-    "source": "google-news-inzai-event",
+    "publisher": "レッツエンジョイ東京",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -982,16 +962,6 @@
     "link": "https://bagel-atsume.com/magazine/magazine-bagel_moments-1/",
     "pub_str": "2026年4月4日",
     "publisher": "ベーグルあつめ",
-    "source": "開店閉店情報",
-    "category": "開店・閉店",
-    "desc": "",
-    "retention_type": "store_event"
-  },
-  {
-    "title": "【2026年3月11日 リニューアル】せんば食堂",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/03/15/sembashkudoopen/",
-    "pub_str": "2026年3月11日",
-    "publisher": "号外NET",
     "source": "開店閉店情報",
     "category": "開店・閉店",
     "desc": "",
@@ -1634,10 +1604,10 @@
   {
     "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  nikkei.com",
+    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
     "pub_iso": "2026-07-23T16:00:00+09:00",
     "pub_str": "2026年7月23日",
-    "publisher": "nikkei.com",
+    "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -3923,7 +3893,7 @@
     "pub_iso": "2026-08-24T16:00:00+09:00",
     "pub_str": "2026年8月24日",
     "publisher": "千葉テレビ放送株式会社",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
     "retention_type": "regular"
@@ -5147,10 +5117,10 @@
   {
     "title": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5ZVmY3bkwzTkVZd2dfNGZmYVdqNElZSDctVUJRTXZpMnhMaXByMm9qLXJXU0lNamtVTm04c29IY3Rfdm9fenROeGs5MlpkaFVXaTVOaUNR0gFbQVVfeXFMTXJIUWpzMUpUZTVUMDB1TzdfdnktZHE1aU5kS2JPME92MEpwZHY4b3g0V3k4OFhBcEt1M0ktLUVLSkpLUEZGNjREV0tHdDM1bVdMWlB4M3dzSW82cw?oc=5",
-    "desc": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催  walkerplus.com",
+    "desc": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催  ウォーカープラス",
     "pub_iso": "2026-09-03T16:00:00+09:00",
     "pub_str": "2026年9月3日",
-    "publisher": "walkerplus.com",
+    "publisher": "ウォーカープラス",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-07T18:10:38.322412+09:00",
@@ -5195,10 +5165,10 @@
   {
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
-    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  nfm.nikkeibp.co.jp",
+    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
     "pub_iso": "2026-09-10T14:28:40+09:00",
     "pub_str": "2026年9月10日",
-    "publisher": "nfm.nikkeibp.co.jp",
+    "publisher": "日経不動産マーケット情報",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
@@ -5563,6 +5533,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-11T23:58:37.303088+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】9月20日（日）第43回「印西ニュータウン秋祭り」が開催されます！ 印西市内野の多々羅田公園にて",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/12/inzaintakimatsuri43th/",
+    "pub_str": "2026年9月12日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-12T10:43:53.643295+09:00",
     "retention_type": "regular"
   }
 ]
