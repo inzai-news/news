@@ -5969,5 +5969,315 @@
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5LSVliS1FpVHVfMWhTTFYtdXZUaUVnYi1LbTRhcHNtWkhRandidHM5S0lORURFWmpjbXdOTVl2R1VCOHJxN3lXTFBPZ01aLW4yR0dxalgwbEpiQ1Q2T2RiTjRGT1RxZw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "施設休止３１日まで延長 印西市 【新型コロナ】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9VTjNVc0dzbFJnOU1Wanc5VmFuT3kzdE9GVFl4YThIVnA0WHVlc2RmSHZwZzlJTmtBZlNxYzc4bEFYOV9yNm9JM0Jnc1pWdHZXci0yUkY2SQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "３７議案を可決 印西市",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9nbFEzMm4wQlJFaXNTQTMxWHJHakV6LUZQVFV6eURUajNFNEN5Z3BpZWcybHZHMkpOZ3hhWm1GQ0NTQVQ3TFRuQWtjbzFkcUNnWlE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市職員コロナ感染",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE53NWthdXltZWZ3MmQ4TVkwX1p2QzJ0NkhhYnNLMHJpU0JOV0xpNzE2d2NSajd5NllxTkZjd3dmNkd2WGt5NlBJWnM0SmYtaE1DanhsQ2J4aw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "小中の夏休み短縮 印西市 【新型コロナ】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE4xMUs5RE5uVXVoVVFHNEVQbERncWlKNkVKUzFKUjVJTnFnMVFzNktjWFJKV1ROZktxeTVlY1UzaHZMQnFBWGlONVhlOVN6V0s0NFloMzVkNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市職員が感染 【コロナ関連情報】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBrVHd2d3ljMFV1V044VjNXdG9nMEpLSW1CUzA1SkhValItVVVYYlRnLXU0dWJoUEpIQTBxdDk5SXNHbXBjZ0NBaWMxQWViTFBGX0JRWU9hZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "フェースシールド印西市教委へ寄贈 千葉メガネ",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE53eVptRkl0cTFWMTNMOHBoNEllY2RRNXdpTGRaUE03T09SSGZzc1g1WTl5T2gtOGgzRFRFNklPVkE2X0k1QTR0U2lGQ214eGxUVk5VamRzSQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "宙に浮く４０万円返金へ 市、調査報告受け元市議に 印西・自治会募金滞納問題",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9XeS0tSWxvbWRDZ243N0dNVmluRG45cFdMQVRZM3J6OHQzYWdtNXJ3WENTajNnU1Vpa3pTYklKcEd0aGlqS0wxTnFURWZaZDMydFE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "前印西市議長を不起訴 補助金過大請求問題で千葉地検",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE52MEZNbFFqSHBENHFWNGdGMGYtWl9wc0VFRE9BZEprZ1FMOEstRXRMWGxhOWtfUHdySkRLNVVTVDZ0d09yRDRBcHNJSHVoQ3NHSVE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "１４１０万円支払いで和解へ 印西市と東電除染費など",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE5nd3NFdFVMSWdqMEF0bVhXcXkzRzZUQkVIbXhHSWdGZVIxTUhsUDdkOGU0VXZQZ3B4WFhjRWtkR3UxallNMVJIbU9MNGFKWi0tQnc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "沖縄球児と友好深める 春休みに遠征「圧倒された」 印西市内の中学生２チーム",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9WX1lkalp1Z1hQbEJMdUtVUmZtMnhWVmlqMXBwT0lHa3I4Z28zR2RGeWVtR0liTGxfZXdFRF9pM0YxTE9ZWlU3TVZUM1MzNFZK?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE53N3JVTm5UR1ZYTlZ3LWhScG1FcTA0U2J4SnA0STRlMU5uZzdQY0tHWlNsaFNfYjluaVRHbUZfRDZGdlVIMXNfUnc5cWVVVDFIMXpXdzFSeS0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "１３議案を提出 印西市議会",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE90OHF5d2s1VmZkQ0dJaDNQTDRsbHNkemY2SG5pNm4zZlFuNDJEeXZQam56cmFFWEVHeFVSc2tmQUpDdTZXYVZNN2lleVdFUy1aMjV3TFBNbw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "物価高対策など１４議案 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1mMHVueWV1eUZOMm9VQ21QdUFtS1FpM1ZjbmFHa203dmFDRkdQOWJnbF9KLTlOeDdQMEJkYkVWaTdmRTRHYTFSaG5MZDY3dmlzZUVNTE03VFE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "小中学校のＩＣＴ環境整備費を計上 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE9mZ25WeUptek5NZHhJSllDYllXeGpWTXFyT1g0dFVwZnZOdkFZUnMwWFdBVEJxLVNMblB3eWpxc0tlTHRGN21Odk5obHNZXzNPYWtwV3ZlS0E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "側溝ふた２枚盗難 印西",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFB5NlNWZzJ6YUtIaFNYWHgtRVljU1RxckN6ZFBrOTZXaTBsWUNlNkZhU0pyUm9nYnVaa0dYMGdzQk5LZXdKSnBrcjB5QUp3ZHFRLUE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "車のマフラー盗もうとした疑い 印西署",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBiUWJpR2pfdjU3TXJrNTIySzYxM0MwdjI5Yk1MYlNiQWl4S3ozMGgzbHlqblBod1FWZnBXNWk4UVBfUmdsb1dtSlZoZUZ6SDM1N2NSNlBpZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "杉山副市長を再任 印西市議会",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9SVzFSRGNvSUhfX0JTdTlrYVRsdEtiOEp2bzk0OHpUZmp0OW5jaE9nM2FiT0UxS09VekRvcFZZTGNpOXBEbmpnWGYyb1d3VEZoMzJ2dlZfUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "ガードレール袖部盗難 印西の県道",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9jbXhCczhsTlZSMFF5VnNwWURPNzZFay0wMXlwMkhTWVIzUHk2R0xHYUJfNjVyRW91NlBBZlpGMGRvc213UEFXZUs5QlM1Yk0wZ19WcFcxaw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "男性はねられ死亡 印西",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE1NWVJtemVSZzFLTHZHVXFaOUpuNC1sclJ6blJPZG1HUEhHekV2d2NSaHVJS2NYS2pOM3dRbFc0X3d6UTBwRmxja1U4elo4QWJHNmc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "最高裁二審見直しか 印西睡眠剤殺傷事件結審",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBSekh5NlFzSkE2b2NOa0Roc2ZCQ1F2S2RnOHdBNUNaSlJocHZCX2MteWotY0huR25XcHdNNkJrd3lZWEFVY3d3OUJkVkM1VkNwQ2llNXZBdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "新たに男２人追起訴 印西貯水槽遺体",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE81QlhFdG1oNFo3bEp2eGRqTmdJb0VKeG1iYktRVDRVY19UNUpqNGVIb1ZjT3otYkN5ZTNYVzRxcVQ5eDhHRGNDRWxjeUd3aWctVmczZENSWQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "受け子疑い６２歳逮捕 印西署、電話de詐欺",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE5RcG05bGNta3dkQjJ5YTloNUlJN09vX1owN0pIRTZwQXMtTDZNME11NkgzLTZ3R3p0NkJSN1MtVy1zZFJYNk9DN2ppdHhBOGlIaFFEWWtoVmc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "市役所に爆破予告 印西、２７日一時閉庁",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1aNFpLejRqMktXeXlsamtuRXR2Mm1Rcm5XQlhidFdOWFc5RC1qcDFibEV5bUE4SXJoYW0zTlZrbHRPSkNZa2xEU3d1VDhOUFlKTW9hWW1nWQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "接種追加経費を提案 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE84TU5YR0dkNlRlMXJfSmhTSVBpNURqN1NmZlVPN1BwUkt2VGVxVE9wNlFfbWMzTmplcGtlNUVKMklDMERUdC05aWtpX1hfNlFYOEtZb09HYWs?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "振り込め４００万円被害 印西署",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE0ydzc1bHo0MWE0ZjRuXzdaaVVuX2NOaXNEc0hJVXJTTjFqakVMbXFzVGt5YTlUOThnMnc3b2Y4andraEFNa0NVV1pSLVVCZ0ZISmc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "ＮＥＣ－ＮＴＴコム激突 あす、印西で県ラグビーまつり",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFBtc2UtQUQxZ2FOdjVjX1FfZG5KLVZ6ZTFhdmp1azVxWVRWTm5wSXlOMk1oRTZnUFZtYVhaazhwRmQ4Y0YxZVVkSlp0RUpVNElfM2c?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "定数２減「２２」に 印西市議会",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE1IV243M29KY3YxVnNXNElyTThDaTNzbE5SUnpXY2Etb3dNNzNuRkhIbzI4cV81UjJRV053dGN1aTBpM0tWVmNSZHRMaGhsNGVFdVE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "羽生（印西中）中学男子３キロ２位 千葉国際クロカン",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBXU2hQMFV6Sm16U1JiSVg1d0lFd25DcmdXaHBxTTBhMTctVndyWWFsTFB6XzNUbFBaYUpHUmR2TlRsamtTSjR0UXRRUUVqeWJOUzREai1HOA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "子育て応援事業可決 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFB4YjRYQTlnYWRkMk05bUtSM2l0OGtyZk5EUmZRRUFLdDVUVXpXTUFreHVESVJFc3B4NnJlTFo3SnFRVll6QkpMa1VIMHpGdnNJQ0Mtc2s1VHk?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西・小林中が臨時休校 【コロナ関連情報】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE0xeXUtOVZXX29wVUpRM0pUcW5zcVlvWDRXRlVzbUZMWnlYQUZkWjdORGdwVnBITl9ZVDYyX2oxTkdGSV9kMUExZFVEYjJQQ3UtaUk0dG9pdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260912-2210",
+    "date": "2026-09-12",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "小学生が全力プレー 印西でラグビーまつり 東葛の選手と交流も",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE4wRVRJamNCRXQ2YkpvamtiNHdMdUtIdVZaWUhfLWVGV0QyX0o0OTJ4dnlBdWptRUJDQ2k3N2pRejh5TVBOWmc5UGpWTV94MzVaUHN6RnFfaTc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
