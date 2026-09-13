@@ -1791,10 +1791,10 @@ header{padding:10px 12px;flex-wrap:wrap;row-gap:6px}
 .cat-count{font-size:11px;font-weight:600}
 .news-item{display:flex;flex-direction:column;gap:3px;padding:9px 12px;background:#fff;border-top:1px solid #ededea;transition:background .15s}
 .news-item:hover{background:#f9f9f6}
-.news-item.kaiten-open{background:#dff3e3}
-.news-item.kaiten-open:hover{background:#cdecd3}
-.news-item.kaiten-close{background:rgba(0,0,0,.12)}
-.news-item.kaiten-close:hover{background:rgba(0,0,0,.18)}
+.news-item.kaiten-open{background:#fff}
+.news-item.kaiten-open:hover{background:#f9f9f6}
+.news-item.kaiten-close{background:rgba(0,0,0,.06)}
+.news-item.kaiten-close:hover{background:rgba(0,0,0,.12)}
 .news-item.kaiten-renewal{background:#e0edfa}
 .news-item.kaiten-renewal:hover{background:#cfe3f7}
 .news-item.today{background:#fffbe8}
