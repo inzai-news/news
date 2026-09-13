@@ -717,7 +717,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -4291,10 +4291,10 @@
   {
     "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
-    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  news.web.nhk",
     "pub_iso": "2026-08-18T16:00:00+09:00",
     "pub_str": "2026年8月18日",
-    "publisher": "NHKニュース",
+    "publisher": "news.web.nhk",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
@@ -5008,7 +5008,7 @@
     "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "電波新聞デジタル",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
     "retention_type": "regular"
@@ -5565,5 +5565,15 @@
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-09-13T00:37:27.377641+09:00",
     "retention_type": "store_event"
+  },
+  {
+    "title": "【印西市】「せんば食堂 千葉ニュータウン店」で千葉県の三大ラーメンのひとつ竹岡式ラーメンの提供が始まりました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/13/sembashkudotakeokashikiramen2026/",
+    "pub_str": "2026年9月13日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "話題・その他",
+    "collected_at": "2026-09-13T16:17:31.100237+09:00",
+    "retention_type": "regular"
   }
 ]

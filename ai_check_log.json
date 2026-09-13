@@ -6279,5 +6279,15 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE4wRVRJamNCRXQ2YkpvamtiNHdMdUtIdVZaWUhfLWVGV0QyX0o0OTJ4dnlBdWptRUJDQ2k3N2pRejh5TVBOWmc5UGpWTV94MzVaUHN6RnFfaTc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260913-1617",
+    "date": "2026-09-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "バイリンガル・スピーチコンテスト in 印西(千葉県)の情報",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1BRjlNWC1iMUNPWlpyV2VPSGNnMGI3LUg1bDRMWS1CT3N6UlBmVVI3clpuVUFpc012U2pGRTZuVnAxZmpRLXViN3F4NzRCMGRLUXJqZFRLQnMzTVU?oc=5",
+    "similar_to": "バイリンガル・スピーチコンテスト in 印西",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
