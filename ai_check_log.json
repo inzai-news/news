@@ -6289,5 +6289,15 @@
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1BRjlNWC1iMUNPWlpyV2VPSGNnMGI3LUg1bDRMWS1CT3N6UlBmVVI3clpuVUFpc012U2pGRTZuVnAxZmpRLXViN3F4NzRCMGRLUXJqZFRLQnMzTVU?oc=5",
     "similar_to": "バイリンガル・スピーチコンテスト in 印西",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260914-0751",
+    "date": "2026-09-14",
+    "ai_decision": "keep",
+    "similarity": 0.7,
+    "title": "令和8年度第1回印西市総合計画審議会（令和8年7月28日開催）会議開催結果",
+    "link": "https://www.city.inzai.lg.jp/0000022470.html",
+    "similar_to": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
+    "ai_reason": "総合計画審議会と図書館協議会は別の会議体・別日程の開催結果で、タイトル構造が似ているだけの別ニュースのため"
   }
 ]

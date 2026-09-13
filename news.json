@@ -4291,10 +4291,10 @@
   {
     "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
-    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  news.web.nhk",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
     "pub_iso": "2026-08-18T16:00:00+09:00",
     "pub_str": "2026年8月18日",
-    "publisher": "news.web.nhk",
+    "publisher": "NHKニュース",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
@@ -5574,6 +5574,18 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "話題・その他",
     "collected_at": "2026-09-13T16:17:31.100237+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度第1回印西市総合計画審議会（令和8年7月28日開催）会議開催結果",
+    "link": "https://www.city.inzai.lg.jp/0000022470.html",
+    "desc": "",
+    "pub_iso": "2026-09-14T00:00:01+09:00",
+    "pub_str": "2026年9月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-14T07:50:48.078180+09:00",
     "retention_type": "regular"
   }
 ]
