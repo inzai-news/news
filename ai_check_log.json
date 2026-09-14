@@ -6299,5 +6299,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022470.html",
     "similar_to": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
     "ai_reason": "総合計画審議会と図書館協議会は別の会議体・別日程の開催結果で、タイトル構造が似ているだけの別ニュースのため"
+  },
+  {
+    "run_ts": "20260914-0933",
+    "date": "2026-09-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西、消防署職員が感染 【コロナ関連情報】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBjU0JzZ1RQMjBmQktsNHl1aGo3Q0l1czl0WURZZ0hCR1dZVElMS2pJajJYeWdhaU9oYXA4VU5zTng3elVzVGEyVzFGOFBNWmJBSkhtczhUMA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
