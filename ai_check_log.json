@@ -6329,5 +6329,15 @@
     "link": "https://chibanewtown.aeonmall.jp/event/97d19aa7-4eb7-433a-a5b4-a99e7bcdde7a",
     "similar_to": "地域でつながる日　～みんなで体験 SDGs～　あいおいニッセイ同和損保",
     "ai_reason": "同名シリーズイベントだが主催企業(日本生命/あいおいニッセイ同和損保)が異なる別回のイベントのため"
+  },
+  {
+    "run_ts": "20260914-1637",
+    "date": "2026-09-14",
+    "ai_decision": "exclude",
+    "similarity": 0.71,
+    "title": "来場者15,000人の人気イベントがリニューアル！印西市“INZAIまちフェス”",
+    "link": "https://news.google.com/articles/CBMiRkFVX3lxTE94VmlhNWtpQnpGLWk4N2FXMkRhR05uUGFONFdVa19VRTQydDU4WV9sSVNRa1Fwb1hOaVdZaWl0OHliVVV6UEE?oc=5",
+    "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "ai_reason": "既に採用済みの「INZAIまちフェス」告知記事と同一ニュースの重複(別配信元Dtimesから再配信)のため"
   }
 ]
