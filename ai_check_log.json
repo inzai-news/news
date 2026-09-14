@@ -6339,5 +6339,15 @@
     "link": "https://news.google.com/articles/CBMiRkFVX3lxTE94VmlhNWtpQnpGLWk4N2FXMkRhR05uUGFONFdVa19VRTQydDU4WV9sSVNRa1Fwb1hOaVdZaWl0OHliVVV6UEE?oc=5",
     "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
     "ai_reason": "既に採用済みの「INZAIまちフェス」告知記事と同一ニュースの重複(別配信元Dtimesから再配信)のため"
+  },
+  {
+    "run_ts": "20260914-2037",
+    "date": "2026-09-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE85QjZCV254QVNYdkExcTktTDZpQTRSQmF0Z1kzMjZtWFZXLTU0NlVZXzl0Ql9wZmNUQTJseHVXc2QzOUhiSXoxTlR6NjBrcmt3QXZZOGVGZ1hLRmRrTDhIcWhqWFJXeTgtVkJTVTdEZlh5SmRjV0RUdk1udnY?oc=5",
+    "similar_to": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
