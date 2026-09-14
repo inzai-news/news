@@ -6309,5 +6309,25 @@
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBjU0JzZ1RQMjBmQktsNHl1aGo3Q0l1czl0WURZZ0hCR1dZVElMS2pJajJYeWdhaU9oYXA4VU5zTng3elVzVGEyVzFGOFBNWmJBSkhtczhUMA?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260914-1237",
+    "date": "2026-09-14",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市職員２人感染 【コロナ関連情報】",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBDSmVnV2lqeFRSeURmdi1JNWJUVDhSei1OMk5RNUN3VXM3MDFvOFVWSExCUjVIdzZPbzIzSjZQa0Z6YjZlSGhBQllqa0N1MjNQZ2RVa2RfYw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260914-1237",
+    "date": "2026-09-14",
+    "ai_decision": "keep",
+    "similarity": 0.71,
+    "title": "地域でつながる日　～みんなで体験 SDGs～ 日本生命",
+    "link": "https://chibanewtown.aeonmall.jp/event/97d19aa7-4eb7-433a-a5b4-a99e7bcdde7a",
+    "similar_to": "地域でつながる日　～みんなで体験 SDGs～　あいおいニッセイ同和損保",
+    "ai_reason": "同名シリーズイベントだが主催企業(日本生命/あいおいニッセイ同和損保)が異なる別回のイベントのため"
   }
 ]
