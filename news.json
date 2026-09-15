@@ -571,8 +571,8 @@
     "title": "令和8年度 後期高齢者健康診査について",
     "link": "https://www.city.inzai.lg.jp/0000018244.html",
     "desc": "",
-    "pub_iso": "2026-07-10T16:41:52+09:00",
-    "pub_str": "2026年7月10日",
+    "pub_iso": "2026-09-15T09:18:16+09:00",
+    "pub_str": "2026年9月15日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -777,11 +777,11 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
-    "source": "google-news-inzai-event",
+    "publisher": "レッツエンジョイ東京",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -865,10 +865,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "物流ニュースのLNEWS",
+    "publisher": "lnews.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2491,8 +2491,8 @@
     "title": "印西市全天候型こどもの遊び場整備プロジェクト",
     "link": "https://www.city.inzai.lg.jp/0000021927.html",
     "desc": "",
-    "pub_iso": "2026-08-06T10:01:50+09:00",
-    "pub_str": "2026年8月6日",
+    "pub_iso": "2026-09-15T10:22:15+09:00",
+    "pub_str": "2026年9月15日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5656,11 +5656,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "【試作】宅配便の再配達削減に取組みましょう",
+    "title": "宅配便の再配達削減に取組みましょう",
     "link": "https://www.city.inzai.lg.jp/0000022513.html",
     "desc": "",
-    "pub_iso": "2026-09-14T17:15:15+09:00",
-    "pub_str": "2026年9月14日",
+    "pub_iso": "2026-09-15T08:35:10+09:00",
+    "pub_str": "2026年9月15日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5689,6 +5689,50 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「第1回 印西めだか夏祭り」が9月20日（日）牧の原公園で開催されます！ めだか好きはもちろん、子どもから大人まで楽しめる夏祭り",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/15/inzaimedakanatsumatsuri2026/",
+    "pub_str": "2026年9月15日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-15T12:05:57.229395+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台湾産の美しい花、異国情緒と出会う。『台湾花市』開催！（2026年10月02日(金)～2026年10月12日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=29933&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-10-12",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T12:05:57.229395+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【台湾花市 特別企画】玄関花屋 anui  桐原 杏菜さんによるフラワーブーケづくり体験（2026年10月03日(土)～2026年10月04日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=29938&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-10-04",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T12:05:57.229395+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市中学生海外派遣研修（イングリッシュアカデミージャンプ）報告会を開催します(10月4日10時 コスモスパレット)",
+    "link": "https://www.city.inzai.lg.jp/0000021544.html",
+    "desc": "印西市中学生海外派遣研修（イングリッシュアカデミージャンプ）報告会の開催について",
+    "pub_iso": "2026-09-15T08:00:00+09:00",
+    "pub_str": "2026年9月15日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-15T12:05:57.229395+09:00",
     "retention_type": "regular"
   }
 ]
