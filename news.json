@@ -1288,10 +1288,10 @@
   {
     "title": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9fLXlqQUltbkZEdzdpNEJQcWFEMTdXQkZISldSRVFiX0xLOXFqVDdlajRzQ3NVcXhoOERIOW9fcE4zTWR5Ukd6NktrRUI1NE9NYWNRMWtXbnFnNE9nVGxxcmVtSE1fUQ?oc=5",
-    "desc": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動  yomiuri.co.jp",
+    "desc": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動  読売新聞",
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
-    "publisher": "yomiuri.co.jp",
+    "publisher": "読売新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1474,10 +1474,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
+    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "選挙ドットコム",
+    "publisher": "go2senkyo.com",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -4980,12 +4980,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資 - dempa",
+    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9MYm9zQWZrNElSNWQxNk5MUm4zaFdiMzFPYzlrWXNoRVMteVAyZ3hia3ZDVERBUGRuZXY3bVROLWFnU3FJV1lGVHpQUTdZbHBmRnc?oc=5",
-    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  dempa-digital.com",
+    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  電波新聞デジタル",
     "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
-    "publisher": "digital.com",
+    "publisher": "電波新聞デジタル",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
@@ -5766,6 +5766,40 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-15T17:56:51.738314+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ゆきひろこ先生による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年10月10日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34296&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-10-10",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T22:21:10.743220+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "mytoshi先生ワークショップ「ソフトパステルであっ！と言われる絵を描こう」（2026年10月11日(日)～2026年10月12日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34292&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-10-12",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T22:21:10.743220+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "（千葉）印西市木下でつきまとい　８月１２日",
+    "link": "https://news.google.com/articles/CBMiogFBVV95cUxQVDJhR25qd0oyZUJfVWUtd0Y5dUI3MXUtZEhyN3pwc2xmUXJhU21VZjZUZFZNbzJ1dEpLX01FcnIwZHdpalNQWTU4emc5MnlrTEtRUHphSTlDdTVEWVdiMDdQdHdlaHFQVnVnNk1MUXRJT2RZMU52SjN3NlYxbU96V0hwVEdwLXcxREwwSGVNdElQRlAyQ3BDWFZKOTU0Tjk3WUHSAaIBQVVfeXFMUFQyYUduandKMmVCX1VlLXdGOXVCNzF1LWRIcjd6cHNsZlFyYVNtVWY2VGRWTW8ydXRKS19NRXJyMGR3aWpTUFk1OHpnOTJ5a0xLUVB6YUk5Q3U1RFlXYjA3UHR3ZWhxUFZ1ZzZNTFF0SU9kWTFOdkozdzZWMW1PeldIcFRHcC13MURMMEhlTXRJUEZQMkNwQ1hWSjk1NE45N1lB?oc=5",
+    "desc": "（千葉）印西市木下でつきまとい　８月１２日  ｄメニューニュース",
+    "pub_iso": "2026-09-15T19:05:00+09:00",
+    "pub_str": "2026年9月15日",
+    "publisher": "ｄメニューニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-15T22:21:10.743220+09:00",
     "retention_type": "regular"
   }
 ]
