@@ -6369,5 +6369,15 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE9IVGg5MGVQVl9vWkF5N2ZyUDlxQnJTSC1TUl9DUmRFY0Y4LUtyZUxPc2tWWU9LLS1GOUVjQ2Uxalo0bnk3U1M0elFtcEc3OE1aaXJXZ0dsY01DbmRrZWxrTkd2RzFXdUFObnVyblJPMHZ3UQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260915-1412",
+    "date": "2026-09-15",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【8月発送あり】行政依頼配付物（町内会等への行政回覧文書）",
+    "link": "https://www.city.inzai.lg.jp/0000000319.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
