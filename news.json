@@ -480,17 +480,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【8月発送あり】行政依頼配付物（町内会等への行政回覧文書）",
-    "link": "https://www.city.inzai.lg.jp/0000000319.html",
-    "desc": "",
-    "pub_iso": "2026-08-15T00:00:00+09:00",
-    "pub_str": "2026年8月15日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "地域包括支援センター通信",
     "link": "https://www.city.inzai.lg.jp/0000020313.html",
     "desc": "市内の地域包括支援センターそれぞれで通信を発行しています。ぜひ、ご覧ください。",
@@ -865,10 +854,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "lnews.jp",
+    "publisher": "物流ニュースのLNEWS",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
