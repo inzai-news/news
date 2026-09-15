@@ -1,10 +1,11 @@
 {
   "links": {
-    "https://event.joyfulhonda.com/single-exp.php?id=30842&store=chibant": "2026-09-15T14:12:40.199940+09:00",
-    "https://event.joyfulhonda.com/single-exp.php?id=32079&store=chibant": "2026-09-15T16:26:07.464089+09:00"
+    "https://event.joyfulhonda.com/single-exp.php?id=32079&store=chibant": "2026-09-15T16:26:07.464089+09:00",
+    "https://event.joyfulhonda.com/single-exp.php?id=33550&store=chibant": "2026-09-15T17:56:51.778567+09:00",
+    "https://event.joyfulhonda.com/single-exp.php?id=34284&store=chibant": "2026-09-15T17:56:51.778567+09:00"
   },
   "last_eligible": {
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=32079&store=chibant",
-    "ts": "2026-09-15T16:26:07.464089+09:00"
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34284&store=chibant",
+    "ts": "2026-09-15T17:56:51.778567+09:00"
   }
 }

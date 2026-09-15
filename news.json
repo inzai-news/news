@@ -4980,12 +4980,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資",
+    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資 - dempa",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9MYm9zQWZrNElSNWQxNk5MUm4zaFdiMzFPYzlrWXNoRVMteVAyZ3hia3ZDVERBUGRuZXY3bVROLWFnU3FJV1lGVHpQUTdZbHBmRnc?oc=5",
-    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  電波新聞デジタル",
+    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  dempa-digital.com",
     "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
-    "publisher": "電波新聞デジタル",
+    "publisher": "digital.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
@@ -5744,6 +5744,28 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-15T16:26:07.426271+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "高圧洗浄機 Vittorio 実演・体験会（2026年09月19日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=33550&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-09-19",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T17:56:51.738314+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "うま～くヌレ～ル漆喰 実演・お試し塗り会（2026年09月26日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34284&store=chibant",
+    "pub_str": "2026年9月15日",
+    "event_end_date": "2026-09-26",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-15T17:56:51.738314+09:00",
     "retention_type": "regular"
   }
 ]
