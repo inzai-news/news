@@ -162,15 +162,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "大集合！！ 縁日げぇむ",
-    "link": "https://chibanewtown.aeonmall.jp/event/82eb4d98-4b89-4c36-9deb-49ccfb9480e8",
-    "pub_str": "2026年6月16日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "select shop Lil",
     "link": "https://chibanewtown.aeonmall.jp/event/7f0c2da1-6ef0-45ae-8e2b-3338cd9916e2",
     "pub_str": "2026年7月15日",
@@ -854,10 +845,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "lnews.jp",
+    "publisher": "物流ニュースのLNEWS",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2977,17 +2968,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "ジオラマ講師・瀬川たかし先生による1日体験講座「市街地戦闘の情景」（2026年09月13日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14310&store=chibant",
-    "pub_str": "2026年8月14日",
-    "event_end_date": "2026-09-13",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-08-14T09:04:25.941060+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "Inzai Newsletter【やさしい日本語版】～外国人市民のための広報紙～",
     "link": "https://www.city.inzai.lg.jp/0000015769.html",
     "desc": "",
@@ -3651,10 +3631,10 @@
   {
     "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE02WnJKVGdsLXA4d0VlZkwzUDlqV1VqcmVKWDhGdW4zeVh3bnZ6TnZWN3BPbmFKQlFIa0lwSUdCQ2Z2Y0lreW9IV2VKZVU2SFB3ZTE1SllGWlRhYThXbVpac3pFN2xCVXhhVUFv?oc=5",
-    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  時事ドットコム",
+    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  jiji.com",
     "pub_iso": "2026-08-23T16:00:00+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "時事ドットコム",
+    "publisher": "jiji.com",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-21T15:02:34.062054+09:00",
@@ -3786,10 +3766,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "レザーキーホルダー＆コインケース作り体験（2026年09月23日(水)）",
+    "title": "レザーキーホルダー＆コインケース作り体験（2026年10月17日(土)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=16293&store=chibant",
     "pub_str": "2026年8月24日",
-    "event_end_date": "2026-09-23",
+    "event_end_date": "2026-10-17",
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
