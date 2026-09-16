@@ -6449,5 +6449,15 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE4wVW4zc0lzbFhzZHlzSXZ0ZkxMTkR3VTM1dS15S2RYOHBiV1hmTkhNODRJWlBoanVvejNlbXVmbGZIcXU0VmltRWdPb0tHWjd6?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260916-1637",
+    "date": "2026-09-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "三代目文治 イオンモール千葉ニュータウン店(印西市/居酒屋)＜ネット予約可",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE1DT3BobjlNNEdRSFJMNEgteHBhS1NFU2k2am9FSnJtLUpxZjB5bkdvSlhuWVFDb0ZvSjJ3RkZfajVnVXIzNTNZV19DSXVzNDFj?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
