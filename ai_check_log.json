@@ -6389,5 +6389,65 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000024.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "【2026年9月5日 リニューアル】トヨタカローラ千葉",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/0d0b03a0-db2a-4ad0-a747-402498090b41",
+    "similar_to": "【2026年10月5日 リニューアル】トヨタカローラ千葉",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市木下でつきまとい　８月１２日",
+    "link": "https://news.google.com/articles/CBMinAFBVV95cUxOSHJZX1VkVHhDN1JwclZBSmJhMkczN3R1bFpXUUY0amJaQmo3WDc1aWQ0eXpiaWIwMFpHNC1UcGMwY1ZSSkg4NThHTGJwdVdQV2F0dHNhbDZveXdrUXd3SWd0ZHROVjVSTWZDdWQ2RTZXMWdYYjRTMjdCcDFGcHhUcEdNZ3ZIUmRkNHlYbXZ1NWxCdGlIcW8wZkNrNW_SAaIBQVVfeXFMUFQyYUduandKMmVCX1VlLXdGOXVCNzF1LWRIcjd6cHNsZlFyYVNtVWY2VGRWTW8ydXRKS19NRXJyMGR3aWpTUFk1OHpnOTJ5a0xLUVB6YUk5Q3U1RFlXYjA3UHR3ZWhxUFZ1ZzZNTFF0SU9kWTFOdkozdzZWMW1PeldIcFRHcC13MURMMEhlTXRJUEZQMkNwQ1hWSjk1NE45N1lB?oc=5",
+    "similar_to": "（千葉）印西市木下でつきまとい　８月１２日",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "日赤に３４６万円 印西市が寄付 ウクライナ支援で",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBYV3B4UnJwSGd6VmF6N3A3LUxOZXZtMm96VVFIS01UQ2g4WUstcGdxYzZFOEpFSks2MlNoa1BYenBkRDVHYk9WT29RVXBUSlZkT3VjS1k1aw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "トレーラーと衝突 トラックの男性死亡 印西",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE4xOGp3QzRMcXVIMTZVQndCZGZXN1J5cEh5Mkk4RVRUelVCeGRycEtWQ3hVczR6Q2FDX0RqNmVOdE54VlhpSjI1TUdqTmJLNkdMeERkUGYwTQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "男性はねられ死亡 印西",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9nSFZOdjlCSnRuU0dkc0c0R3FPNGpZX19wdk5xUVRmcE9zb1pVTElIMXVuY2tQRGZoWFJmZ21mQTZKZklrTG9DMEVPdjNuU2lyZC12SEstUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260916-1220",
+    "date": "2026-09-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "みんなのコード、千葉・印西市内の小中学校で「授業実践に役立つコンテンツ」作成 - ict",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE4wVW4zc0lzbFhzZHlzSXZ0ZkxMTkR3VTM1dS15S2RYOHBiV1hmTkhNODRJWlBoanVvejNlbXVmbGZIcXU0VmltRWdPb0tHWjd6?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

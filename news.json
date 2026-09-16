@@ -491,11 +491,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "【臨時措置を9月まで延長】指定ごみ袋以外の袋でもごみを出せるようにします",
+    "title": "指定ごみ袋の臨時措置は9月30日で終了",
     "link": "https://www.city.inzai.lg.jp/0000021876.html",
     "desc": "",
-    "pub_iso": "2026-07-14T15:00:00+09:00",
-    "pub_str": "2026年7月14日",
+    "pub_iso": "2026-09-16T09:00:00+09:00",
+    "pub_str": "2026年9月16日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -854,10 +854,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "物流ニュースのLNEWS",
+    "publisher": "lnews.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1474,10 +1474,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -2893,17 +2893,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "オリジナル缶バッジ作り体験（2026年09月12日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=12560&store=chibant",
-    "pub_str": "2026年8月13日",
-    "event_end_date": "2026-09-12",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-08-13T09:45:53.797372+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)",
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTFBjSHFmZXhLYkRLdXZ6ZFZJRkhOemxCajd0a1d4eGNaS1pqdnkwa09veUpUUmdmcUdMa0o4T2otREN5cWxhdnlZUGFWd2ZkbUVteWduX1ItNEtaRlk?oc=5",
     "desc": "千葉県印西市にデータセンターを開設 Queen Camilla (csk2M2kpcy)  Mshale",
@@ -3293,17 +3282,6 @@
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-08-17T18:27:27.435765+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "エスビー食品ハーブ苗販売会（2026年09月12日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14392&store=chibant",
-    "pub_str": "2026年8月17日",
-    "event_end_date": "2026-09-12",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-08-17T18:27:27.435765+09:00",
     "retention_type": "regular"
   },
@@ -4949,8 +4927,8 @@
     "title": "【概要版】令和9年4月保育園入園申込み",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022449.html",
     "desc": "",
-    "pub_iso": "2026-09-04T17:08:08+09:00",
-    "pub_str": "2026年9月4日",
+    "pub_iso": "2026-09-16T09:52:06+09:00",
+    "pub_str": "2026年9月16日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5143,10 +5121,10 @@
   {
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
-    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  nfm.nikkeibp.co.jp",
-    "pub_iso": "2026-09-10T14:28:40+09:00",
-    "pub_str": "2026年9月10日",
-    "publisher": "nfm.nikkeibp.co.jp",
+    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
+    "pub_iso": "2026-09-13T01:25:24+09:00",
+    "pub_str": "2026年9月13日",
+    "publisher": "日経不動産マーケット情報",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
@@ -5800,6 +5778,26 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-15T22:21:10.743220+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「あ～い、とぅいまてぇ～ん!」でおなじみのですよ。さんも登場！ イオンモール千葉ニュータウンで9月20日（日）お笑いライブ開催！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/16/aeonchibantowarailive2026sep/",
+    "pub_str": "2026年9月16日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-16T12:20:57.967708+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】9月19日（土）・20日（日）「牧の原モア 夏の終わりの盆踊り大会2026」開催！ ナイトバブルショーやお楽しみ抽選会あり、キッチンカーも多数やってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/15/makinoharamorebonodori2026/",
+    "pub_str": "2026年9月15日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-16T12:20:57.967708+09:00",
     "retention_type": "regular"
   }
 ]
