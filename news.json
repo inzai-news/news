@@ -697,7 +697,7 @@
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
     "publisher": "ITmedia",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -3631,10 +3631,10 @@
   {
     "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE02WnJKVGdsLXA4d0VlZkwzUDlqV1VqcmVKWDhGdW4zeVh3bnZ6TnZWN3BPbmFKQlFIa0lwSUdCQ2Z2Y0lreW9IV2VKZVU2SFB3ZTE1SllGWlRhYThXbVpac3pFN2xCVXhhVUFv?oc=5",
-    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  jiji.com",
+    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  時事ドットコム",
     "pub_iso": "2026-08-23T16:00:00+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "jiji.com",
+    "publisher": "時事ドットコム",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-21T15:02:34.062054+09:00",
@@ -5790,6 +5790,29 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-16T18:15:01.240359+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年9月4日 リニューアル】ジョイフーズ 新鎌ヶ谷店",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/17/joyfoodsshinkamagayaopen/",
+    "pub_str": "2026年9月4日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "announce_str": "2026年9月17日",
+    "collected_at": "2026-09-17T09:37:30.536262+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり",
+    "link": "https://news.google.com/articles/CBMikgFBVV95cUxOaHQybzV3UEVjNzByajdCeG9xckhzZkc0RUxjWExkOHl0T3VVbGpBWkpjSk9VTEhmWWFrRFJHSzJyLXBSMi02Wl95bjF3WUR2cmVWOVZDY1VOX1Mwa2p2LUZfWVRXbmlscjRybkQ2b3Y4bWRPRy1FY3ljNTd5SWdPYkdMVWRLMXRLaTVBY21wY29PUdIBjgFBVV95cUxNdl9iM0tjM0ZpM2lGWmY1TWx4aGpsakZqYjBnZmgyNDBnNmxCT1c5WHNzLV9sVFgxbGlWaTlsQzZQdTZOUi1MY3lrX0JpZER2UmNEMy1aYkxsV2d2RkdHNHVQeVBBd0JHcTUxUEludDZDNGdOTXFjdVp6T2tTVExvc1JYY0xGZnZOTU5Cc2xR?oc=5",
+    "desc": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり  ｄメニューニュース",
+    "pub_iso": "2026-08-25T08:31:21+09:00",
+    "pub_str": "2026年8月25日",
+    "publisher": "ｄメニューニュース",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-17T09:37:30.536262+09:00",
     "retention_type": "regular"
   }
 ]
