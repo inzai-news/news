@@ -6469,5 +6469,15 @@
     "link": "https://news.google.com/articles/CBMikgFBVV95cUxQZFVGcUFoeWpOSnZ3UjVNVVVJa1l4NHloa3pjWHJaSWJsVHRUMnRsejl4R1RxRWVqTE0yeEgybUgwLU1MNnBpQmllWWhFbFNfbTZaTG84SVRQaS1ERjlUUDRua3VxZ3NIR2RiNzItVFRxbjhVUEFZMDlCRUZkM2NRZWdwd1VTRmNGeENmNTM4ejA4Z9IBjgFBVV95cUxNdl9iM0tjM0ZpM2lGWmY1TWx4aGpsakZqYjBnZmgyNDBnNmxCT1c5WHNzLV9sVFgxbGlWaTlsQzZQdTZOUi1MY3lrX0JpZER2UmNEMy1aYkxsV2d2RkdHNHVQeVBBd0JHcTUxUEludDZDNGdOTXFjdVp6T2tTVExvc1JYY0xGZnZOTU5Cc2xR?oc=5",
     "similar_to": "街がステージになる一日　印西市「印西まちなか音楽祭」が育む新たなつながり",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260918-0844",
+    "date": "2026-09-18",
+    "ai_decision": "exclude",
+    "similarity": 0.31,
+    "title": "【印西市】「セブン-イレブン 牧の原モア店」が10月15日（木）オープンするみたい！ 長らく空き地だったアジアンSOLA SPA牧の原モア温泉跡地",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/18/7elevenmakinoharamoreopen/",
+    "similar_to": "【2026年10月15日 開店】セブン-イレブン牧の原モア店",
+    "ai_reason": "既に登録済みの「セブン-イレブン牧の原モア店」(10月15日開店)のstore_eventと同一の開店告知の重複のため"
   }
 ]
