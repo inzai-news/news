@@ -3631,10 +3631,10 @@
   {
     "title": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE02WnJKVGdsLXA4d0VlZkwzUDlqV1VqcmVKWDhGdW4zeVh3bnZ6TnZWN3BPbmFKQlFIa0lwSUdCQ2Z2Y0lreW9IV2VKZVU2SFB3ZTE1SllGWlRhYThXbVpac3pFN2xCVXhhVUFv?oc=5",
-    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  時事ドットコム",
+    "desc": "ひらがな麻雀『ひらがじゃん』、千葉県印西市へ184点寄贈。児童館・学童・日本語学校・デイケアなど多様な施設で活用広がる  jiji.com",
     "pub_iso": "2026-08-23T16:00:00+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "時事ドットコム",
+    "publisher": "jiji.com",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-08-21T15:02:34.062054+09:00",
@@ -4571,11 +4571,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "今の子育てを知る・祖父母講座開催します",
+    "title": "イマドキ孫育て講座「今の子育て事情を知り孫と一緒に楽しく過ごそう！」を開催いたします",
     "link": "https://www.city.inzai.lg.jp/0000016827.html",
     "desc": "",
-    "pub_iso": "2026-09-01T10:32:16+09:00",
-    "pub_str": "2026年9月1日",
+    "pub_iso": "2026-09-17T10:05:54+09:00",
+    "pub_str": "2026年9月17日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4938,12 +4938,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資",
+    "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資 - dempa",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9MYm9zQWZrNElSNWQxNk5MUm4zaFdiMzFPYzlrWXNoRVMteVAyZ3hia3ZDVERBUGRuZXY3bVROLWFnU3FJV1lGVHpQUTdZbHBmRnc?oc=5",
-    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  電波新聞デジタル",
+    "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  dempa-digital.com",
     "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
-    "publisher": "電波新聞デジタル",
+    "publisher": "digital.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
@@ -5813,6 +5813,18 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-17T09:37:30.536262+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "公用車の車検切れ運行について",
+    "link": "https://www.city.inzai.lg.jp/0000022566.html",
+    "desc": "",
+    "pub_iso": "2026-09-17T11:57:07+09:00",
+    "pub_str": "2026年9月17日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-17T12:37:30.672964+09:00",
     "retention_type": "regular"
   }
 ]
