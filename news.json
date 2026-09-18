@@ -1465,10 +1465,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -4031,12 +4031,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "np.co.jp",
+    "publisher": "東京新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -5952,6 +5952,18 @@
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-18T16:37:36.794316+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【11月7日、14日、21日 土曜日開催】クライミング教室の開催について",
+    "link": "https://www.city.inzai.lg.jp/0000022498.html",
+    "desc": "",
+    "pub_iso": "2026-09-18T15:00:00+09:00",
+    "pub_str": "2026年9月18日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-18T18:37:57.278295+09:00",
     "retention_type": "regular"
   }
 ]
