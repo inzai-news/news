@@ -757,10 +757,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "レッツエンジョイ東京",
+    "publisher": "enjoytokyo.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -1444,8 +1444,8 @@
     "title": "木下駅南骨董市",
     "link": "https://www.city.inzai.lg.jp/0000001565.html",
     "desc": "",
-    "pub_iso": "2026-08-21T15:47:03+09:00",
-    "pub_str": "2026年8月21日",
+    "pub_iso": "2026-09-18T19:54:24+09:00",
+    "pub_str": "2026年9月18日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4031,12 +4031,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -4629,7 +4629,7 @@
     "retention_type": "regular"
   },
   {
-    "title": "【9/19（土）・20（日）】夏の終わりの盆踊り大会2026開催！",
+    "title": "※開催内容変更のお知らせ　【9/19（土）・20（日）】夏の終わりの盆踊り大会2026開催！",
     "link": "https://www.makinohara-more.com/event-topics/bonbdori202609/",
     "pub_str": "2026年9月2日",
     "publisher": "牧の原モア",
@@ -5964,6 +5964,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-18T18:37:57.278295+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【ヒガンバナの開花情報】結縁寺",
+    "link": "https://www.city.inzai.lg.jp/0000007103.html",
+    "desc": "",
+    "pub_iso": "2026-09-18T19:14:26+09:00",
+    "pub_str": "2026年9月18日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-18T20:37:30.046246+09:00",
     "retention_type": "regular"
   }
 ]
