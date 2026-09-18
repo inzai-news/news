@@ -6489,5 +6489,15 @@
     "link": "https://inzainet.com/event/newtown-autumnfes_260918/",
     "similar_to": "印西ニュータウン秋祭り（9月20日（日））",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260918-1437",
+    "date": "2026-09-18",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "令和8年度第3回印西市総合教育会議開催のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000022544.html",
+    "similar_to": "令和8年度第2回印西市総合教育会議を開催しました。",
+    "ai_reason": "第3回と第2回は別回の総合教育会議で重複ではないため"
   }
 ]
