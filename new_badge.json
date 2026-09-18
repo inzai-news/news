@@ -1,16 +1,10 @@
 {
   "links": {
-    "https://event.joyfulhonda.com/single-exp.php?id=34306&store=chibant": "2026-09-18T08:43:46.969654+09:00",
-    "https://event.joyfulhonda.com/single-exp.php?id=34304&store=chibant": "2026-09-18T08:43:46.969654+09:00",
-    "https://event.joyfulhonda.com/single-exp.php?id=29897&store=chibant": "2026-09-18T08:43:46.969654+09:00",
-    "https://www.city.inzai.lg.jp/kosodatenavi/0000022239.html": "2026-09-18T08:43:46.969654+09:00",
-    "https://www.city.inzai.lg.jp/0000022240.html": "2026-09-18T08:43:46.969654+09:00",
-    "https://www.city.inzai.lg.jp/kosodatenavi/0000022289.html": "2026-09-18T08:43:46.969654+09:00",
-    "https://prtimes.jp/main/html/rd/p/000000032.000180020.html": "2026-09-18T08:43:46.969654+09:00",
-    "https://www.city.inzai.lg.jp/0000020579.html": "2026-09-18T09:32:34.632452+09:00"
+    "https://www.city.inzai.lg.jp/0000020579.html": "2026-09-18T09:32:34.632452+09:00",
+    "https://chibanewtown.aeonmall.jp/event/a2115131-01c7-4a7c-83ca-63aa9655e024": "2026-09-18T12:24:45.059058+09:00"
   },
   "last_eligible": {
-    "link": "https://prtimes.jp/main/html/rd/p/000000032.000180020.html",
-    "ts": "2026-09-18T08:43:46.969654+09:00"
+    "link": "https://chibanewtown.aeonmall.jp/event/a2115131-01c7-4a7c-83ca-63aa9655e024",
+    "ts": "2026-09-18T12:24:45.059058+09:00"
   }
 }
