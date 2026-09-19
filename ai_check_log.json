@@ -6509,5 +6509,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022545.html",
     "similar_to": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
     "ai_reason": "第2回開催予告と第1回開催結果は別回の会議で重複ではないため"
+  },
+  {
+    "run_ts": "20260919-0935",
+    "date": "2026-09-19",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【2026年9月11日 リニューアル】ABstore",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/57448913-3b69-4ba5-867f-6cf726c0f4aa",
+    "similar_to": "【2026年9月11日 リニューアル】ABstore",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
