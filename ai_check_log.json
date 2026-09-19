@@ -6529,5 +6529,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9oNVNIdFdWZTFmSmdQRDItU0drYTNSb3NEZkNKak1QbFNXUGxMUm1XTTN4QTFmWlcxbldNY0x1MDFfUkRLMVZKY1Fld0NwV2thc184SXVnSnpCSjZJY3hz?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260919-1837",
+    "date": "2026-09-19",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西に東京ドーム7個分のデータセンター、仕掛ける大和ハウス工業の狙い（2ページ目）",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE9McDNwVi03d0J6bzJYUUVzMFpNQlZvMGZ1OVp6MnpNaU11VnZNcEVIM3ppX0pTWWxWV0F3S2ZUTS1XZWFCTWY1b1B6ZzhiWlRncmhSUXd3RFJPamVMQUJYcVk1NGJWdTZ6cG9nbw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
