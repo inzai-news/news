@@ -6519,5 +6519,15 @@
     "link": "https://chibanewtown.aeonmall.jp/news/renewal/57448913-3b69-4ba5-867f-6cf726c0f4aa",
     "similar_to": "【2026年9月11日 リニューアル】ABstore",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260919-1237",
+    "date": "2026-09-19",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市・木下】吉岡蔵のひな飾り2026",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9oNVNIdFdWZTFmSmdQRDItU0drYTNSb3NEZkNKak1QbFNXUGxMUm1XTTN4QTFmWlcxbldNY0x1MDFfUkRLMVZKY1Fld0NwV2thc184SXVnSnpCSjZJY3hz?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
