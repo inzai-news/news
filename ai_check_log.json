@@ -6569,5 +6569,15 @@
     "link": "https://news.google.com/articles/CBMie0FVX3lxTE5lR1UtazQ0bUhmTjU1WmZYUlpCaEQ3RVl3ZkxHUzRRUVM1QVBUZGdFaU5zZEQ0M25leG9tNDdDSFVXTWlPUGdYUzRTRXNVQUJtTlZiVXNQWEV4c3VMSWpuazdNbkoxVUIxb1NoM1V1T2wtM3dKa2pXZno0SQ?oc=5",
     "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260921-0037",
+    "date": "2026-09-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "みんなのコード、印西市教育委員会の生成AI利活用を支援。授業実践に役立つコンテンツなどを作成",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE12U2VuTXdJMHRGZE9PYV85MzZpQzhjSkItcF8xZVFZU1pjMlQ1bWd0Mi1CdGtscWhVM2hrUTB3b1NGWjFNbEg5dVVjbFRyVlA4RFdYNGtaU3M4eU43aGZqREl4clZ3ZE5HeUE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
