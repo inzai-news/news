@@ -684,10 +684,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "itmedia.co.jp",
+    "publisher": "ITmedia",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -829,7 +829,7 @@
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
   },
@@ -3805,11 +3805,11 @@
   {
     "title": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1XbktJWUp0T1dvT2lPdDFtRko3cGFDYXR5eU9ETG1sbmF2ODR0djQ4d1d3LVFFMDhPWGFmTEV0RkxXOFdpWVRXZFFKRXkzNFJJenhxRTJRZDhlaWlhYkxR?oc=5",
-    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送株式会社",
+    "desc": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ  千葉テレビ放送",
     "pub_iso": "2026-08-24T16:00:00+09:00",
     "pub_str": "2026年8月24日",
-    "publisher": "千葉テレビ放送株式会社",
-    "source": "google-news-inzai-shi",
+    "publisher": "千葉テレビ放送",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-24T12:13:48.610141+09:00",
     "retention_type": "regular"
@@ -6035,6 +6035,18 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-19T16:37:30.784102+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "広報いんざい　令和8年10月号　No.1046",
+    "link": "https://www.city.inzai.lg.jp/0000022541.html",
+    "desc": "",
+    "pub_iso": "2026-09-20T08:00:00+09:00",
+    "pub_str": "2026年9月20日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-20T11:03:38.259828+09:00",
     "retention_type": "regular"
   }
 ]

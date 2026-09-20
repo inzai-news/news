@@ -6539,5 +6539,25 @@
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE9McDNwVi03d0J6bzJYUUVzMFpNQlZvMGZ1OVp6MnpNaU11VnZNcEVIM3ppX0pTWWxWV0F3S2ZUTS1XZWFCTWY1b1B6ZzhiWlRncmhSUXd3RFJPamVMQUJYcVk1NGJWdTZ6cG9nbw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260920-1103",
+    "date": "2026-09-20",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "レザーキーホルダー＆コインケース作り体験（2026年09月23日(水)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34405&store=chibant",
+    "similar_to": "レザーキーホルダー＆コインケース作り体験（2026年10月17日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260920-1103",
+    "date": "2026-09-20",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "NECグリーンロケッツ東葛、 印西市との相互連携に関する協定締結のお知らせ - league",
+    "link": "https://news.google.com/articles/CBMiREFVX3lxTFByUVZHWXA3aEV6Y2NBZTEwV0N0ckl3alI4eHFKMlVnSTBGOXJEQVVKQ0VPaHRDa29oNF9JT1pLSXNrZ3lP?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
