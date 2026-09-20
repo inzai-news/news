@@ -6559,5 +6559,15 @@
     "link": "https://news.google.com/articles/CBMiREFVX3lxTFByUVZHWXA3aEV6Y2NBZTEwV0N0ckl3alI4eHFKMlVnSTBGOXJEQVVKQ0VPaHRDa29oNF9JT1pLSXNrZ3lP?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260920-2350",
+    "date": "2026-09-20",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTE5lR1UtazQ0bUhmTjU1WmZYUlpCaEQ3RVl3ZkxHUzRRUVM1QVBUZGdFaU5zZEQ0M25leG9tNDdDSFVXTWlPUGdYUzRTRXNVQUJtTlZiVXNQWEV4c3VMSWpuazdNbkoxVUIxb1NoM1V1T2wtM3dKa2pXZno0SQ?oc=5",
+    "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
