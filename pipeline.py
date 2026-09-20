@@ -1791,12 +1791,6 @@ header{padding:10px 12px;flex-wrap:wrap;row-gap:6px}
 .cat-count{font-size:11px;font-weight:600}
 .news-item{display:flex;flex-direction:column;gap:3px;padding:9px 12px;background:#fff;border-top:1px solid #ededea;transition:background .15s}
 .news-item:hover{background:#f9f9f6}
-.news-item.kaiten-open{background:#fff}
-.news-item.kaiten-open:hover{background:#f9f9f6}
-.news-item.kaiten-close{background:rgba(0,0,0,.06)}
-.news-item.kaiten-close:hover{background:rgba(0,0,0,.12)}
-.news-item.kaiten-renewal{background:#e0edfa}
-.news-item.kaiten-renewal:hover{background:#cfe3f7}
 .news-item.today{background:#fffbe8}
 .news-item.today:hover{background:#fff5cc}
 .news-item.recent{background:#fffbe8}
@@ -1839,7 +1833,6 @@ KAITEN_LABEL_PATTERN = re.compile(
     r"^【(\d{4}年\d{1,2}月(?:\d{1,2}日|上旬|中旬|下旬)?\s*(開店|閉店|リニューアル)|(開店|閉店|リニューアル)日不明\s*(開店|閉店|リニューアル))】"
 )
 KAITEN_DATE_IN_TITLE_PATTERN = re.compile(r"(\d{1,2})月(\d{1,2})日")
-KAITEN_KIND_CSS_CLASS = {"開店": "kaiten-open", "閉店": "kaiten-close", "リニューアル": "kaiten-renewal"}
 
 
 def kaiten_label_parts(item):
@@ -1925,8 +1918,6 @@ def render_item(item, new_links):
     label, kind, rest_title = kaiten_label_parts(item)
     title_html = html.escape((label or "") + rest_title)
     row_class = "news-item"
-    if kind:
-        row_class += " " + KAITEN_KIND_CSS_CLASS.get(kind, "")
     new_html = '<span class="new-badge">新着</span>' if item.get("link") in new_links else ""
     # announce_str(記事発表日)があれば日付欄はそちらを優先表示する。開店・閉店情報は
     # pub_strに開店/閉店の実施日を入れる設計のため、記事が実際に発表された日を別途知りたい場合に使う
