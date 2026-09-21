@@ -6579,5 +6579,105 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE12U2VuTXdJMHRGZE9PYV85MzZpQzhjSkItcF8xZVFZU1pjMlQ1bWd0Mi1CdGtscWhVM2hrUTB3b1NGWjFNbEg5dVVjbFRyVlA4RFdYNGtaU3M4eU43aGZqREl4clZ3ZE5HeUE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE9tNzhsX1VIQnVBb1E1U0JSUjVkdXdoY0pTeFRpZ0NvZ0RZN1pEUS1pa3hHVGd2dVVpNFpmWFJJSmRVTmNTdkxDcVVscWQ4RHJxMTdBREY2X1Bsc3ZlTmlYVFh3ajM?oc=5",
+    "similar_to": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県印西市に発表（14:24時点）（FNNプライムオンライン（フジテレビ系））",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9jbkk5dUlzNlctWnBDMUV4TXBiNnVaa09QZDNVRmVyLUtDN1hHZ0lhZXlkbUdwTHNRTjlOdFgyT1pQWFVsZWZYRWZiVDBXQXQ0OVdOaFlPTjlGcWdqZFh1cTdDX3o2TUhhQVdDM1lNNDVTOW96QXJOYi1CY2d5LUU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTFBHZGRuMWY5UzFseXpOdXpid2JSaDhwcVNUUEF2Si1tWHFEVXFlMVl1YWV2OWRoRXZlLXdkbVZhTXNCaVpYd1lxNTVhd1J4QXJOd3R6OWplSHpDYmVCbGZfMmhWUFh3aVg1Y0NoQ2tR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県・印西市に発表 14:24時点（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9hLWFjWkNVOEd3aEVlMG9KVmw4aTlkM25iNk5GdGg3LWROVlNsRlZFSDFJckdyODZZeWJoU2dBUkNlaHk0YU1mMF94aERvS0FFbk5zNWtrckZoano5d0dUajFjZW1fVDByT29VUEFEYTFRZVhibzdGZEhLZzhmTnc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報（日テレNEWS NNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9TQmhRZFo1S3Qwcm54aERHNXA3VWNpSm5Wbm5tMTdWMGpyRXNCdjRmNldaWXNSalI5TUJVMHpSY3pPdGp2OUlxZkk5TWdxMzhPTDQ5akhWc1ZQb29ia3JvQ2REamloSkRYendOdXVmaW1XVE01OUJtc2RzQ2x5R1k?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル３土砂災害警報】千葉県・印西市に発表 13:12時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1zaXZKOVR6aGhWdjFpNkVqc01pNXJDSHdqNEJzdHV1SFNqX01GNzluWnFFTDVwUDN3Zy1YX1YweVdaMnAtTUFOQnV5elFVOVhiMmVva0VuRQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市の情報です🌀",
+    "link": "https://news.google.com/articles/CBMi3AFBVV95cUxPdlhLcnBnTWdNaUN6UUJEZUU2VFIwWUFTOFEzbmVmdFVIblJqdEtxMGZ3YUc1S05hcDFTbUN3a1pIRE5MZnpMMC0wY2NfTHcyVDM4NDlXZ1RPMnMyYWltWWF2bGF0UEtZZzM5cGdxcUsxYm5fUkVRVFVBcV8xalZDRHBzNy1WVWh1M2ZLd2o0S2tCOWk0REtwdkJLb1kyOHJmMEU0cERjYVU1LUp6dkpjWlloSklZX3FTM0JVVzFMejFEYVhlZWFSWEdPWS1EYjhiaEZ1aDF3b0RVcGZt?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・印西市に発表 14:24時点",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFAzV2VUTGJIam1rYlYteTJrTXJaTmRBdmRQQjE3bjVmSC1mRUJzSXc4bmlvNmRCSGRfZ3FOX0Roa0tncVRDQjA3VEJJTkVCT3A3NWJwRzhQSm12YVVzdll0QUVEcU43ZW82R3VxZGRxazR4c0prUF9HTg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1556",
+    "date": "2026-09-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "あそびつくそう！水と緑のプレイパーク 9月20日に印西市で",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE0wRklpUDBnSENGX1MtLWhZVkVJSnpZd3BfamI1cVBQN1hrUkVVWW12TmFGekhYOUtPNTRTaUtLazlReFJ4QUFkX0lucEtBYjRNbGwxa0l3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260921-1557",
+    "date": "2026-09-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9xNUFrY2tYTnlKbzY2T2RsdElwTWMyNkNQYnBjcS1FRHhMbzhNZlJNWUxRS2pBeGpsaTRmYlZZclFnRGlrd0NyUXV1QklFSXJ5MUVHc283VDFIc2I5X0gzVVl0cWVRck92MEhKZW9ja3AzcjFsaXNxcl9KYmQtUG8?oc=5",
+    "similar_to": null,
+    "ai_reason": "本日既に採用済みの「車両水没・救助」記事(TBS NEWS DIG発)と同一の出来事を伝える、Yahoo!ニュース経由の重複配信のため"
   }
 ]

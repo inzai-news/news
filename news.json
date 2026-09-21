@@ -684,10 +684,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "ITmedia",
+    "publisher": "itmedia.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -4943,8 +4943,8 @@
     "title": "大雨に係る避難所情報",
     "link": "https://www.city.inzai.lg.jp/0000022503.html",
     "desc": "",
-    "pub_iso": "2026-09-06T15:00:00+09:00",
-    "pub_str": "2026年9月6日",
+    "pub_iso": "2026-09-21T09:00:00+09:00",
+    "pub_str": "2026年9月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5017,18 +5017,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-07T17:19:48.879215+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催",
-    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5ZVmY3bkwzTkVZd2dfNGZmYVdqNElZSDctVUJRTXZpMnhMaXByMm9qLXJXU0lNamtVTm04c29IY3Rfdm9fenROeGs5MlpkaFVXaTVOaUNR0gFbQVVfeXFMTXJIUWpzMUpUZTVUMDB1TzdfdnktZHE1aU5kS2JPME92MEpwZHY4b3g0V3k4OFhBcEt1M0ktLUVLSkpLUEZGNjREV0tHdDM1bVdMWlB4M3dzSW82cw?oc=5",
-    "desc": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催  ウォーカープラス",
-    "pub_iso": "2026-09-03T16:00:00+09:00",
-    "pub_str": "2026年9月3日",
-    "publisher": "ウォーカープラス",
-    "source": "google-news-inzai-event",
-    "category": "イベント・文化",
-    "collected_at": "2026-09-07T18:10:38.322412+09:00",
     "retention_type": "regular"
   },
   {
@@ -6039,7 +6027,7 @@
     "retention_type": "regular"
   },
   {
-    "title": "台風25号の接近に伴う公共交通のご利用について",
+    "title": "【9月21日15時更新】台風25号の接近に伴う公共交通のご利用について",
     "link": "https://www.city.inzai.lg.jp/0000022520.html",
     "desc": "",
     "pub_iso": "2026-09-20T19:00:00+09:00",
@@ -6070,6 +6058,42 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "中平橋付近　道路冠水による通行止めについて（令和8年9月21日更新）",
+    "link": "https://www.city.inzai.lg.jp/0000022352.html",
+    "desc": "",
+    "pub_iso": "2026-09-21T14:37:36+09:00",
+    "pub_str": "2026年9月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-21T15:56:46.649731+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風25号に係る9月21日(月曜日)の臨時休館施設について",
+    "link": "https://www.city.inzai.lg.jp/0000022574.html",
+    "desc": "",
+    "pub_iso": "2026-09-21T11:12:12+09:00",
+    "pub_str": "2026年9月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-21T15:56:46.649731+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "フレンドリープラザ休館に伴う小倉台図書館臨時窓口休所のお知らせ【9月21日（月曜日）】",
+    "link": "https://www.city.inzai.lg.jp/0000022575.html",
+    "desc": "",
+    "pub_iso": "2026-09-21T10:58:58+09:00",
+    "pub_str": "2026年9月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-21T15:56:46.649731+09:00",
     "retention_type": "regular"
   }
 ]
