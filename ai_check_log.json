@@ -6679,5 +6679,15 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9xNUFrY2tYTnlKbzY2T2RsdElwTWMyNkNQYnBjcS1FRHhMbzhNZlJNWUxRS2pBeGpsaTRmYlZZclFnRGlrd0NyUXV1QklFSXJ5MUVHc283VDFIc2I5X0gzVVl0cWVRck92MEhKZW9ja3AzcjFsaXNxcl9KYmQtUG8?oc=5",
     "similar_to": null,
     "ai_reason": "本日既に採用済みの「車両水没・救助」記事(TBS NEWS DIG発)と同一の出来事を伝える、Yahoo!ニュース経由の重複配信のため"
+  },
+  {
+    "run_ts": "20260921-1637",
+    "date": "2026-09-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "アウトドアの魅力満載！千葉県印西市で「ユニオンアウトドアフェスティバル」開催",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5ZVmY3bkwzTkVZd2dfNGZmYVdqNElZSDctVUJRTXZpMnhMaXByMm9qLXJXU0lNamtVTm04c29IY3Rfdm9fenROeGs5MlpkaFVXaTVOaUNR0gFbQVVfeXFMTXJIUWpzMUpUZTVUMDB1TzdfdnktZHE1aU5kS2JPME92MEpwZHY4b3g0V3k4OFhBcEt1M0ktLUVLSkpLUEZGNjREV0tHdDM1bVdMWlB4M3dzSW82cw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
