@@ -6749,5 +6749,35 @@
     "link": "https://news.google.com/articles/CBMiXkFVX3lxTFBwVlczOEZWNElXYUpkNXE3emdUcW5reUJ1aVZHYTJWdUdheVhqc0ZCanUxcHVuUzRzLVI4Y2VCMTJ6ZmFYQ3JfUzNzQkZLdDB2X2o5czhHQzNNQU1ET3c?oc=5",
     "similar_to": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
     "ai_reason": "既に採用済みの「車両水没・救助」記事と同一の出来事を伝える、livedoorニュース経由の重複配信のため"
+  },
+  {
+    "run_ts": "20260921-2037",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "道路冠水により、市道吉田・岩戸線の一部区間を通行止めにしています。（令和8年9月21日更新）",
+    "link": "https://www.city.inzai.lg.jp/0000022577.html",
+    "similar_to": "道路冠水により、市道師戸・江川線の一部区間を通行止めにしています。（令和8年9月21日更新）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260921-2037",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9neVp3cFBYQ1M2cjZ3Q2xXT1l1RlFxaDJzMmZPdGpTb2FwcWdOWS1OU01jdGVfeUFDWmY5aWdIZHNBQVZLQko1elBZdFdFTWVCUlljbXQ0SGtFQUE3YXRodThOVUZBUDVi?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-2037",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報（21日午後2時24分） (日テレNEWS NNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxORDJ2QjIwNk40UTRZZnplcHMzbjYwV202VjZyZi1qRldaLVFnNWJ5S0tTdlpmVjRyVkR5ZGFlcHpoemszTnBPb3Y1SkhkMEM3QW5OS1pieEwxaTBYTGFNc2hoYjllMzRWbjRYODhkYTVwTG10bk9KMEpOQzNDNkM0Q3ZTYlRKb3IyZl92cUR3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
