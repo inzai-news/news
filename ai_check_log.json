@@ -6689,5 +6689,65 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5ZVmY3bkwzTkVZd2dfNGZmYVdqNElZSDctVUJRTXZpMnhMaXByMm9qLXJXU0lNamtVTm04c29IY3Rfdm9fenROeGs5MlpkaFVXaTVOaUNR0gFbQVVfeXFMTXJIUWpzMUpUZTVUMDB1TzdfdnktZHE1aU5kS2JPME92MEpwZHY4b3g0V3k4OFhBcEt1M0ktLUVLSkpLUEZGNjREV0tHdDM1bVdMWlB4M3dzSW82cw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報（2026年9月20日掲載）｜日テレNEWS NNN",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE1NVHVDTXlHRmI1dmxoOHdHbU9aR1lOOXJYVE5Cak5qdXdQMV8yWTBJRTNOX1Rwek5SWTJhNnZRY2RDLS1hVW5nalBPX3BFcGFkQjFITm1kYTk1NEF6clIxV3A0THlIeW5UYzMxR001b2UwZk5rdU9OdDJySFM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県印西市に発表(14:24時点)（FNNプライムオンライン）",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTFBxN3ZmOHJVMTdta2J6MkVXSm9tR3kwZ3JoTm5tVWs4TllrUERDaWExS0otUDR4VXR6YlBMemRXc3FlUGhoZ0p5VEo5RHliTkhzWF9TOVBvOHN3cGxkQlZXOXJEOHhnYTNEckZLZ25DNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県印西市に発表(14:24時点)",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE5CN1VqN0FUTXZ1ckt3b3dDeW9MdU9GQmpSZzhWV25WLThKamx6ZmVXN0hfZzhvSWJHaTdCVXNHanpTQ0FFUVl5NWJvZVJwdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・印西市に発表 14:24時点",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBXcU5MVlNnZXFCVzE4dHBLODN1dkJfei1ZcDhZUFFtOXVNNzBRTVpqSEthQS1nX21kMWIyTXVRa291MldrSWlmT3JvaGxvWlh6cFdxYzZEZkRjNGNxakJv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "千葉・印西市にレベル4土砂災害危険警報",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE81Zk1rM0luWE1IR05vX2RqQVRkMG1Ra0RlMU1wdkdkRGNrWElkT1Y3VlpWRWZpUlRReXRrbW9mcDc2MlZJY0JrSlgyYWNDNzJ4VVQyM1Axd3RFZDVSZXZv?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260921-1837",
+    "date": "2026-09-21",
+    "ai_decision": "exclude",
+    "similarity": 0.79,
+    "title": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし (2026年9月21日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTFBwVlczOEZWNElXYUpkNXE3emdUcW5reUJ1aVZHYTJWdUdheVhqc0ZCanUxcHVuUzRzLVI4Y2VCMTJ6ZmFYQ3JfUzNzQkZLdDB2X2o5czhHQzNNQU1ET3c?oc=5",
+    "similar_to": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
+    "ai_reason": "既に採用済みの「車両水没・救助」記事と同一の出来事を伝える、livedoorニュース経由の重複配信のため"
   }
 ]

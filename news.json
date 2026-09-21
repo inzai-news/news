@@ -684,10 +684,10 @@
   {
     "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
-    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  itmedia.co.jp",
+    "desc": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”  ITmedia",
     "pub_iso": "2026-06-22T16:00:00+09:00",
     "pub_str": "2026年6月22日",
-    "publisher": "itmedia.co.jp",
+    "publisher": "ITmedia",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -752,7 +752,7 @@
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
     "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
   },
@@ -4196,10 +4196,10 @@
   {
     "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
-    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHK news",
     "pub_iso": "2026-08-18T16:00:00+09:00",
     "pub_str": "2026年8月18日",
-    "publisher": "NHKニュース",
+    "publisher": "NHK news",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
@@ -4913,7 +4913,7 @@
     "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "電波新聞デジタル",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
     "retention_type": "regular"
@@ -6027,7 +6027,7 @@
     "retention_type": "regular"
   },
   {
-    "title": "【9月21日16時更新】台風25号の接近に伴う公共交通のご利用について",
+    "title": "【9月21日18時更新】台風25号の接近に伴う公共交通のご利用について",
     "link": "https://www.city.inzai.lg.jp/0000022520.html",
     "desc": "",
     "pub_iso": "2026-09-20T19:00:00+09:00",
