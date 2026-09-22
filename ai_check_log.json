@@ -6779,5 +6779,15 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxORDJ2QjIwNk40UTRZZnplcHMzbjYwV202VjZyZi1qRldaLVFnNWJ5S0tTdlpmVjRyVkR5ZGFlcHpoemszTnBPb3Y1SkhkMEM3QW5OS1pieEwxaTBYTGFNc2hoYjllMzRWbjRYODhkYTVwTG10bk9KMEpOQzNDNkM0Q3ZTYlRKb3IyZl92cUR3?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260922-1219",
+    "date": "2026-09-22",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル3土砂災害警報】千葉県・印西市に発表 13:12時点 (TBS NEWS DIG Powered by JNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxNYWxVakUxdnBjTHkxWkIybGpKY1RlTkUtbWtYa0FDdmxtdjM5M3A5aUd3Q0Z2Mkdia2cwT0NYenRUT2d4c3BQVnBvdXhUOW0wa0RjUXZ6dnI1MGt4UEZLckFMcEdLS09JcElocU5wZ2FLTnBHeTZXTDdUeTBiTVhhaEU2Vk9zSW1jX0x4eXRR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
