@@ -6789,5 +6789,15 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxNYWxVakUxdnBjTHkxWkIybGpKY1RlTkUtbWtYa0FDdmxtdjM5M3A5aUd3Q0Z2Mkdia2cwT0NYenRUT2d4c3BQVnBvdXhUOW0wa0RjUXZ6dnI1MGt4UEZLckFMcEdLS09JcElocU5wZ2FLTnBHeTZXTDdUeTBiTVhhaEU2Vk9zSW1jX0x4eXRR?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260922-1405",
+    "date": "2026-09-22",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県・印西市に発表 14:24時点 (TBS NEWS DIG Powered by JNN)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxQeXYySXJFWG9VU1RVMUVMQ0dycmQ1WmlJN2xMQlZ0VmR1Y2szSlppVDd0Y3RzRjQtQTFIY0FLSDBFcm8tSTJvMkUwRFk1WXUwQnRqT2RIaXpVampnRl9SbXZvMGxGNWdvTzZXR2VtY2JsTVQ5MTlqM2xVWnNqMm1wNVNZcklCWDJxZTBOZnBR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
   }
 ]
