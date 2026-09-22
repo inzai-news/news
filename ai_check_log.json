@@ -6799,5 +6799,75 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxQeXYySXJFWG9VU1RVMUVMQ0dycmQ1WmlJN2xMQlZ0VmR1Y2szSlppVDd0Y3RzRjQtQTFIY0FLSDBFcm8tSTJvMkUwRFk1WXUwQnRqT2RIaXpVampnRl9SbXZvMGxGNWdvTzZXR2VtY2JsTVQ5MTlqM2xVWnNqMm1wNVNZcklCWDJxZTBOZnBR?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県印西市に発表(14:24時点)(放送局のニュース )",
+    "link": "https://news.google.com/articles/CBMidkFVX3lxTE03bkJEY3BXZDYyLW50QWUwNXJVbXZ6a2E2c3FZMWtKNFAyTzdHLVp6dUhHZ2JrenVXbkpkUjJPSUZJb1NLNlg1a0huaDZFSHVtQmxsbG1hckdZdTA4Sjl4ck8zbjRHWGs3RWl4cUh0YjVVemo1VEE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル3土砂災害警報】千葉県・印西市に発表 13:12時点（TBS NEWS DIG Powered by JNN）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE43VUFjbFNscm1IR2x0eU83MUQ0NGNDdVB2ektWTmgwNjRsZzlTVjFieTlJM0xMdU5xOUlObFk1by1Gd0NHb0wyQXZjTXY1Wm9JZ2k1MDdxeUkyOXN2NEdhc0NFUTVRend3WUVydzZDTS1JcndOR1BMT2JOVkw0QkU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "帰宅困難者受け入れへ 印西市とホテル会社が協定",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE1rUkxHeC01Q0V3eC10TWNQc0hjWEUzd1d1cnJHRzZIUmppb3gtalFWNTJOZEc4RzFSNnNUdUQ1aDdVbUtHcXJHSUNBdG1pcG50S1E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル4土砂災害危険警報】千葉県印西市に発表(14:24時点)",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE04ZHVoc1BvTkRHUVdYZVRfN1ZwNTFSY1BUaWpZM3VaU3NXcUtNd0pRamJ0TzFDVUM4NUF1ZDdjMXJKelF3VjdMYWt6WDMwU1lZbDlwM3RGcG5hcnJTdWMw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "今度は落語でＰＲ動画 年明けに第３弾 印西市",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE54bHppYzN5ZDFDeXNtQUE1cElxcFRvU1dLaTNTemFKMXYybWxSZ0sxaXVQa0lsMFJwRUxVWTNGY3k4NGxWU2NjYmlhLWppN0p6Sm5ON2pLaw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "７議案可決し閉会 印西市議会",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA1VVZpLU8ySDllYTl0c0lod21aV1RaSEdDS29fX2JpUzBWYnMtV0lfb1J6OTEwUkhrY2FHcDJTNWlOX2FVVHRNbnRSS0RLb1h1cThwLUdJQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260923-0037",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "白井で民家全焼 印西署",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFBYX2c0ZVhIQkdIaGFkczNRRFdzTUVqdjNhcEZnUGdTbjlQMWtHemhFVmZmU0F3ZXhnYXc3SnFUeGdHTEhTdE5sRWsyWkFsQXRrRmc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
