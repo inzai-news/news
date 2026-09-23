@@ -6979,5 +6979,35 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxQc2t3R0JnLXNzd1FCbmhnYmRRZUQtbjJNS1VBOTV6QVowSXdhcGwxd1l0MzZkX2NoRHlUMm1aNFlTT3JGWmpBdXlWZ2g0eV9yNUxrc2F4aS1aOExPUU93UEw4bXBNVDBHcHNqc014T3lCMnU5YzdRLTdPaFFQcWRHUERFLXZoOTBCcGp4aFNn?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事と同一の出来事を伝える重複配信のため"
+  },
+  {
+    "run_ts": "20260923-2237",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（23日16:00現在）",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE9qdm5CZnl3ZGJmR3RYOHFsWHRJYXI0aWVHSFA0NkZfdzVUTWVValdFbW1sYVRNQ3NRamdxM000MnFWUGtiSVlJVWFacjkwRk1NTElVQzVfQ25RbXphaFctaTl5dUM?oc=5",
+    "similar_to": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（23日16:00現在）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260923-2237",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市内の観測情報",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1nOEFJSFA4TS1NREJLX293WWZ0cG5VV2VhM2tHTDlhdW0ycnVlLVM1NWRoeFJ4Nk01cDdEZlZHT1FWYVlLeVQtM3I4VQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260923-2237",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【台風25号】被害まとめ…9人死亡、5人行方不明 印旛沼が“決壊”千葉で浸水拡大（2026年9月23日掲載）｜日テレNEWS NNN",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE1wMTRxbGZMNnhwZFZuTVlaMW5Nck9hYkNkd2ZWR2FZcVZVNEVtd25IYUVaME9WMVNKWl8zRzk4WFlpdUFjaEVRSGlsRUxqZUIyZGhKYU9vZGpWZmNLWGM3SGVuUVJBdW94VG44UmI5cXNBTFNlUDV1T0NiMHo?oc=5",
+    "similar_to": null,
+    "ai_reason": "台風25号の被害まとめ記事だが、死者数・行方不明者数・堤防決壊など内容が既に採用済みの記事群と重複するため"
   }
 ]
