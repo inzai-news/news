@@ -63,15 +63,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "【2026年3月23日 開店】GRAN SAC’S",
-    "link": "https://chibanewtown.aeonmall.jp/news/renewal/f1f5d3fe-4a45-426b-90f4-9f7f7b1866e1",
-    "pub_str": "2026年3月23日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-renewal",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "store_event"
-  },
-  {
     "title": "7月のイベント",
     "link": "https://chibanewtown.aeonmall.jp/event/46ed883a-9057-44d1-bda9-342b84177f83",
     "pub_str": "2026年7月16日",
@@ -93,15 +84,6 @@
     "title": "パレット噴水でびしょぬれになろう！",
     "link": "https://chibanewtown.aeonmall.jp/event/f4543494-3541-4508-8d26-69c1ad46de6a",
     "pub_str": "2026年6月29日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "京都物産展",
-    "link": "https://chibanewtown.aeonmall.jp/event/7c010291-cd01-4169-b0b7-84010a63c01f",
-    "pub_str": "2026年6月23日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -237,15 +219,6 @@
     "title": "北総鉄道まつり",
     "link": "https://chibanewtown.aeonmall.jp/event/e017410f-bfe2-46af-b7e0-22ab5d0552ab",
     "pub_str": "2026年7月8日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ドームプラネット「巨大ジンベエザメと流氷クリオネの世界」",
-    "link": "https://chibanewtown.aeonmall.jp/event/30235c67-0ff2-454a-8e48-52c587a423ee",
-    "pub_str": "2026年6月23日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -1177,15 +1150,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "成田空港のお得割引！N.PASSの申請・利用方法・注意｜千葉県成田周辺・茨城県一部も対象",
-    "link": "https://inzaiparque.com/npass/",
-    "pub_str": "2026年6月23日",
-    "publisher": "千葉ほくそうパルケ",
-    "source": "inzaiparque",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
     "title": "【鎌ケ谷市】2026年の「松戸駐屯地 盆踊り大会」は7月25日（土）開催！ 屋台や縁日もあり、打上花火もあがります！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/18/matsudochutonchibonodori2026/",
     "pub_str": "2026年7月18日",
@@ -1403,10 +1367,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1533,10 +1497,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "朝日れすかPLUS",
+    "publisher": "resuka.co.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3923,10 +3887,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "クロスステッチを楽しもう！（2026年09月26日(土)）",
+    "title": "クロスステッチを楽しもう！（2026年10月24日(土)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=14141&store=chibant",
     "pub_str": "2026年8月27日",
-    "event_end_date": "2026-09-26",
+    "event_end_date": "2026-10-24",
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
@@ -3977,17 +3941,6 @@
     "publisher": "ちばもぐ",
     "source": "chibamogu-inzai",
     "category": "話題・その他",
-    "collected_at": "2026-08-27T14:36:42.526715+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "模型・ジオラマ作り実演会（2026年09月19日(土)～2026年09月20日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=27139&store=chibant",
-    "pub_str": "2026年8月27日",
-    "event_end_date": "2026-09-20",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
     "retention_type": "regular"
   },
@@ -5031,17 +4984,6 @@
     "category": "開店・閉店",
     "collected_at": "2026-09-09T00:45:01.743576+09:00",
     "retention_type": "store_event"
-  },
-  {
-    "title": "Minori先生とギフトカードを作ろう！（2026年09月19日(土)～2026年09月20日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=29086&store=chibant",
-    "pub_str": "2026年9月9日",
-    "event_end_date": "2026-09-20",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-09T00:45:01.743576+09:00",
-    "retention_type": "regular"
   },
   {
     "title": "つまようじアート体験会開催！（2026年10月03日(土)～2026年10月04日(日)）",

@@ -7009,5 +7009,15 @@
     "link": "https://news.google.com/articles/CBMifEFVX3lxTE1wMTRxbGZMNnhwZFZuTVlaMW5Nck9hYkNkd2ZWR2FZcVZVNEVtd25IYUVaME9WMVNKWl8zRzk4WFlpdUFjaEVRSGlsRUxqZUIyZGhKYU9vZGpWZmNLWGM3SGVuUVJBdW94VG44UmI5cXNBTFNlUDV1T0NiMHo?oc=5",
     "similar_to": null,
     "ai_reason": "台風25号の被害まとめ記事だが、死者数・行方不明者数・堤防決壊など内容が既に採用済みの記事群と重複するため"
+  },
+  {
+    "run_ts": "20260924-0016",
+    "date": "2026-09-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "ゆきひろこ先生による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年10月24日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34297&store=chibant",
+    "similar_to": "ゆきひろこ講師による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年10月10日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
