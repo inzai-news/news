@@ -6959,5 +6959,25 @@
     "link": "https://news.google.com/articles/CBMifkFVX3lxTE9HaDR2eW4ySG1UR2FfMEZMTWxBSzdadG41czJhYlBIZlJGcy0zU0J4cUpxQ0pmUXBKRHhkTmZteVgyTkJLekg4V1VEbGtUcXludDcwMGR1RHJzYVhGNVctQ0lmQURQQmhsU1VDY3paMG9FU0wzc2xqTHA2RE9jUdIBgwFBVV95cUxOOFR0d1hfQTQ2VnBHdndvMUkxclNvMTJKNmNKX2ZFQTZ3Wk8xcVhwMVFNTHpXZGZrbWMtREZ6b3BfWUZyZ1dNbmFNbXVFMG45dl9xcmdsY2N1bC1zNHR3aWhpS3VoUEFPdTAzNENmUV9oX0hMdUFDV2hvN2NrOTFiZDZqRQ?oc=5",
     "similar_to": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に 台風25号（千葉日報オンライン）",
     "ai_reason": "同一事案(印西市内の水没車両近くでの男性死亡)を伝える記事が複数配信元から重複しており、最新かつ詳細な朝日新聞版(review_id -3)を代表として採用しこちらは除外"
+  },
+  {
+    "run_ts": "20260923-2009",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者６人、行方不明２人に 台風２５号",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBJRzFkT1ZlTHJWR3ZnZ1Joc0R6RjJKVUhnWmphUDN1Q01lNklVT0N3MUZiTnBuQk1ySXNLLS11QThuVEVOX0NYQmF1ckNLSi1mb3dGaVdzQk8?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260923-2009",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に (千葉日報オンライン)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxQc2t3R0JnLXNzd1FCbmhnYmRRZUQtbjJNS1VBOTV6QVowSXdhcGwxd1l0MzZkX2NoRHlUMm1aNFlTT3JGWmpBdXlWZ2g0eV9yNUxrc2F4aS1aOExPUU93UEw4bXBNVDBHcHNqc014T3lCMnU5YzdRLTdPaFFQcWRHUERFLXZoOTBCcGp4aFNn?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事と同一の出来事を伝える重複配信のため"
   }
 ]
