@@ -6101,10 +6101,10 @@
   {
     "title": "水没車両付近で発見の男性死亡、台風死者9人に 印旛沼の周辺は浸水",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE4zZENNWXRQdGdwaExfZGk3WHNCRmdEY2cwM1Z3OHFnYTlEUzlIYTNEWGJ1bjYxdTE4QW1zRUE2emtna3RmZTVjd3BETFNJNnprOXQtRXJWWUdla1dKYVZmWkVRb2J4dUk?oc=5",
-    "desc": "水没車両付近で発見の男性死亡、台風死者9人に 印旛沼の周辺は浸水  朝日新聞",
-    "pub_iso": "2026-09-23T09:00:00+09:00",
+    "desc": "水没車両付近で発見の男性死亡、台風死者9人に 印旛沼の周辺は浸水  asahi.com",
+    "pub_iso": "2026-09-23T18:00:30+09:00",
     "pub_str": "2026年9月23日",
-    "publisher": "朝日新聞",
+    "publisher": "asahi.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T14:39:10.415171+09:00",
@@ -6120,6 +6120,54 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T14:39:10.415171+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（23日16:00現在）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFA5c0FleHpPZU5fSUw1VnBQejFoZmdsUGdaRmpLYjZNTUQ3SVVzYzlFbXA2Uzdkc3NwUlJZUUp2V296eERIZHRMczJFMUg1ci1xMlBYOVFMVE1KSU1vZFcw?oc=5",
+    "desc": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（23日16:00現在）  千葉テレビ放送",
+    "pub_iso": "2026-09-23T16:28:20+09:00",
+    "pub_str": "2026年9月23日",
+    "publisher": "千葉テレビ放送",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-23T18:37:33.646570+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印旛沼の堤防が決壊｜北印旛沼は観測史上最高の4.84m、成田市・印西市で通行止め",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE8ydUc4M2luM2VyNW0tTjNxUmJOd0JCZ0VwMFQwbzduZnEzNEhteGkyNU1rb3BEMDFPRVhRT0dLZUVnM2h2Uzc2bGVUNVhrcG9rdlcxbkhVTGJIUDUtRFpVQUExT2xWYmZHWXRJdjB3?oc=5",
+    "desc": "印旛沼の堤防が決壊｜北印旛沼は観測史上最高の4.84m、成田市・印西市で通行止め  ジモはる",
+    "pub_iso": "2026-09-23T16:42:22+09:00",
+    "pub_str": "2026年9月23日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-23T18:37:33.646570+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉・印旛沼で堤防決壊 復旧見通したたず、利根川へ排水続く 管理開始以来最高水位5.04メートル観測、90人近くが避難",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFB6Z3hFbDhOcGxGYVdlN0dtbTdzdG1JQXVVUDJoeTR0SnJITEJIemJDYjRsWDhUdXcxc2NWY3hKZDAwaFQyWW9YYWR2eG5NWjRHTG5xUUgwemh1WUF1VnBYR2xORTJaZUluMkFKMDZXaF9ucktjczFoaDYyTkg4bDA?oc=5",
+    "desc": "千葉・印旛沼で堤防決壊 復旧見通したたず、利根川へ排水続く 管理開始以来最高水位5.04メートル観測、90人近くが避難  Yahoo!ニュース",
+    "pub_iso": "2026-09-23T16:04:17+09:00",
+    "pub_str": "2026年9月23日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-23T18:37:33.646570+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「ここに住み続けるのか悩みどころ」死者増え9人に 台風25号 千葉・印旛沼で堤防決壊 4人がいまだ行方不明・捜索続く【中継】",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9wMUpnY08zbjhjQ2JfdTNHZ2dBdXY2b2Z3Y3ROQW0wTl9TcHhCb0tiSkJEdmoyaGQ2Z05hQWJvR1c1Q0ExT1p6b09uenprZHZEUTQ2cGI0UnRSOGVfd3QzanNoQ2VBVWloa2xPZk40dDg2VnpmY3FmSGtNQlBBR2c?oc=5",
+    "desc": "「ここに住み続けるのか悩みどころ」死者増え9人に 台風25号 千葉・印旛沼で堤防決壊 4人がいまだ行方不明・捜索続く【中継】  Yahoo!ニュース",
+    "pub_iso": "2026-09-23T12:01:22+09:00",
+    "pub_str": "2026年9月23日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-09-23T18:37:33.646570+09:00",
     "retention_type": "regular"
   }
 ]
