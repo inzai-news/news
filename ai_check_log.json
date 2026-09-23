@@ -6869,5 +6869,95 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTFBYX2c0ZVhIQkdIaGFkczNRRFdzTUVqdjNhcEZnUGdTbjlQMWtHemhFVmZmU0F3ZXhnYXc3SnFUeGdHTEhTdE5sRWsyWkFsQXRrRmc?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260923-1439",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・印西市に発表 14:24時点｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTFB4QjR4T2JPWjdGVWl0dHFwZm50dXlTYzY5TzBWT3I2SW9NaWpMM0ktc1VLVHdmTkhCRjl3TUVSWHZMNk1uQW5XU1diYWlZZnZ3OFVEczQwZTNYN2JK?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-1439",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE1taTBJX0JuWlFRS3NQTnRKaTVqaVJDRWVfbTgxRVV2S2tla1hLc0ozQTNGVWFOMmRud3FmdWcxSTg2V1dfcFlVVDdrQ20wczJMV1BrUXdWOU1QVVJFY181ek5lYll0Y3oyTVExblhR?oc=5",
+    "similar_to": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に 台風25号（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260923-1439",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者６人、行方不明２人に 台風２５号",
+    "link": "https://news.google.com/articles/CBMiS0FVX3lxTE9XYjEtMlRja3FOSjlzcEUzQ0ZNYUJrNldwQ2ZYZDN2NDBub05FSlR0MUtTbTdnSDdqX0VpWWVURTdER2pNbzdnVTNPWQ?oc=5",
+    "similar_to": "【速報】印西の水没車両付近で男性死亡　千葉県内は死者６人、行方不明２人に",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260923-1439",
+    "date": "2026-09-23",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル４土砂災害危険警報】千葉県・印西市に発表 14:24時点",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9yRTFVUDZaU2wwVE9LdF9mTEJQemNEUlNBbDd3OGd0Tjd2Tkp6clVOODlLbEVKWlBHeHNIUUR3VEVqRzRQV0ozeTRKN2t4SjlBY2lqT3JVZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260923-1439",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE5La3M1NXZqai11NUlhMXF5a2kxZjlGTGc1SVFnenIwMy1Fdy1NRjZhSzliRjVyQ0haeDFreENSQzByQ3RZSEh2YW5hM3d1SW5seUdpVlh4d0QzOEU3blZxaW1HOFJjeHQwT1ZxNnZyUU1sZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260923-1440",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に 台風25号（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE1nWGU1VFlJTGhjeGxXUl9nVnM3cmV6dFpiSWQwdjRhenlTNExJU2U2ZjJwMWdKZm9hanJHV3Z5d3hyZTRjSnVONDBYaFVlazRDeUYyejVKSWJudzFPbE5FdTlXenVDS3puRW1UMzZRdzk1Ml9EZ01OSFQ2cUVqc2s?oc=5",
+    "similar_to": null,
+    "ai_reason": "同一事案(印西市内の水没車両近くでの男性死亡)を伝える記事が複数配信元から重複しており、最新かつ詳細な朝日新聞版(review_id -3)を代表として採用しこちらは除外"
+  },
+  {
+    "run_ts": "20260923-1440",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市:水没車両の近くで６０歳代男性見つかる、死亡確認…台風２５号の死者は千葉・神奈川で計８人に",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTFBtQWZvR1lfYTNrT0sxX0x6SGZ4YzBzaHdJNEtIZVV5bzRGVFdkcENKeHhQZXBSQjEyTldCTXdJcGE1QjFkWXZiakZUUFhTeFNBWlVqbTlsMTcxYkdzRlZYTG5hbEg0QQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "同一事案(印西市内の水没車両近くでの男性死亡)を伝える記事が複数配信元から重複しており、最新かつ詳細な朝日新聞版(review_id -3)を代表として採用しこちらは除外"
+  },
+  {
+    "run_ts": "20260923-1440",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西の水没車両近くで死亡男性発見…台風の死者は8人に　行方不明は5人、捜索続く",
+    "link": "https://news.google.com/articles/CBMikwFBVV95cUxOT0FUS09xRHlzMzR4VEFaUTFlclVDS0Izem5sV1BWRkRjLU1XUFNPZFhuUUpiR0pyc1NSeGtZSjhhWmpwOTZKendSR1MzelNER3YyQXJBMUZyTEFKUmUzUzNaVm5oY1g3REZ1UEJtSXVzR0lpV1BSWkJyOEVRaGFaYk40RDg4WHlVZW1meDc0aG9UZTDSAZgBQVVfeXFMTkZfM0xpOWdJeGYyV2xxQW9LeFAwSkRCMW04TzhReVUwQ3lUbzd3SmNxMFdjVGRub0RZR2ZTQ3YyeDl1THN1NGc3V1picl9peTlNQ3lRb1pJdnludXRKZ2NnbGhYc1ItMF83ZkJIMTZ1bzJCTG5UU1pjZHlfTS1EeVA2UjVoRG9LV3ZmOFVWYkgzbWp5NUdyeXA?oc=5",
+    "similar_to": null,
+    "ai_reason": "同一事案(印西市内の水没車両近くでの男性死亡)を伝える記事が複数配信元から重複しており、最新かつ詳細な朝日新聞版(review_id -3)を代表として採用しこちらは除外"
+  },
+  {
+    "run_ts": "20260923-1440",
+    "date": "2026-09-23",
+    "ai_decision": "exclude",
+    "similarity": 0.74,
+    "title": "【速報】印西の水没車両付近で男性死亡　千葉県内は死者６人、行方不明２人に",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE9HaDR2eW4ySG1UR2FfMEZMTWxBSzdadG41czJhYlBIZlJGcy0zU0J4cUpxQ0pmUXBKRHhkTmZteVgyTkJLekg4V1VEbGtUcXludDcwMGR1RHJzYVhGNVctQ0lmQURQQmhsU1VDY3paMG9FU0wzc2xqTHA2RE9jUdIBgwFBVV95cUxOOFR0d1hfQTQ2VnBHdndvMUkxclNvMTJKNmNKX2ZFQTZ3Wk8xcVhwMVFNTHpXZGZrbWMtREZ6b3BfWUZyZ1dNbmFNbXVFMG45dl9xcmdsY2N1bC1zNHR3aWhpS3VoUEFPdTAzNENmUV9oX0hMdUFDV2hvN2NrOTFiZDZqRQ?oc=5",
+    "similar_to": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に 台風25号（千葉日報オンライン）",
+    "ai_reason": "同一事案(印西市内の水没車両近くでの男性死亡)を伝える記事が複数配信元から重複しており、最新かつ詳細な朝日新聞版(review_id -3)を代表として採用しこちらは除外"
   }
 ]
