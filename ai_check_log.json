@@ -7089,5 +7089,25 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9HckxYank2Mm81UGM0TXpaWDdpVDVHeEliRGVDZXh2eVJXSTRUQUJIT0hZd2lfZFVmVnhaUE90WXJSbTM4VUE1N1hwMDBOVzRvT2dxTDd0TVlqd01ydHc2ZEJfZVctZFFzdy00dDVCRlI3NmpBWmJ2VTJyRmtqVjA?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの「台風25号被害拡大10人死亡4人不明に」記事と同一内容の重複配信のため"
+  },
+  {
+    "run_ts": "20260925-0122",
+    "date": "2026-09-25",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（24日06:00現在）",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTFBWc1hEUmdDcmdyRjhmUnV1d0VfRDdYZU4zSlJYQlN1ajBwNnI4RkhneW1HVmlzMXhkQ0NCOTAxYkN4Wno5NlpZdHBHdy1vVy04YmJBZklqZFNDX29SbXh2MW5DR2ZpUWk0VDY2S3V1LVlaM1E?oc=5",
+    "similar_to": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 通行止め解除には時間がかかる見込み（23日16:00現在）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260925-0122",
+    "date": "2026-09-25",
+    "ai_decision": "keep",
+    "similarity": 0.7,
+    "title": "はじめての家系図講座（2026年10月25日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34309&store=chibant",
+    "similar_to": "はじめてのミニ四駆作り！（2026年09月27日(日)）",
+    "ai_reason": "家系図講座とミニ四駆作りは全く別内容のイベントで、タイトル構造が似ているだけの別ニュースのため"
   }
 ]

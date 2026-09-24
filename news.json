@@ -18,15 +18,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "サマージャンボ宝くじ発売！",
-    "link": "https://www.makinohara-more.com/event-topics/%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e5%ae%9d%e3%81%8f%e3%81%98%e7%99%ba%e5%a3%b2%ef%bc%81/",
-    "pub_str": "2026年6月24日",
-    "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "retention_type": "regular"
-  },
-  {
     "title": "【2026年7月1日 開店】セントラルフィットネスクラブ24",
     "link": "https://chibanewtown.aeonmall.jp/news/renewal/c09280d6-8417-4b99-b99a-324785256579",
     "pub_str": "2026年7月1日",
@@ -93,15 +84,6 @@
     "title": "わらびもち専門店　甘味処鎌倉",
     "link": "https://chibanewtown.aeonmall.jp/event/db35b23c-75ff-449b-ac39-dbb85acbe019",
     "pub_str": "2026年7月15日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "チバニュウひろばのご案内",
-    "link": "https://chibanewtown.aeonmall.jp/event/9ee3e41b-b85e-4f9c-9cb7-539d037f9402",
-    "pub_str": "2026年6月24日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -701,10 +683,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "レッツエンジョイ東京",
+    "publisher": "enjoytokyo.jp",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -778,10 +760,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "物流ニュースのLNEWS",
+    "publisher": "lnews.jp",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -1181,10 +1163,10 @@
   {
     "title": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9fLXlqQUltbkZEdzdpNEJQcWFEMTdXQkZISldSRVFiX0xLOXFqVDdlajRzQ3NVcXhoOERIOW9fcE4zTWR5Ukd6NktrRUI1NE9NYWNRMWtXbnFnNE9nVGxxcmVtSE1fUQ?oc=5",
-    "desc": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動  yomiuri.co.jp",
+    "desc": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動  読売新聞",
     "pub_iso": "2026-07-19T16:00:00+09:00",
     "pub_str": "2026年7月19日",
-    "publisher": "yomiuri.co.jp",
+    "publisher": "読売新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -2678,10 +2660,10 @@
   {
     "title": "印西シティリレーマラソン 2026",
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE5uM2xiR1hEUjRBeFZZQUJhV3lZZVZMbEEyV2M5b1BVRENCSmhYYWFQY1pRWWwyYTdNYWE4dnp1V1RlR0VWT2FYbjBvaFM?oc=5",
-    "desc": "印西シティリレーマラソン 2026  runnet.jp",
+    "desc": "印西シティリレーマラソン 2026  RUNNET",
     "pub_iso": "2026-08-06T16:33:31+09:00",
     "pub_str": "2026年8月6日",
-    "publisher": "runnet.jp",
+    "publisher": "RUNNET",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-08-11T18:01:39.251471+09:00",
@@ -3960,8 +3942,8 @@
     "title": "ニュースポーツ教室の開催について",
     "link": "https://www.city.inzai.lg.jp/0000015779.html",
     "desc": "",
-    "pub_iso": "2026-08-27T15:54:28+09:00",
-    "pub_str": "2026年8月27日",
+    "pub_iso": "2026-09-24T15:56:44+09:00",
+    "pub_str": "2026年9月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5474,10 +5456,10 @@
     "title": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE5NdnFWQnBQbzhXREQ4ai1WNmhLLWQtNW9kWlVTd1EzVUJFTGg2dHpDLTVCWFU3dlA0clFOLVlKZHhfWEUwSzY1Q0tIZUl1ZktiOHBueHd6WHJ3TkFPUGpzQUJOcndGNkE?oc=5",
     "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  マイナビニュース",
-    "pub_iso": "2026-09-14T17:30:00+09:00",
+    "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "マイナビニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
     "retention_type": "regular"
@@ -5906,7 +5888,7 @@
     "title": "【9月24日9時30分更新】台風25号に伴う公共交通のご利用について",
     "link": "https://www.city.inzai.lg.jp/0000022520.html",
     "desc": "",
-    "pub_iso": "2026-09-24T10:00:05+09:00",
+    "pub_iso": "2026-09-24T18:57:51+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -5998,7 +5980,7 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-09-24T11:48:04+09:00",
+    "pub_iso": "2026-09-24T19:45:46+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6113,10 +6095,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "主要幹線道路等の通行止めの状況（令和8年9月24日7：00現在）",
+    "title": "（令和8年9月24日15：00現在）主要幹線道路等の通行止めの状況",
     "link": "https://www.city.inzai.lg.jp/0000022584.html",
-    "desc": "",
-    "pub_iso": "2026-09-24T08:22:14+09:00",
+    "desc": "台風25号の影響による大雨に伴う、市内主要幹線道路の通行止めの状況を発信するページです。",
+    "pub_iso": "2026-09-24T07:00:00+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6127,10 +6109,10 @@
   {
     "title": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE5jUUF5YlBJMVo3ZUxxMVByaWRFMW1pODVleG9UX1g1THp5SXVobzBGZzREUFY4cWNyWEpkWTJYU0dscXlnNjEtYWdIZEpFQQ?oc=5",
-    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  fnn.jp",
+    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  FNNプライムオンライン",
     "pub_iso": "2026-09-23T17:37:00+09:00",
     "pub_str": "2026年9月23日",
-    "publisher": "fnn.jp",
+    "publisher": "FNNプライムオンライン",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T20:09:20.881139+09:00",
@@ -6250,6 +6232,50 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-24T14:14:23.275956+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】「KAMAGAYA MIRAI DAY」はいよいよ9月26日（土）開催！ 警察・消防・建設・ごみ収集・カメラマン・スポーツ選手体験など本物のおしごと体験ができる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/25/kamagayamiraiday2026/",
+    "pub_str": "2026年9月25日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-09-25T01:22:18.650925+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "エアブラシ実演販売（2026年10月25日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=29913&store=chibant",
+    "pub_str": "2026年9月25日",
+    "event_end_date": "2026-10-25",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-25T01:22:18.650925+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
+    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  選挙ドットコム",
+    "pub_iso": "2026-09-24T19:23:08+09:00",
+    "pub_str": "2026年9月24日",
+    "publisher": "選挙ドットコム",
+    "source": "google-news-inzai-shi",
+    "category": "市政・行政",
+    "collected_at": "2026-09-25T01:22:18.650925+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "はじめての家系図講座（2026年10月25日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=34309&store=chibant",
+    "pub_str": "2026年9月25日",
+    "event_end_date": "2026-10-25",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-09-25T01:22:18.650925+09:00",
     "retention_type": "regular"
   }
 ]
