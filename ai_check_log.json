@@ -7019,5 +7019,25 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=34297&store=chibant",
     "similar_to": "ゆきひろこ講師による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年10月10日(土)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260924-0938",
+    "date": "2026-09-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "台風25号 千葉県内は死者7人、行方不明2人に 印旛沼は堤防決壊 [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE5UZ0k2YllpN0dWOUJ2UFBhVzlDaG0td25mOFo1WVlpNS1OdGs4a0FCbk1fakVqU25CWVVxMmxiVHpISDRDTWthY1Mxd25wWGdlbml0bUM0Q1lQUmswckZpRWNpUGNTWUE?oc=5",
+    "similar_to": null,
+    "ai_reason": "堤防決壊・死者数の内容が既に採用済みの記事群と重複し新規性が乏しいため"
+  },
+  {
+    "run_ts": "20260924-0938",
+    "date": "2026-09-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【速報】印西の水没車両付近で男性死亡 千葉県内は死者6人、行方不明2人に 台風25号 - chiba",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE4yODBVdS1BanRZMm1pSTNPQmZLeFNqX052b2RrQi1CckgySkJBQS0yM2VINDBOa1J1aVhkaHAyaHFxeWQ0Rl9xdC1raHBSM2JFRFpfSk5jZ3BlYlZ5T1pz?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事と同一の出来事を伝える重複配信のため"
   }
 ]

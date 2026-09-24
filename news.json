@@ -5473,10 +5473,10 @@
   {
     "title": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE5NdnFWQnBQbzhXREQ4ai1WNmhLLWQtNW9kWlVTd1EzVUJFTGg2dHpDLTVCWFU3dlA0clFOLVlKZHhfWEUwSzY1Q0tIZUl1ZktiOHBueHd6WHJ3TkFPUGpzQUJOcndGNkE?oc=5",
-    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  マイナビニュース",
+    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  news.mynavi.jp",
     "pub_iso": "2026-09-14T17:30:00+09:00",
     "pub_str": "2026年9月14日",
-    "publisher": "マイナビニュース",
+    "publisher": "news.mynavi.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
@@ -6044,8 +6044,8 @@
     "title": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE4zZENNWXRQdGdwaExfZGk3WHNCRmdEY2cwM1Z3OHFnYTlEUzlIYTNEWGJ1bjYxdTE4QW1zRUE2emtna3RmZTVjd3BETFNJNnprOXQtRXJWWUdla1dKYVZmWkVRb2J4dUk?oc=5",
     "desc": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水  朝日新聞",
-    "pub_iso": "2026-09-24T07:28:51+09:00",
-    "pub_str": "2026年9月24日",
+    "pub_iso": "2026-09-23T09:00:00+09:00",
+    "pub_str": "2026年9月23日",
     "publisher": "朝日新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -6113,11 +6113,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "主要幹線道路等の通行止めの状況",
+    "title": "主要幹線道路等の通行止めの状況（令和8年9月24日7：00現在）",
     "link": "https://www.city.inzai.lg.jp/0000022584.html",
     "desc": "",
-    "pub_iso": "2026-09-23T18:46:37+09:00",
-    "pub_str": "2026年9月23日",
+    "pub_iso": "2026-09-24T08:22:14+09:00",
+    "pub_str": "2026年9月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6158,6 +6158,28 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-24T08:27:50.858755+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "クラシック・ガラへの誘い～オペラの世界へようこそ～（10月24日(土)）",
+    "link": "https://inzainet.com/event/culturehall-260914/",
+    "pub_str": "2026年9月24日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-09-24T09:37:31.472685+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市耐震相談会",
+    "link": "https://www.city.inzai.lg.jp/0000002070.html",
+    "desc": "",
+    "pub_iso": "2026-09-24T09:16:12+09:00",
+    "pub_str": "2026年9月24日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-24T09:37:31.472685+09:00",
     "retention_type": "regular"
   }
 ]
