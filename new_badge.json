@@ -1,12 +1,15 @@
 {
   "links": {
-    "https://news.google.com/articles/CBMiZ0FVX3lxTE1pVUNrd2RBNGRTVnlSNkZFSU9UTmpfXzBBQUF4UDVpZ3pBSnZGQ1psYXJjZjhFdWNEdVYwM0JUR2dwSGFyXy1QZjVVbkp0MFFvVjFjV2xNTjUtSFdVWnNYYVk5WXZtcXc?oc=5": "2026-09-24T08:28:17.271269+09:00",
-    "https://news.google.com/articles/CBMif0FVX3lxTFBwamVCdmZOR2NPZGJsai1wdkRVdHJ3MjdNVVc1WGVjTkNhY0RDeFpfakJKU2F3RnJiU1B6M3RnMVBDQjRaTTI3YktCaE1saW5NRzVIWUQ2TkpFeUl6REpZZ2FYNFRvbV9iaHpXY2ZncE9MR09DbjRFTEFCRER2VlE?oc=5": "2026-09-24T08:28:17.271269+09:00",
     "https://inzainet.com/event/culturehall-260914/": "2026-09-24T09:37:31.529437+09:00",
-    "https://www.city.inzai.lg.jp/0000002070.html": "2026-09-24T09:37:31.529437+09:00"
+    "https://www.city.inzai.lg.jp/0000002070.html": "2026-09-24T09:37:31.529437+09:00",
+    "https://chibanewtown.aeonmall.jp/event/2338ebdc-24de-4690-a50d-845a2f7430d7": "2026-09-24T12:30:19.586300+09:00",
+    "https://www.city.inzai.lg.jp/0000022587.html": "2026-09-24T12:30:19.586300+09:00",
+    "https://www.city.inzai.lg.jp/0000022463.html": "2026-09-24T12:30:19.586300+09:00",
+    "https://www.city.inzai.lg.jp/0000022583.html": "2026-09-24T12:30:55.062781+09:00",
+    "https://www.city.inzai.lg.jp/0000022573.html": "2026-09-24T12:30:55.062781+09:00"
   },
   "last_eligible": {
-    "link": "https://inzainet.com/event/culturehall-260914/",
-    "ts": "2026-09-24T09:37:31.529437+09:00"
+    "link": "https://chibanewtown.aeonmall.jp/event/2338ebdc-24de-4690-a50d-845a2f7430d7",
+    "ts": "2026-09-24T12:30:19.586300+09:00"
   }
 }

@@ -7039,5 +7039,45 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE4yODBVdS1BanRZMm1pSTNPQmZLeFNqX052b2RrQi1CckgySkJBQS0yM2VINDBOa1J1aVhkaHAyaHFxeWQ0Rl9xdC1raHBSM2JFRFpfSk5jZ3BlYlZ5T1pz?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事と同一の出来事を伝える重複配信のため"
+  },
+  {
+    "run_ts": "20260924-1230",
+    "date": "2026-09-24",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【レベル３土砂災害警報】千葉県・印西市に発表 13:12時点",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE9RNXpFdkRPVmVJNzFSa2RoWmpIdU1zVG1hZm55Y2l6TmY2SjVZdjJGRGs4SDB1dC1OcHJzLXQ1RWdEYkg3dnhqYzRPRFZ2cFZiQXBtSkNCMTlVWjQ3WXBHb0FneUU5THZjc0lCazlB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20260924-1230",
+    "date": "2026-09-24",
+    "ai_decision": "keep",
+    "similarity": 0.77,
+    "title": "令和8年度第2回印西市総合計画審議会開催のお知らせ（令和8年10月6日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022583.html",
+    "similar_to": "令和8年度第2回印西市立図書館協議会会議開催のお知らせ（令和8年9月30日開催）",
+    "ai_reason": "総合計画審議会と図書館協議会は別の会議体・別日程の開催案内で重複ではないため"
+  },
+  {
+    "run_ts": "20260924-1230",
+    "date": "2026-09-24",
+    "ai_decision": "keep",
+    "similarity": 0.75,
+    "title": "令和8年度第2回印西市国際化推進懇談会を開催しました",
+    "link": "https://www.city.inzai.lg.jp/0000022573.html",
+    "similar_to": "令和8年度第2回印西市総合教育会議を開催しました。",
+    "ai_reason": "国際化推進懇談会と総合教育会議は別の会議体で重複ではないため"
+  },
+  {
+    "run_ts": "20260924-1230",
+    "date": "2026-09-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "台風25号 千葉県内は死者7人、行方不明2人に 印旛沼は堤防決壊（朝日新聞）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE1wWnRTMjc2NXZBd2pMYVdDOThKRTNyODc4Y3RRSWh3dHJBUlhPb2xRTHprdWtvclQwS2RFYjY1c0lzUHEzcFVkTVhudTlrYWlib1c5S3pCdUFFMHFJekp1OHJoOTZEVDBOb3p2U0Q4bWliM3RvQTNsRkcyYVB6S1k?oc=5",
+    "similar_to": null,
+    "ai_reason": "先ほど除外した同一記事(朝日新聞、堤防決壊死者7人)のYahoo!ニュース経由の重複配信のため"
   }
 ]
