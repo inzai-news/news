@@ -7079,5 +7079,15 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE1wWnRTMjc2NXZBd2pMYVdDOThKRTNyODc4Y3RRSWh3dHJBUlhPb2xRTHprdWtvclQwS2RFYjY1c0lzUHEzcFVkTVhudTlrYWlib1c5S3pCdUFFMHFJekp1OHJoOTZEVDBOb3p2U0Q4bWliM3RvQTNsRkcyYVB6S1k?oc=5",
     "similar_to": null,
     "ai_reason": "先ほど除外した同一記事(朝日新聞、堤防決壊死者7人)のYahoo!ニュース経由の重複配信のため"
+  },
+  {
+    "run_ts": "20260924-1414",
+    "date": "2026-09-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印旛沼の堤防が決壊し大規模な冠水続く 台風25号で甚大な被害 10人死亡4人行方不明",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9HckxYank2Mm81UGM0TXpaWDdpVDVHeEliRGVDZXh2eVJXSTRUQUJIT0hZd2lfZFVmVnhaUE90WXJSbTM4VUE1N1hwMDBOVzRvT2dxTDd0TVlqd01ydHc2ZEJfZVctZFFzdy00dDVCRlI3NmpBWmJ2VTJyRmtqVjA?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの「台風25号被害拡大10人死亡4人不明に」記事と同一内容の重複配信のため"
   }
 ]
