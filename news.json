@@ -2683,7 +2683,7 @@
     "title": "災害情報の提供をお願いします",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000014937.html",
     "desc": "",
-    "pub_iso": "2026-09-21T03:25:58+09:00",
+    "pub_iso": "2026-09-21T00:00:01+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -5980,8 +5980,8 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-09-24T19:45:46+09:00",
-    "pub_str": "2026年9月24日",
+    "pub_iso": "2026-09-25T09:26:08+09:00",
+    "pub_str": "2026年9月25日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6109,10 +6109,10 @@
   {
     "title": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE5jUUF5YlBJMVo3ZUxxMVByaWRFMW1pODVleG9UX1g1THp5SXVobzBGZzREUFY4cWNyWEpkWTJYU0dscXlnNjEtYWdIZEpFQQ?oc=5",
-    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  fnn.jp",
+    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  FNNプライムオンライン",
     "pub_iso": "2026-09-23T17:37:00+09:00",
     "pub_str": "2026年9月23日",
-    "publisher": "fnn.jp",
+    "publisher": "FNNプライムオンライン",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T20:09:20.881139+09:00",
@@ -6292,7 +6292,7 @@
     "title": "台風25号に伴う災害ごみの処分について",
     "link": "https://www.city.inzai.lg.jp/0000022585.html",
     "desc": "",
-    "pub_iso": "2026-09-25T08:16:19+09:00",
+    "pub_iso": "2026-09-25T09:26:54+09:00",
     "pub_str": "2026年9月25日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6310,6 +6310,36 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-25T09:04:59.983589+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "オリジナルトートバッグを作ろう！！",
+    "link": "https://chibanewtown.aeonmall.jp/event/d318bca8-58e6-4af8-8b85-9a5879869e30",
+    "pub_str": "2026年9月25日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-25T09:37:35.900675+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "沖縄物産展　美ら島市場",
+    "link": "https://chibanewtown.aeonmall.jp/event/768dc124-a9f0-4c84-9c91-0a7c1b864ad3",
+    "pub_str": "2026年9月25日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-25T09:37:35.900675+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "楽しく作ろう♪手作りハロウィンドーム",
+    "link": "https://chibanewtown.aeonmall.jp/event/9ae4ee7b-80fa-4d7e-9c60-0b8d184e94aa",
+    "pub_str": "2026年9月25日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-25T09:37:35.900675+09:00",
     "retention_type": "regular"
   }
 ]
