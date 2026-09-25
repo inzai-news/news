@@ -7109,5 +7109,15 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=34309&store=chibant",
     "similar_to": "はじめてのミニ四駆作り！（2026年09月27日(日)）",
     "ai_reason": "家系図講座とミニ四駆作りは全く別内容のイベントで、タイトル構造が似ているだけの別ニュースのため"
+  },
+  {
+    "run_ts": "20260925-0905",
+    "date": "2026-09-25",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "令和8年度第2回印西市スポーツ推進審議会開催結果（令和8年8月21日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022551.html",
+    "similar_to": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
+    "ai_reason": "スポーツ推進審議会と図書館協議会は別の会議体・別日程の開催結果で重複ではないため"
   }
 ]

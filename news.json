@@ -683,10 +683,10 @@
   {
     "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  enjoytokyo.jp",
+    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
     "pub_iso": "2026-07-01T23:34:45+09:00",
     "pub_str": "2026年7月1日",
-    "publisher": "enjoytokyo.jp",
+    "publisher": "レッツエンジョイ東京",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -760,10 +760,10 @@
   {
     "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
-    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  lnews.jp",
+    "desc": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催  物流ニュースのLNEWS",
     "pub_iso": "2026-06-25T16:00:00+09:00",
     "pub_str": "2026年6月25日",
-    "publisher": "lnews.jp",
+    "publisher": "物流ニュースのLNEWS",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "retention_type": "regular"
@@ -5459,7 +5459,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "マイナビニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
     "retention_type": "regular"
@@ -6109,10 +6109,10 @@
   {
     "title": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE5jUUF5YlBJMVo3ZUxxMVByaWRFMW1pODVleG9UX1g1THp5SXVobzBGZzREUFY4cWNyWEpkWTJYU0dscXlnNjEtYWdIZEpFQQ?oc=5",
-    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  FNNプライムオンライン",
+    "desc": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か  fnn.jp",
     "pub_iso": "2026-09-23T17:37:00+09:00",
     "pub_str": "2026年9月23日",
-    "publisher": "FNNプライムオンライン",
+    "publisher": "fnn.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T20:09:20.881139+09:00",
@@ -6276,6 +6276,40 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-25T01:22:18.650925+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "チバニュウひろばのご案内",
+    "link": "https://chibanewtown.aeonmall.jp/event/9ee3e41b-b85e-4f9c-9cb7-539d037f9402",
+    "pub_str": "2026年9月9日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-09-25T09:04:59.983589+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風25号に伴う災害ごみの処分について",
+    "link": "https://www.city.inzai.lg.jp/0000022585.html",
+    "desc": "",
+    "pub_iso": "2026-09-25T08:16:19+09:00",
+    "pub_str": "2026年9月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-25T09:04:59.983589+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度第2回印西市スポーツ推進審議会開催結果（令和8年8月21日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022551.html",
+    "desc": "",
+    "pub_iso": "2026-09-25T09:00:00+09:00",
+    "pub_str": "2026年9月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-25T09:04:59.983589+09:00",
     "retention_type": "regular"
   }
 ]
