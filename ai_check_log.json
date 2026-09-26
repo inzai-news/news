@@ -7119,5 +7119,25 @@
     "link": "https://www.city.inzai.lg.jp/0000022551.html",
     "similar_to": "令和8年度第1回印西市立図書館協議会開催結果（令和8年7月8日開催）",
     "ai_reason": "スポーツ推進審議会と図書館協議会は別の会議体・別日程の開催結果で重複ではないため"
+  },
+  {
+    "run_ts": "20260926-1021",
+    "date": "2026-09-26",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "プロロジス／千葉県印西市「プロロジスパーク千葉ニュータウン」内覧会7月16・17日開催",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBnSDZZTk1jVGIzQXhMQmpSZzRxWjNpRFdYQ2ZOaUplQjRGNVpibUlCNlVXbktBWnRMM2t0eHlvYmhFM2twRzBENEx5NHVmM0pjdm5VOA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260926-1021",
+    "date": "2026-09-26",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西の水没車両近くで死亡男性発見…台風の死者は8人に　行方不明は5人、捜索続く",
+    "link": "https://news.google.com/articles/CBMi_gFBVV95cUxNQWg4bGhzOEhuVHdVREp2OXR2eElBLVZLcUM2dmloZ1Q3MC16NnU0Nnp5alJhQ2ItR0Y4SkVtNE5xd1ZoZ0VSQzE5eGJNakRUbUlFSmJWbUhnM1Fib0MwR2dsc1I0WGxMSTRmQ1JSQmo2bjYxYWtQbDZtR3ExZ3k5S0tnOFVTTGo2MDJfamluNm5qUm0yZkd4T05yNjFUcG9KOXZiMWxmNUpTSXBzcGpRRTNBOEgyUTBuZm5nR0tQS3JOU0M0OFI3MElkX2xQQWZKQXUwSC1CaW03a0loc3VVeXY1dzJlQXRXcmlrUGY0OVZDR1A1OG51cWkxcWI2QdIBrgFBVV95cUxPYlNmaXdXU2twY1dMOEZfc0pCSWs3Ml9fcjhhX2ZLb0M5aDU1aWpKMmE5Y25wNGkzX2hXUHZSbG5YcG1KbGdOdm5mZ1NfLTUwdVJKeVJ6cDMyeUNubFZmWmRRMV9zekkyV1BaQW04N2RVR0lJZmhiQkJEZkk3czBtQVRRcThNdnp3VlQwckt3TU5VRlpsanhfVjR4cTEzRVF0M3hBWktXNjZIb3QyaXc?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事群と同一の出来事を伝える、dメニューニュース経由の重複配信のため"
   }
 ]
