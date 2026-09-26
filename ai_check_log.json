@@ -7149,5 +7149,45 @@
     "link": "https://news.google.com/articles/CBMimAFBVV95cUxORl8zTGk5Z0l4ZjJXbHFBb0t4UDBKREIxbThPOFF5VTBDeVRvN3dKY3EwV2NUZG5vRFlHZlNDdjJ4OXVMc3U0ZzdXWmJyX2l5OU1DeVFvWkl2eW51dEpnY2dsaFhzUi0wXzdmQkgxNnVvMkJMblRTWmNkeV9NLUR5UDZSNWhEb0tXdmY4VVZiSDNtank1R3J5cNIBmAFBVV95cUxORl8zTGk5Z0l4ZjJXbHFBb0t4UDBKREIxbThPOFF5VTBDeVRvN3dKY3EwV2NUZG5vRFlHZlNDdjJ4OXVMc3U0ZzdXWmJyX2l5OU1DeVFvWkl2eW51dEpnY2dsaFhzUi0wXzdmQkgxNnVvMkJMblRTWmNkeV9NLUR5UDZSNWhEb0tXdmY4VVZiSDNtank1R3J5cA?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事群と同一の出来事を伝える、Infoseek経由の重複配信のため"
+  },
+  {
+    "run_ts": "20260926-1437",
+    "date": "2026-09-26",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "歌声海越え、本場の教会へ １０月に米国で披露「自分らしく」 印西の市民ゴスペルグループ",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE5FSC13Y1BhendGNFpJSGVFRV8xcWpqc3RkU2dDbThrbzRpNUIzY0ZtdngzM3habWFEOXoyTDdCNGRkTnNEUWNiY0dQdjNoT0trcGVBYzR1c1A?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260926-1437",
+    "date": "2026-09-26",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "医師の男を逮捕、妻の顔に複数回暴行した疑い 台風の中出掛け口論か 印西署",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1CTW5QWXozdFBmdlpNbkpmZmxOV3UwN3I2c051djZlUWVUbFBmTE9DUUt5ZGhQcTZSUHRneEk2alctWWZuMjl6eWR3b1pLZFJHbFB1YWNXTEg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260926-1437",
+    "date": "2026-09-26",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "米グーグル、印西にデータセンター 日本初、２３年稼働",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE5GMTBHQzJKNHhXdXV0S2NrSDBNTU1za2lVY2tnTTJyN0Y4eVhpMGtMZldjeTZlRzF6c183aDR3TGgtLXBDMS0yVjIwRjE4UUtsRnJIWEhLZw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260926-1437",
+    "date": "2026-09-26",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "白井で車２台焼ける 印西署",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE5mRXgtYWNENTM1elF5QkdtTG0zak40a1lJQ3BLMzgzUGY2b0RtOUx0Y1BoN2EyQzRpQl9fQXFUQUFwZU5MMklrYnVUWG9nTU9sZDdMY0ZEYw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
