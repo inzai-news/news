@@ -7189,5 +7189,15 @@
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTE5mRXgtYWNENTM1elF5QkdtTG0zak40a1lJQ3BLMzgzUGY2b0RtOUx0Y1BoN2EyQzRpQl9fQXFUQUFwZU5MMklrYnVUWG9nTU9sZDdMY0ZEYw?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260926-2036",
+    "date": "2026-09-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9SSmZsTjU3M2FpVGZJZEFXSUY1SXVkOVFtYmtCdlRlVW5HWlI5TmJKZ2RNaFFhcXpwNHFmdlU4UEFCTThueVhBQlowOFJGODd2eGNpSktuYThyWmJVOEdXUUVTakJ3RXY5REhpbjUxWXlpWWNLZWtSTzlfeVZURmM?oc=5",
+    "similar_to": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
