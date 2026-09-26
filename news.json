@@ -5947,7 +5947,7 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-09-26T09:37:20+09:00",
+    "pub_iso": "2026-09-26T12:05:21+09:00",
     "pub_str": "2026年9月26日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6384,10 +6384,10 @@
   {
     "title": "千葉県／国道296号・409号・465号、千葉八街横芝線など78か所で通行止め、印旛沼の浸水状況公表（24日7時）",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBjT09WcF9lZG9YMVNIZkVuWG5NN1NFOUthQ1M0NXF2NE1mZjdwU3JSNzBhX0pYczBFcGNMd25obTQ0emhzOVVkM2Y1eHZoVjRxY1Jwcw?oc=5",
-    "desc": "千葉県／国道296号・409号・465号、千葉八街横芝線など78か所で通行止め、印旛沼の浸水状況公表（24日7時）  トラックニュース",
+    "desc": "千葉県／国道296号・409号・465号、千葉八街横芝線など78か所で通行止め、印旛沼の浸水状況公表（24日7時）  trucknews.biz",
     "pub_iso": "2026-09-25T11:15:00+09:00",
     "pub_str": "2026年9月25日",
-    "publisher": "トラックニュース",
+    "publisher": "trucknews.biz",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-26T01:38:38.350520+09:00",
@@ -6403,6 +6403,18 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-26T01:38:38.350520+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "被災住宅の応急修理",
+    "link": "https://www.city.inzai.lg.jp/0000022599.html",
+    "desc": "",
+    "pub_iso": "2026-09-26T10:03:53+09:00",
+    "pub_str": "2026年9月26日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-26T12:37:32.184081+09:00",
     "retention_type": "regular"
   }
 ]

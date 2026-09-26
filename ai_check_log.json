@@ -7139,5 +7139,15 @@
     "link": "https://news.google.com/articles/CBMi_gFBVV95cUxNQWg4bGhzOEhuVHdVREp2OXR2eElBLVZLcUM2dmloZ1Q3MC16NnU0Nnp5alJhQ2ItR0Y4SkVtNE5xd1ZoZ0VSQzE5eGJNakRUbUlFSmJWbUhnM1Fib0MwR2dsc1I0WGxMSTRmQ1JSQmo2bjYxYWtQbDZtR3ExZ3k5S0tnOFVTTGo2MDJfamluNm5qUm0yZkd4T05yNjFUcG9KOXZiMWxmNUpTSXBzcGpRRTNBOEgyUTBuZm5nR0tQS3JOU0M0OFI3MElkX2xQQWZKQXUwSC1CaW03a0loc3VVeXY1dzJlQXRXcmlrUGY0OVZDR1A1OG51cWkxcWI2QdIBrgFBVV95cUxPYlNmaXdXU2twY1dMOEZfc0pCSWs3Ml9fcjhhX2ZLb0M5aDU1aWpKMmE5Y25wNGkzX2hXUHZSbG5YcG1KbGdOdm5mZ1NfLTUwdVJKeVJ6cDMyeUNubFZmWmRRMV9zekkyV1BaQW04N2RVR0lJZmhiQkJEZkk3czBtQVRRcThNdnp3VlQwckt3TU5VRlpsanhfVjR4cTEzRVF0M3hBWktXNjZIb3QyaXc?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事群と同一の出来事を伝える、dメニューニュース経由の重複配信のため"
+  },
+  {
+    "run_ts": "20260926-1237",
+    "date": "2026-09-26",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉・印西の水没車両近くで死亡男性発見…台風の死者は8人に　行方不明は5人、捜索続く",
+    "link": "https://news.google.com/articles/CBMimAFBVV95cUxORl8zTGk5Z0l4ZjJXbHFBb0t4UDBKREIxbThPOFF5VTBDeVRvN3dKY3EwV2NUZG5vRFlHZlNDdjJ4OXVMc3U0ZzdXWmJyX2l5OU1DeVFvWkl2eW51dEpnY2dsaFhzUi0wXzdmQkgxNnVvMkJMblRTWmNkeV9NLUR5UDZSNWhEb0tXdmY4VVZiSDNtank1R3J5cNIBmAFBVV95cUxORl8zTGk5Z0l4ZjJXbHFBb0t4UDBKREIxbThPOFF5VTBDeVRvN3dKY3EwV2NUZG5vRFlHZlNDdjJ4OXVMc3U0ZzdXWmJyX2l5OU1DeVFvWkl2eW51dEpnY2dsaFhzUi0wXzdmQkgxNnVvMkJMblRTWmNkeV9NLUR5UDZSNWhEb0tXdmY4VVZiSDNtank1R3J5cA?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの「水没車両近くでの男性死亡」記事群と同一の出来事を伝える、Infoseek経由の重複配信のため"
   }
 ]
