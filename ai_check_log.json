@@ -7229,5 +7229,15 @@
     "link": "https://chiba-lunch.com/nishi-shiroi-food-outlet-unicorn/?utm_source=rss&utm_medium=rss&utm_campaign=nishi-shiroi-food-outlet-unicorn",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260928-0037",
+    "date": "2026-09-28",
+    "ai_decision": "exclude",
+    "similarity": 0.37,
+    "title": "【白井市】今年5月に桜台にオープンした「中華そば専門 田中そば店 千葉ニュータウン店」に行ってきました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/27/tanakasobatenchibant/",
+    "similar_to": "【2026年5月3日 開店】中華そば専門 田中そば店 千葉ニュータウン店",
+    "ai_reason": "既にstore_event登録済みの「田中そば店 千葉ニュータウン店」(5月3日開店)と同じ店舗の来店レポートで重複のため"
   }
 ]
