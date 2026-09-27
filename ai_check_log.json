@@ -7209,5 +7209,25 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTFA4aDZJNl9ESGdyQzhFVE8xUkhFZE1hUjZJcHU3aWZmdFVabkd4RHRERjN2N0JhZnZsRFpjVUw0dE9yMl9wSEN6bkJMMU5MMl9hN0UtWEpERmhMcm5wRlM3Y09hYTR5dE9zWlE3T1FPekZMc2EzZ2Y0VUpZUy15XzQ?oc=5",
     "similar_to": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260927-2237",
+    "date": "2026-09-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市×国立環境研究所】自然のチカラで未来をつくる。「グリーンインフラ・NbS推進協定」を締結！",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTFBidkxQWGNsX29PZHlRaTduZmVxZUU2MHdQbUoySTEwNVNMNW9xRU1FLVg3TFNIb3ltdGVXeUlfVmR2NXlYWExVTktaZ0VlbExVN0Rud2hZeFZHTm9GTEtSdGw3SGpnaV9BYmc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20260927-2237",
+    "date": "2026-09-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷西白井駅前に食品アウトレット「ユニコーン」がオープン！激安食品と出会えるかも？",
+    "link": "https://chiba-lunch.com/nishi-shiroi-food-outlet-unicorn/?utm_source=rss&utm_medium=rss&utm_campaign=nishi-shiroi-food-outlet-unicorn",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
