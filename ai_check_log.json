@@ -7199,5 +7199,15 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9SSmZsTjU3M2FpVGZJZEFXSUY1SXVkOVFtYmtCdlRlVW5HWlI5TmJKZ2RNaFFhcXpwNHFmdlU4UEFCTThueVhBQlowOFJGODd2eGNpSktuYThyWmJVOEdXUUVTakJ3RXY5REhpbjUxWXlpWWNLZWtSTzlfeVZURmM?oc=5",
     "similar_to": "千葉・印旛沼で堤防決壊 住宅孤立し90人近く避難 コイ500匹流出 県内では台風25号の被害続く あす新たな台風発生か",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260927-2104",
+    "date": "2026-09-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水（朝日新聞）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFA4aDZJNl9ESGdyQzhFVE8xUkhFZE1hUjZJcHU3aWZmdFVabkd4RHRERjN2N0JhZnZsRFpjVUw0dE9yMl9wSEN6bkJMMU5MMl9hN0UtWEpERmhMcm5wRlM3Y09hYTR5dE9zWlE3T1FPekZMc2EzZ2Y0VUpZUy15XzQ?oc=5",
+    "similar_to": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
