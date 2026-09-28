@@ -7259,5 +7259,15 @@
     "link": "https://news.google.com/articles/CBMifkFVX3lxTE1HQTViV1dQc01RQkF6cHUyTVhyZnNKQ3UyT3pnUnBxSWZhVUtBN0Q5LWliM1U5S2xKTDM1NjB6UmpvSHJUZk9iNjJXdV9fcUtEN1BwZUE4UXRCR2FLakpxMGlQUkE1bHVURFhfS0xCR3g5WmVaeEVVTW1Ecmlnd9IBgwFBVV95cUxPS1kwV3FEakV3YXFsanpIazM4WFc3X3RjQU9LelZ3WWt5SmtDSFNXZG9VYmhBSDZHc19DeU5fN25LNHJZd0dTOWJsUklTT0ZyRFRkWDR2VVp6d0piVHZzQ1NEcUlMYTVYZGJnc0Fac3FXTlJfMC1EVnVuMmd4NVljNHNxSQ?oc=5",
     "similar_to": "【速報】車から女性振り落としたか　印西の路上、殺人未遂疑い男逮捕　元妻との間でトラブルか",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20260929-0753",
+    "date": "2026-09-29",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【白鳥の郷】印西市 本埜(もとの)のハクチョウさん(2025/12/13)",
+    "link": "https://news.google.com/articles/CBMiQkFVX3lxTFBCcHBLbEhFeUhNUTJNRF92ZnpEeVAxS1AtZlBPYkN4dG96SzR3YkhpeGU0WGx2SHd1RDRDQ2EzejdBUQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "2025年12月撮影のハクチョウ観察YouTube個人動画が今頃検索にヒットしたもので、季節外れかつ現在のニュース価値がないため除外"
   }
 ]
