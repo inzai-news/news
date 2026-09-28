@@ -7249,5 +7249,15 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE9LWGJ3R0RyT1REUnlYb0gyTG9tOHBYYzgxQUdCX3Y2MHpzVFlCZXlPTFNJMGc4U3pmSTU1d0tnVjlaMTR0ZGRYMklKTkFWNllEY2NXUlM2STk?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260929-0005",
+    "date": "2026-09-29",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【速報】車から女性振り落としたか　印西の路上、殺人未遂疑い男逮捕　元妻との間でトラブルか",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE1HQTViV1dQc01RQkF6cHUyTVhyZnNKQ3UyT3pnUnBxSWZhVUtBN0Q5LWliM1U5S2xKTDM1NjB6UmpvSHJUZk9iNjJXdV9fcUtEN1BwZUE4UXRCR2FLakpxMGlQUkE1bHVURFhfS0xCR3g5WmVaeEVVTW1Ecmlnd9IBgwFBVV95cUxPS1kwV3FEakV3YXFsanpIazM4WFc3X3RjQU9LelZ3WWt5SmtDSFNXZG9VYmhBSDZHc19DeU5fN25LNHJZd0dTOWJsUklTT0ZyRFRkWDR2VVp6d0piVHZzQ1NEcUlMYTVYZGJnc0Fac3FXTlJfMC1EVnVuMmd4NVljNHNxSQ?oc=5",
+    "similar_to": "【速報】車から女性振り落としたか　印西の路上、殺人未遂疑い男逮捕　元妻との間でトラブルか",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
