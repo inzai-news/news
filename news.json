@@ -5902,8 +5902,8 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-09-27T17:31:50+09:00",
-    "pub_str": "2026年9月27日",
+    "pub_iso": "2026-09-28T08:44:53+09:00",
+    "pub_str": "2026年9月28日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6405,6 +6405,28 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-28T00:37:35.968649+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【白井市・印西市】もしもの時、あなたの行動が命を救う。印西地区消防組合による上級救命講習が10月17日（土）開催。受講受付期間は10月2日（金）まで",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/28/inzaicprandaedclass2026oct/",
+    "pub_str": "2026年9月28日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-09-28T09:13:24.824714+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年台風25号で被災した農業者の皆様へ",
+    "link": "https://www.city.inzai.lg.jp/0000022616.html",
+    "desc": "",
+    "pub_iso": "2026-09-28T08:35:20+09:00",
+    "pub_str": "2026年9月28日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-09-28T09:13:24.824714+09:00",
     "retention_type": "regular"
   }
 ]
