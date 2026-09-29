@@ -7269,5 +7269,25 @@
     "link": "https://news.google.com/articles/CBMiQkFVX3lxTFBCcHBLbEhFeUhNUTJNRF92ZnpEeVAxS1AtZlBPYkN4dG96SzR3YkhpeGU0WGx2SHd1RDRDQ2EzejdBUQ?oc=5",
     "similar_to": null,
     "ai_reason": "2025年12月撮影のハクチョウ観察YouTube個人動画が今頃検索にヒットしたもので、季節外れかつ現在のニュース価値がないため除外"
+  },
+  {
+    "run_ts": "20260929-0924",
+    "date": "2026-09-29",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "新議長に藤代氏 副議長は酢﨑氏 印西市議会",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFBLWDk0aGR3X21aUEtJTlBZdXRYcVkxRDVxZWtOZm5YQVVMaGotQXhIRGJDT1ZRbndCcXpIdmJCQ2RpR0NpUkplaUgwYmhjWGREZzlWWVcwQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20260929-0924",
+    "date": "2026-09-29",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【速報】ボンネットから女性振り落としたか 印西の路上、殺人未遂疑い男逮捕 元妻との間でトラブルか",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE94Vlc2VjE0dDgzNlN6aGk1Z2ZpTl9OTXU1UjE3UGF2bFlpX2JWQW8yRW1lc3c5ZTJneUktWHZhZHM5bzhnZnVlb08xTmluMmI2bk1VM3B4UkU?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]

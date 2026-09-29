@@ -2616,10 +2616,10 @@
   {
     "title": "印西シティリレーマラソン 2026",
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE5uM2xiR1hEUjRBeFZZQUJhV3lZZVZMbEEyV2M5b1BVRENCSmhYYWFQY1pRWWwyYTdNYWE4dnp1V1RlR0VWT2FYbjBvaFM?oc=5",
-    "desc": "印西シティリレーマラソン 2026  RUNNET",
+    "desc": "印西シティリレーマラソン 2026  runnet.jp",
     "pub_iso": "2026-08-06T16:33:31+09:00",
     "pub_str": "2026年8月6日",
-    "publisher": "RUNNET",
+    "publisher": "runnet.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-08-11T18:01:39.251471+09:00",
@@ -5969,12 +5969,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在）",
+    "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在） - chiba",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFA5c0FleHpPZU5fSUw1VnBQejFoZmdsUGdaRmpLYjZNTUQ3SVVzYzlFbXA2Uzdkc3NwUlJZUUp2V296eERIZHRMczJFMUg1ci1xMlBYOVFMVE1KSU1vZFcw?oc=5",
-    "desc": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在）  千葉テレビ放送株式会社",
+    "desc": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在）  chiba-tv.com",
     "pub_iso": "2026-09-24T20:37:37+09:00",
     "pub_str": "2026年9月24日",
-    "publisher": "千葉テレビ放送株式会社",
+    "publisher": "tv.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T18:37:33.646570+09:00",
@@ -6343,7 +6343,7 @@
     "pub_iso": "2026-09-25T11:15:00+09:00",
     "pub_str": "2026年9月25日",
     "publisher": "トラックニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-26T01:38:38.350520+09:00",
     "retention_type": "regular"
@@ -6351,11 +6351,11 @@
   {
     "title": "医師の男を逮捕、妻の顔に複数回暴行した疑い 台風の中出掛け口論か 印西署（千葉日報オンライン）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9RdFMwQW9XTklZa3lxUFdqYklYSUZMWmJONjAzVmJSWVpLNjUxOXc4dmc3V3g2empJQlZCcGFQRHNOYmE4eGZKS2FQSmhxRzFaaEtHZXVTcUluTE9DWXI3TGhfMndsbnFyWENQck1rZnVNM0p4MTNHazI4T0VxU1U?oc=5",
-    "desc": "医師の男を逮捕、妻の顔に複数回暴行した疑い 台風の中出掛け口論か 印西署（千葉日報オンライン）  news.yahoo.co.jp",
+    "desc": "医師の男を逮捕、妻の顔に複数回暴行した疑い 台風の中出掛け口論か 印西署（千葉日報オンライン）  Yahoo!ニュース",
     "pub_iso": "2026-09-25T19:02:40+09:00",
     "pub_str": "2026年9月25日",
-    "publisher": "news.yahoo.co.jp",
-    "source": "google-news-inzai-chiba",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-26T01:38:38.350520+09:00",
     "retention_type": "regular"
