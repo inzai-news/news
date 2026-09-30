@@ -7289,5 +7289,35 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE94Vlc2VjE0dDgzNlN6aGk1Z2ZpTl9OTXU1UjE3UGF2bFlpX2JWQW8yRW1lc3c5ZTJneUktWHZhZHM5bzhnZnVlb08xTmluMmI2bk1VM3B4UkU?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261001-0033",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "令和8年度会計年度任用職員の募集について（市立保育園）",
+    "link": "https://www.city.inzai.lg.jp/0000022586.html",
+    "similar_to": "令和8年度会計年度任用職員の募集について（市立保育園）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261001-0033",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【千葉･印旛沼】成田市･印西市･栄町で警報発表基準引き下げ 堤防の復旧作業進む…沼側と田んぼ側遮断",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE8wTWNobmNZOXllY0Zuejd3NUdUclFCRXNYbU9aRHRuMElTVnNwdzhYdXIxd1BBSy1GY0hUWFFObmJhVDh4YWJKRDlrQWxOSWRVN1V1QWUzUWZIM2ph?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20261001-0033",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE5kdF9LM1JjRmZyNHJnNjhsc1RYbWd6aE04Z3JMZXhxOGRTVVMyakgtQWRfb0hIWjIta2RlMDFBTGg3THFDNDltMGlXRGxlZWNwSlhJZ1Y0NW9zbkNHZXdKVl81Q3k0YThfZlFRdElBd0hSUQ?oc=5",
+    "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
