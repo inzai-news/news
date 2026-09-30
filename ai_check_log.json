@@ -7319,5 +7319,25 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE5kdF9LM1JjRmZyNHJnNjhsc1RYbWd6aE04Z3JMZXhxOGRTVVMyakgtQWRfb0hIWjIta2RlMDFBTGg3THFDNDltMGlXRGxlZWNwSlhJZ1Y0NW9zbkNHZXdKVl81Q3k0YThfZlFRdElBd0hSUQ?oc=5",
     "similar_to": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261001-0635",
+    "date": "2026-10-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】移動スーパーの運行開始について（平賀学園台地区） | 印西市のプレスリリース",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE5reHNWS0Vxb1lCa0M3ZnhSc3pQQmdpRFFOMldWZEVidVVWZnVQeDRZTk1MWGNiaTBlWDZCY2ZIYUdpUXpUdmRVRC1palI1cVJuRUNfdkdGSGdfM2dxM3VESHR6NUtGTlRaSFE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261001-0635",
+    "date": "2026-10-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】移動スーパーの運行開始について（平賀学園台地区）",
+    "link": "https://prtimes.jp/main/html/rd/p/000000029.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
