@@ -7339,5 +7339,25 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000029.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261001-1635",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市小林で危険運転　９月２７日［解決］",
+    "link": "https://news.google.com/articles/CBMinAFBVV95cUxNYkpjT3J2OFRza2hfMU9XOVc1NGF5cGdyaE43SGlTRmwwTi11Q1hVTWRDb08zMm1YNGNDUHhDdUMyeW53aDlTUGJaLWlMTUcyZVlGdnVENVhjSk1HWTFMRWZhUnVmU3dYU1htazBrOUVENGg5SmE1OHVEbUdCMDhKM2dwRWxrY3lJSjY2RW9CUmM2MF9nM2x3ejJCZUrSAaIBQVVfeXFMTmtyZWs2c2tXZlo1T1locDhUdndGT25WUWYzZ3RfTlBKek9YTFF6QUVaaldsTng0QUlQN3IyM3dRa2xHdWVSUlB3WTJHT0kxSk5IVDU5LWRwWnh4LWZLT0cxUE84YTh5aGZib0ZtR3hFSzFfNGJzb2xkdGo0RzVtMDlaWG15MWJVX3FTejhlbGFsUzVOYjRGc08wa1BmQXBkVkRR?oc=5",
+    "similar_to": "（千葉）印西市小林で危険運転　９月２７日［解決］",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261001-1635",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE9SaEI2cjMyajNqUFNLZnUyaDJsdzRyN25nNXpMSzZ3Rk4tVkpTbmFFZE1jRGZSdl9BMWdtRk1lTU1WUVdKcUxLWkJBTlF0enJ6Q3pDc1gwMG9MVEZQcWpuOC1GV3lyM3BoTDlz?oc=5",
+    "similar_to": "※開催中止※【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

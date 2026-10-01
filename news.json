@@ -2879,10 +2879,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "221616.com",
+    "publisher": "中古車のガリバー",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -5260,10 +5260,10 @@
   {
     "title": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE5NdnFWQnBQbzhXREQ4ai1WNmhLLWQtNW9kWlVTd1EzVUJFTGg2dHpDLTVCWFU3dlA0clFOLVlKZHhfWEUwSzY1Q0tIZUl1ZktiOHBueHd6WHJ3TkFPUGpzQUJOcndGNkE?oc=5",
-    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  マイナビニュース",
+    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  news.mynavi.jp",
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
-    "publisher": "マイナビニュース",
+    "publisher": "news.mynavi.jp",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
@@ -6248,7 +6248,7 @@
     "title": "令和8年9月台風第25号に伴う災害対策本部会議",
     "link": "https://www.city.inzai.lg.jp/0000022615.html",
     "desc": "",
-    "pub_iso": "2026-10-01T13:05:07+09:00",
+    "pub_iso": "2026-10-01T15:23:03+09:00",
     "pub_str": "2026年10月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6591,6 +6591,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-01T14:28:37.102935+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "子育てコンシェルジュによる「子育てサロン」を開催します",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022540.html",
+    "desc": "",
+    "pub_iso": "2026-10-01T16:05:54+09:00",
+    "pub_str": "2026年10月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-01T16:35:20.920670+09:00",
     "retention_type": "regular"
   }
 ]
