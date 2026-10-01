@@ -2567,11 +2567,11 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "xtech.nikkei.com",
-    "source": "google-news-inzai-shi",
+    "publisher": "日経クロステック（xTECH）",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
     "retention_type": "regular"
@@ -3916,10 +3916,10 @@
   {
     "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
-    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  news.web.nhk",
+    "desc": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開  NHKニュース",
     "pub_iso": "2026-08-18T16:00:00+09:00",
     "pub_str": "2026年8月18日",
-    "publisher": "news.web.nhk",
+    "publisher": "NHKニュース",
     "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-08-30T17:29:12.603970+09:00",
@@ -5774,8 +5774,8 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-09-30T09:10:20+09:00",
-    "pub_str": "2026年9月30日",
+    "pub_iso": "2026-10-01T13:38:26+09:00",
+    "pub_str": "2026年10月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6248,7 +6248,7 @@
     "title": "令和8年9月台風第25号に伴う災害対策本部会議",
     "link": "https://www.city.inzai.lg.jp/0000022615.html",
     "desc": "",
-    "pub_iso": "2026-10-01T10:13:43+09:00",
+    "pub_iso": "2026-10-01T13:05:07+09:00",
     "pub_str": "2026年10月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6579,6 +6579,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-01T12:37:03.162355+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "災害見舞金",
+    "link": "https://www.city.inzai.lg.jp/0000022640.html",
+    "desc": "",
+    "pub_iso": "2026-10-01T12:00:00+09:00",
+    "pub_str": "2026年10月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-01T14:28:37.102935+09:00",
     "retention_type": "regular"
   }
 ]
