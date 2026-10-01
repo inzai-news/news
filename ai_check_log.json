@@ -7359,5 +7359,25 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE9SaEI2cjMyajNqUFNLZnUyaDJsdzRyN25nNXpMSzZ3Rk4tVkpTbmFFZE1jRGZSdl9BMWdtRk1lTU1WUVdKcUxLWkJBTlF0enJ6Q3pDc1gwMG9MVEZQcWpuOC1GV3lyM3BoTDlz?oc=5",
     "similar_to": "※開催中止※【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261001-2037",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
+    "link": "https://news.google.com/articles/CBMib0FVX3lxTE9hVG40RHF4WXptRE5iZzlqZGFGQVRZMk1ZRVFQc1FjWkRlaS1UTm9maWNzTEdualRKMm9oekJCMUxua1FPWUcwSmFvVG9YTEtGVUtOTmJaQnJRVUQ2THdVem9KUy1hZW8tdEdQMS1NVdIBdEFVX3lxTE9JVmtlMnlPbENtM0xubXUzSXpHLTZYaVpRLTVCbmE1UVAtSHVlNnJoTTduaGh0YlRZcXE0RTV4a29VeUZIYXJCclYwdHlobEVxQ2t4ZUpfZWJMOWZNWThuOE9uU0N0UWZfcS14OC1zaW1hN3Bp?oc=5",
+    "similar_to": "千葉・印西市で車両水没 20代男女を消防が救助 けが人なし",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261001-2037",
+    "date": "2026-10-01",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西牧の原駅で朝のご挨拶",
+    "link": "https://news.google.com/articles/CBMigAJBVV95cUxQNURkMWFoVUtCUlF4NVVqUHZSM3IzaWFReldOQURRZU54dUNHNHZyODFjVWFNT2h1ZDJSMWJmMFdlekdIaEpubkNvRm9QT3h3WlYyaWt2anVXM25IVXM1MHlKYkVtSmxmMXNSc3RGem9QVDVkLWJ1Wk42S2tXdmhqb1Z1Q21QTUhjZERteS1SNFdRV1dnWWFOUXVDUVJjeU0wRW0wUjkzbl8zMEtZTGl1ekhlWjZ6TVZoNkZ5SUZzUmVUOGdJMXNfTzQxSEFUekFXVEI3dlpXa2FTTnRvVTZYTmdpRkdxX1NwNE9od2Z4RV9NUVVSbDJyM2pVaEloMGZa?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
   }
 ]
