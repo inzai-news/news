@@ -90,15 +90,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "アジアの頂点を目指す選手にエールを贈ろう！応援メッセージキャンペーン",
-    "link": "https://chibanewtown.aeonmall.jp/event/93788de1-8339-4bcb-99d4-c0505371019a",
-    "pub_str": "2026年7月1日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "あそびの学校",
     "link": "https://chibanewtown.aeonmall.jp/event/97cbc543-7f84-4088-88cc-0121de8639c2",
     "pub_str": "2026年7月6日",
@@ -303,15 +294,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "開発・暮らし",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】7月4日（土）・5日（日）日光さる軍団がBIG HOPにやってくる！ 伝統芸能 猿まわしが開催されます",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/01/nikkosarugundanbighop2026jul/",
-    "pub_str": "2026年7月1日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -654,17 +636,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
-    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
-    "desc": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京  レッツエンジョイ東京",
-    "pub_iso": "2026-07-01T23:34:45+09:00",
-    "pub_str": "2026年7月1日",
-    "publisher": "レッツエンジョイ東京",
-    "source": "google-news-inzai-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
     "title": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ・マネジメント・センター」に参画",
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTE42T0YyQzhjazRLYzFZeklaM1RVcDVTaTgwS2V2RldHR2pJd0FOMjN6RnRGcU5iOXF5ZDBBX09haDZIVFRvRkh6bm9QR2VLMjNQNTNMaXp4VQ?oc=5",
     "desc": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ・マネジメント・センター」に参画  千葉日報オンライン",
@@ -819,132 +790,6 @@
     "publisher": "ちばもぐ",
     "source": "chibamogu-inzai",
     "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "第36回　印西ふるさと発見フォトコンテスト（令和9年1月29日（金）必着）",
-    "link": "https://inzainet.com/event/recruitment-inzai-photo-contest/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "六軒厳島神社の夏祭り（7月18日(土)・19日(日)）",
-    "link": "https://inzainet.com/event/roken-summer-festival/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "バイリンガル・スピーチコンテストin印西 出場者募集（9月20日(日)）",
-    "link": "https://inzainet.com/event/culturehall-vspeach_0702/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "文化ホール まるごとフェスティバル（7月25日(土)）",
-    "link": "https://inzainet.com/event/culturehall-260702/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "第1回いんざいコスモス落語会（7月31日(金)）",
-    "link": "https://inzainet.com/event/inzai-rakugokai/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "フライデーナイトコンサート Vol.15（9月18日(金)）",
-    "link": "https://inzainet.com/event/culturehall_260612/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "木下万葉公園　あじさいまつり（6月14日（日））",
-    "link": "https://inzainet.com/event/kioroshi-ajisaifes/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "散歩道～あじさい寺～松虫寺の紫陽花（6月中旬頃から7月中旬頃）",
-    "link": "https://inzainet.com/event/hydrangea/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "夏越し大祓い（茅の輪くぐり） 六軒厳島神社（6月30日（火））",
-    "link": "https://inzainet.com/event/roken-itsukushima-summer/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "上野悠河 個展 質量の精霊（6月20日(土)～27日(土)/ 7月18日(土)～25日(土)）",
-    "link": "https://inzainet.com/event/garellywarane_260527/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "第14回みんなで一緒に！ファミリーコンサート（8月7日(金)）",
-    "link": "https://inzainet.com/event/culturehall_260521/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "千葉県立印旛明誠高等学校吹奏楽部　第12回定期演奏会（6月6日(土)）",
-    "link": "https://inzainet.com/event/inbameisei-wind-orchestra/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ala welcome theatre シリーズ「たけとりKAGUYA」（8月2日(日)）",
-    "link": "https://inzainet.com/event/culturehall-260510_1/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "お気楽寄席（9月10日(木)）",
-    "link": "https://inzainet.com/event/culturehall-260510_2/",
-    "pub_str": "2026年7月1日",
-    "publisher": "いんざいネット.com",
-    "source": "inzainet-event",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -1256,10 +1101,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
+    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -1386,10 +1231,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "resuka.co.jp",
+    "publisher": "朝日れすかPLUS",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -6041,10 +5886,10 @@
   {
     "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
-    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  go2senkyo.com",
+    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  選挙ドットコム",
     "pub_iso": "2026-09-24T19:23:08+09:00",
     "pub_str": "2026年9月24日",
-    "publisher": "go2senkyo.com",
+    "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-09-25T01:22:18.650925+09:00",
@@ -6637,6 +6482,16 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-01T20:37:22.916607+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】2026年10月に開催が予定されていた印西市主催の各種イベントの中止や延期が決定しました",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/01/inzaishievent2026octcancel/",
+    "pub_str": "2026年10月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-02T07:54:07.199724+09:00",
     "retention_type": "regular"
   }
 ]
