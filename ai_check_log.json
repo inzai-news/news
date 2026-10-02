@@ -7389,5 +7389,45 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261002-1627",
+    "date": "2026-10-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "ビッグホップにデータセンター建設へ 印西 駅隣接大型商業施設 老朽化、厳しい経営環境で",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE9QSzU0aXF6UzAxNHpWRzk1YkEwcS1fN2xfeEtUOVNoNXRzMW9DOVF4VjdLbFc4ZFJUQ0p0YTNzSER5VU9ueTZic1g1MVZoY0kxWVBiMFRDMXM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261002-1627",
+    "date": "2026-10-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "データセンターの建設制限 印西市議会",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1ReUVMS243NjM1ZEk0a0dQbjR6NG45UFpmM3BhRDdGdDFUc2lKUUtaaGhnc2pLNm5SLU8xX3g3NF9yUF8tNkdYSDlpcHVENml1NFlXYkEyNmI?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261002-1627",
+    "date": "2026-10-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "議会は「継続」決議 北総線補助金で印西市",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE90UFFwOTQwLWdCYlhuLUp6NDhQZDhkRUZFaGU1aGFUV0JYaDV1VUJEWXNJYlduLWRXSFk1c3FwSkN1aEVSeXczbVA5VHIxTV9tc2JLUW1XQQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261002-1627",
+    "date": "2026-10-02",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "県、印西市議に説明へ ２６日、手賀沼処理場案で 焼却灰一時保管",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTFBNSFFPeTRuRzZiOWtuOU9kNWVycTF1VzFKeHU5cTI3Z09aMkVXUmJySnhPR0JfQ2JtRlYxSk51dzNkbEgtdXpBbWQzeXZLMzlpSGV2blZn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
