@@ -7379,5 +7379,15 @@
     "link": "https://news.google.com/articles/CBMigAJBVV95cUxQNURkMWFoVUtCUlF4NVVqUHZSM3IzaWFReldOQURRZU54dUNHNHZyODFjVWFNT2h1ZDJSMWJmMFdlekdIaEpubkNvRm9QT3h3WlYyaWt2anVXM25IVXM1MHlKYkVtSmxmMXNSc3RGem9QVDVkLWJ1Wk42S2tXdmhqb1Z1Q21QTUhjZERteS1SNFdRV1dnWWFOUXVDUVJjeU0wRW0wUjkzbl8zMEtZTGl1ekhlWjZ6TVZoNkZ5SUZzUmVUOGdJMXNfTzQxSEFUekFXVEI3dlpXa2FTTnRvVTZYTmdpRkdxX1NwNE9od2Z4RV9NUVVSbDJyM2pVaEloMGZa?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
+  },
+  {
+    "run_ts": "20261002-0937",
+    "date": "2026-10-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市市制施行30周年記念HORNS UP FES｜レッツエンジョイ東京",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE13c0g0RUZ5RGtYV2I0YXB5VEdMazEwMkRHTjJ2N1R3RkFlTXI2dzN0Y05IamNENHlhMTRBa2tSSGdyVU5OUlhpUFFtNzVMUXFSVEE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
