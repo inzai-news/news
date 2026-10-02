@@ -1101,10 +1101,10 @@
   {
     "title": "【印西市】社会を明るくする運動",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
+    "desc": "【印西市】社会を明るくする運動  go2senkyo.com",
     "pub_iso": "2026-07-21T16:00:00+09:00",
     "pub_str": "2026年7月21日",
-    "publisher": "選挙ドットコム",
+    "publisher": "go2senkyo.com",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
@@ -5105,10 +5105,10 @@
   {
     "title": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE5NdnFWQnBQbzhXREQ4ai1WNmhLLWQtNW9kWlVTd1EzVUJFTGg2dHpDLTVCWFU3dlA0clFOLVlKZHhfWEUwSzY1Q0tIZUl1ZktiOHBueHd6WHJ3TkFPUGpzQUJOcndGNkE?oc=5",
-    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  news.mynavi.jp",
+    "desc": "印西、浦安、流山、海浜幕張…千葉で「幸福度が高い・住み続けたい街」は？  マイナビニュース",
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
-    "publisher": "news.mynavi.jp",
+    "publisher": "マイナビニュース",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
@@ -5619,7 +5619,7 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-10-02T16:21:15+09:00",
+    "pub_iso": "2026-10-02T19:59:52+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -5886,10 +5886,10 @@
   {
     "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
-    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  選挙ドットコム",
+    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  go2senkyo.com",
     "pub_iso": "2026-09-24T19:23:08+09:00",
     "pub_str": "2026年9月24日",
-    "publisher": "選挙ドットコム",
+    "publisher": "go2senkyo.com",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-09-25T01:22:18.650925+09:00",
@@ -6544,6 +6544,30 @@
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-02T18:32:42.359164+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "国民健康保険税の減免及び軽減制度",
+    "link": "https://www.city.inzai.lg.jp/0000009825.html",
+    "desc": "",
+    "pub_iso": "2026-10-02T19:51:11+09:00",
+    "pub_str": "2026年10月2日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-02T20:29:33.604464+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "後期高齢者医療保険料及び一部負担金の減免等について",
+    "link": "https://www.city.inzai.lg.jp/0000022654.html",
+    "desc": "",
+    "pub_iso": "2026-10-02T19:48:47+09:00",
+    "pub_str": "2026年10月2日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-02T20:29:33.604464+09:00",
     "retention_type": "regular"
   }
 ]

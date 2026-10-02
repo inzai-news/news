@@ -7429,5 +7429,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTFBNSFFPeTRuRzZiOWtuOU9kNWVycTF1VzFKeHU5cTI3Z09aMkVXUmJySnhPR0JfQ2JtRlYxSk51dzNkbEgtdXpBbWQzeXZLMzlpSGV2blZn?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261002-2029",
+    "date": "2026-10-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "本埜(印西市)の雨量情報",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9QU19ZMDVRalJ6UzhfczNGNDlLY21GUE5DUjMwMk1QdHRzZ29sQ25sdVJSS01rQW8xNHBJVDdLWlV4Tk1MREFrblEyRzZhMVZ0Vko1OUhCSQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
