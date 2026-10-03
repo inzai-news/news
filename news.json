@@ -3578,12 +3578,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -5644,10 +5644,10 @@
   {
     "title": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE4zZENNWXRQdGdwaExfZGk3WHNCRmdEY2cwM1Z3OHFnYTlEUzlIYTNEWGJ1bjYxdTE4QW1zRUE2emtna3RmZTVjd3BETFNJNnprOXQtRXJWWUdla1dKYVZmWkVRb2J4dUk?oc=5",
-    "desc": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水  朝日新聞",
+    "desc": "水没車両付近で発見の男性死亡、台風死者10人に 印旛沼周辺は浸水  asahi.com",
     "pub_iso": "2026-09-23T16:00:00+09:00",
     "pub_str": "2026年9月23日",
-    "publisher": "朝日新聞",
+    "publisher": "asahi.com",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-23T14:39:10.415171+09:00",
@@ -6587,7 +6587,7 @@
     "title": "千葉 印西 小学生をひき逃げ疑い ４３歳容疑者を逮捕",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBEbGI1WUhFQlRuR25QN0gxWUFnSVhyMmNGSXZvemZMRUtEWkJQdTY1NW9WTkJjMWtyQXpmNVhwckpLZ1FmQ0ZUc0hhQUhKNkt5UENZUjBLQWFjSFpEZEhJ?oc=5",
     "desc": "千葉 印西 小学生をひき逃げ疑い ４３歳容疑者を逮捕  NHKニュース",
-    "pub_iso": "2026-10-03T10:34:00+09:00",
+    "pub_iso": "2026-10-03T10:34:44+09:00",
     "pub_str": "2026年10月3日",
     "publisher": "NHKニュース",
     "source": "google-news-inzai-shi",
@@ -6605,6 +6605,16 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-03T16:25:59.094989+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】J:COMチャンネル「ナイツ塙の東葛ヤッホー」2026年10月の放送は鎌ケ谷市の紹介！ ナイツ塙さんがあのランチのコスパがハンパないお店で焼肉を堪能！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/03/hanawatokatsuyahho2026oct/",
+    "pub_str": "2026年10月3日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-03T18:37:23.438720+09:00",
     "retention_type": "regular"
   }
 ]
