@@ -7439,5 +7439,55 @@
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTE9QU19ZMDVRalJ6UzhfczNGNDlLY21GUE5DUjMwMk1QdHRzZ29sQ25sdVJSS01rQW8xNHBJVDdLWlV4Tk1MREFrblEyRzZhMVZ0Vko1OUhCSQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261004-1324",
+    "date": "2026-10-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市（テレビ朝日系（ANN））",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBSaFA1dmFZVHJiczhLdjlXblI3QVl2eDl4SGhQTG12MjJEM2xRbUNYZ29qcURIQS00aU5Ma1JTbXoyTjZIT2xhZm1wdXJWaUJ3d0YtZS1WVGxzaEJsaGR6eHNDMDZSQ2pIdjU0YWNac0drYWs0TTNfWjUzZ1l3c0E?oc=5",
+    "similar_to": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261004-1324",
+    "date": "2026-10-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市 (2026年10月4日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9IUmpVcThHcC14Y0oxOGFYVHk1QzRLajNLV2dSTk1wYlBTRzM0c1U3eDMtdG5MU21xdk5VOEdWY3lleGlxVGRxUVB2d0lxZmdtMkllbm9Wc1NwdVBXN2c?oc=5",
+    "similar_to": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261004-1324",
+    "date": "2026-10-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市 – Quebee キュエビー",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBGaTdYczJkdm5xT0JqTWQyT1hldmJSN2E1SDVkNmlraWNPakd6MWpOcmtzempoeFozX3dBTmtQeDQyWjFJd20zdW5xMmsta3k2emFhVHRoeTQ?oc=5",
+    "similar_to": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261004-1324",
+    "date": "2026-10-04",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【NHK】現在発表されている警報・注意報(印西市)",
+    "link": "https://news.google.com/articles/CBMicEFVX3lxTE9UWlpxeDZDWGVrWERVdnctbzUxR3VsRzl2UE0xRkdvSDZsZEV6X3RsMzIwdWk0TG4tS0xZWGdxY0xVakVRTFU1d2syc2tFdXFNdkNWMEk4UmxQd0RLdkpfNEcxVmkzRFNaZXlBS2FGSEI?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20261004-1324",
+    "date": "2026-10-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE9VM0tIaFBTOWtZWVFXUGFHWExTZW9Gb1U2WVJUZkdUemxBbDhEaGlQVVR6ZlJ3T3BCbVFWSHJVTFh4SERHalVMbmZrTm9WdFJyUzRZSlhoVnpkNEtMQ19Sb0RHTHQ3ZmVNNmlCOUxWejU2QQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "既報のひき逃げ事件(43歳男逮捕・「動揺した」供述・被害女児)と同一内容で新情報が乏しいため重複として除外"
   }
 ]
