@@ -7509,5 +7509,15 @@
     "link": "https://news.google.com/articles/CBMiY0FVX3lxTE8tTk5OY2xGQ1RGRWVjSXVEZ2h6VHpEQlFNV2hPRkUtaThVZkZZaGdLS0trU0NMQ2xvVEN4SmRvVjNjYnZpbEZDNk4wTVRtME0zV3VHcExJR0tPaFp2TDY0ZGpoQQ?oc=5",
     "similar_to": null,
     "ai_reason": "当日(10/4)限定の休日診療案内で、時間が経つと無価値になる速報的情報のため除外"
+  },
+  {
+    "run_ts": "20261004-1847",
+    "date": "2026-10-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉･印西市 6歳女児ひき逃げ疑いで43男逮捕",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE9FUjRiblg2ci02QXNaSHQ3MVNSNmJHeUFwQ3pCNTNGTl94bjhkQllzU2J5ZEhWSHUycEJPTU1SSU05VXc5STk3eGFZUTg1Rmc4SmdoYVY0dkd6UUk?oc=5",
+    "similar_to": null,
+    "ai_reason": "既報のひき逃げ事件(43歳男逮捕・6歳女児)と同一内容で新情報が無く、重複のため除外"
   }
 ]
