@@ -7539,5 +7539,25 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTFB5emN5R3hpS0V4cTJ4T1VZdEFETUNpSnBDNEp4TFU4Sk8xYmc3dWF0d3U0Q2laTExOVFBkVDk5TFpyTE5oaU5GXzgyS1VwM1l0cFdiVlRSbC1PQzlQSVpIS0dPNW1zXy03VHZHdHA3eHVwLVduQnU3WmFlamdGOXc?oc=5",
     "similar_to": null,
     "ai_reason": "既報のひき逃げ事件(43歳男逮捕・6歳女児重傷)と同一内容で新情報が無く、重複のため除外"
+  },
+  {
+    "run_ts": "20261004-2237",
+    "date": "2026-10-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTFBqaW5XeDFFa1JGemVzLUtiVER6NVFHcnd3aW1vNXdrYXZVVVVYcWFhc2V3Zmp4WlZKMGIzWTVjVExfaF9PSHYxMGhoREJJUQ?oc=5",
+    "similar_to": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261004-2237",
+    "date": "2026-10-04",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "6歳女児はねられ重傷 印西の横断歩道 ひき逃げ疑いで男逮捕",
+    "link": "https://news.google.com/articles/CBMigAFBVV95cUxQNXdkRXB2NHVxWmloS3FwaUppRFNqVmpLREpBYXhpZlp0N0pLTUxzMWYzV1cxeHRBdFpzR0JkbUQtS3ZjYjJIeU5sU3VXTVU3NUxCWnNPenNWclUxY0g5SWRFVFlZbFNkYVFKdTFCSm42bWR4YlVjUEowODNBNDFvcQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "既報のひき逃げ事件(43歳男逮捕・6歳女児重傷)と同一内容で新情報が無く、重複のため除外"
   }
 ]
