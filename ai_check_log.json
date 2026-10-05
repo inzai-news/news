@@ -7609,5 +7609,25 @@
     "link": "https://news.google.com/articles/CBMihwFBVV95cUxNSF96REZBZGMxcC10eGtHSUVCVTJrQUFiUzNjWmpXYml2ZlljNlV2YUUyUzVNdzJURU1hc0pwTW5CUkcxNEdxMFhmWmh3WmF1eGFnd283RUY5V3V0WG9BVFBPNV9oNXl3VTliRFFyRmZDX1dQNkhza3VYMGFLelJLNDJBSlpyekHSAYwBQVVfeXFMUFU4dzIwUHU2UmdZX1o2eHlKUTdHVnpkVXlvQ0RjWmlFN0FycFBMYlNRWHZ4dm1FdzNjQ3BKUFpoMVNwcV9CSU9lZHhGWW1PTUhHMFBCUTJRMjU1UkxGcy1aRkxBNDNvVzcyMGVQSGNZVjUtWHNSRXBzRnc5OWhkZ2ZZQUx3RkIxTU15WG0?oc=5",
     "similar_to": null,
     "ai_reason": "既報のひき逃げ事件(43歳男逮捕・「動揺した」供述)と同一内容で新情報が無く、重複のため除外"
+  },
+  {
+    "run_ts": "20261005-1123",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "2020→2025年｢人口増加率が高い自治体｣ランキング…5位は東京都中央区､4位千葉県印西市､ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE9BcGM4Wk5tdF81QTVab0g2c2p5aEE5S2RIN19wTDYxQUZiSGtPcWNaaEVDbFNXRjQzekt0d2I3RzJ2OW5PbllkOFRMMl9IeXIyMGp3VmpHQnFLRUE?oc=5",
+    "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-1123",
+    "date": "2026-10-05",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "自動車総連、印西市の老人ホームへ軽自動車寄贈",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE1VQ1dpdF9ybGRTVjdFMkJpNHU0WlZkNk9EMUtBZTVHaDFRVnotTFJIMTU2cGpDcl9JVVo0RHZLUU9nc3NZdXpROUZKRy1QNkxUS3c?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

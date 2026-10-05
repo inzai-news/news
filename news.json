@@ -2341,10 +2341,10 @@
   {
     "title": "印西シティリレーマラソン 2026",
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE5uM2xiR1hEUjRBeFZZQUJhV3lZZVZMbEEyV2M5b1BVRENCSmhYYWFQY1pRWWwyYTdNYWE4dnp1V1RlR0VWT2FYbjBvaFM?oc=5",
-    "desc": "印西シティリレーマラソン 2026  RUNNET",
+    "desc": "印西シティリレーマラソン 2026  runnet.jp",
     "pub_iso": "2026-08-06T16:33:31+09:00",
     "pub_str": "2026年8月6日",
-    "publisher": "RUNNET",
+    "publisher": "runnet.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-08-11T18:01:39.251471+09:00",
@@ -2375,10 +2375,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "日経クロステック（xTECH）",
+    "publisher": "xtech.nikkei.com",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -4562,10 +4562,10 @@
   {
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
-    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  nfm.nikkeibp.co.jp",
+    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
     "pub_iso": "2026-09-08T05:47:42+09:00",
     "pub_str": "2026年9月8日",
-    "publisher": "nfm.nikkeibp.co.jp",
+    "publisher": "日経不動産マーケット情報",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
@@ -4718,8 +4718,8 @@
     "title": "福祉タクシー（重度心身障害者等）について",
     "link": "https://www.city.inzai.lg.jp/0000002705.html",
     "desc": "",
-    "pub_iso": "2026-09-09T09:00:00+09:00",
-    "pub_str": "2026年9月9日",
+    "pub_iso": "2026-10-01T09:00:00+09:00",
+    "pub_str": "2026年10月1日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6693,6 +6693,28 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-05T09:11:12.327540+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10月のイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/1ba5152d-070b-4cff-b93b-514ab60ebab2",
+    "pub_str": "2026年10月5日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-05T11:23:04.158819+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "『令和8年度精神障がい理解促進講座』を開催します",
+    "link": "https://www.city.inzai.lg.jp/0000022534.html",
+    "desc": "令和7年度精神障がい理解促進講座のご案内ページです。",
+    "pub_iso": "2026-10-01T00:00:00+09:00",
+    "pub_str": "2026年10月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-05T11:23:04.158819+09:00",
     "retention_type": "regular"
   }
 ]
