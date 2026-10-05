@@ -7669,5 +7669,15 @@
     "link": "https://news.google.com/articles/CBMib0FVX3lxTE9feGdEdHIxNFVLVkxjRE5HdG9OZzBGZlZaZUNTQ0VXb2xFTzJEajNHQjZNTzY1VWEzZGFEZVNFTllmRFExeVFCM1hENWFmaXF3MkFwOVVfLXEyd09JdmpDeWdFNzVzMEQ5ajJqRHhMQQ?oc=5",
     "similar_to": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261006-0019",
+    "date": "2026-10-06",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxPc1ZQeUI1aHZBNXJVY3YxWjdSQ21nTFNYMnp4XzNvbGJDdUZqcmZ4Ry0zNzhlcmdSN1o0c0ppdzN3eHBsemJhRG5fcmI5MXJFaHNyNGZBSUJpbl85c2FuTDRFOUl3UUdXa0ZkdTgwWi1OYVc0ZXoweklmM3hTY2ZiMWRoOHg5TWQybEl2Y3VB?oc=5",
+    "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

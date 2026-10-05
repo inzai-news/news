@@ -261,15 +261,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】北海道日本ハムファイターズのファーム施設が鎌ケ谷市から北海道恵庭市へ移転することが決定しました",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/05/kamastaitenkettei/",
-    "pub_str": "2026年7月5日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市市民課・国保年金課・中央駅前出張所・牧の原出張所窓口業務委託公募型プロポーザルの実施について",
     "link": "https://www.city.inzai.lg.jp/0000021696.html",
     "desc": "",
@@ -1194,10 +1185,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "resuka.co.jp",
+    "publisher": "朝日れすかPLUS",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -3550,12 +3541,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
+    "publisher": "np.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -4235,18 +4226,6 @@
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-09-03T09:12:11.193460+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "出没！アド街ック天国 ～千葉 印西～",
-    "link": "https://news.google.com/articles/CBMiY0FVX3lxTFByZmdrZS1DLU5nR3hjMUhETW1RUTJndTBIdXhYcGVVNHZ5VHFuLW45ZENCdExTN2k2M3ljdzc1T01zZVl1MDl1d0VTV3UzMVZjYko2ZE9YX0NOMWNhaXdFaG9IQQ?oc=5",
-    "desc": "出没！アド街ック天国 ～千葉 印西～  TVO テレビ大阪",
-    "pub_iso": "2026-07-05T16:00:00+09:00",
-    "pub_str": "2026年7月5日",
-    "publisher": "TVO テレビ大阪",
-    "source": "google-news-inzai-shi",
-    "category": "話題・その他",
     "collected_at": "2026-09-03T09:12:11.193460+09:00",
     "retention_type": "regular"
   },
@@ -6750,6 +6729,16 @@
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-10-05T20:15:15.941082+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "防災展2026",
+    "link": "https://chibanewtown.aeonmall.jp/event/b984ce17-fd98-4e0e-89d1-45cb3909738f",
+    "pub_str": "2026年10月2日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-06T00:19:21.740918+09:00",
     "retention_type": "regular"
   }
 ]
