@@ -3541,12 +3541,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」 - tokyo",
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  tokyo-np.co.jp",
+    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
     "pub_iso": "2026-08-27T16:00:00+09:00",
     "pub_str": "2026年8月27日",
-    "publisher": "np.co.jp",
+    "publisher": "東京新聞",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
@@ -6739,6 +6739,18 @@
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-06T00:19:21.740918+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "STT GDC、印西市のデータセンター「STT Tokyo 1」で「LEED」のゴールド認証を取得",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5DbWFwUlRXVnlPRXpVV3ZSRlUwMU9weWREd1p1aGZ1UkxhTl8ydWU3LWdmek9ua0NRdFp3Mzltd1RjbGF3VVZYdUpacnBoTDZReGdYaEF1aGZZQ3BkaXVOVUZkdnVjUQ?oc=5",
+    "desc": "STT GDC、印西市のデータセンター「STT Tokyo 1」で「LEED」のゴールド認証を取得  クラウド Watch",
+    "pub_iso": "2026-10-06T06:00:00+09:00",
+    "pub_str": "2026年10月6日",
+    "publisher": "クラウド Watch",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
   }
 ]
