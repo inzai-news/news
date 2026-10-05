@@ -7649,5 +7649,15 @@
     "link": "https://news.google.com/articles/CBMigwFBVV95cUxPMEFuS1I3ZGF0U1JUbFpMZElUWThKUjFraHEyQ0FaWHNGQUdDbFNwXzc1TUFIazdxMUVVSGJVNFZTRENmay1fdnlPUGk1SlRSQmFUZGZ0TG4wQk1QcEVET0R4dEhESUJjVFNqVWhFN3FwZHk4UXVqdkd2XzhyTURORmstUdIBgwFBVV95cUxPMEFuS1I3ZGF0U1JUbFpMZElUWThKUjFraHEyQ0FaWHNGQUdDbFNwXzc1TUFIazdxMUVVSGJVNFZTRENmay1fdnlPUGk1SlRSQmFUZGZ0TG4wQk1QcEVET0R4dEhESUJjVFNqVWhFN3FwZHk4UXVqdkd2XzhyTURORmstUQ?oc=5",
     "similar_to": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-1637",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "2020→2025年｢人口増加率が高い自治体｣ランキング…5位は東京都中央区､4位千葉県印西市､ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE8xYWgxbFFHMWR6ZTZWWmZER2tJcFhjZXFWeFhhUW9CNlYzRkJ3MElvam5LeElVSkFUeFM3R1NhRS1IRW5XZ1JDSGN4LUwtNDNwb0dQcGdEWkcxd3M?oc=5",
+    "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
