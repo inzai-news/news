@@ -270,15 +270,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【印西市】2026年の木下・六軒地区の六軒厳島神社祭礼は7月18日（土）・19日（日）の2日間の開催！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/04/rokkenmatsuri2026/",
-    "pub_str": "2026年7月4日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市市民課・国保年金課・中央駅前出張所・牧の原出張所窓口業務委託公募型プロポーザルの実施について",
     "link": "https://www.city.inzai.lg.jp/0000021696.html",
     "desc": "",
@@ -718,16 +709,6 @@
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/03/14/beardpapaaeonchibantopen/",
     "pub_str": "2026年4月10日",
     "publisher": "号外NET",
-    "source": "開店閉店情報",
-    "category": "開店・閉店",
-    "desc": "",
-    "retention_type": "store_event"
-  },
-  {
-    "title": "【2026年4月4日 開店】BAGEL MOMENT",
-    "link": "https://bagel-atsume.com/magazine/magazine-bagel_moments-1/",
-    "pub_str": "2026年4月4日",
-    "publisher": "ベーグルあつめ",
     "source": "開店閉店情報",
     "category": "開店・閉店",
     "desc": "",
@@ -2394,10 +2375,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "xtech.nikkei.com",
+    "publisher": "日経クロステック（xTECH）",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -3338,12 +3319,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問 - classy",
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問",
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA1MnNoTWExNXM5Y3NrWnQwX2g3bVZiVndSOW5oM0pSQTNKMk9HRTgwRlg1dHYxOUFwVHFHazlfaG5CRTF4T3lvcHZzdjJUbHMwLUJJT1QzZw?oc=5",
-    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  classy-online.jp",
+    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  CLASSY.[クラッシィ]",
     "pub_iso": "2026-08-23T17:55:15+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "online.jp",
+    "publisher": "CLASSY.[クラッシィ]",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-08-24T09:58:37.337159+09:00",
@@ -4581,10 +4562,10 @@
   {
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
-    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
+    "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  nfm.nikkeibp.co.jp",
     "pub_iso": "2026-09-08T05:47:42+09:00",
     "pub_str": "2026年9月8日",
-    "publisher": "日経不動産マーケット情報",
+    "publisher": "nfm.nikkeibp.co.jp",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-08T08:47:11.379929+09:00",
@@ -4648,10 +4629,10 @@
   {
     "title": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火",
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTFBYTzVFd1VXWm90cGhVcEpLZm51RzVkaHVobDY1aGNDRkkySkY3Ri1sTE52Y2pNTTFreUVCUGk4Y0pnQU5HZ0syY1pENA?oc=5",
-    "desc": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火  47news.jp",
-    "pub_iso": "2026-09-08T05:00:00+09:00",
+    "desc": "「異臭のようなものが…」 商業施設付近の地下で火災か 印西、３時間後鎮火  47NEWS",
+    "pub_iso": "2026-09-08T16:00:00+09:00",
     "pub_str": "2026年9月8日",
-    "publisher": "47news.jp",
+    "publisher": "47NEWS",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-09-09T00:45:01.743576+09:00",
@@ -5091,7 +5072,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "マイナビニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-14T18:37:24.189754+09:00",
     "retention_type": "regular"
@@ -5869,7 +5850,7 @@
     "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
     "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  選挙ドットコム",
-    "pub_iso": "2026-09-24T19:23:08+09:00",
+    "pub_iso": "2026-09-24T16:00:00+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "選挙ドットコム",
     "source": "google-news-inzai-shi",
@@ -6666,6 +6647,52 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-04T16:37:23.757114+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】2027年1月17日に3年ぶりに開催される「第50回 鎌ケ谷新春マラソン大会」のエントリーが始まりました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/05/kamagayanewyearmarathon2027/",
+    "pub_str": "2026年10月5日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-05T09:11:12.327540+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFB0dkN0VVR3WVIwMURWekZkNlNBd1BhMS03YjRrTDNwcTJBNkUyd3UtdTFrS2Z6Y2VUX2ZQX3otQlJ6VUwzQUVxMHBCZXJ1NE8zV2pLbzhQeXlSRXhSSERJTTRDaWdOZmRXUlhERUtHOHRBSHlYY3NDMEdPSjZ0bzQ?oc=5",
+    "desc": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）  Yahoo!ニュース",
+    "pub_iso": "2026-10-05T08:08:53+09:00",
+    "pub_str": "2026年10月5日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-05T09:11:12.327540+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBHTy1iWkd5WjAwYUNQM2RoOXlOY0N0V1daMTR2TkF0X0dhRjgtZ0tKYVBEdm0xYWJ4dWtueE4zNkpYZk5nNUpObmlZWTV1UUlrekN6c3JrYUJKM1ZHUUV5WFRBRDFjaU1QVUw1LW12VzNhc2t3VjFqWERYUmNXMnM?oc=5",
+    "desc": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？  Yahoo!ニュース",
+    "pub_iso": "2026-10-05T05:03:16+09:00",
+    "pub_str": "2026年10月5日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
+    "collected_at": "2026-10-05T09:11:12.327540+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "成田・印西でバーベキューができる場所｜公園は禁止、坂田ヶ池キャンプ場は日帰り200円から・北総花の丘の手ぶらBBQは土日祝3,500円から",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBDTUNkMWMyOGtnS0JIVEVWdHphM2Z2U1dUUTE0TkFpZWl4aldrRVFtQTFRMHFiLXhXRHlldDhNM2hWcWMzUXVWSkhyaUVqRjZnSGZvVDN4S3o3U19XZU5Sc0Jrcm9CLUE?oc=5",
+    "desc": "成田・印西でバーベキューができる場所｜公園は禁止、坂田ヶ池キャンプ場は日帰り200円から・北総花の丘の手ぶらBBQは土日祝3,500円から  ジモはる",
+    "pub_iso": "2026-10-04T17:59:50+09:00",
+    "pub_str": "2026年10月4日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
+    "collected_at": "2026-10-05T09:11:12.327540+09:00",
     "retention_type": "regular"
   }
 ]

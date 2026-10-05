@@ -7559,5 +7559,55 @@
     "link": "https://news.google.com/articles/CBMigAFBVV95cUxQNXdkRXB2NHVxWmloS3FwaUppRFNqVmpLREpBYXhpZlp0N0pLTUxzMWYzV1cxeHRBdFpzR0JkbUQtS3ZjYjJIeU5sU3VXTVU3NUxCWnNPenNWclUxY0g5SWRFVFlZbFNkYVFKdTFCSm42bWR4YlVjUEowODNBNDFvcQ?oc=5",
     "similar_to": null,
     "ai_reason": "既報のひき逃げ事件(43歳男逮捕・6歳女児重傷)と同一内容で新情報が無く、重複のため除外"
+  },
+  {
+    "run_ts": "20261005-0911",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "GAP　ハイハイレース",
+    "link": "https://chibanewtown.aeonmall.jp/event/df4ecc5b-d51a-4524-bc4d-12fcb0f8bf99",
+    "similar_to": "GAP　ハイハイレース",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-0911",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "2020→2025年｢人口増加率が高い自治体｣ランキング…5位は東京都中央区､4位千葉県印西市､ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5JX3RxQjhFSVg5eWlEWmhNTXlWTENHWW9sczJwU0xPNTh1ZFRhZllKeTFsTDJROURIWndXaHhrNTlyS3ZOSk9LcFRyRWh3TUgydWJ5UGxiZWVWdGpUcG4w?oc=5",
+    "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-0911",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で",
+    "link": "https://news.google.com/articles/CBMigAFBVV95cUxOcXBGOGRmdDRUd0RqU2k4YlJTR2I0eTNOOTBZMUM0bV9pOGJuYzMxNENMMFdFcW9TR2ZtNXpVeGx0dXB5dnBzNktkOGFJTXE2WkdxdmtWUFNteFNYeVJQVklxQ1FrdUFSakd0bXJKalk5RFlqeUg3aXVrTTNyTlN1dA?oc=5",
+    "similar_to": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-0911",
+    "date": "2026-10-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.97,
+    "title": "横断歩道で女児ひき逃げか無職の男逮捕「動揺した」千葉・印西市",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE1UeGhaM09zcExLLWlFN2trbnVFcnlMZFlZaUpFUTNPeTBLdG1RQjl3RHF3aF9KS3l3c0s5dlAxUGMyOUJoWXpna1NVM3ppLWNYbDdEdDhhTXdkd0kzS2RGeFZhMzB1a2s?oc=5",
+    "similar_to": "横断歩道で女児ひき逃げか　無職の男逮捕「動揺した」　千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261005-0911",
+    "date": "2026-10-05",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "横断歩道で女児ひき逃げか　無職の男逮捕「動揺した」　千葉・印西市",
+    "link": "https://news.google.com/articles/CBMihwFBVV95cUxNSF96REZBZGMxcC10eGtHSUVCVTJrQUFiUzNjWmpXYml2ZlljNlV2YUUyUzVNdzJURU1hc0pwTW5CUkcxNEdxMFhmWmh3WmF1eGFnd283RUY5V3V0WG9BVFBPNV9oNXl3VTliRFFyRmZDX1dQNkhza3VYMGFLelJLNDJBSlpyekHSAYwBQVVfeXFMUFU4dzIwUHU2UmdZX1o2eHlKUTdHVnpkVXlvQ0RjWmlFN0FycFBMYlNRWHZ4dm1FdzNjQ3BKUFpoMVNwcV9CSU9lZHhGWW1PTUhHMFBCUTJRMjU1UkxGcy1aRkxBNDNvVzcyMGVQSGNZVjUtWHNSRXBzRnc5OWhkZ2ZZQUx3RkIxTU15WG0?oc=5",
+    "similar_to": null,
+    "ai_reason": "既報のひき逃げ事件(43歳男逮捕・「動揺した」供述)と同一内容で新情報が無く、重複のため除外"
   }
 ]
