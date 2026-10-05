@@ -1,4 +1,5 @@
 .gh_token
+*gh_token*
 *.token
 token*
 .env
