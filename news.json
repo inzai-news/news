@@ -2375,10 +2375,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "xtech.nikkei.com",
+    "publisher": "日経クロステック（xTECH）",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -5713,10 +5713,10 @@
     "title": "印旛沼の堤防決壊、広がる住宅浸水 住民は落胆「あきらめの境地」",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE1pVUNrd2RBNGRTVnlSNkZFSU9UTmpfXzBBQUF4UDVpZ3pBSnZGQ1psYXJjZjhFdWNEdVYwM0JUR2dwSGFyXy1QZjVVbkp0MFFvVjFjV2xNTjUtSFdVWnNYYVk5WXZtcXc?oc=5",
     "desc": "印旛沼の堤防決壊、広がる住宅浸水 住民は落胆「あきらめの境地」  朝日新聞",
-    "pub_iso": "2026-09-24T05:00:00+09:00",
+    "pub_iso": "2026-09-24T16:00:00+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "朝日新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-24T08:27:50.858755+09:00",
     "retention_type": "regular"
@@ -6739,6 +6739,17 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-05T16:37:30.736201+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "サントリーハロウィンビオラ祭り（2026年10月31日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45562&store=chibant",
+    "pub_str": "2026年10月5日",
+    "event_end_date": "2026-10-31",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-05T20:15:15.941082+09:00",
     "retention_type": "regular"
   }
 ]
