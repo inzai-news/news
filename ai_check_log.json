@@ -7699,5 +7699,55 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxNVmF3a0JpYzI5UndHcUh3RDBiRERvVXF0eFRyR3N1ZGMxX1hDWFJtNTA3T1AzRTRiMU95aF9UdXVwN2huZUY0UFg4M2FvcWNDazlRRnpMUllidGlUY1hjbGYzV3pEeGV5WEhDV0h5akQ3VC1ONmVpRzFtdFFzNlB0SFlYQXBDdkJzY1dDeWVn?oc=5",
     "similar_to": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261007-0847",
+    "date": "2026-10-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE9CQ3AwTnlLaVo2TEJOZVNrNkJoNmE4bnQ4QTFGT3lDa1FaRWJMemYzUnE3TlQ5VFBZRmxQOGNMOFMwajZERXpIY2ttY2xzbmU1ZDE1R25ZbWdETll0NjZnc3RfY29fTHk5UXc?oc=5",
+    "similar_to": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261007-0847",
+    "date": "2026-10-07",
+    "ai_decision": "keep",
+    "similarity": 0.75,
+    "title": "あそびの学校",
+    "link": "https://chibanewtown.aeonmall.jp/event/97cbc543-7f84-4088-88cc-0121de8639c2",
+    "similar_to": "あそびの学校 10月",
+    "ai_reason": "pub_strが9/14で類似記事(あそびの学校 10月)とは異なる月の開催回のため別イベントとして採用"
+  },
+  {
+    "run_ts": "20261007-0847",
+    "date": "2026-10-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "2026年10月6日（火）17:00〜18:20印西牧の原駅本日は短時間でしたが、印西牧の原駅...",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1SaXVEbFJIZHFXRTFNZWlEcC0za2FiRmZCdjQ5N1VEQUwtX2NrR1pDd0NJS25TcENMMmdLUDFyODNnWVRzTEtGd3pwcHAzSVpsQmVZanZEdW9WRm5sVHVZ?oc=5",
+    "similar_to": null,
+    "ai_reason": "選挙ドットコムによる政治家個人の街頭演説活動報告のため除外"
+  },
+  {
+    "run_ts": "20261007-0847",
+    "date": "2026-10-07",
+    "ai_decision": "exclude",
+    "similarity": 0.8,
+    "title": "千葉県印西市「AIデータセンター」急増で気温上昇リスク…地域住民も賛否わかれる",
+    "link": "https://news.google.com/articles/CBMiT0FVX3lxTE9sVjVXTFh3cC1mbW9pSEdzdGxqU09qdVFVSDQ1OS1ma3FzdTVWQVE2VW9JNUt1SWxuUURRbmFRTV9LclhOU19vTmlaVkZkZmM?oc=5",
+    "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
+    "ai_reason": "既報のAIデータセンター気温上昇リスク記事と同一内容の重複配信のため除外"
+  },
+  {
+    "run_ts": "20261007-0847",
+    "date": "2026-10-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市 区分マンション",
+    "link": "https://news.google.com/articles/CBMiggFBVV95cUxQUXZ5VW83YnJYa2VBclJTZ1NxcUMyYUU1NFJHT3UtMFpUbHkwblhlSWVoTWprWUFOQ003aE5KVmxlRnlCSVU3cmEwbk5maDdTN0dIbVJXWE8xNmdvS2tDOXFiU3phazNJbTl6UnZxSHJVSkNmVXdCd2pMYm5CM0tWM2lB?oc=5",
+    "similar_to": null,
+    "ai_reason": "不動産投資サイト(rakumachi.jp)の物件検索ページでニュース性が無いため除外"
   }
 ]

@@ -1156,10 +1156,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "resuka.co.jp",
+    "publisher": "朝日れすかPLUS",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2337,10 +2337,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "xtech.nikkei.com",
+    "publisher": "日経クロステック（xTECH）",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -6530,10 +6530,10 @@
   {
     "title": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE9Uemc5cTNTaHdrN3RHT0FyS2xIWGlWakI5d1psWmVkUU5NX1oxc3NNMFZQRkNtM3hJQmJRcXd6aTgyaUd4TGlHM2xUcXduZzFpODZkQzB0aVVnYWFiWW4zWkUxWWxlTjkzQ2w1RWxETWd5QTlDaTRadXVPeXZTdHc?oc=5",
-    "desc": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市  news.yahoo.co.jp",
+    "desc": "横断歩道を渡っていた6歳女児をひき逃げか 43歳男を逮捕 目撃情報や防犯カメラから浮上 千葉・印西市  Yahoo!ニュース",
     "pub_iso": "2026-10-04T11:37:20+09:00",
     "pub_str": "2026年10月4日",
-    "publisher": "news.yahoo.co.jp",
+    "publisher": "Yahoo!ニュース",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-04T13:24:00.687152+09:00",
@@ -6817,5 +6817,51 @@
     "category": "開店・閉店",
     "collected_at": "2026-10-07T00:35:51.410282+09:00",
     "retention_type": "store_event"
+  },
+  {
+    "title": "「データセンター銀座」印西市で急増するDC、住民からは賛否の声が上がる (2026年10月7日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE9PblkyVERLelVhQkNnR1l3VTBCeHJ2M0xZX1J6MnRDcjVvWTJHTlpOOEZ1NjdrcDJ6SXRwWEtyUlY4aU5NOE1MMW1GUDR0MmZqTmZpUEZUU1RaTUtGUGc?oc=5",
+    "desc": "「データセンター銀座」印西市で急増するDC、住民からは賛否の声が上がる (2026年10月7日掲載)  ライブドアニュース",
+    "pub_iso": "2026-10-07T06:00:00+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "ライブドアニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-07T08:47:08.112464+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5mOGZlTFpEOGhxVEJXUlpxMzZsMTk0NEtRdk8xbHlTSjhfWVpUMnNOX0tlWUhOT2tiZ1FrbTQ2WnBjMEVrMmdjQjlTQUZlaG5OaGwyallIWnV3d29pOG9r?oc=5",
+    "desc": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ  ライブドアニュース",
+    "pub_iso": "2026-10-07T06:00:00+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "ライブドアニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-07T08:47:08.112464+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "あそびの学校",
+    "link": "https://chibanewtown.aeonmall.jp/event/97cbc543-7f84-4088-88cc-0121de8639c2",
+    "pub_str": "2026年9月14日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-07T08:47:08.112464+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10/7(水)の成田・印西・白井・栄・酒々井｜栄町は体育館・テニス・野球場と文化ホールが再開、白井の被災井戸の検査は2回目の受付が締切、空の湯は10/8まで休館",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTE1UZ3oxajR5dVNHN3pwUm15VGUzVEtIVTBTRDZJSXdfQldaMTZCRHR3ZnVRNnBzMkVKOFdQOUpyencxZ1laNlM1M2RHcDUxVVREVHRldHNRMWdpNTl2Y19rLVZQS1A3TFJBelpWQVRRazdsX202V3Fxcw?oc=5",
+    "desc": "10/7(水)の成田・印西・白井・栄・酒々井｜栄町は体育館・テニス・野球場と文化ホールが再開、白井の被災井戸の検査は2回目の受付が締切、空の湯は10/8まで休館  ジモはる",
+    "pub_iso": "2026-10-06T21:30:00+09:00",
+    "pub_str": "2026年10月6日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-07T08:47:08.112464+09:00",
+    "retention_type": "regular"
   }
 ]
