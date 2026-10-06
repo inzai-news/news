@@ -7689,5 +7689,15 @@
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA0RWJReW5uejdpTVNBNThCZnlqendTOTNIMkFzenRtdnQwYnNvcldWS1VQLVNBTEFFaldibkNPc29RdWlGOEpMNXZJblFnSG9BRnZCMmR2SQ?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261006-2037",
+    "date": "2026-10-06",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で (千葉日報オンライン)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxNVmF3a0JpYzI5UndHcUh3RDBiRERvVXF0eFRyR3N1ZGMxX1hDWFJtNTA3T1AzRTRiMU95aF9UdXVwN2huZUY0UFg4M2FvcWNDazlRRnpMUllidGlUY1hjbGYzV3pEeGV5WEhDV0h5akQ3VC1ONmVpRzFtdFFzNlB0SFlYQXBDdkJzY1dDeWVn?oc=5",
+    "similar_to": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
