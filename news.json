@@ -2366,10 +2366,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "日経クロステック（xTECH）",
+    "publisher": "xtech.nikkei.com",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -2678,10 +2678,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "221616.com",
+    "publisher": "中古車のガリバー",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -3310,12 +3310,12 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問",
+    "title": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問 - classy",
     "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA1MnNoTWExNXM5Y3NrWnQwX2g3bVZiVndSOW5oM0pSQTNKMk9HRTgwRlg1dHYxOUFwVHFHazlfaG5CRTF4T3lvcHZzdjJUbHMwLUJJT1QzZw?oc=5",
-    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  CLASSY.[クラッシィ]",
+    "desc": "【千葉県印西市】地元米を活かした日本酒プロジェクトがついに結実。完成した新酒を携え、印西市商工会が市長へ表敬訪問  classy-online.jp",
     "pub_iso": "2026-08-23T17:55:15+09:00",
     "pub_str": "2026年8月23日",
-    "publisher": "CLASSY.[クラッシィ]",
+    "publisher": "online.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-08-24T09:58:37.337159+09:00",
@@ -6775,6 +6775,18 @@
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市産業用地適地選定・可能性調査業務委託に係る受託候補者の特定について",
+    "link": "https://www.city.inzai.lg.jp/0000022670.html",
+    "desc": "",
+    "pub_iso": "2026-10-06T10:00:00+09:00",
+    "pub_str": "2026年10月6日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-06T10:35:10.868493+09:00",
     "retention_type": "regular"
   }
 ]
