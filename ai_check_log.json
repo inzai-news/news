@@ -7679,5 +7679,15 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxPc1ZQeUI1aHZBNXJVY3YxWjdSQ21nTFNYMnp4XzNvbGJDdUZqcmZ4Ry0zNzhlcmdSN1o0c0ppdzN3eHBsemJhRG5fcmI5MXJFaHNyNGZBSUJpbl85c2FuTDRFOUl3UUdXa0ZkdTgwWi1OYVc0ZXoweklmM3hTY2ZiMWRoOHg5TWQybEl2Y3VB?oc=5",
     "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261006-1208",
+    "date": "2026-10-06",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "２６日までに最終方針 北総線補助金で印西市",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTFA0RWJReW5uejdpTVNBNThCZnlqendTOTNIMkFzenRtdnQwYnNvcldWS1VQLVNBTEFFaldibkNPc29RdWlGOEpMNXZJblFnSG9BRnZCMmR2SQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(chibanippo.co.jp)が収集除外対象のため"
   }
 ]
