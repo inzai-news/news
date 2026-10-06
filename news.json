@@ -81,15 +81,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "あそびの学校",
-    "link": "https://chibanewtown.aeonmall.jp/event/97cbc543-7f84-4088-88cc-0121de8639c2",
-    "pub_str": "2026年7月6日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "select shop Lil",
     "link": "https://chibanewtown.aeonmall.jp/event/7f0c2da1-6ef0-45ae-8e2b-3338cd9916e2",
     "pub_str": "2026年7月15日",
@@ -249,15 +240,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】10月18日開催「牧の原モア ダンスコンテスト2026」出場者応募締切は7月31日（金）。ジャンルは自由！ あなたのダンスで魅せませんか？",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/06/makinoharamoredancecontest2026boshu/",
-    "pub_str": "2026年7月6日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "牧の原モア",
     "retention_type": "regular"
   },
   {
@@ -597,17 +579,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ・マネジメント・センター」に参画",
-    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE42T0YyQzhjazRLYzFZeklaM1RVcDVTaTgwS2V2RldHR2pJd0FOMjN6RnRGcU5iOXF5ZDBBX09haDZIVFRvRkh6bm9QR2VLMjNQNTNMaXp4VQ?oc=5",
-    "desc": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ・マネジメント・センター」に参画  千葉日報オンライン",
-    "pub_iso": "2026-07-06T15:02:24+09:00",
-    "pub_str": "2026年7月6日",
-    "publisher": "千葉日報オンライン",
-    "source": "google-news-inzai-shi",
-    "category": "開発・暮らし",
     "retention_type": "regular"
   },
   {
@@ -1185,10 +1156,10 @@
   {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
-    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
+    "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  resuka.co.jp",
     "pub_iso": "2026-07-26T16:00:00+09:00",
     "pub_str": "2026年7月26日",
-    "publisher": "朝日れすかPLUS",
+    "publisher": "resuka.co.jp",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "retention_type": "regular"
@@ -2366,10 +2337,10 @@
   {
     "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
-    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  日経クロステック（xTECH）",
+    "desc": "相次ぐデータセンター紛争、印西市は地区計画の変更へ  xtech.nikkei.com",
     "pub_iso": "2026-07-09T16:00:00+09:00",
     "pub_str": "2026年7月9日",
-    "publisher": "日経クロステック（xTECH）",
+    "publisher": "xtech.nikkei.com",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-11T22:26:01.039371+09:00",
@@ -2678,10 +2649,10 @@
   {
     "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
-    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  221616.com",
+    "desc": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538  中古車のガリバー",
     "pub_iso": "2026-08-16T16:00:00+09:00",
     "pub_str": "2026年8月16日",
-    "publisher": "221616.com",
+    "publisher": "中古車のガリバー",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-08-16T20:27:22.042885+09:00",
@@ -5293,18 +5264,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】自然を「守る」から「活かす」時代へ。産官学民連携でグリーンインフラを推進する新組織「北総ランドスケープ・マネジメント・センター」に参画",
-    "link": "https://prtimes.jp/main/html/rd/p/000000032.000180020.html",
-    "desc": "[印西市]\n印西市は、豊かな自然環境を未来に継承し、自然が持つ、防災・減災、暑熱緩和などの多面的機能を活かす「グリーンインフラ」施策を実践的に推進するため、2026年7月3日（金）に設立された「北総ランドスケープ・...",
-    "pub_iso": "2026-07-06T00:00:00+09:00",
-    "pub_str": "2026年7月6日",
-    "publisher": "PR TIMES",
-    "source": "prtimes-inzai-city",
-    "category": "市政・行政",
-    "collected_at": "2026-09-18T08:43:46.872583+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和9年度　日本生命財団「児童・少年の健全育成助成」候補団体を募集します",
     "link": "https://www.city.inzai.lg.jp/0000020579.html",
     "desc": "",
@@ -6847,5 +6806,16 @@
     "category": "イベント・文化",
     "collected_at": "2026-10-06T20:37:36.675811+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年7月 開店】CoCo軽井沢",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/06/cocokaruizawa/",
+    "pub_str": "2026年7月15日",
+    "announce_str": "2026年10月6日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-10-07T00:35:51.410282+09:00",
+    "retention_type": "store_event"
   }
 ]
