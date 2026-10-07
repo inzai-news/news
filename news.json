@@ -6863,5 +6863,39 @@
     "category": "開発・暮らし",
     "collected_at": "2026-10-07T08:47:08.112464+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "市制施行30周年記念 中村雅俊コンサート2027（2027年2月14日(日)）",
+    "link": "https://inzainet.com/event/culturehall_261005/",
+    "pub_str": "2026年10月7日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-07T09:37:22.551308+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風25号で被災された方の下水道使用料の減免について",
+    "link": "https://www.city.inzai.lg.jp/0000022672.html",
+    "desc": "",
+    "pub_iso": "2026-10-07T08:45:50+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-07T09:37:22.551308+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風25号で被災された市営水道契約者の方の水道料金を減免します",
+    "link": "https://www.city.inzai.lg.jp/0000022671.html",
+    "desc": "",
+    "pub_iso": "2026-10-07T00:00:01+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-07T09:37:22.551308+09:00",
+    "retention_type": "regular"
   }
 ]
