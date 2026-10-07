@@ -7749,5 +7749,15 @@
     "link": "https://news.google.com/articles/CBMiggFBVV95cUxQUXZ5VW83YnJYa2VBclJTZ1NxcUMyYUU1NFJHT3UtMFpUbHkwblhlSWVoTWprWUFOQ003aE5KVmxlRnlCSVU3cmEwbk5maDdTN0dIbVJXWE8xNmdvS2tDOXFiU3phazNJbTl6UnZxSHJVSkNmVXdCd2pMYm5CM0tWM2lB?oc=5",
     "similar_to": null,
     "ai_reason": "不動産投資サイト(rakumachi.jp)の物件検索ページでニュース性が無いため除外"
+  },
+  {
+    "run_ts": "20261007-1213",
+    "date": "2026-10-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "「動揺してしまった」小1女児を乗用車でひき逃げか 43歳の男を逮捕 女児は右足骨折などの重傷 千葉・印西市",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE5DbUxMZkhndnVDQUJrWlQwdE5uTlc5NWFGdVVBRVBZZlY1NmV2d0QyMW9HOG1OOWFkQVFIczdjOWVWOUxoVGNIVlZWZ2VTVVZ2aTFWS0RtZw?oc=5",
+    "similar_to": "「動揺してしまった」小1女児を乗用車でひき逃げか 43歳の男を逮捕 女児は右足骨折などの重傷 千葉・印西市",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
