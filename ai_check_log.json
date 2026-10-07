@@ -7769,5 +7769,25 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1mZWhhMUF6RDdZcDc4ekF1c2RPaGNFcXdLbW5vSTFjU3dwdDRMUVFmQTQ3RjA2WjlyZFVQZXhLcWI5QmJQXzJNSG5oM2xhMGpIMGFWQzV3QVQ?oc=5",
     "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
     "ai_reason": "既報のAIデータセンター気温上昇リスク記事と同一内容の重複配信のため除外"
+  },
+  {
+    "run_ts": "20261007-1820",
+    "date": "2026-10-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1tQUpjamtYMVZ1blhGREtnTS12ZHNjWWxLQk1FYkRLLWw1QUtucVB6VWMzajBiZXE3N0hIeGRSZGJQQnp5YTdSakJyREUzUUJHYnVpVHhJNA?oc=5",
+    "similar_to": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261007-1820",
+    "date": "2026-10-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "北総鉄道 印西市コラボ駅名キーホルダーなど 販売（2024年4月21日～）",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9ZdHhVQVJSZ19fN3Z1MTJnV3JHaFk3MjVNTVVabjJhdlFWem9fSHdIT1FpT0dtMHBNaldKcmFmVExGX3Nkb3dOaG5iYXA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

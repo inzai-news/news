@@ -5520,7 +5520,7 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-10-07T10:30:08+09:00",
+    "pub_iso": "2026-10-07T17:17:40+09:00",
     "pub_str": "2026年10月7日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -5994,7 +5994,7 @@
     "title": "令和8年9月台風第25号に伴う災害対策本部会議",
     "link": "https://www.city.inzai.lg.jp/0000022615.html",
     "desc": "",
-    "pub_iso": "2026-10-07T11:31:12+09:00",
+    "pub_iso": "2026-10-07T17:30:30+09:00",
     "pub_str": "2026年10月7日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -6906,6 +6906,18 @@
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-07T14:13:14.213822+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年9月台風25号に伴う災害復興本部設置　災害対策本部から、災害復興本部への体制移行について （市長メッセージ）",
+    "link": "https://www.city.inzai.lg.jp/0000022681.html",
+    "desc": "",
+    "pub_iso": "2026-10-07T17:18:23+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-07T18:20:30.391376+09:00",
     "retention_type": "regular"
   }
 ]
