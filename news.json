@@ -6897,5 +6897,15 @@
     "category": "市政・行政",
     "collected_at": "2026-10-07T09:37:22.551308+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "BOUSAIクエスト",
+    "link": "https://chibanewtown.aeonmall.jp/event/f45df575-8320-4677-b6d0-c3d46a1239bc",
+    "pub_str": "2026年10月7日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-07T14:13:14.213822+09:00",
+    "retention_type": "regular"
   }
 ]
