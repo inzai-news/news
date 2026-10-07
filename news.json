@@ -99,15 +99,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "プロ選手から教わる！ バスケチャレンジイベント",
-    "link": "https://chibanewtown.aeonmall.jp/event/953850c0-9696-4605-ae43-270be8f9e35a",
-    "pub_str": "2026年7月7日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "とれたて！夏やさい広場with INZAI FARMERS MARCHE",
     "link": "https://chibanewtown.aeonmall.jp/event/a3683f4d-9859-487a-ae24-61684023a2eb",
     "pub_str": "2026年7月16日",
@@ -490,17 +481,6 @@
     "desc": "千葉県収入証紙の取扱いに関するご案内ページです。",
     "pub_iso": "2026-07-08T14:03:12+09:00",
     "pub_str": "2026年7月8日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "夏の交通安全運動",
-    "link": "https://www.city.inzai.lg.jp/0000022072.html",
-    "desc": "",
-    "pub_iso": "2026-07-07T16:30:13+09:00",
-    "pub_str": "2026年7月7日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -2933,17 +2913,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "マツダケン作品展（2026年09月19日(土)～2026年10月04日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14246&store=chibant",
-    "pub_str": "2026年8月20日",
-    "event_end_date": "2026-10-04",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-08-20T00:37:39.947249+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和8年度印西市史編さん講演会「戦国時代の印西地域の城と社会」を開催",
     "link": "https://www.city.inzai.lg.jp/0000022308.html",
     "desc": "令和8年度印西市史編さん講演会\n講師及び演題\n井上哲郎氏　「戦国時代の印西地域の城と社会」",
@@ -4180,17 +4149,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "マツダケンと描く水彩ワークショップ（2026年10月03日(土)～2026年10月04日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=14026&store=chibant",
-    "pub_str": "2026年9月3日",
-    "event_end_date": "2026-10-04",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-03T07:55:23.742074+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "イオンモール特別企画 イベントキャラバン イオンモール よしもと全国お笑いツアー ～生のお笑いイベントを全国へ！～",
     "link": "https://chibanewtown.aeonmall.jp/event/1ab7559a-bd53-441e-aec8-1c7a928fb83c",
     "pub_str": "2026年9月3日",
@@ -4540,17 +4498,6 @@
     "category": "開店・閉店",
     "collected_at": "2026-09-09T00:45:01.743576+09:00",
     "retention_type": "store_event"
-  },
-  {
-    "title": "つまようじアート体験会開催！（2026年10月03日(土)～2026年10月04日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=29084&store=chibant",
-    "pub_str": "2026年9月9日",
-    "event_end_date": "2026-10-04",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-09T00:45:01.743576+09:00",
-    "retention_type": "regular"
   },
   {
     "title": "印西市立学童クラブ指定管理者の募集に関する質問及び回答",
@@ -5049,17 +4996,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【台湾花市 特別企画】玄関花屋 anui  桐原 杏菜さんによるフラワーブーケづくり体験（2026年10月03日(土)～2026年10月04日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=29938&store=chibant",
-    "pub_str": "2026年9月15日",
-    "event_end_date": "2026-10-04",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-15T12:05:57.229395+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市中学生海外派遣研修（イングリッシュアカデミージャンプ）報告会を開催します(10月4日10時 コスモスパレット)",
     "link": "https://www.city.inzai.lg.jp/0000021544.html",
     "desc": "印西市中学生海外派遣研修（イングリッシュアカデミージャンプ）報告会の開催について",
@@ -5069,17 +5005,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-15T12:05:57.229395+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "季節の絵柄を使って　          グラスデコ作り（2026年10月04日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=30842&store=chibant",
-    "pub_str": "2026年9月15日",
-    "event_end_date": "2026-10-04",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-15T14:12:40.149341+09:00",
     "retention_type": "regular"
   },
   {
@@ -5295,18 +5220,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-18T14:37:40.222072+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ",
-    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFBnUUkxUFFuV2Y5U1BYQnBaUEhrSUFMSndQRkpHcTFMSXpYbElaZEp2bHlqT0tsczM1ektOb2YwN1RMUmsyZnREQVF3Y2tZUW9admc?oc=5",
-    "desc": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ  千葉経済新聞",
-    "pub_iso": "2026-07-07T16:00:00+09:00",
-    "pub_str": "2026年7月7日",
-    "publisher": "千葉経済新聞",
-    "source": "google-news-inzai-event",
-    "category": "イベント・文化",
-    "collected_at": "2026-09-18T16:37:36.794316+09:00",
     "retention_type": "regular"
   },
   {
