@@ -7819,5 +7819,15 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE9FSkF1emtsRS1LZGZnbjMwTll5emc2WDYzWEZqYWdhRmJrVmZxYkhsM2VKOWNGYmZIOVhLYUlUVk5SMk9OeDVPajZ1blllcV92NWh1aS03VTFYSG9mUUpKUGsxYTlaUFNtRnhnZVlTNTRBUQ?oc=5",
     "similar_to": null,
     "ai_reason": "10/7(前日)の終電案内という当日限りの速報的情報で、収集時点(10/8夜)では既に無価値のため除外"
+  },
+  {
+    "run_ts": "20261009-0037",
+    "date": "2026-10-09",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "10/8(木)の成田・印西・白井・栄・酒々井｜成田線の千葉〜佐原は一部運休の表示、BIG HOPのパン博は初日・観覧車は木曜運休、空の湯は最終休館日",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE9DeThKSmF2cVRyY3ZWZW9KTE9SUG83OHZ1N2s4T2FreGpWZ2NhMVJ1b3ZNOFllRlEwNHNaSWdMU05NTXZFS19NOU9ZWVNycTBSNXo1bXE5a0oxSnBoQUdDLUNWM1UwQ0JLQnlqajRIMUg5Y3BQYk9yQ2U3Y2Y3Zw?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/8(前日)限定の日次まとめ情報で、収集時点(10/9)では既に無価値のため除外"
   }
 ]

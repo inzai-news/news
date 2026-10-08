@@ -153,15 +153,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "北総鉄道まつり",
-    "link": "https://chibanewtown.aeonmall.jp/event/e017410f-bfe2-46af-b7e0-22ab5d0552ab",
-    "pub_str": "2026年7月8日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "【印西市】7月19日（日）は小林で八坂神社祇園祭（2026）が開催されます。神輿渡御あり、キッチンカーや縁日も夜まで楽しめます！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/16/kobayashiyasakajinjagionmatsuri2026/",
     "pub_str": "2026年7月16日",
@@ -222,15 +213,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【鎌ケ谷市】鎌ケ谷市役所の駐車場が7月1日よりタイムズの時間貸駐車場として有料化し、24時間365日利用可能に",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/08/timeskamagayashiyakusho/",
-    "pub_str": "2026年7月8日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
     "retention_type": "regular"
   },
   {
@@ -476,17 +458,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "千葉県収入証紙販売のご案内",
-    "link": "https://www.city.inzai.lg.jp/0000002032.html",
-    "desc": "千葉県収入証紙の取扱いに関するご案内ページです。",
-    "pub_iso": "2026-07-08T14:03:12+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "外国人の皆さんへ　～For Foreign Residents～",
     "link": "https://www.city.inzai.lg.jp/0000017479.html",
     "desc": "",
@@ -506,17 +477,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ",
-    "link": "https://news.google.com/articles/CBMiV0FVX3lxTE1lTkhVamFRR1Bib0pxTXJ2dFhmNTdTb3dxNHo4MEs3UXdKaEtPelpCX2FjWVJiWVF6a2NGWTdBUmR5a1liYjBOQk5sakh3WjhqaTZTLVRYSQ?oc=5",
-    "desc": "【千葉県印西市】地域コーディネーターと市民が咲かせた！市制施行30周年記念「あじさいまつり」開催レポ  千葉日報オンライン",
-    "pub_iso": "2026-07-08T16:00:00+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "千葉日報オンライン",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -551,17 +511,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "令和8年度第1回印西市都市計画審議会（令和8年6月15日）",
-    "link": "https://www.city.inzai.lg.jp/0000021915.html",
-    "desc": "",
-    "pub_iso": "2026-07-08T09:01:01+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "バイク男性死亡、右折しようとした軽乗用車と衝突 印西の交差点（千葉日報オンライン）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE1PUGxMVDh4RkFVTmFPN1EtMENIbjk1YnlHUDlrZ19rczZXbFhrbnJ5TVZubFc0bGlTdGVkeC1xN0tsblBVMkpETnBLZjc2YzRSLUNkTmlZVkoxUmdjbl9vLTRBQ1NvSldGajlmTTFWTFNYUEN1TUFFNm1HQ3dnMUk?oc=5",
     "desc": "バイク男性死亡、右折しようとした軽乗用車と衝突 印西の交差点（千葉日報オンライン）  Yahoo!ニュース",
@@ -584,17 +533,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
-    "link": "https://news.google.com/articles/CBMiakFVX3lxTE1oWG5GdzZMV1JtN1RlR3hOZkltd2hxVG15UzJybXRSamFiMWRzWmhrNEhxZ21FTzVrZ3U4Mk81aUYxUGxGTldBRlpBVzloZ3BUb2c2d3ZzbmowY05FeGpISkxBLVVfQUtLdUE?oc=5",
-    "desc": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。  PR TIMES",
-    "pub_iso": "2026-07-08T16:00:00+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見",
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE1CUmEtVzBfMk43Z3Bnc2Q1TWFBQUJoZ3JKR3J0RF90cWpjdXFZT04zVm9Va2FrN0dHZF9QTENxYWd4WlpKdFQ3Rm1wMW9BOTYxd1E0Q0F6LW03MUs4bjNaY052dlEtX2Ffc3Z0TlhZd21fVzVPUkswb2hn?oc=5",
     "desc": "【千葉県印西市】全国ムーブメント「水辺で乾杯」に初参加。夕暮れの印旛沼で“推し水辺”を再発見  イザ！",
@@ -603,17 +541,6 @@
     "publisher": "イザ！",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市・大阪府門真市・埼玉県入間市】コストコ倉庫店3店舗にて、手軽に豆乳を作れる「SOLEMOOD 豆乳メーカー」販売開始！",
-    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE1fNkdCcFBOdkgxdmotMkc3Zm9NTmo0aDBmNTNpVlZzTnJVWmlrN1o4S2lYLW1VY3A3bXdKbV93OEE4VGhLY2sxM1B5ZU95dFRFQmNv?oc=5",
-    "desc": "【千葉県印西市・大阪府門真市・埼玉県入間市】コストコ倉庫店3店舗にて、手軽に豆乳を作れる「SOLEMOOD 豆乳メーカー」販売開始！  STRAIGHT PRESS",
-    "pub_iso": "2026-07-08T16:00:00+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "STRAIGHT PRESS",
-    "source": "google-news-inzai-shi",
-    "category": "話題・その他",
     "retention_type": "regular"
   },
   {
@@ -774,15 +701,6 @@
     "title": "Divine Trinity ゴスペルファミリー2026年夏に新メンバー募集｜千葉県印西市",
     "link": "https://inzaiparque.com/divine-trinity-gospel/",
     "pub_str": "2026年7月9日",
-    "publisher": "千葉ほくそうパルケ",
-    "source": "inzaiparque",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "八坂神社祇園祭2026｜千葉県印西市小林の祭り",
-    "link": "https://inzaiparque.com/yasakagion/",
-    "pub_str": "2026年7月8日",
     "publisher": "千葉ほくそうパルケ",
     "source": "inzaiparque",
     "category": "話題・その他",
@@ -4227,18 +4145,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】「千葉県・住みよさランキングNo.1」印西市が新コンセプトロゴを決定。",
-    "link": "https://prtimes.jp/main/html/rd/p/000000033.000180020.html",
-    "desc": "[印西市]\n[画像: https://prtimes.jp/i/180020/33/resize/d180020-33-1982fef9e05b36b0289f-0.png ]\nこのたび印西市は、「住みよさ」のその先を目指し、子育てをはじめ、新時代の健やかで持続可能なまちづくりを推進する、...",
-    "pub_iso": "2026-07-08T00:00:00+09:00",
-    "pub_str": "2026年7月8日",
-    "publisher": "PR TIMES",
-    "source": "prtimes-inzai-city",
-    "category": "市政・行政",
-    "collected_at": "2026-09-04T00:17:05.327904+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "【印西市】9月13日（日）北総花の丘公園で「オータムフェア」が開催されます！ コントステージやマジックショー、フリーマーケット、野菜や梨の販売もあり！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/04/hananookakoenautumfair2026/",
     "pub_str": "2026年9月4日",
@@ -6898,6 +6804,18 @@
     "source": "google-news-inzai-chiba",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-08T22:37:26.502369+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市ファミリー・サポート・センター事業業務委託プロポーザル参加者募集",
+    "link": "https://www.city.inzai.lg.jp/0000022685.html",
+    "desc": "",
+    "pub_iso": "2026-10-09T00:00:00+09:00",
+    "pub_str": "2026年10月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-09T00:37:26.858471+09:00",
     "retention_type": "regular"
   }
 ]
