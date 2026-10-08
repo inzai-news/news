@@ -6852,5 +6852,28 @@
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-10-08T09:12:16.705215+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年11月11日 開店】焼きそば花道",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/08/yakisobahanamichiopen/",
+    "pub_str": "2026年11月11日",
+    "announce_str": "2026年10月8日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-10-08T12:28:00.883833+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "声の広報　令和8年10月号  NO.1046",
+    "link": "https://www.city.inzai.lg.jp/0000022664.html",
+    "desc": "",
+    "pub_iso": "2026-10-07T09:00:00+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-08T12:28:00.883833+09:00",
+    "retention_type": "regular"
   }
 ]

@@ -7799,5 +7799,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1HSzB2Q19sTm1GemJHcE5BbkZURUk4c2xJMVZQQVI3X2V1SWtNMl9ESWtteEdEQVpMMHpDRFZ6YWxvZ0ZOcFdfdDQxNlFSandRM2RQVVFn?oc=5",
     "similar_to": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261008-1228",
+    "date": "2026-10-08",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "声の広報　令和8年10月号  NO.1046",
+    "link": "https://www.city.inzai.lg.jp/0000022664.html",
+    "similar_to": "広報いんざい　令和8年10月号　No.1046",
+    "ai_reason": "「広報いんざい」の音声版(声の広報)で、同号数だが別フォーマットの配信のため別記事として採用"
   }
 ]
