@@ -6391,7 +6391,7 @@
     "pub_iso": "2026-10-02T13:21:06+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-02T22:37:22.713716+09:00",
     "retention_type": "regular"
@@ -6886,6 +6886,18 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-08T18:37:28.930828+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "成田・印西の大型店の駐車場は何台｜イオンモール成田約4,000台・ジョイフル本田千葉ニュータウン店3,440台・BIG HOP1,860台・ユアエルム成田1,500台、料金の記載は店でちがう",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTFB1VmludWpPdE00VGVuMjVqXzFualB3Wm9kQWxYRm5NdVlQanBuSXRxMTJTR05JT1NoWUJFTjF2OUUwZlU0OEdtWGZFWHNBZjZJWC1jWFZ0VGU5LXhBa05ZNUhhSUtEM2xtUXFZdlQ0U3RHaWVmYTlBMkxWYw?oc=5",
+    "desc": "成田・印西の大型店の駐車場は何台｜イオンモール成田約4,000台・ジョイフル本田千葉ニュータウン店3,440台・BIG HOP1,860台・ユアエルム成田1,500台、料金の記載は店でちがう  ジモはる",
+    "pub_iso": "2026-10-07T10:30:00+09:00",
+    "pub_str": "2026年10月7日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-chiba",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-08T22:37:26.502369+09:00",
     "retention_type": "regular"
   }
 ]
