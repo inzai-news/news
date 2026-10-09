@@ -6481,7 +6481,7 @@
     "pub_iso": "2026-10-05T12:02:46+09:00",
     "pub_str": "2026年10月5日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "話題・その他",
     "collected_at": "2026-10-05T12:37:52.855648+09:00",
     "retention_type": "regular"
@@ -6550,7 +6550,7 @@
     "pub_iso": "2026-10-06T07:48:49+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6913,7 +6913,7 @@
     "pub_iso": "2026-10-09T12:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "イベント・文化",
     "collected_at": "2026-10-09T16:08:02.246878+09:00",
     "retention_type": "regular"
@@ -7043,7 +7043,7 @@
     "pub_iso": "2026-10-07T11:00:00+09:00",
     "pub_str": "2026年10月7日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-10-09T18:12:55.499592+09:00",
     "retention_type": "regular"
@@ -7070,6 +7070,40 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T18:12:55.499592+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】2026年の木下のまつり「竹袋稲荷神社例大祭」は10月10日（土）と11日（日）の2日間執り行われます",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/09/takefukuroinarijinjareitaisai2026/",
+    "pub_str": "2026年10月9日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-09T20:37:27.961294+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10/10〜12の3連休、成田・印西・栄・酒々井で車を停める場所｜房総のむら秋のまつりは無料約300台、花の丘マルシェは有料405台",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTFBQNnM3RW9QS1JENTY2V2tZQUFselN0RjIyVXJENTRYTzVxbzh1ZjVMVHJQUTFSejk5Z2t2UHB4TXZ0RUQ0anBkeGplTlI0c1k1Tk9rWUpQUEM1QmJtSFVtUzQzSnAxVzBnWHFsdG9JcHN0U3lD?oc=5",
+    "desc": "10/10〜12の3連休、成田・印西・栄・酒々井で車を停める場所｜房総のむら秋のまつりは無料約300台、花の丘マルシェは有料405台  ジモはる",
+    "pub_iso": "2026-10-09T18:15:00+09:00",
+    "pub_str": "2026年10月9日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-09T20:37:27.961294+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "3連休(10/10〜12)の終電｜成田・酒々井・印西・白井の主な駅、京成成田は23:06発高砂行き・京成酒々井は23:13発高砂行き・印西牧の原は23:18発泉岳寺行き(土休日ダイヤ)",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTE4wMHMzOXVMTURmSDZ1ZGEyOFp4VnROZk5Ubm5sZ0hiZFA5WVBfNExWMHcwdWViRnEwM3gwNFM4ZXhzYWFydy1FU0lfOFIzT3NfU21XaWNRSjA2MW41c2g5ZDFNU29sMUFvZDZNaUYySzhpWTA?oc=5",
+    "desc": "3連休(10/10〜12)の終電｜成田・酒々井・印西・白井の主な駅、京成成田は23:06発高砂行き・京成酒々井は23:13発高砂行き・印西牧の原は23:18発泉岳寺行き(土休日ダイヤ)  ジモはる",
+    "pub_iso": "2026-10-09T20:15:00+09:00",
+    "pub_str": "2026年10月9日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-09T20:37:27.961294+09:00",
     "retention_type": "regular"
   }
 ]
