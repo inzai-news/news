@@ -5339,8 +5339,8 @@
     "title": "令和8年台風25号に対する支援・手続き",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000022580.html",
     "desc": "",
-    "pub_iso": "2026-10-07T17:17:40+09:00",
-    "pub_str": "2026年10月7日",
+    "pub_iso": "2026-10-09T16:00:15+09:00",
+    "pub_str": "2026年10月9日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6892,6 +6892,30 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-09T14:37:51.662988+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "台風第25号に伴う被災世帯の保育料減免について",
+    "link": "https://www.city.inzai.lg.jp/0000022678.html",
+    "desc": "",
+    "pub_iso": "2026-10-09T15:40:56+09:00",
+    "pub_str": "2026年10月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-09T16:08:02.246878+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10/12(月・祝)印西市文化ホールのものまねLIVEは14時と17時の2回｜全席指定4,500円・無料駐車場は最大198台、木下駅から徒歩15分、帰りの上野行き最終は22:39",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE5uZWRNYWZSZFg1WUZvOGlJY09nR203b3FOc3ZvUkpxb3FCWWp5SFh6am9LREttZ0FoRUQ1UTRjUHR5amc4dnlrOUQ1bE9JYXU3NFM1MnpydUswZU5ZYTN1eFhEREV1UUx0bHdYVkZn?oc=5",
+    "desc": "10/12(月・祝)印西市文化ホールのものまねLIVEは14時と17時の2回｜全席指定4,500円・無料駐車場は最大198台、木下駅から徒歩15分、帰りの上野行き最終は22:39  ジモはる",
+    "pub_iso": "2026-10-09T12:00:00+09:00",
+    "pub_str": "2026年10月9日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-oshirase",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-09T16:08:02.246878+09:00",
     "retention_type": "regular"
   }
 ]
