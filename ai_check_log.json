@@ -7839,5 +7839,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE1oWG5GdzZMV1JtN1RlR3hOZkltd2hxVG15UzJybXRSamFiMWRzWmhrNEhxZ21FTzVrZ3U4Mk81aUYxUGxGTldBRlpBVzloZ3BUb2c2d3ZzbmowY05FeGpISkxBLVVfQUtLdUE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261009-1437",
+    "date": "2026-10-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "2020→2025年｢人口増加率が高い自治体｣ランキング…5位は東京都中央区､4位千葉県印西市､ではトップ3は？",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTFB1cW03Nzl1TGEtYmF6d3E2Z0JRaE9LSjQyWjJjU190em1MSHpFaEcwR0hEMkVtbmIxcld6ZkFSRjk3MUY4ZldGYW41RXJLeUttbVE?oc=5",
+    "similar_to": "2020→2025年「人口増加率が高い自治体」ランキング…5位は東京都中央区、4位千葉県印西市、ではトップ3は？",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
