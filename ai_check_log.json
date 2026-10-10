@@ -7859,5 +7859,25 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=45741&store=chibant",
     "similar_to": "オリジナル缶バッジ作り体験（2026年10月18日(日)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261011-0213",
+    "date": "2026-10-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "【第1回開催結果】木下駅前にぎわい広場周辺のまちづくりに関するワークショップ",
+    "link": "https://www.city.inzai.lg.jp/0000022693.html",
+    "similar_to": "【第2回募集】木下駅前にぎわい広場周辺のまちづくりに関するワークショップ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261011-0213",
+    "date": "2026-10-11",
+    "ai_decision": "exclude",
+    "similarity": 0.8,
+    "title": "千葉県印西市「AIデータセンター」急増で気温上昇リスク…地域住民も賛否わかれる",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1qU1RDNXphNU1zZnN1QTZhMHVSMlpNb243N2cyeTJYVnQ5R3p0QTVsWnI0OXZ5d21IRTVUR1ExVWlYb3BtVlh0Y2d6ZXBoRklvdzYxbnc3V1k?oc=5",
+    "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
+    "ai_reason": "既報のAIデータセンター気温上昇リスク記事と同一内容の重複配信のため除外"
   }
 ]
