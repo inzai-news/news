@@ -4665,7 +4665,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -5321,7 +5321,7 @@
     "pub_iso": "2026-09-24T16:00:00+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "朝日新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-24T08:27:50.858755+09:00",
     "retention_type": "regular"
@@ -5647,9 +5647,9 @@
     "retention_type": "regular"
   },
   {
-    "title": "【開店日不明 開店】サーティワンアイスクリーム 白井ロードサイド店",
+    "title": "【2026年10月8日 開店】サーティワンアイスクリーム 白井ロードサイド店",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/26/31icecreamshiroiroadsideopen/",
-    "pub_str": "2026年9月26日",
+    "pub_str": "2026年10月8日",
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "開店・閉店",
@@ -6649,7 +6649,7 @@
     "pub_iso": "2026-10-07T10:30:00+09:00",
     "pub_str": "2026年10月7日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-08T22:37:26.502369+09:00",
     "retention_type": "regular"
@@ -6876,8 +6876,8 @@
     "title": "印西市の公園4選｜駐車場は松山下283台・牧の原57台・北総花の丘405台(有料)・松虫姫47台、遊具があるのは松山下",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1kUnAxeXdlLUVVU2hIMF9PLVczTEN4YUhzNmExS1ppeDg5YTlvcXZKWXN0WlQ0UkpVYjE3QUJHU2RRNWI1OWhsY3JHVVU0ZXJsVDVBQg?oc=5",
     "desc": "印西市の公園4選｜駐車場は松山下283台・牧の原57台・北総花の丘405台(有料)・松虫姫47台、遊具があるのは松山下  ジモはる",
-    "pub_iso": "2026-10-07T16:00:00+09:00",
-    "pub_str": "2026年10月7日",
+    "pub_iso": "2026-10-04T16:45:00+09:00",
+    "pub_str": "2026年10月4日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
@@ -7126,6 +7126,18 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-11T02:13:11.874933+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10/12(月・祝)のごみ収集｜成田・印西は祝日も収集、芝山町は10/12に収集の印なし、白井市・栄町は祝日の扱いが公式に記載なし",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE4wcHBidmdnUTBGaTFmMEd2STBpSDA2MlNKaG11UlJkaUk2ZThSZU5fV2xkcDIyczNINldweTVXV0ViU2lSUDRqYlJlV3dvZE5YTDdjV2UwZHpJN2ZVbnZBaUNEcC1mS3M?oc=5",
+    "desc": "10/12(月・祝)のごみ収集｜成田・印西は祝日も収集、芝山町は10/12に収集の印なし、白井市・栄町は祝日の扱いが公式に記載なし  ジモはる",
+    "pub_iso": "2026-10-11T08:40:00+09:00",
+    "pub_str": "2026年10月11日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-11T12:37:28.395855+09:00",
     "retention_type": "regular"
   }
 ]

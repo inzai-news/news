@@ -7879,5 +7879,35 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE1qU1RDNXphNU1zZnN1QTZhMHVSMlpNb243N2cyeTJYVnQ5R3p0QTVsWnI0OXZ5d21IRTVUR1ExVWlYb3BtVlh0Y2d6ZXBoRklvdzYxbnc3V1k?oc=5",
     "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
     "ai_reason": "既報のAIデータセンター気温上昇リスク記事と同一内容の重複配信のため除外"
+  },
+  {
+    "run_ts": "20261011-1237",
+    "date": "2026-10-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "相次ぐデータセンター紛争、印西市は地区計画の変更へ",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE5rTHlHR2YzYlBIckxacjl4cGE1T01QZ2JFT3FOS2xVYlBlY0JfTi1yYWNCenY4QnBqQUZEWnFFeHJDSUJKVGFHWWc5dU9xUnQzTHdla0g2bDJoNWFOWnJPcnYtY1kwenVMVVRzNA?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261011-1238",
+    "date": "2026-10-11",
+    "ai_decision": "exclude",
+    "similarity": 0.61,
+    "title": "【白井市】「サーティワンアイスクリーム 白井ロードサイド店」が10月8日（木）にオープンしました！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/11/31icecreamshiroiroadside/",
+    "similar_to": "【開店日不明 開店】サーティワンアイスクリーム 白井ロードサイド店",
+    "ai_reason": "既存のstore_event記事(開店日不明)に対応する店舗で、開店日(10月8日)が判明したため既存記事側をnews.json直接編集で更新し、本記事自体は重複として除外"
+  },
+  {
+    "run_ts": "20261011-1238",
+    "date": "2026-10-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市（ANNニュース）",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5uZ2VhOE0xc29uNTl0SHBtbklfa3RSYjU1YmdNRXlZemNCRmctbmtudnBOemNJZ3NKbzRtZVRCOHZjWnZEbDNrNFBaUUk1N2xDSlpSdGZZVUp4MW1jaEdxMTFjSTk?oc=5",
+    "similar_to": null,
+    "ai_reason": "既報のひき逃げ事件(43歳男逮捕・「動揺した」供述)と同一内容で新情報が無く、重複のため除外"
   }
 ]
