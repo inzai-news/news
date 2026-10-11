@@ -7909,5 +7909,15 @@
     "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5uZ2VhOE0xc29uNTl0SHBtbklfa3RSYjU1YmdNRXlZemNCRmctbmtudnBOemNJZ3NKbzRtZVRCOHZjWnZEbDNrNFBaUUk1N2xDSlpSdGZZVUp4MW1jaEdxMTFjSTk?oc=5",
     "similar_to": null,
     "ai_reason": "既報のひき逃げ事件(43歳男逮捕・「動揺した」供述)と同一内容で新情報が無く、重複のため除外"
+  },
+  {
+    "run_ts": "20261011-2037",
+    "date": "2026-10-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9ISTVMbmdfdDJfRlR1Tkw4OXFFWGRrdV9zLWVvYnQ2cnExMDcwTjlySXNlYXoxdm1ZVnVTOVFmZ3pzbmk3VXpsSXRPaTdOYkVwNHotbGNMVVBwd2Jack5Ta29odTN3QQ?oc=5",
+    "similar_to": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

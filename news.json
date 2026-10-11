@@ -4665,7 +4665,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -5246,7 +5246,7 @@
     "title": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在）",
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTFA5c0FleHpPZU5fSUw1VnBQejFoZmdsUGdaRmpLYjZNTUQ3SVVzYzlFbXA2Uzdkc3NwUlJZUUp2V296eERIZHRMczJFMUg1ci1xMlBYOVFMVE1KSU1vZFcw?oc=5",
     "desc": "台風25号【国道464号】千葉北道路 印西市内で道路損壊 一部通行止め解除（24日08:00現在）  千葉テレビ放送株式会社",
-    "pub_iso": "2026-09-24T20:37:37+09:00",
+    "pub_iso": "2026-09-24T16:00:00+09:00",
     "pub_str": "2026年9月24日",
     "publisher": "千葉テレビ放送株式会社",
     "source": "google-news-inzai-shi",
@@ -7138,6 +7138,16 @@
     "source": "google-news-inzai-shi",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-10-11T12:37:28.395855+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】10月18日（日）「とかみDEマルシェ」が戸神ホームズで開催！ ハンドメイドやワンちゃん関連のお店、キッチンカーが大集合！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/11/tokamidemarche2026oct/",
+    "pub_str": "2026年10月11日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-11T20:37:20.988687+09:00",
     "retention_type": "regular"
   }
 ]
