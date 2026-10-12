@@ -7919,5 +7919,15 @@
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9ISTVMbmdfdDJfRlR1Tkw4OXFFWGRrdV9zLWVvYnQ2cnExMDcwTjlySXNlYXoxdm1ZVnVTOVFmZ3pzbmk3VXpsSXRPaTdOYkVwNHotbGNMVVBwd2Jack5Ta29odTN3QQ?oc=5",
     "similar_to": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261012-1930",
+    "date": "2026-10-12",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE5MOGZXRm9pQVA4MmlFUHg0NE9jMW5ac3hDQUJNbWFsZWQ3d1V1bTRFWnFaTXphdzNXYkhFRU8zZTVsLXZOSFV6OGpPd3VKaVJlRldHWTNLUml0U2RPWVZqNW5NTk9WX3hnUFU4QUJJMVF0cldDZ3ZDV245MkxJeVE?oc=5",
+    "similar_to": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
