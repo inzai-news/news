@@ -198,15 +198,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【白井市】7月11日（土）は初夏まつり！ 白井総合公園で「おしゃれ市場 キッチンカー＆マルシェ」が開催されます！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/11/oshareichibashiroi2026jul/",
-    "pub_str": "2026年7月11日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市市民課・国保年金課・中央駅前出張所・牧の原出張所窓口業務委託公募型プロポーザルの実施について",
     "link": "https://www.city.inzai.lg.jp/0000021696.html",
     "desc": "",
@@ -333,17 +324,6 @@
     "desc": "",
     "pub_iso": "2026-07-13T11:45:21+09:00",
     "pub_str": "2026年7月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "市民公開講座会「認知症になる前にできること～MCIを知れば未来が変わる～」",
-    "link": "https://www.city.inzai.lg.jp/0000022104.html",
-    "desc": "",
-    "pub_iso": "2026-07-11T09:00:00+09:00",
-    "pub_str": "2026年7月11日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4665,7 +4645,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6142,7 +6122,7 @@
     "title": "10/3は印西・千葉ニュータウンで片側通行止め・車線規制｜関東大学女子駅伝、8:30〜12:00",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTFBVSlRuSnV3TmF6UW1yN1V3MjNQX3pjdHlYc2ZYbzdPR3lSUDF4SzNKQkxoUFVXTkRQUGFrUnJMUDIyX2NicTJPYWd1a29Ec3V1YmV6UTBBVWZJd3FkZkx3eXBkSzIwdFZuZkVtQg?oc=5",
     "desc": "10/3は印西・千葉ニュータウンで片側通行止め・車線規制｜関東大学女子駅伝、8:30〜12:00  ジモはる",
-    "pub_iso": "2026-10-02T13:21:06+09:00",
+    "pub_iso": "2026-10-02T16:00:00+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -6246,8 +6226,8 @@
     "title": "印西市の台風25号の支援｜応急修理（半壊757,000円）と見舞金（半壊30,000円）は両方受けられない、り災証明は3か所",
     "link": "https://news.google.com/articles/CBMidEFVX3lxTE9rUUthc095aEU4Q2RqMjJlc1ZvUTJXNXpwOXV6RmdDLXNzWktvU3ZkQy0yNkFFMU1KU2Y1NWNUSkNHQWNyaHZkNTc1X0FKVlpUVUJNS3AybGMtbnU3Rlk3YnM4Nmw3NldCeXBQTFIyLUh1NGxG?oc=5",
     "desc": "印西市の台風25号の支援｜応急修理（半壊757,000円）と見舞金（半壊30,000円）は両方受けられない、り災証明は3か所  ジモはる",
-    "pub_iso": "2026-10-04T16:00:00+09:00",
-    "pub_str": "2026年10月4日",
+    "pub_iso": "2026-10-03T16:00:00+09:00",
+    "pub_str": "2026年10月3日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
@@ -6934,8 +6914,8 @@
     "title": "10/10〜12の3連休、成田・印西・栄・酒々井で車を停める場所｜房総のむら秋のまつりは無料約300台、花の丘マルシェは有料405台",
     "link": "https://news.google.com/articles/CBMidEFVX3lxTFBQNnM3RW9QS1JENTY2V2tZQUFselN0RjIyVXJENTRYTzVxbzh1ZjVMVHJQUTFSejk5Z2t2UHB4TXZ0RUQ0anBkeGplTlI0c1k1Tk9rWUpQUEM1QmJtSFVtUzQzSnAxVzBnWHFsdG9JcHN0U3lD?oc=5",
     "desc": "10/10〜12の3連休、成田・印西・栄・酒々井で車を停める場所｜房総のむら秋のまつりは無料約300台、花の丘マルシェは有料405台  ジモはる",
-    "pub_iso": "2026-10-09T18:15:00+09:00",
-    "pub_str": "2026年10月9日",
+    "pub_iso": "2026-10-11T00:26:17+09:00",
+    "pub_str": "2026年10月11日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
@@ -7039,7 +7019,7 @@
     "pub_iso": "2026-10-10T10:14:10+09:00",
     "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
     "collected_at": "2026-10-11T02:13:11.874933+09:00",
     "retention_type": "regular"
@@ -7148,6 +7128,18 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-10-11T20:37:20.988687+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "10/12(月・祝)の成田・印西・白井・栄・酒々井｜房総のむら秋のまつりは9:00〜16:30・翌13日は記載なし、酒々井アウトレットでONE SPORTS FESTA、印西市文化ホールはものまねLIVE",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE40NFFhNkdsQTFkVk03RlZtdGhBQldGTnl2V0hHRlk5RldxRVBjQVc2X295NFM4OEpGUEpuaVJ1aUtRT2JENHJrWWMwSHdXVzlmYnZZRk5qRThQcWxXWkVhLUFfd3VRMjNyMUs1SXZ6STZPd3VKRVdkZ1F0Y24?oc=5",
+    "desc": "10/12(月・祝)の成田・印西・白井・栄・酒々井｜房総のむら秋のまつりは9:00〜16:30・翌13日は記載なし、酒々井アウトレットでONE SPORTS FESTA、印西市文化ホールはものまねLIVE  ジモはる",
+    "pub_iso": "2026-10-11T20:15:00+09:00",
+    "pub_str": "2026年10月11日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-12T09:11:20.029417+09:00",
     "retention_type": "regular"
   }
 ]
