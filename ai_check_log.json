@@ -7929,5 +7929,35 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE5MOGZXRm9pQVA4MmlFUHg0NE9jMW5ac3hDQUJNbWFsZWQ3d1V1bTRFWnFaTXphdzNXYkhFRU8zZTVsLXZOSFV6OGpPd3VKaVJlRldHWTNLUml0U2RPWVZqNW5NTk9WX3hnUFU4QUJJMVF0cldDZ3ZDV245MkxJeVE?oc=5",
     "similar_to": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261013-0816",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "link": "https://news.google.com/articles/CBMiiAFBVV95cUxPeF9teEREZWJBQWp5YXdGelBjZUQ1cDVEMlBFTlU1S2l0LXlwVXlWNmpxd29KckhkWmFLNVVKZG55WXdsTjByczduUHV3cjNBRmZNMjdwTmFTcU40ZTNreUdIQ0JOUnBpcE5EUmZpNFFUX0o4cTdTamlmOEV5c1F4elRCdVk0dmFi?oc=5",
+    "similar_to": "駅前ＤＣに反対運動続く千葉・印西市、隣の駅前でも建設計画…禁止のための地区計画変更完了前で「どうなってしまうのか」",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261013-0816",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西支部会開催",
+    "link": "https://news.google.com/articles/CBMiwAFBVV95cUxPX0xUZldHbHJLVFlzVkRGRUdmRW9rSE9YY2dQNWtFQlZtWG9uVlJZbV9ielJHQUdBUFJnY2kySU1LRWNIU3JfT3BXZ09CZE1SUmMzYVd3U2RaTjNZaHp5QzVkTFdMcmpwbll6ZTZ5aXlZMFNwVDZLX2tHYl9jQlgwSDFUbXV6RDY4TVpBR2VwVGE2ci1lRmpNUFN3WmZ1UGtuaktxbzgtVm1rZ2dsdEtRXzBfMmk1TG95R2ItTXowelM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
+  },
+  {
+    "run_ts": "20261013-0817",
+    "date": "2026-10-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "６歳女児はねられ重傷　印西の横断歩道　ひき逃げ疑いで男逮捕",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE91VkV5NEJ5S3lzelJJS09LOWNuWXloUERXZVJoUFRMV1FQMS1DSk1iT0tsOTExLUYyUFFZOE9RUFc0b3c1SXVfendUaXUyTGQxcWVWTUd6Z3c1aU9IY1JyNzdla3ptdEgtNzIxMnNGbUE5T3EwWnRPZDJUQS1vUdIBgwFBVV95cUxNR3l4U2dWenpOa2k3ZHhBVWlTM2tSclVKNjM1dTlTNUFiMVBISzJnSUY3T0F0Vi12V2V3RFZEb2hlTVowMmxXZWRjM0NVbVRoeERyZU5WdEJmWkdBOUNpOVJnR3VfajE4V0N5aWhmNlNQeGZwZDF1OHBTLTNUVTdYa3B1Yw?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/3-10/4に既に採用済みの同一事件(6歳女児ひき逃げ・43歳男逮捕)の再報で新規情報なし、重複のため除外"
   }
 ]
