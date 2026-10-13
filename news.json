@@ -4636,7 +4636,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6252,7 +6252,7 @@
     "title": "成田・印西でバーベキューができる場所｜印西市の公園は禁止・成田市は一部の公園を除き可、坂田ヶ池キャンプ場は日帰り200円から・北総花の丘の手ぶらBBQは土日祝3,500円から",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBDTUNkMWMyOGtnS0JIVEVWdHphM2Z2U1dUUTE0TkFpZWl4aldrRVFtQTFRMHFiLXhXRHlldDhNM2hWcWMzUXVWSkhyaUVqRjZnSGZvVDN4S3o3U19XZU5Sc0Jrcm9CLUE?oc=5",
     "desc": "成田・印西でバーベキューができる場所｜印西市の公園は禁止・成田市は一部の公園を除き可、坂田ヶ池キャンプ場は日帰り200円から・北総花の丘の手ぶらBBQは土日祝3,500円から  ジモはる",
-    "pub_iso": "2026-10-04T17:59:50+09:00",
+    "pub_iso": "2026-10-04T16:00:00+09:00",
     "pub_str": "2026年10月4日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -6358,7 +6358,7 @@
     "pub_iso": "2026-10-06T07:48:49+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -7258,6 +7258,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-13T18:37:24.587566+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "新規オープンのお知らせ「セブン‐イレブン 牧の原モア店」",
+    "link": "https://www.makinohara-more.com/event-topics/%e6%96%b0%e8%a6%8f%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%8c%e3%82%bb%e3%83%96%e3%83%b3%e2%80%90%e3%82%a4%e3%83%ac%e3%83%96%e3%83%b3-%e7%89%a7%e3%81%ae/",
+    "pub_str": "2026年10月13日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-10-13T20:17:35.934995+09:00",
     "retention_type": "regular"
   }
 ]
