@@ -7959,5 +7959,15 @@
     "link": "https://news.google.com/articles/CBMifkFVX3lxTE91VkV5NEJ5S3lzelJJS09LOWNuWXloUERXZVJoUFRMV1FQMS1DSk1iT0tsOTExLUYyUFFZOE9RUFc0b3c1SXVfendUaXUyTGQxcWVWTUd6Z3c1aU9IY1JyNzdla3ptdEgtNzIxMnNGbUE5T3EwWnRPZDJUQS1vUdIBgwFBVV95cUxNR3l4U2dWenpOa2k3ZHhBVWlTM2tSclVKNjM1dTlTNUFiMVBISzJnSUY3T0F0Vi12V2V3RFZEb2hlTVowMmxXZWRjM0NVbVRoeERyZU5WdEJmWkdBOUNpOVJnR3VfajE4V0N5aWhmNlNQeGZwZDF1OHBTLTNUVTdYa3B1Yw?oc=5",
     "similar_to": null,
     "ai_reason": "10/3-10/4に既に採用済みの同一事件(6歳女児ひき逃げ・43歳男逮捕)の再報で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261013-1421",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE45REU3bWFoSzN6YUIzeUt1aThHbE0yYlFIN24wQ0ZZNGxBVHB1dzRUM3lMNHlZQ002ZGJYSXFGVm1vR0lobUZRRlJ0d1B5NjlnZU5PZ0pPdVVqX3AyNUpYcjAxM2I0by1Pdk5yOW5ySUhMdw?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
