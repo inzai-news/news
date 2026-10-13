@@ -8009,5 +8009,25 @@
     "link": "https://news.google.com/articles/CBMie0FVX3lxTE93cEU0c3hoMldkYnc1ZHhQVjlqcTdKVnpyVVk2YVZCVHNTcEVzMl9BZFZVWU5DeUMwMzNlbXBHS1U1Zk16N2FWdjlMRnFoa2xSWjNmUjluc21OSjZoMHM4cUtOOGpWNTI0R1RCek80eWhTcnBvWDI0SHpiaw?oc=5",
     "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
     "ai_reason": "既に採用済みの同一記事(データセンター計画・説明会600人)の画像まとめ版で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261013-2237",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人 (テレビ朝日系（ANN）)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxOb0JUd0VzWDN2MVRrX2xacnI3eVpZNlRtR1JGZFk1TnotVXJ0ZHRxNGxVZDZ6N2dLRHVPbkhFOTBHMWNidl9xaG5feXBkbTVaVENISVhaX0NYUHotMEExeUZmdTh0T2toaTEwU2x2N2VGbXd6WGRfRGR6TjlDUFNGWlVVWWtydE1hREZUdDFn?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261013-2237",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレ朝NEWS）",
+    "link": "https://news.google.com/articles/CBMikwFBVV95cUxOQlFRdTI0cVJna1lsZW5hVm5sazJLVkdWMVBTejlTUDV2X2FvLUhxZXpKUWx6RS13emE1QUxCWnpNbk91LU1NaXluczNYWTA2UzRuN2ZpM3dPRlQ2V0xMa3l0WTR2MGl0bUdqRlY3dGJuSG42ZmRMWl85SEZMRjJnMHZyM3J0UGZ0OVo0SEJxejdsUkE?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
