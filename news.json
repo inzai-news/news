@@ -6999,7 +6999,7 @@
     "pub_iso": "2026-10-10T10:14:10+09:00",
     "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
     "collected_at": "2026-10-11T02:13:11.874933+09:00",
     "retention_type": "regular"
@@ -7080,8 +7080,8 @@
     "title": "成田・印西の犬の散歩とドッグラン｜成田市の広沼街区公園は無料で登録は平日のみ、北総花の丘は年1,200円・印西アニマルセラピープレイスは1頭500円で営業は月木土日祝",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE9oOHFJaWhXLXJvS0drZHZiVkJJRzg1dnZLRDBLMGktMERQZVNVRW1pbmRpdllaRk1KMF93dFk0aUdSNVVkQ19RLWtHSkYya0Y5U25HbVVQYmZtTTIzRU50ZEhR?oc=5",
     "desc": "成田・印西の犬の散歩とドッグラン｜成田市の広沼街区公園は無料で登録は平日のみ、北総花の丘は年1,200円・印西アニマルセラピープレイスは1頭500円で営業は月木土日祝  ジモはる",
-    "pub_iso": "2026-10-07T15:30:00+09:00",
-    "pub_str": "2026年10月7日",
+    "pub_iso": "2026-10-10T16:00:00+09:00",
+    "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
@@ -7246,6 +7246,18 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-13T14:21:07.679916+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "農業版ハローワークに登録しませんか（農業研修の参加者募集）",
+    "link": "https://www.city.inzai.lg.jp/0000022691.html",
+    "desc": "",
+    "pub_iso": "2026-10-01T00:00:01+09:00",
+    "pub_str": "2026年10月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-13T18:37:24.587566+09:00",
     "retention_type": "regular"
   }
 ]

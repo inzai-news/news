@@ -7989,5 +7989,25 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTFB0M0c2MkxMRVpia05BQWMxOTByVkZvaXRFRnNZUnFvWXdNN0NXcllGdi1WZy1Ha2VFcS0yOEhVWFR2UFM3TlU5QlZWWUNlUjBGTGItVQ?oc=5",
     "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261013-1837",
+    "date": "2026-10-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "【被害状況】令和8年台風25号で被災した農業者の皆様へ",
+    "link": "https://www.city.inzai.lg.jp/0000022661.html",
+    "similar_to": "令和8年台風25号で被災した農業者の皆様へ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261013-1837",
+    "date": "2026-10-13",
+    "ai_decision": "exclude",
+    "similarity": 0.8,
+    "title": "【画像まとめ】データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTE93cEU0c3hoMldkYnc1ZHhQVjlqcTdKVnpyVVk2YVZCVHNTcEVzMl9BZFZVWU5DeUMwMzNlbXBHS1U1Zk16N2FWdjlMRnFoa2xSWjNmUjluc21OSjZoMHM4cUtOOGpWNTI0R1RCek80eWhTcnBvWDI0SHpiaw?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "既に採用済みの同一記事(データセンター計画・説明会600人)の画像まとめ版で新規情報なし、重複のため除外"
   }
 ]
