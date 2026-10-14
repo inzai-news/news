@@ -117,15 +117,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "公安系公務員合同説明会",
-    "link": "https://chibanewtown.aeonmall.jp/event/e05ca4f9-608d-4280-8217-5f2766de764a",
-    "pub_str": "2026年7月13日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "ぷっくりマリンシールを作ろう！",
     "link": "https://chibanewtown.aeonmall.jp/event/31f5a575-9b37-4b49-84f5-852f144a966b",
     "pub_str": "2026年7月14日",
@@ -177,15 +168,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】7月17日（金）・18日（土）「アルカサールサマーフェスタ」開催！ 飲食店ブースやステージイベントなど盛り沢山！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/13/alcazarsummerfesta2026/",
-    "pub_str": "2026年7月13日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -288,39 +270,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "令和8年度第1回印西市総合計画審議会開催のお知らせ（令和8年7月28日開催）",
-    "link": "https://www.city.inzai.lg.jp/0000022107.html",
-    "desc": "",
-    "pub_iso": "2026-07-13T15:14:58+09:00",
-    "pub_str": "2026年7月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "有害鳥の駆除を行います",
-    "link": "https://www.city.inzai.lg.jp/0000022117.html",
-    "desc": "",
-    "pub_iso": "2026-07-13T12:40:32+09:00",
-    "pub_str": "2026年7月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ヤングケアラーについて",
-    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000016837.html",
-    "desc": "",
-    "pub_iso": "2026-07-13T11:45:21+09:00",
-    "pub_str": "2026年7月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和8年度 後期高齢者健康診査について",
     "link": "https://www.city.inzai.lg.jp/0000018244.html",
     "desc": "",
@@ -394,17 +343,6 @@
     "source": "aeonmall-chibanewtown-renewal",
     "category": "イオンモール千葉ニュータウン",
     "retention_type": "store_event"
-  },
-  {
-    "title": "令和8年度第1回印西市文化ホール運営会議の開催のお知らせ（令和8年7月22日開催）",
-    "link": "https://www.city.inzai.lg.jp/0000022122.html",
-    "desc": "",
-    "pub_iso": "2026-07-13T14:32:29+09:00",
-    "pub_str": "2026年7月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
   },
   {
     "title": "バイク男性死亡、右折しようとした軽乗用車と衝突 印西の交差点（千葉日報オンライン）",
@@ -4636,7 +4574,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -4730,17 +4668,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-15T12:05:57.229395+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ゆきひろこ講師による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年10月10日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=34296&store=chibant",
-    "pub_str": "2026年9月15日",
-    "event_end_date": "2026-10-10",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-15T22:21:10.743220+09:00",
     "retention_type": "regular"
   },
   {
@@ -5025,17 +4952,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
-    "collected_at": "2026-09-19T16:37:30.784102+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "レザークラフト　横型スマホショルダー作り（2026年10月10日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=34396&store=chibant",
-    "pub_str": "2026年9月19日",
-    "event_end_date": "2026-10-10",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-19T16:37:30.784102+09:00",
     "retention_type": "regular"
   },
@@ -6358,7 +6274,7 @@
     "pub_iso": "2026-10-06T07:48:49+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6836,7 +6752,7 @@
     "title": "印西市の公園4選｜駐車場は松山下283台・牧の原57台・北総花の丘405台(有料)・松虫姫47台、遊具があるのは松山下",
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1kUnAxeXdlLUVVU2hIMF9PLVczTEN4YUhzNmExS1ppeDg5YTlvcXZKWXN0WlQ0UkpVYjE3QUJHU2RRNWI1OWhsY3JHVVU0ZXJsVDVBQg?oc=5",
     "desc": "印西市の公園4選｜駐車場は松山下283台・牧の原57台・北総花の丘405台(有料)・松虫姫47台、遊具があるのは松山下  ジモはる",
-    "pub_iso": "2026-10-04T16:45:00+09:00",
+    "pub_iso": "2026-10-04T16:00:00+09:00",
     "pub_str": "2026年10月4日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -6872,7 +6788,7 @@
     "title": "10/5(月)の成田・印西・栄・酒々井｜印西は大塚二丁目の市道が3か月以上通行止め、栄町は10月の催し3件が中止",
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE9aRXBHTEc5dWNaNDNZQzR4SC1JQzdBSmVhajRJYlhydXdXMHdXZVM4QkIwS25iTm54aFE2ZFl4YXZQNW5oRFRaT2NmT1IycXFNSXdzSVdRemc1ci1oUHhJWnF2MlhZTVZ0X1Jv?oc=5",
     "desc": "10/5(月)の成田・印西・栄・酒々井｜印西は大塚二丁目の市道が3か月以上通行止め、栄町は10月の催し3件が中止  ジモはる",
-    "pub_iso": "2026-10-05T08:40:00+09:00",
+    "pub_iso": "2026-10-05T16:00:00+09:00",
     "pub_str": "2026年10月5日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -6996,8 +6912,8 @@
     "title": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTFA2VDIyRWlkdU5SaXRkMWNlakVfdU01TjAyb19DX2tTbWNwOXo0NHptWkdzQ1dnVTF1SklhN29IUWdibUY5OEh2YlloOEZwZkFvQXlTUnQ0R05ncWlzY0dmYTlyY3R1QQ?oc=5",
     "desc": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も  ジモはる",
-    "pub_iso": "2026-10-10T10:14:10+09:00",
-    "pub_str": "2026年10月10日",
+    "pub_iso": "2026-10-14T05:27:10+09:00",
+    "pub_str": "2026年10月14日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
@@ -7192,7 +7108,7 @@
     "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T11:11:21+09:00",
+    "pub_iso": "2026-10-13T23:16:32+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -7228,8 +7144,8 @@
     "title": "成田・印西・栄・酒々井の休日・夜間の診療の探し方｜成田市急病診療所は日曜10〜17時と毎日19〜23時、印西は輪番の救急外来に電話・17〜19時は空白",
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE0yZWw3N193MGxqRHh2bEVHVW9ZdUU2Sms2RFdZQ2FpT2M4bGNYaUpma0RKanR1YlByZ01HYnFvWUwyVHlGQzNOV2tNQU9BcU9zT2ZDVy1uWDBtMXBOaXlFWVAxZ0JEcmZQMGVqVnBUVDhIVGlPUUpWZ0VB?oc=5",
     "desc": "成田・印西・栄・酒々井の休日・夜間の診療の探し方｜成田市急病診療所は日曜10〜17時と毎日19〜23時、印西は輪番の救急外来に電話・17〜19時は空白  ジモはる",
-    "pub_iso": "2026-10-13T11:11:19+09:00",
-    "pub_str": "2026年10月13日",
+    "pub_iso": "2026-10-14T02:13:53+09:00",
+    "pub_str": "2026年10月14日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -7268,6 +7184,60 @@
     "source": "makinohara-more",
     "category": "牧の原モア",
     "collected_at": "2026-10-13T20:17:35.934995+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年9月23日 閉店】LE BLANC（ル・ブラン）",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/14/post-50793/",
+    "pub_str": "2026年9月23日",
+    "announce_str": "2026年10月14日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-10-14T09:37:55.854310+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "いんざい創業塾（11月8日（日）〜12月2日（水））",
+    "link": "https://inzainet.com/event/inzai-founded-school/",
+    "pub_str": "2026年10月14日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-14T09:37:55.854310+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "市制施行30周年記念 印西市民文化祭（10月25日（日）〜11月29日（日））",
+    "link": "https://inzainet.com/event/inzai-cultural-festival/",
+    "pub_str": "2026年10月14日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-14T09:37:55.854310+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "Yuko  Ishizuka先生による現代金継ぎ教室1日体験講座「呼び継ぎ(金継ぎ）で作る箸置き」（2026年11月13日(金)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45746&store=chibant",
+    "pub_str": "2026年10月14日",
+    "event_end_date": "2026-11-13",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-14T09:37:55.854310+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市のデータセンター2物件の持分を約1,700億円で取得 Keppel DC REIT",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE5kbGw4OTlTTXMyd0NXRzIzWURIRTBxOEZjX0otTXFMaEtmQ28wTEhXaU9vaElYbFZyODdxaF9SNUEwQVpYTDlzV2RLMmE4d0FEb1k3UGIxMlY3bG5SZ0xrX0xxbHdFNVdGcTZDaE5CUWRIS0t0WXYzeW83QWQ?oc=5",
+    "desc": "印西市のデータセンター2物件の持分を約1,700億円で取得 Keppel DC REIT  estie",
+    "pub_iso": "2026-09-02T16:00:00+09:00",
+    "pub_str": "2026年9月2日",
+    "publisher": "estie",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
   }
 ]

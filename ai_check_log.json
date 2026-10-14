@@ -8029,5 +8029,25 @@
     "link": "https://news.google.com/articles/CBMikwFBVV95cUxOQlFRdTI0cVJna1lsZW5hVm5sazJLVkdWMVBTejlTUDV2X2FvLUhxZXpKUWx6RS13emE1QUxCWnpNbk91LU1NaXluczNYWTA2UzRuN2ZpM3dPRlQ2V0xMa3l0WTR2MGl0bUdqRlY3dGJuSG42ZmRMWl85SEZMRjJnMHZyM3J0UGZ0OVo0SEJxejdsUkE?oc=5",
     "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261014-0937",
+    "date": "2026-10-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "最大34倍、中学校と周辺の井戸10カ所でPFAS指針値超 印西市",
+    "link": "https://news.google.com/articles/CBMigAFBVV95cUxQV2M3OUZuNGJzNU1mQ2J3ZmxLY1NCVkNZQVJfcnU4SGlvdU8yMjVZanJ0b0JIYjBjTURlSktHWlJzZTlaajZIRlV3azA1UzdwdFNTMXhIMkZEVVhPXzJtQWNxakVLbmlnY2xkZEZQMXhxbkhPV2xnNGlzT2NwVTZJNg?oc=5",
+    "similar_to": "最大34倍、中学校と周辺の井戸10カ所でPFAS指針値超 印西市（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261014-0938",
+    "date": "2026-10-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "最大34倍、中学校と周辺の井戸10カ所でPFAS指針値超 印西市（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE94WW54b2JwTmoxYTd3Q3RETmVUWU9yYzVxOW9reWpUamdLcE9mMW1PX19ESGk1azc4d2Jub0NRdllxLVl0cjNVN1hoQm41bmtheW9LOWtrX3EwRVQ1VlY4OC1FdEhsQUtGa2RmY1BzcUVHQkNuc0xDT3Z4ZUtzWmc?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/13に既に採用済みのPFAS井戸水指針値超記事(Excite版)と同一内容の再配信(千葉日報オンライン→Yahoo!ニュース)で新規情報なし、重複のため除外"
   }
 ]
