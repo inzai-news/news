@@ -8069,5 +8069,35 @@
     "link": "https://news.google.com/articles/CBMijgFBVV95cUxOWXlJdThhSU5xVkszLUstYnFNRk5lNzZDWnpPUGNObDNSWUZlRVRJMUh3SzZoNWh3ZzdNaHF5dHVEMDVpWDRsR0VLTkpDa0F0cEFXSHFFTXdEUHg3TkI0bnkyOE5POWhCbmlmeWZZenhPQmN5NVZQbGlkZHd0VU15cGw3bHA1ZGREOThGbVdB?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済み・除外判定済みのPFAS井戸水指針値超記事と同一内容の再配信(千葉日報オンライン→Yahoo!ニュース)で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261014-1437",
+    "date": "2026-10-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE1ub19Kc2VoaUs0NXBDYVdFUUJ1MFI0UXJ2ZmxTWS1jYUk3UW9vaTdvYWU2eEJsaXZpTVhsWTNURXBtVkR0RE54cXlFbS1fc0dUd1E3ekxDaURzSWVrNkFjRldQMFZkTy1ONTlr?oc=5",
+    "similar_to": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261014-1437",
+    "date": "2026-10-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市と「災害時における支援物資の受入及び配送等に関する協定」を締結",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTE82UjBhNXJ5YW54U1JlTC1WeWxSS01NR094VjdtaThtSVMySzRRbHdLOVJab25wWjB4NGNDd2RySTZ6Y1BLMHRoT2ZITW9YVHdCV0FxVVhzcnZzbWRNQXJLLVF3U3EySjhySWNoSE1UOHJjbDQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261014-1438",
+    "date": "2026-10-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県 印西市】毎回満員の「いんざい創業塾」第13期が始動！人口増の街・印西市で“自分の夢を事業にする”4日間",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE1UQ1VTOVFyekVHS25tUm94c0ZzYVFaWlNWeDFtTVY2bTMxWVVPYUlCT1FHdzA1UG9KNWd5dzFWelRDMTBBSmVXZEs1cnpIU2lXYm1uUGZFeW1YNGUwdVAzLTNiVmFnVExsZEE?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に印西市公式・いんざいネット経由で採用済みの同一イベント(いんざい創業塾第13回/13期)の再告知で新規情報なし、重複のため除外"
   }
 ]
