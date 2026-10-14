@@ -8109,5 +8109,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022682.html",
     "similar_to": "令和8年9月台風第25号に伴う災害対策本部会議",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261014-1837",
+    "date": "2026-10-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "関東地方で未明に地震 千葉県内では浦安市と印西市で震度５弱 ４人が軽いケガ",
+    "link": "https://news.google.com/articles/CBMiTkFVX3lxTE9tUThHOTZOOVI1TVlJQW9Ta3NwMDNhdFFLdmtnUlV4WGViSDdCN1dOWTV1Q0pYX0Ewb2tXeTAxaGJHeV9yclN2Nmk5TEtmQQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "2026年8月24日発生の地震速報記事がGoogle News経由で約2ヶ月遅れて再ヒットしたもの。当日限りの速報性ニュースで現時点での情報価値がないため除外"
   }
 ]
