@@ -8099,5 +8099,15 @@
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE1UQ1VTOVFyekVHS25tUm94c0ZzYVFaWlNWeDFtTVY2bTMxWVVPYUlCT1FHdzA1UG9KNWd5dzFWelRDMTBBSmVXZEs1cnpIU2lXYm1uUGZFeW1YNGUwdVAzLTNiVmFnVExsZEE?oc=5",
     "similar_to": null,
     "ai_reason": "既に印西市公式・いんざいネット経由で採用済みの同一イベント(いんざい創業塾第13回/13期)の再告知で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261014-1633",
+    "date": "2026-10-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "令和8年9月台風25号に伴う災害復興本部",
+    "link": "https://www.city.inzai.lg.jp/0000022682.html",
+    "similar_to": "令和8年9月台風第25号に伴う災害対策本部会議",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
