@@ -4574,7 +4574,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -5742,10 +5742,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "はじめてのミニ四駆作り！（2026年10月31日(土)）",
+    "title": "はじめてのミニ四駆作り！（2026年10月31日(土)～2026年11月01日(日)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=29871&store=chibant",
     "pub_str": "2026年10月1日",
-    "event_end_date": "2026-10-31",
+    "event_end_date": "2026-11-01",
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
@@ -6274,7 +6274,7 @@
     "pub_iso": "2026-10-06T07:48:49+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"

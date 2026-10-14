@@ -8049,5 +8049,25 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE94WW54b2JwTmoxYTd3Q3RETmVUWU9yYzVxOW9reWpUamdLcE9mMW1PX19ESGk1azc4d2Jub0NRdllxLVl0cjNVN1hoQm41bmtheW9LOWtrX3EwRVQ1VlY4OC1FdEhsQUtGa2RmY1BzcUVHQkNuc0xDT3Z4ZUtzWmc?oc=5",
     "similar_to": null,
     "ai_reason": "10/13に既に採用済みのPFAS井戸水指針値超記事(Excite版)と同一内容の再配信(千葉日報オンライン→Yahoo!ニュース)で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261014-1237",
+    "date": "2026-10-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "印西ビッグホップにデータセンター建設へ　駅隣接大型商業施設　老朽化、厳しい経営環境で",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTFBObFdDV1J6eG1uTnE4Nmp0dUg2UHdMaGdCaS1vcEh2RjQ3X1FVVEd6MnVZT2hadTI2cS1mbi05UmhfNVdPaXVpd3UwMlgtRTNnaF9xaEJZenBGcFpPTDlXOEo3UVR3eFItNnNjNzhWR3JjY2ltQTJJcnBMVUpRd9IBgwFBVV95cUxPMEFuS1I3ZGF0U1JUbFpMZElUWThKUjFraHEyQ0FaWHNGQUdDbFNwXzc1TUFIazdxMUVVSGJVNFZTRENmay1fdnlPUGk1SlRSQmFUZGZ0TG4wQk1QcEVET0R4dEhESUJjVFNqVWhFN3FwZHk4UXVqdkd2XzhyTURORmstUQ?oc=5",
+    "similar_to": "印西ビッグホップにデータセンター建設へ 駅隣接大型商業施設 老朽化、厳しい経営環境で（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261014-1237",
+    "date": "2026-10-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "最大34倍、中学校と周辺の井戸10カ所でPFAS指針値超 印西市 (千葉日報オンライン)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxOWXlJdThhSU5xVkszLUstYnFNRk5lNzZDWnpPUGNObDNSWUZlRVRJMUh3SzZoNWh3ZzdNaHF5dHVEMDVpWDRsR0VLTkpDa0F0cEFXSHFFTXdEUHg3TkI0bnkyOE5POWhCbmlmeWZZenhPQmN5NVZQbGlkZHd0VU15cGw3bHA1ZGREOThGbVdB?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済み・除外判定済みのPFAS井戸水指針値超記事と同一内容の再配信(千葉日報オンライン→Yahoo!ニュース)で新規情報なし、重複のため除外"
   }
 ]
