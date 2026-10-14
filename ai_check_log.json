@@ -8119,5 +8119,15 @@
     "link": "https://news.google.com/articles/CBMiTkFVX3lxTE9tUThHOTZOOVI1TVlJQW9Ta3NwMDNhdFFLdmtnUlV4WGViSDdCN1dOWTV1Q0pYX0Ewb2tXeTAxaGJHeV9yclN2Nmk5TEtmQQ?oc=5",
     "similar_to": null,
     "ai_reason": "2026年8月24日発生の地震速報記事がGoogle News経由で約2ヶ月遅れて再ヒットしたもの。当日限りの速報性ニュースで現時点での情報価値がないため除外"
+  },
+  {
+    "run_ts": "20261014-2037",
+    "date": "2026-10-14",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE5jbGh1Y3B3RzZBSWVtSWpXSzdzT0FzeHNNZ2RDbjJsUE16cnlMdW5wTUJiWXAwa2NMSllZTTd5bTctcEgwNy1YVU1MOHcwOUZuM3l6T2RaemxEdVk?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]

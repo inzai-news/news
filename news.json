@@ -6319,7 +6319,7 @@
     "title": "マンションの隣で建設工事が進むデータセンター＝8月、印西市（松崎翼撮影）",
     "link": "https://news.google.com/articles/CBMiogFBVV95cUxPT0ZqM09USTN1RjU1cDdiU0tmTXBIOWVqS3ZoNHdBLVdUM3VGSE85dGpCb2RqbWlMT29zQzFyOUpPVUhMTTlEOE93Ri1jNU1jbWJxQy0tTlNYeTQ3V1VQZl9HVXp5Y1hZQi1NSDNxMTNfc1pIRExfQ3B2OG91QWZPT3I3dHRKRzFOMUxMMm9zdlVaSTlZRERPcmxPY2ZXZ2VVWkE?oc=5",
     "desc": "マンションの隣で建設工事が進むデータセンター＝8月、印西市（松崎翼撮影）  産経ニュース",
-    "pub_iso": "2026-10-06T07:50:00+09:00",
+    "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
     "source": "google-news-inzai-chiba",
@@ -6903,7 +6903,7 @@
     "pub_iso": "2026-10-10T20:15:00+09:00",
     "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "イベント・文化",
     "collected_at": "2026-10-11T02:13:11.874933+09:00",
     "retention_type": "regular"
@@ -7256,12 +7256,24 @@
     "title": "電話・ファクスによる災害等緊急情報配信サービスの緊急停止について",
     "link": "https://www.city.inzai.lg.jp/0000022714.html",
     "desc": "",
-    "pub_iso": "2026-10-14T17:06:59+09:00",
+    "pub_iso": "2026-10-14T19:24:43+09:00",
     "pub_str": "2026年10月14日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-14T18:37:27.835693+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年台風第25号により被災した井戸の水質検査を実施します",
+    "link": "https://www.city.inzai.lg.jp/0000022711.html",
+    "desc": "",
+    "pub_iso": "2026-10-14T18:30:37+09:00",
+    "pub_str": "2026年10月14日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-14T20:37:36.032829+09:00",
     "retention_type": "regular"
   }
 ]
