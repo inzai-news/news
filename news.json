@@ -6019,7 +6019,7 @@
     "pub_iso": "2026-10-02T16:00:00+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-10-04T16:37:23.757114+09:00",
     "retention_type": "regular"
@@ -7174,7 +7174,7 @@
     "title": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBrdWFnQmNUMl9OSHdIemtOTU9XZVpOQ3EtelJUb0lwb01BdTJ3UFZBa0lCWk1nYmNPQ1c2TkdDMTU1ZEh4VnJtR3FHSDhKaFZCMlR6YXNuSHg0VDlNQmRRRmZVT0JJZTVFdnNuamhjR1QxZw?oc=5",
     "desc": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍  ジモはる",
-    "pub_iso": "2026-10-15T14:52:49+09:00",
+    "pub_iso": "2026-10-15T17:54:56+09:00",
     "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -7283,6 +7283,40 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-15T16:32:01.965526+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【10月17日（土曜日）】システムメンテナンスに伴う交付業務への影響について",
+    "link": "https://www.city.inzai.lg.jp/0000022698.html",
+    "desc": "",
+    "pub_iso": "2026-10-15T18:12:09+09:00",
+    "pub_str": "2026年10月15日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-15T18:37:31.070313+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "パスポート発行に係る県手数料の納付方法が変わります",
+    "link": "https://www.city.inzai.lg.jp/0000022720.html",
+    "desc": "",
+    "pub_iso": "2026-10-15T18:11:50+09:00",
+    "pub_str": "2026年10月15日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-15T18:37:31.070313+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】10月16日（金）～18日（日）の3日間、ピザーラのキッチンカー出張販売「ピザーラキャラバン」が印西にやってくる！ 号外NET読者様限定特典もあり！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/15/pizzalacaravan2026oct/",
+    "pub_str": "2026年10月15日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-15T18:37:31.070313+09:00",
     "retention_type": "regular"
   }
 ]
