@@ -4504,7 +4504,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6019,7 +6019,7 @@
     "pub_iso": "2026-10-02T16:00:00+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-10-04T16:37:23.757114+09:00",
     "retention_type": "regular"
@@ -7174,7 +7174,7 @@
     "title": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBrdWFnQmNUMl9OSHdIemtOTU9XZVpOQ3EtelJUb0lwb01BdTJ3UFZBa0lCWk1nYmNPQ1c2TkdDMTU1ZEh4VnJtR3FHSDhKaFZCMlR6YXNuSHg0VDlNQmRRRmZVT0JJZTVFdnNuamhjR1QxZw?oc=5",
     "desc": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍  ジモはる",
-    "pub_iso": "2026-10-15T19:20:35+09:00",
+    "pub_iso": "2026-10-15T20:59:23+09:00",
     "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -7317,6 +7317,18 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-10-15T18:37:31.070313+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "生活のしづらさなどに関する調査（全国在宅障害児・者等実態調査）を実施します",
+    "link": "https://www.city.inzai.lg.jp/0000022723.html",
+    "desc": "",
+    "pub_iso": "2026-10-15T20:08:04+09:00",
+    "pub_str": "2026年10月15日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-15T22:37:23.613904+09:00",
     "retention_type": "regular"
   }
 ]
