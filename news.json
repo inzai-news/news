@@ -90,36 +90,9 @@
     "retention_type": "regular"
   },
   {
-    "title": "びしょぬれ北極モール2026 スプラッシュで、夏を冷やせ。「花火ナイト2026」",
-    "link": "https://chibanewtown.aeonmall.jp/event/9482bc21-d754-4f22-a6dd-a36ae0f81393",
-    "pub_str": "2026年7月14日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "とれたて！夏やさい広場with INZAI FARMERS MARCHE",
     "link": "https://chibanewtown.aeonmall.jp/event/a3683f4d-9859-487a-ae24-61684023a2eb",
     "pub_str": "2026年7月16日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "夏休みはご家族一緒に！セントラルのプールで遊ぼう！",
-    "link": "https://chibanewtown.aeonmall.jp/event/2647e904-6361-46b4-ab58-2749336c9a58",
-    "pub_str": "2026年7月14日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ぷっくりマリンシールを作ろう！",
-    "link": "https://chibanewtown.aeonmall.jp/event/31f5a575-9b37-4b49-84f5-852f144a966b",
-    "pub_str": "2026年7月14日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -156,15 +129,6 @@
     "title": "【鎌ケ谷市】7月18日（土）アクロスモール新鎌ケ谷で子どもから大人まで楽しめるハンドメイドイベント「HUGHUG MARCHE（ハグハグマルシェ）」が開催されます！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/15/hughugmarche2026jul/",
     "pub_str": "2026年7月15日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【鎌ケ谷市】自衛隊のお風呂を体験してみませんか？ 7月18日（土）松戸駐屯地で野外入浴セットの入浴体験ができます！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/14/matsudochuutonchinyuuyokutaiken2026jul/",
-    "pub_str": "2026年7月14日",
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
@@ -259,17 +223,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "印旛支所市民サービス課市民福祉係の会計年度任用職員を募集します",
-    "link": "https://www.city.inzai.lg.jp/0000019835.html",
-    "desc": "",
-    "pub_iso": "2026-07-14T15:00:00+09:00",
-    "pub_str": "2026年7月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和8年度 後期高齢者健康診査について",
     "link": "https://www.city.inzai.lg.jp/0000018244.html",
     "desc": "",
@@ -351,17 +304,6 @@
     "pub_iso": "2026-07-15T11:51:36+09:00",
     "pub_str": "2026年7月15日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
-    "link": "https://news.google.com/articles/CBMiakFVX3lxTFBHZXJQVlRMU2NJSjRjTTRtajkxa19sOEY5eFRTeExZRHppWVNQN2twel9EN2ROMXZPRDNQNDc5VUFUU0I1b1Bfem4zSlI5bDl3QzVpUmxHekNHRWVOYUlSQnI3UGY0UG1JVEE?oc=5",
-    "desc": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動  PR TIMES",
-    "pub_iso": "2026-07-14T16:00:00+09:00",
-    "pub_str": "2026年7月14日",
-    "publisher": "PR TIMES",
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "retention_type": "regular"
@@ -3902,18 +3844,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
-    "link": "https://prtimes.jp/main/html/rd/p/000000034.000180020.html",
-    "desc": "[印西市]\n印西市では今年、新たな平和学習事業として市内中学生18人を広島市へ派遣します。被爆地を実際に訪れ、戦争や被爆の歴史に触れ、平和の尊さについて考える機会を創出することで、次代を担うこどもたちの学びを深...",
-    "pub_iso": "2026-07-14T00:00:00+09:00",
-    "pub_str": "2026年7月14日",
-    "publisher": "PR TIMES",
-    "source": "prtimes-inzai-city",
-    "category": "市政・行政",
-    "collected_at": "2026-09-04T00:17:05.327904+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "【印西市】9月13日（日）北総花の丘公園で「オータムフェア」が開催されます！ コントステージやマジックショー、フリーマーケット、野菜や梨の販売もあり！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/04/hananookakoenautumfair2026/",
     "pub_str": "2026年9月4日",
@@ -4574,7 +4504,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6274,7 +6204,7 @@
     "pub_iso": "2026-10-06T07:48:49+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6912,8 +6842,8 @@
     "title": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTFA2VDIyRWlkdU5SaXRkMWNlakVfdU01TjAyb19DX2tTbWNwOXo0NHptWkdzQ1dnVTF1SklhN29IUWdibUY5OEh2YlloOEZwZkFvQXlTUnQ0R05ncWlzY0dmYTlyY3R1QQ?oc=5",
     "desc": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も  ジモはる",
-    "pub_iso": "2026-10-14T05:27:10+09:00",
-    "pub_str": "2026年10月14日",
+    "pub_iso": "2026-10-15T04:08:22+09:00",
+    "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
@@ -7108,8 +7038,8 @@
     "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T23:16:32+09:00",
-    "pub_str": "2026年10月13日",
+    "pub_iso": "2026-10-15T03:50:36+09:00",
+    "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
@@ -7244,8 +7174,8 @@
     "title": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBrdWFnQmNUMl9OSHdIemtOTU9XZVpOQ3EtelJUb0lwb01BdTJ3UFZBa0lCWk1nYmNPQ1c2TkdDMTU1ZEh4VnJtR3FHSDhKaFZCMlR6YXNuSHg0VDlNQmRRRmZVT0JJZTVFdnNuamhjR1QxZw?oc=5",
     "desc": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍  ジモはる",
-    "pub_iso": "2026-10-14T13:15:00+09:00",
-    "pub_str": "2026年10月14日",
+    "pub_iso": "2026-10-15T08:49:57+09:00",
+    "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -7274,6 +7204,27 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-14T20:37:36.032829+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "第16回市民クリスマス（12月5日（土））",
+    "link": "https://inzainet.com/event/christmas-tcu/",
+    "pub_str": "2026年10月15日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-15T09:31:14.306427+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【JOYFUL FESTIVAL】 ペットファンLIFE・植フェス同時開催！（2026年11月14日(土)～2026年11月15日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45641&store=chibant",
+    "pub_str": "2026年10月15日",
+    "event_end_date": "2026-11-15",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-15T09:31:14.306427+09:00",
     "retention_type": "regular"
   }
 ]
