@@ -5870,7 +5870,7 @@
     "pub_iso": "2026-10-02T16:00:00+09:00",
     "pub_str": "2026年10月2日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-10-04T16:37:23.757114+09:00",
     "retention_type": "regular"
@@ -7028,7 +7028,7 @@
     "pub_iso": "2026-10-14T13:15:00+09:00",
     "pub_str": "2026年10月14日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T14:37:35.643282+09:00",
     "retention_type": "regular"
