@@ -8179,5 +8179,25 @@
     "link": "https://news.google.com/articles/CBMiT0FVX3lxTFBoV0NhbTN0TFFDamVmNEV6VWZXQkI2aVVBblA2QVVYQ0pMXzc1TDJOcjE3NzhRQ0lnZTBJVG9FVUJQeTBWUFo0SkxOemdJUU0?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261016-1423",
+    "date": "2026-10-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に [千葉県]",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE1qQ0VUVDJnOVBPYVVodVBHSW96MWliWEluRTBOWTllYWVYWWFaWDB1ZFVxbFNuakpRQzE5UE9rZkpUWWoxTjdteTVoNnZRa3V0c2FVQ0Y5U1ZnZ1dETGFyclV2cWZPbWM?oc=5",
+    "similar_to": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に（朝日新聞）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261016-1423",
+    "date": "2026-10-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "千葉・印西で新たなデータセンター構想　駅前の商業施設敷地内に",
+    "link": "https://news.google.com/articles/CBMimAFBVV95cUxNbUtqaVE0MDB1OVBtMWJHWjhGNG1XVFkzZlVidWpHal8wdkpiTk9YT3lIakh2Wkt0d1o4NnY2VFVRLW5weU1qemxvc1hxWk9YQk9vejYtUmw4SkhLdE5sbWhlSlZXYjhaampmS1lnVlg3eUNWZ3pORWNkTGp1ZnlfdFRSTnVlU25RM2tWU2sxcUc3MGJaZlpzZ9IBngFBVV95cUxPQ0UxdklHaC01ZC00SDhIMjZRZDVabzJiVk5mY0xJRUVvN2hUUk9RWXdvRmdhUnpkeUNuOXE0UDY5aGhKa0l0X2VNWXdpN0JvWUhTcmcwWUQ4X2N2ZFFlalp5NHo1X3RCV2dheGRTS1czN1FaQTFSamxPdUFWT0xuY0V3ZUxzWm5XcTdHczBhYVRSRDZFdi1lWFJ3Y3oxQQ?oc=5",
+    "similar_to": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に（朝日新聞）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
