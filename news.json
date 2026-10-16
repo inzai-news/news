@@ -1,14 +1,5 @@
 [
   {
-    "title": "駐めたその場で手洗い洗車【SUPER LIVE WASH】 牧の原モア ご来場者様向けのサービスをスタート！",
-    "link": "https://www.makinohara-more.com/event-topics/superlivewash/",
-    "pub_str": "2026年7月16日",
-    "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "retention_type": "regular"
-  },
-  {
     "title": "【10月18日開催】牧の原モア ダンスコンテスト2026 出演者募集！",
     "link": "https://www.makinohara-more.com/event-topics/1018%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%a2%e3%82%a2-%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%882026-%e5%87%ba%e6%bc%94%e8%80%85%e5%8b%9f%e9%9b%86/",
     "pub_str": "2026年8月31日",
@@ -54,27 +45,9 @@
     "retention_type": "store_event"
   },
   {
-    "title": "7月のイベント",
-    "link": "https://chibanewtown.aeonmall.jp/event/46ed883a-9057-44d1-bda9-342b84177f83",
-    "pub_str": "2026年7月16日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "イオンモールの秋休み シルバーウィーク5DAYS",
     "link": "https://chibanewtown.aeonmall.jp/event/2a22f404-085e-45b5-8f34-7413663a385a",
     "pub_str": "2026年9月11日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "とれたて！夏やさい広場with INZAI FARMERS MARCHE",
-    "link": "https://chibanewtown.aeonmall.jp/event/a3683f4d-9859-487a-ae24-61684023a2eb",
-    "pub_str": "2026年7月16日",
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
@@ -87,26 +60,6 @@
     "publisher": "イオンモール千葉ニュータウン",
     "source": "aeonmall-chibanewtown-event",
     "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】7月19日（日）は小林で八坂神社祇園祭（2026）が開催されます。神輿渡御あり、キッチンカーや縁日も夜まで楽しめます！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/16/kobayashiyasakajinjagionmatsuri2026/",
-    "pub_str": "2026年7月16日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西市市民課・国保年金課・中央駅前出張所・牧の原出張所窓口業務委託公募型プロポーザルの実施について",
-    "link": "https://www.city.inzai.lg.jp/0000021696.html",
-    "desc": "",
-    "pub_iso": "2026-07-16T17:51:26+09:00",
-    "pub_str": "2026年7月16日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
     "retention_type": "regular"
   },
   {
@@ -7389,6 +7342,18 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-16T20:17:09.896480+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "成田・印西でボール遊び・自転車の練習ができる公園｜成田市は3か所の「試行」、印西市は幼児の自転車練習だけ公式に可",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE9BaUF4T2d1eEJRN3VEanFjSTlJdDVzVVdldERmVnJtSXdPUmlQUk5kcFE4dW80Y3lvOGZJSEwyT0YtYjAyTzlkeTYxdThQMDJ5bEdxOW9FOUJKdVJfYmI2UVlQMzlwUmNac3k1RlBvX0dRZw?oc=5",
+    "desc": "成田・印西でボール遊び・自転車の練習ができる公園｜成田市は3か所の「試行」、印西市は幼児の自転車練習だけ公式に可  ジモはる",
+    "pub_iso": "2026-10-14T16:00:00+09:00",
+    "pub_str": "2026年10月14日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
+    "collected_at": "2026-10-17T00:27:33.621952+09:00",
     "retention_type": "regular"
   }
 ]
