@@ -5790,8 +5790,8 @@
     "title": "介護保険利用者負担の減免",
     "link": "https://www.city.inzai.lg.jp/0000022598.html",
     "desc": "災害等により介護保険サービスを利用した場合の費用を負担することが困難となった場合、要件を満たせば負担額の全部または一部を免除することができます。",
-    "pub_iso": "2026-10-02T12:30:06+09:00",
-    "pub_str": "2026年10月2日",
+    "pub_iso": "2026-10-16T14:04:14+09:00",
+    "pub_str": "2026年10月16日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7072,7 +7072,7 @@
     "title": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBrdWFnQmNUMl9OSHdIemtOTU9XZVpOQ3EtelJUb0lwb01BdTJ3UFZBa0lCWk1nYmNPQ1c2TkdDMTU1ZEh4VnJtR3FHSDhKaFZCMlR6YXNuSHg0VDlNQmRRRmZVT0JJZTVFdnNuamhjR1QxZw?oc=5",
     "desc": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍  ジモはる",
-    "pub_iso": "2026-10-16T12:06:45+09:00",
+    "pub_iso": "2026-10-16T15:08:30+09:00",
     "pub_str": "2026年10月16日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-shi",
@@ -7320,6 +7320,18 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-16T14:23:35.171037+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【延会による日程変更】定例会等日程のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000021854.html",
+    "desc": "",
+    "pub_iso": "2026-10-16T00:00:01+09:00",
+    "pub_str": "2026年10月16日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-16T16:37:24.037498+09:00",
     "retention_type": "regular"
   }
 ]
