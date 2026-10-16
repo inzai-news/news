@@ -8199,5 +8199,45 @@
     "link": "https://news.google.com/articles/CBMimAFBVV95cUxNbUtqaVE0MDB1OVBtMWJHWjhGNG1XVFkzZlVidWpHal8wdkpiTk9YT3lIakh2Wkt0d1o4NnY2VFVRLW5weU1qemxvc1hxWk9YQk9vejYtUmw4SkhLdE5sbWhlSlZXYjhaampmS1lnVlg3eUNWZ3pORWNkTGp1ZnlfdFRSTnVlU25RM2tWU2sxcUc3MGJaZlpzZ9IBngFBVV95cUxPQ0UxdklHaC01ZC00SDhIMjZRZDVabzJiVk5mY0xJRUVvN2hUUk9RWXdvRmdhUnpkeUNuOXE0UDY5aGhKa0l0X2VNWXdpN0JvWUhTcmcwWUQ4X2N2ZFFlalp5NHo1X3RCV2dheGRTS1czN1FaQTFSamxPdUFWT0xuY0V3ZUxzWm5XcTdHczBhYVRSRDZFdi1lWFJ3Y3oxQQ?oc=5",
     "similar_to": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に（朝日新聞）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261016-1833",
+    "date": "2026-10-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "写真・図版（1枚目）| 【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5mbWNnVEZTZW5zS0xiZkpsUG1oWnBwTDVabGIwVDAxUGphN0lLT05MUml0TFdJS2lyaFBvYjJTbm9icXZ1QklLM1R6cEhTcFRjNzgtTGlR?oc=5",
+    "similar_to": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261016-1833",
+    "date": "2026-10-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に (朝日新聞)",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxON2RfVEh4U2lIRGZwaXhKc284MGloN3F2QUlnT09RNGRIWTVHa05fYnBfZDdTSWJSc0xXdUlZUkIyVDF3ZXF5TVlQUFdsZUpnempiZFV4RVIwVVFzWjVwX0ZFUENDWTljSW9WeUtOZU45UTZvUzMyQXdFN21TU3pCZWF6VzlUUlZtcEZKckt3?oc=5",
+    "similar_to": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に（朝日新聞）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261016-1833",
+    "date": "2026-10-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "昼めし旅 千葉県印西市幻のメロンと時短クリームコロッケ＆山菜づくし絶品炊き込み",
+    "link": "https://news.google.com/articles/CBMijwFBVV95cUxOVjBKZjlyVnJXcFlQajBDMk80cHpyMXBDcUNsUnhLOXdHUUFJa2lmWFZaZ0hNRDlySWJNZm96ZUFFUWpiUzR5emVnQ05yYVFwS1NuaXVaLVVtMm5ESFA2SWRSTUlCRGNZMGZrM1ZOd0xaR3h4Wl8zbnRHTFYxckYzRVgzQWFIMGFFQnRMQmlCaw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261016-1834",
+    "date": "2026-10-16",
+    "ai_decision": "keep",
+    "similarity": 0.7,
+    "title": "下水道の使用に関するお願い（制限解除のお知らせ）",
+    "link": "https://www.city.inzai.lg.jp/0000022748.html",
+    "similar_to": "下水道の使用に関するお願い",
+    "ai_reason": "既存記事は下水道使用制限の『依頼』、本記事はその『制限解除』の告知で新規情報があるため別記事として採用"
   }
 ]
