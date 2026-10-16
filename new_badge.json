@@ -1,12 +1,13 @@
 {
   "links": {
-    "https://www.city.inzai.lg.jp/0000021854.html": "2026-10-16T16:37:24.070542+09:00",
     "https://chibanewtown.aeonmall.jp/event/8db83d1b-ef82-4123-87a5-212270a415c7": "2026-10-16T18:33:51.099409+09:00",
     "https://www.city.inzai.lg.jp/0000022500.html": "2026-10-16T18:33:51.099409+09:00",
-    "https://www.city.inzai.lg.jp/0000022748.html": "2026-10-16T18:34:03.688638+09:00"
+    "https://www.city.inzai.lg.jp/0000022748.html": "2026-10-16T18:34:03.688638+09:00",
+    "https://event.joyfulhonda.com/single-exp.php?id=45852&store=chibant": "2026-10-16T20:17:09.951914+09:00",
+    "https://news.google.com/articles/CBMiXEFVX3lxTE05VUF1VFNsMElPaEpvdTV1R3NQd1NiQk1WN0dnRy1ydVBJVTdJRWx6Q21sekR0QXBtVF9td21ub004T2E2N2JqY0xwNE1lNW9HejBwRTBvTlVVa0dv?oc=5": "2026-10-16T20:17:28.374738+09:00"
   },
   "last_eligible": {
-    "link": "https://chibanewtown.aeonmall.jp/event/8db83d1b-ef82-4123-87a5-212270a415c7",
-    "ts": "2026-10-16T18:33:51.099409+09:00"
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE05VUF1VFNsMElPaEpvdTV1R3NQd1NiQk1WN0dnRy1ydVBJVTdJRWx6Q21sekR0QXBtVF9td21ub004T2E2N2JqY0xwNE1lNW9HejBwRTBvTlVVa0dv?oc=5",
+    "ts": "2026-10-16T20:17:28.374738+09:00"
   }
 }

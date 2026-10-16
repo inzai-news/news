@@ -7241,10 +7241,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "マイナンバーカード等に関するシステム障害について（令和8年10月16日午前11時ごろ発生）",
+    "title": "マイナンバーカード等に関するシステム障害について（令和8年10月16日午前11時ごろ発生、同日復旧済）",
     "link": "https://www.city.inzai.lg.jp/0000022741.html",
     "desc": "",
-    "pub_iso": "2026-10-16T13:05:08+09:00",
+    "pub_iso": "2026-10-16T19:48:27+09:00",
     "pub_str": "2026年10月16日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -7366,6 +7366,29 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-16T18:33:50.999862+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ゆきひろこ先生による「希望に応える美術教室（受験・コンクール・宿題や遺作）」体験会　『好きな画材で好きな動物を描こう！』（2026年11月07日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45852&store=chibant",
+    "pub_str": "2026年10月16日",
+    "event_end_date": "2026-11-07",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-16T20:17:09.896480+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市 おせんべいの旅 #印西市 #印西観光 #おせんべい #千葉グルメ #地域紹介 #地場産品",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE05VUF1VFNsMElPaEpvdTV1R3NQd1NiQk1WN0dnRy1ydVBJVTdJRWx6Q21sekR0QXBtVF9td21ub004T2E2N2JqY0xwNE1lNW9HejBwRTBvTlVVa0dv?oc=5",
+    "desc": "印西市 おせんべいの旅 #印西市 #印西観光 #おせんべい #千葉グルメ #地域紹介 #地場産品  YouTube",
+    "pub_iso": "2026-10-16T17:12:31+09:00",
+    "pub_str": "2026年10月16日",
+    "publisher": "YouTube",
+    "source": "google-news-inzai-shi",
+    "category": "話題・その他",
+    "collected_at": "2026-10-16T20:17:09.896480+09:00",
     "retention_type": "regular"
   }
 ]
