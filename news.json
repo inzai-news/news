@@ -6028,7 +6028,7 @@
     "title": "STT GDC、印西市のデータセンター「STT Tokyo 1」で「LEED」のゴールド認証を取得",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5DbWFwUlRXVnlPRXpVV3ZSRlUwMU9weWREd1p1aGZ1UkxhTl8ydWU3LWdmek9ua0NRdFp3Mzltd1RjbGF3VVZYdUpacnBoTDZReGdYaEF1aGZZQ3BkaXVOVUZkdnVjUQ?oc=5",
     "desc": "STT GDC、印西市のデータセンター「STT Tokyo 1」で「LEED」のゴールド認証を取得  クラウド Watch",
-    "pub_iso": "2026-10-06T06:00:00+09:00",
+    "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
     "source": "google-news-inzai-shi",
@@ -6327,7 +6327,7 @@
     "title": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE1odGxBdGNULVMyeWx5YXdidFdfcDlGUnVvaERVS2JrVkVTbGh0WmdneXB5a2xIajZhU2s0UURaT0QzaDlackRaV3hnVGNlaDJ3bDB5RDdRc3RrR1g0RWVERXdtS2VIYVNKWVg2Zg?oc=5",
     "desc": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想  日本経済新聞",
-    "pub_iso": "2026-10-09T05:00:00+09:00",
+    "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
@@ -6889,10 +6889,10 @@
     "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T11:16:32+09:00",
+    "pub_iso": "2026-10-13T16:00:00+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-10-13T12:34:32.435000+09:00",
     "retention_type": "regular"
@@ -7028,7 +7028,7 @@
     "pub_iso": "2026-10-14T13:15:00+09:00",
     "pub_str": "2026年10月14日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T14:37:35.643282+09:00",
     "retention_type": "regular"
@@ -7354,6 +7354,40 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-17T00:27:33.621952+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年10月17日 開店】LifeFit（ライフフィット）鎌ヶ谷大仏駅前店",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/17/lifefitkamagayadaibutsuopen/",
+    "pub_str": "2026年10月17日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-10-17T21:48:58.766409+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBqOVpqczludnBubHltSFhHcUFrTml4UFNzcFJLOUYtS3VRUE1Gb1NnNWhIcTVYcW1TTGlDcmtOQXZVcTRkazlBb1N4RzlmcUZaakpjUg?oc=5",
+    "desc": "【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します  ニコニコニュース",
+    "pub_iso": "2026-09-14T16:00:00+09:00",
+    "pub_str": "2026年9月14日",
+    "publisher": "ニコニコニュース",
+    "source": "google-news-inzai-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-17T21:48:58.766409+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西▷モーニングで台湾ごはんと台湾スイーツ。土曜日だけの朝ごはん屋さん｜メニュー【スナヲめし】",
+    "link": "https://chiba-lunch.com/%e5%8d%b0%e8%a5%bf%e2%96%b7%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%a7%e5%8f%b0%e6%b9%be%e3%81%94%e3%81%af%e3%82%93%e3%81%a8%e5%8f%b0%e6%b9%be%e3%82%b9%e3%82%a4%e3%83%bc%e3%83%84%e3%80%82/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258d%25b0%25e8%25a5%25bf%25e2%2596%25b7%25e3%2583%25a2%25e3%2583%25bc%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25a7%25e5%258f%25b0%25e6%25b9%25be%25e3%2581%2594%25e3%2581%25af%25e3%2582%2593%25e3%2581%25a8%25e5%258f%25b0%25e6%25b9%25be%25e3%2582%25b9%25e3%2582%25a4%25e3%2583%25bc%25e3%2583%2584%25e3%2580%2582",
+    "desc": "印西市高花に2026年3月オープンした「スナヲめし」さん。毎週土曜の朝9時から営業する、台湾ごはんのお店へ行ってきました。 スナヲめし ・土曜日のみ営業する朝ごはん屋さん。・お庭のキッチンカーでご主人が調理。・ルーローハ […]\nThe post 印西▷モーニングで台湾ごはんと台湾スイーツ。土曜日だけの朝ごはん屋さん｜メニュー【スナヲめし】 first appeared on ちばもぐ.",
+    "pub_iso": "2026-10-17T17:57:15+09:00",
+    "pub_str": "2026年10月17日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-inzai",
+    "category": "話題・その他",
+    "collected_at": "2026-10-17T21:48:58.766409+09:00",
     "retention_type": "regular"
   }
 ]

@@ -8259,5 +8259,15 @@
     "link": "https://news.google.com/articles/CBMingFBVV95cUxPQ0UxdklHaC01ZC00SDhIMjZRZDVabzJiVk5mY0xJRUVvN2hUUk9RWXdvRmdhUnpkeUNuOXE0UDY5aGhKa0l0X2VNWXdpN0JvWUhTcmcwWUQ4X2N2ZFFlalp5NHo1X3RCV2dheGRTS1czN1FaQTFSamxPdUFWT0xuY0V3ZUxzWm5XcTdHczBhYVRSRDZFdi1lWFJ3Y3oxQdIBngFBVV95cUxPQ0UxdklHaC01ZC00SDhIMjZRZDVabzJiVk5mY0xJRUVvN2hUUk9RWXdvRmdhUnpkeUNuOXE0UDY5aGhKa0l0X2VNWXdpN0JvWUhTcmcwWUQ4X2N2ZFFlalp5NHo1X3RCV2dheGRTS1czN1FaQTFSamxPdUFWT0xuY0V3ZUxzWm5XcTdHczBhYVRSRDZFdi1lWFJ3Y3oxQQ?oc=5",
     "similar_to": "千葉・印西で新たなデータセンター構想 駅前の商業施設敷地内に（朝日新聞）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261017-2149",
+    "date": "2026-10-17",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市】体育祭が開催されました。",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE0xdmRvSEw2cGJpdy14R0ZfNm5rSFhnaTRpUTZrTVpHN2ZkQ096NnBRcFFtVGIzV3plVGRIWDgwZ0pIQ0RFRThBX2RCVXN1QnBmVTc5eFpCOVMtQkJhazRz?oc=5",
+    "similar_to": null,
+    "ai_reason": "選挙ドットコム発の政治家個人の活動日記(体育祭参加報告)で、市の行政発表ではなく政治活動の宣伝のため除外"
   }
 ]
