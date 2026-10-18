@@ -8309,5 +8309,25 @@
     "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1rOVRCaGxSTW45ZjFPVVdwdzdUOWo2Ym91N3VBUWlyM3p6cHIyVU5SMVM4N2FsZTJDQm1vRG1uWWduSFZMSVVJTDc2XzNPZzlDaG10ekhNNUNhVE0?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261018-2037",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "古民家食堂 印西市 居方食堂 原付二種で行く近所のグルメ紀行 アラカンライフ",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1SYXh5RkNKYWpid2R2TjZhYXBoNFJ3VFBzUVh3UmtIa1RMdVI3dVJ4YzgyOWpRNlptOGZ5QVhqTEpDb1BqTXIyS096VDJ1dzhiRF9sWTJJVi1lLU9H?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261018-2037",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西街宣とひょうたん池まつり、印西支部懇親会",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9ZcWFXTVlXUUgzMnFXdkxjWmdUVW9HMl81SjlIazVocF9KMHdlYUw5Um5fTGMxOFFkdlNyUnVXRnZpTkllY01fOWtldm9mMkdOUTVvT3RDaWo5OVVOcFYw?oc=5",
+    "similar_to": "",
+    "ai_reason": "選挙ドットコム発の政治家個人の街頭演説・支部懇親会活動記事のため除外(タイトルのまつりキーワードでルールベースにイベント・文化へ誤分類されていたのを手動訂正)"
   }
 ]
