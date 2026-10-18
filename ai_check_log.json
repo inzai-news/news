@@ -8269,5 +8269,35 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE0xdmRvSEw2cGJpdy14R0ZfNm5rSFhnaTRpUTZrTVpHN2ZkQ096NnBRcFFtVGIzV3plVGRIWDgwZ0pIQ0RFRThBX2RCVXN1QnBmVTc5eFpCOVMtQkJhazRz?oc=5",
     "similar_to": null,
     "ai_reason": "選挙ドットコム発の政治家個人の活動日記(体育祭参加報告)で、市の行政発表ではなく政治活動の宣伝のため除外"
+  },
+  {
+    "run_ts": "20261018-1237",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "無料で水遊びスポット「じゃぶじゃぶ池・噴水・水辺」｜千葉県北部・茨城県南部 柏 我孫子 成田 佐倉 鎌ヶ谷 千葉市",
+    "link": "https://inzaiparque.com/waterplayingspots/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261018-1237",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "フード＆ドラッグ最新店舗③くすりの福太郎千葉ニュータウン店／1階は食品スーパー、2階は医療モールの都市型大型店",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9LWGZlOEEwOGF4dWlINFBUbmhaWmRHY1Baa2x0ZVY3MnFoeXJlc3kwRndpOEc1d1E2Mk1MQUxSb29MVE16eGMwZWNKTnlBdkVuTXc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261018-1237",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】印西市教育委員会、小中学校向け「生成AI導入授業パッケージ」と「生成AIハンドブック」を作成",
+    "link": "https://prtimes.jp/main/html/rd/p/000000026.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
