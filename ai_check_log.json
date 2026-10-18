@@ -8299,5 +8299,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000026.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261018-1427",
+    "date": "2026-10-18",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "歌声カルテットの昭和歌謡コンサート（印西市）(千葉県)の情報",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1rOVRCaGxSTW45ZjFPVVdwdzdUOWo2Ym91N3VBUWlyM3p6cHIyVU5SMVM4N2FsZTJDQm1vRG1uWWduSFZMSVVJTDc2XzNPZzlDaG10ekhNNUNhVE0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
