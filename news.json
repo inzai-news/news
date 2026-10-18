@@ -36,15 +36,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "【2026年4月17日 開店】MYLEPR",
-    "link": "https://chibanewtown.aeonmall.jp/news/renewal/d1d0deb6-4f3f-4f63-bc45-9cebbea32c21",
-    "pub_str": "2026年4月17日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-renewal",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "store_event"
-  },
-  {
     "title": "イオンモールの秋休み シルバーウィーク5DAYS",
     "link": "https://chibanewtown.aeonmall.jp/event/2a22f404-085e-45b5-8f34-7413663a385a",
     "pub_str": "2026年9月11日",
@@ -212,26 +203,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "【鎌ケ谷市・白井市・印西市】京成電鉄では押上～成田空港間を結ぶ新型有料特急列車の愛称を募集しています。募集期間は8月16日（日）まで",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/17/keisei3900aishoboshu/",
-    "pub_str": "2026年7月17日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "千葉：公園、広場６か所花火ＯＫ 印西市が試行 あす～来月末 「手持ち」限定 ：地域ニュース",
-    "link": "https://news.google.com/articles/CBMicEFVX3lxTE81UTRsaDZaYXNpRzM5UkJ1QjRzOVpadWhzRkZBU3BLNVVCaW8xNVRORFNKSVBYczhfNGk5Zkh4R0dyY0cxOEhMY1g5OExxejlOZnAtVW9TNktzbjQ3YTRfbkYzRjFlUDI5UE1yZFVfOUk?oc=5",
-    "desc": "千葉：公園、広場６か所花火ＯＫ 印西市が試行 あす～来月末 「手持ち」限定 ：地域ニュース  読売新聞",
-    "pub_iso": "2026-07-17T16:00:00+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
     "title": "【2026年5月6日 開店】aebe",
     "link": "https://chiba-lunch.com/inzai-aebe-musashiya-cafe-italian/",
     "pub_str": "2026年5月6日",
@@ -242,15 +213,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "なつやすみのたのしみ絵画展",
-    "link": "https://chibanewtown.aeonmall.jp/event/8e951f73-7552-4de9-9b8b-13c121f4f611",
-    "pub_str": "2026年7月17日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市の公共交通のご案内",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
@@ -259,59 +221,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "（仮称）印西市立東の原義務教育学校開校準備特別企画「こんな学校にしたい」～みんなで描く未来の学び舎～　ワークショップ開催のお知らせ",
-    "link": "https://www.city.inzai.lg.jp/0000022023.html",
-    "desc": "",
-    "pub_iso": "2026-07-17T12:00:00+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【道路管理課・一般事務】令和8年度会計年度任用職員の募集について",
-    "link": "https://www.city.inzai.lg.jp/0000020153.html",
-    "desc": "",
-    "pub_iso": "2026-07-17T09:00:00+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "令和8年度第1回印西市地域包括支援センター運営協議会　結果報告",
-    "link": "https://www.city.inzai.lg.jp/0000022013.html",
-    "desc": "",
-    "pub_iso": "2026-07-17T09:00:00+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【速報】首など30カ所を刺し、母親を殺害した疑い 同居の47歳男逮捕 千葉・印西署（千葉日報オンライン）",
-    "link": "https://news.google.com/articles/CBMif0FVX3lxTE9xajVrY2xnaVpnblRwcnAydG9vMUFoNFhieWoyWkRzcWRCLXI1cEs0bW14QlloNE00WUxrTEItdER1dmlIMVZtaEpoOGxNbTZpYnRzZG54bU9sMm8xQl8xaXBCTGl4ZXlzbWdUaTh2OEs5Z1JJNmRWSTYtWnJiMkE?oc=5",
-    "desc": "【速報】首など30カ所を刺し、母親を殺害した疑い 同居の47歳男逮捕 千葉・印西署（千葉日報オンライン）  Yahoo!ニュース",
-    "pub_iso": "2026-07-17T18:59:49+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-chiba",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "無料で水遊びスポット「じゃぶじゃぶ池・噴水・水辺」｜千葉県北部・茨城県南部 柏 我孫子 成田 佐倉 鎌ヶ谷 千葉市",
-    "link": "https://inzaiparque.com/waterplayingspots/",
-    "pub_str": "2026年7月17日",
-    "publisher": "千葉ほくそうパルケ",
-    "source": "inzaiparque",
-    "category": "話題・その他",
     "retention_type": "regular"
   },
   {
@@ -416,17 +325,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ワイン酒場 バルデペロ(印西市/ダイニングバー・バル)",
-    "link": "https://news.google.com/articles/CBMiggFBVV95cUxOOHZ0UGtRdFlCVXhMeEdoblVOTm1RT3FHRTdmTDE1YzJTVk93VldiM25qNk5uOFF4d3U3ajY1LVVqY0MwTjBmeC1OaW5DZ015Sl80R2pfYXduU2x3d3dwWUlPZmFzMzZxOWY4cFJCMWt2RjNLUmJyeUFaRFU4aWlfWkFB?oc=5",
-    "desc": "ワイン酒場 バルデペロ(印西市/ダイニングバー・バル)  ホットペッパーグルメ",
-    "pub_iso": "2026-07-17T19:15:14+09:00",
-    "pub_str": "2026年7月17日",
-    "publisher": "ホットペッパーグルメ",
-    "source": "google-news-inzai-shi",
-    "category": "話題・その他",
     "retention_type": "regular"
   },
   {
@@ -4377,7 +4275,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6327,7 +6225,7 @@
     "title": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE1odGxBdGNULVMyeWx5YXdidFdfcDlGUnVvaERVS2JrVkVTbGh0WmdneXB5a2xIajZhU2s0UURaT0QzaDlackRaV3hnVGNlaDJ3bDB5RDdRc3RrR1g0RWVERXdtS2VIYVNKWVg2Zg?oc=5",
     "desc": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想  日本経済新聞",
-    "pub_iso": "2026-10-09T05:00:00+09:00",
+    "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
@@ -6889,7 +6787,7 @@
     "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T16:00:00+09:00",
+    "pub_iso": "2026-10-13T11:16:32+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
@@ -7025,10 +6923,10 @@
     "title": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍",
     "link": "https://news.google.com/articles/CBMickFVX3lxTFBrdWFnQmNUMl9OSHdIemtOTU9XZVpOQ3EtelJUb0lwb01BdTJ3UFZBa0lCWk1nYmNPQ1c2TkdDMTU1ZEh4VnJtR3FHSDhKaFZCMlR6YXNuSHg0VDlNQmRRRmZVT0JJZTVFdnNuamhjR1QxZw?oc=5",
     "desc": "成田市・印西市の体育館・トレーニング室の個人利用｜中台は240円で予約なし・印西の松山下は2時間410円で初回は講習会・市外は成田1.5倍・印西2倍  ジモはる",
-    "pub_iso": "2026-10-14T13:15:00+09:00",
-    "pub_str": "2026年10月14日",
+    "pub_iso": "2026-10-15T16:00:00+09:00",
+    "pub_str": "2026年10月15日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T14:37:35.643282+09:00",
     "retention_type": "regular"
