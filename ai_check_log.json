@@ -8329,5 +8329,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9ZcWFXTVlXUUgzMnFXdkxjWmdUVW9HMl81SjlIazVocF9KMHdlYUw5Um5fTGMxOFFkdlNyUnVXRnZpTkllY01fOWtldm9mMkdOUTVvT3RDaWo5OVVOcFYw?oc=5",
     "similar_to": "",
     "ai_reason": "選挙ドットコム発の政治家個人の街頭演説・支部懇親会活動記事のため除外(タイトルのまつりキーワードでルールベースにイベント・文化へ誤分類されていたのを手動訂正)"
+  },
+  {
+    "run_ts": "20261019-1625",
+    "date": "2026-10-19",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB1M21uYUpCZTY0RWtaYnNHMS1pSzUyeE1jelNncWNaT2lST1BGYzRrVXFUTW9sYVMzN2JQaERUM1hrek1fbWVWOUZDSFRmWC1tVFhfcktR?oc=5",
+    "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
