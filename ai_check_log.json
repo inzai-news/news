@@ -8339,5 +8339,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTFB1M21uYUpCZTY0RWtaYnNHMS1pSzUyeE1jelNncWNaT2lST1BGYzRrVXFUTW9sYVMzN2JQaERUM1hrek1fbWVWOUZDSFRmWC1tVFhfcktR?oc=5",
     "similar_to": "千葉県印西市「AIデータセンター」急増で「気温上昇」「騒音」リスクが発生…地域住民も賛否両論のワケ",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261019-2226",
+    "date": "2026-10-19",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "（仮称）印西市立東の原義務教育学校の開校準備の状況②（R8.10.15）",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5LOVdGbVRHMnBFMTVhZ0ozZjlFR0JPY3FtVUc5UE9WNmpFM1VaSTFjZUttU2VZTmF6Q2NzVE03R25BU1pPb3A3aWhScVI5OUxMNHFWTTBrcmdna2xn?oc=5",
+    "similar_to": "（仮称）印西市立東の原義務教育学校の準備の状況について",
+    "ai_reason": "既存記事は開校準備状況の初回報告、本記事は「②」として続報の新規情報があるため別記事として採用"
   }
 ]
