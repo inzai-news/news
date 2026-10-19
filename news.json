@@ -224,15 +224,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】2026年の「松戸駐屯地 盆踊り大会」は7月25日（土）開催！ 屋台や縁日もあり、打上花火もあがります！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/18/matsudochutonchibonodori2026/",
-    "pub_str": "2026年7月18日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
     "title": "【鎌ケ谷市】7月20日（月・祝）「海の日だよ！スイカ割り大会」がアクロスモール新鎌ケ谷で開催されます！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/19/acrossmallsuikawari2026/",
     "pub_str": "2026年7月19日",
@@ -6189,7 +6180,7 @@
     "title": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ",
     "link": "https://news.google.com/articles/CBMikwFBVV95cUxPTEYzNlJsVzk1TlNnSHhhVEYtM29zdldJZm5fLXJuNm5Fd2hFLWI1OVF3SDMybjgydi1RcDFXZTlpTDg4Qk1RbW03bV9KMkFDdVdVN0tYWEl5SlVTYy1HclBybUhJTnVUN1h4RG9ReFhabkZjN195aXBCNG11Tk1hNzdLVkJnT2FxSXhBU0ZJT1J3aUE?oc=5",
     "desc": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ  データセンターカフェ",
-    "pub_iso": "2026-10-08T16:00:00+09:00",
+    "pub_iso": "2026-10-08T18:18:42+09:00",
     "pub_str": "2026年10月8日",
     "publisher": "データセンターカフェ",
     "source": "google-news-inzai-shi",
@@ -6225,7 +6216,7 @@
     "title": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE1odGxBdGNULVMyeWx5YXdidFdfcDlGUnVvaERVS2JrVkVTbGh0WmdneXB5a2xIajZhU2s0UURaT0QzaDlackRaV3hnVGNlaDJ3bDB5RDdRc3RrR1g0RWVERXdtS2VIYVNKWVg2Zg?oc=5",
     "desc": "千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想  日本経済新聞",
-    "pub_iso": "2026-10-09T16:00:00+09:00",
+    "pub_iso": "2026-10-09T05:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
     "source": "google-news-inzai-shi",
@@ -7092,11 +7083,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "マイナンバーカード等に関するシステム障害について（令和8年10月16日午前11時ごろ発生、同日復旧済）",
+    "title": "【復旧しました】マイナンバーカード等に関するシステム障害について",
     "link": "https://www.city.inzai.lg.jp/0000022741.html",
     "desc": "",
-    "pub_iso": "2026-10-16T19:48:27+09:00",
-    "pub_str": "2026年10月16日",
+    "pub_iso": "2026-10-19T08:58:52+09:00",
+    "pub_str": "2026年10月19日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7107,8 +7098,8 @@
     "title": "第23回ふれあい文化館まつり開催",
     "link": "https://www.city.inzai.lg.jp/0000022740.html",
     "desc": "",
-    "pub_iso": "2026-10-16T11:00:55+09:00",
-    "pub_str": "2026年10月16日",
+    "pub_iso": "2026-10-19T08:34:49+09:00",
+    "pub_str": "2026年10月19日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7298,6 +7289,26 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-18T20:37:32.600322+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】10月25日（日）道野辺の特別養護老人ホーム「慈祐苑」で文化祭が開催されます！ 屋台や野菜の販売もあり、どなたでも参加できます！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/19/jiyuenbunkasai2026/",
+    "pub_str": "2026年10月19日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-19T09:50:58.156360+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "第16回みんなで一緒に！ファミリーコンサート（12月17日(木)）",
+    "link": "https://inzainet.com/event/culturehall-261014/",
+    "pub_str": "2026年10月19日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-19T09:50:58.156360+09:00",
     "retention_type": "regular"
   }
 ]
