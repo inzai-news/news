@@ -8379,5 +8379,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5fTTB4bU55REZIVjN6dlZmSjM3OXdVSll0WUVZbkZyOFFyd0NZaEluWnFpWEJOWVRrdllJQXJrcVZlX1RzWnpZalVaLS1fRUR6ZDlNTE1R?oc=5",
     "similar_to": null,
     "ai_reason": "10/3-10/4に既に採用済みの同一事件(6歳女児ひき逃げ・43歳男逮捕)の再報で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261020-1217",
+    "date": "2026-10-20",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9fLXlqQUltbkZEdzdpNEJQcWFEMTdXQkZISldSRVFiX0xLOXFqVDdlajRzQ3NVcXhoOERIOW9fcE4zTWR5Ukd6NktrRUI1NE9NYWNRMWtXbnFnNE9nVGxxcmVtSE1fUQ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
