@@ -8349,5 +8349,35 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE5LOVdGbVRHMnBFMTVhZ0ozZjlFR0JPY3FtVUc5UE9WNmpFM1VaSTFjZUttU2VZTmF6Q2NzVE03R25BU1pPb3A3aWhScVI5OUxMNHFWTTBrcmdna2xn?oc=5",
     "similar_to": "（仮称）印西市立東の原義務教育学校の準備の状況について",
     "ai_reason": "既存記事は開校準備状況の初回報告、本記事は「②」として続報の新規情報があるため別記事として採用"
+  },
+  {
+    "run_ts": "20261020-0922",
+    "date": "2026-10-20",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市原山１丁目で盗撮　９月４日",
+    "link": "https://news.google.com/articles/CBMiogFBVV95cUxOWlBIWENTcmVzRTJHeVhoTVVJd1RDWS16cVVPejltM0xCTTFvamRYZndVVmp4djQtaFdabEVHVjZfSGJ4eWpYVXVOOU82SW5lakZ0NmxFQnRZVE8xZEoxNVVsZlkzbE5XVWl1YUpqSGlac2FWbEtJakhFUV8tZWd6QUdGdlZjcUdrdUJsX0dvVUVnVUxQbmZNai1SNUJHcHp6cnfSAaIBQVVfeXFMTlpQSFhDU3Jlc0UyR3lYaE1VSXdUQ1ktenFVT3o5bTNMQk0xb2pkWGZ3VVZqeHY0LWhXWmxFR1Y2X0hieHlqWFV1TjlPNkluZWpGdDZsRUJ0WVRPMWRKMTVVbGZZM2xOV1VpdWFKakhpWnNhVmxLSWpIRVFfLWVnekFHRnZWY3FHa3VCbF9Hb1VFZ1VMUG5mTWotUjVCR3B6enJ3?oc=5",
+    "similar_to": "（千葉）印西市原山１丁目で盗撮　９月４日",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261020-0923",
+    "date": "2026-10-20",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【売買】印西の物流施設を52億円で売却、三菱地所物流リート",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE5mRUhnTUJpSTEwbnFzcFFacmhxUTI4VmJHSVAwZWxmZ1Mtd1c1Z2ZCQnMzZGR6bzl2S251YkRXT0JFeGJyRFhpa0R5OEg1NWJhT1RiT3hMaW9KdkZBc2thS0ZB?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/19に既に採用済みの同一取引(印西の物流施設52.2億円譲渡、三菱地所物流リート)の再配信で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261020-0923",
+    "date": "2026-10-20",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "横断歩道で女児ひき逃げか 無職の男逮捕「動揺した」 千葉・印西市",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE5fTTB4bU55REZIVjN6dlZmSjM3OXdVSll0WUVZbkZyOFFyd0NZaEluWnFpWEJOWVRrdllJQXJrcVZlX1RzWnpZalVaLS1fRUR6ZDlNTE1R?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/3-10/4に既に採用済みの同一事件(6歳女児ひき逃げ・43歳男逮捕)の再報で新規情報なし、重複のため除外"
   }
 ]
