@@ -4223,7 +4223,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6735,7 +6735,7 @@
     "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T11:16:32+09:00",
+    "pub_iso": "2026-10-13T16:00:00+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
@@ -7487,6 +7487,18 @@
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-20T20:27:47.451783+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県ラグビー祭り in 印西】",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5jdkpNZVM2dmJNdFktOVJRX0xVdS1OWDdMSFFLLVB2WHozeFhTWHpTeXY2R0QtQlZ0LVhidDN2SlZpN2YyT1Q2elhQZThnMkNUemRqZW9WenAtY3lSb1Vn?oc=5",
+    "desc": "【千葉県ラグビー祭り in 印西】  選挙ドットコム",
+    "pub_iso": "2026-10-20T20:12:10+09:00",
+    "pub_str": "2026年10月20日",
+    "publisher": "選挙ドットコム",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-20T22:30:41.675654+09:00",
     "retention_type": "regular"
   }
 ]
