@@ -1,9 +1,11 @@
 {
   "links": {
-    "https://www.city.inzai.lg.jp/0000011755.html": "2026-10-20T16:37:22.021356+09:00"
+    "https://www.city.inzai.lg.jp/0000011755.html": "2026-10-20T16:37:22.021356+09:00",
+    "https://www.city.inzai.lg.jp/0000022679.html": "2026-10-20T18:30:14.551129+09:00",
+    "https://news.google.com/articles/CBMiW0FVX3lxTFB6UHdVbzRSdTBJd1FYTVo3V2MzaWFrelJBdGhBdjVzVnhOWWtPemxXNks4QzFKamVDd0NDQ3c2VmxOQk9kTktEVlZaY2RLcTgxcDRJYWdXU1dYZFU?oc=5": "2026-10-20T18:30:14.551129+09:00"
   },
   "last_eligible": {
-    "link": "https://chibanewtown.aeonmall.jp/event/2ff1057c-889e-4a1e-b494-0605369c6e20",
-    "ts": "2026-10-20T12:17:36.521287+09:00"
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFB6UHdVbzRSdTBJd1FYTVo3V2MzaWFrelJBdGhBdjVzVnhOWWtPemxXNks4QzFKamVDd0NDQ3c2VmxOQk9kTktEVlZaY2RLcTgxcDRJYWdXU1dYZFU?oc=5",
+    "ts": "2026-10-20T18:30:14.551129+09:00"
   }
 }

@@ -1416,8 +1416,8 @@
     "title": "北総線千葉ニュータウン中央駅北側歩道を活用し、イベントを実施できる事業者・団体を募集します。",
     "link": "https://www.city.inzai.lg.jp/0000021878.html",
     "desc": "",
-    "pub_iso": "2026-08-06T18:18:32+09:00",
-    "pub_str": "2026年8月6日",
+    "pub_iso": "2026-10-20T17:41:09+09:00",
+    "pub_str": "2026年10月20日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -6539,8 +6539,8 @@
     "title": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTFA2VDIyRWlkdU5SaXRkMWNlakVfdU01TjAyb19DX2tTbWNwOXo0NHptWkdzQ1dnVTF1SklhN29IUWdibUY5OEh2YlloOEZwZkFvQXlTUnQ0R05ncWlzY0dmYTlyY3R1QQ?oc=5",
     "desc": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も  ジモはる",
-    "pub_iso": "2026-10-10T16:00:00+09:00",
-    "pub_str": "2026年10月10日",
+    "pub_iso": "2026-10-14T16:00:00+09:00",
+    "pub_str": "2026年10月14日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
@@ -6732,10 +6732,10 @@
     "retention_type": "regular"
   },
   {
-    "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
+    "title": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
-    "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-13T16:00:00+09:00",
+    "desc": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
+    "pub_iso": "2026-10-13T11:16:32+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
@@ -7451,6 +7451,30 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-20T16:37:21.985876+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉ニュータウン中央駅前公共空間利活用",
+    "link": "https://www.city.inzai.lg.jp/0000022679.html",
+    "desc": "",
+    "pub_iso": "2026-10-20T17:20:42+09:00",
+    "pub_str": "2026年10月20日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-20T18:30:14.508633+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "SINON 奇跡の歌声 ～カーペンターズコンサート in 印西～(千葉県)の情報",
+    "link": "https://news.google.com/articles/CBMiW0FVX3lxTFB6UHdVbzRSdTBJd1FYTVo3V2MzaWFrelJBdGhBdjVzVnhOWWtPemxXNks4QzFKamVDd0NDQ3c2VmxOQk9kTktEVlZaY2RLcTgxcDRJYWdXU1dYZFU?oc=5",
+    "desc": "SINON 奇跡の歌声 ～カーペンターズコンサート in 印西～(千葉県)の情報  ウォーカープラス",
+    "pub_iso": "2026-10-20T15:44:58+09:00",
+    "pub_str": "2026年10月20日",
+    "publisher": "ウォーカープラス",
+    "source": "google-news-inzai-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-20T18:30:14.508633+09:00",
     "retention_type": "regular"
   }
 ]
