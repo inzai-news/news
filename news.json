@@ -4223,7 +4223,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -6539,8 +6539,8 @@
     "title": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTFA2VDIyRWlkdU5SaXRkMWNlakVfdU01TjAyb19DX2tTbWNwOXo0NHptWkdzQ1dnVTF1SklhN29IUWdibUY5OEh2YlloOEZwZkFvQXlTUnQ0R05ncWlzY0dmYTlyY3R1QQ?oc=5",
     "desc": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も  ジモはる",
-    "pub_iso": "2026-10-14T16:00:00+09:00",
-    "pub_str": "2026年10月14日",
+    "pub_iso": "2026-10-10T16:00:00+09:00",
+    "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
@@ -6732,9 +6732,9 @@
     "retention_type": "regular"
   },
   {
-    "title": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
+    "title": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
-    "desc": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
+    "desc": "成田・印西・栄・酒々井・富里の毎年の催しカレンダー｜月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
     "pub_iso": "2026-10-13T11:16:32+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
@@ -7475,6 +7475,18 @@
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-10-20T18:30:14.508633+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "なぜAnthropicのAIデータセンターの建設地は千葉・印西ではなく大阪なのか｜仲島池哉＠仲池屋",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE9lOTh0djBCd2g2cTJQMVhiN1JDYmdWSW81SUhhR2wwd0ZXQktEWFFFM3BRZnhLVXBUZXVSdTF4MGZfUWVvN2kxMmZicmlYZWw2aENBRQ?oc=5",
+    "desc": "なぜAnthropicのAIデータセンターの建設地は千葉・印西ではなく大阪なのか｜仲島池哉＠仲池屋  note",
+    "pub_iso": "2026-10-19T12:30:00+09:00",
+    "pub_str": "2026年10月19日",
+    "publisher": "note",
+    "source": "google-news-inzai-chiba",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-20T20:27:47.451783+09:00",
     "retention_type": "regular"
   }
 ]
