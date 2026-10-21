@@ -4110,7 +4110,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -5776,7 +5776,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6474,10 +6474,10 @@
     "title": "印西市の図書館｜大森・小倉台は水曜だけ19時まで・小林・そうふけ・本埜は17時まで・小倉台は2027年8月まで休館中・何冊借りられる・隣の市町の人は登録できる",
     "link": "https://news.google.com/articles/CBMiYEFVX3lxTE1leXRnTTJFQW1PVkJQd1A4Wk01ODlnSWp0Uk1aUzFPamlqU3lVZHlYVGJDRWdGV2RUZjFTZFdqQ1JzTGF1RWliWXY1cklIZFEzQThYOXJKek5FUzFiTWFBcA?oc=5",
     "desc": "印西市の図書館｜大森・小倉台は水曜だけ19時まで・小林・そうふけ・本埜は17時まで・小倉台は2027年8月まで休館中・何冊借りられる・隣の市町の人は登録できる  ジモはる",
-    "pub_iso": "2026-10-10T15:35:33+09:00",
+    "pub_iso": "2026-10-10T16:00:00+09:00",
     "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
     "collected_at": "2026-10-11T02:13:11.874933+09:00",
     "retention_type": "regular"
@@ -7456,6 +7456,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-21T16:13:05.361163+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "白井▷天丼セットがコスパ抜群！3種のそば粉が選べる人気の蕎麦屋｜メニュー【十割蕎麦 彦兵衛】",
+    "link": "https://chiba-lunch.com/shiroi-soba-hikobe/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-soba-hikobe",
+    "desc": "白井市根にある「十割蕎麦 彦兵衛」さん。 注文を受けてから蕎麦を打つ、十割蕎麦のお店で、希少そば粉「ほろみのり」なども楽しめる。 十割蕎麦 彦兵衛 ・つなぎを使わない十割蕎麦の店。・北海道、長野県、福井県の3種類の産地か […]\nThe post 白井▷天丼セットがコスパ抜群！3種のそば粉が選べる人気の蕎麦屋｜メニュー【十割蕎麦 彦兵衛】 first appeared on ちばもぐ.",
+    "pub_iso": "2026-10-21T18:13:50+09:00",
+    "pub_str": "2026年10月21日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-shiroi",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-21T18:26:23.846969+09:00",
     "retention_type": "regular"
   }
 ]

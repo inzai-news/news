@@ -8579,5 +8579,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000047.000180020.html",
     "similar_to": "いんざい創業塾（11月8日（日）〜12月2日（水））",
     "ai_reason": "10/14にGoogle News経由のリンクで一度AI判断により重複除外済みの同一PR TIMES記事が、直接prtimes.jpリンク経由で再収集されたため再度除外(ルールベース分類でレビューをバイパスして自動採用されていたのを手動訂正)"
+  },
+  {
+    "run_ts": "20261021-1826",
+    "date": "2026-10-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE1HbmYtM1BlUGRsSWtJSWxwQmZYUjRXdjFaTVUyZDd1MnAzOU5hTW0tZmNjRENDTXB0RVpVZ09BQkpNQXFEX1htNVV1TVhzVWxzaDdrSFZwRTc5c3JTQ2R3X2VVRzRmbEtuc3gySDBzcjhTUQ?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
