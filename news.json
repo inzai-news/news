@@ -828,11 +828,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "「令和8年熊本地震災害義援金」の受付について",
+    "title": "【受付期間を延長】「令和8年熊本地震災害義援金」の受付について",
     "link": "https://www.city.inzai.lg.jp/0000022214.html",
     "desc": "",
-    "pub_iso": "2026-07-31T14:01:01+09:00",
-    "pub_str": "2026年7月31日",
+    "pub_iso": "2026-10-21T15:40:45+09:00",
+    "pub_str": "2026年10月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -2651,11 +2651,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "「令和8年8月千葉豪雨災害義援金」の受付について",
+    "title": "【受付期間を延長】「令和8年8月千葉豪雨災害義援金」の受付について",
     "link": "https://www.city.inzai.lg.jp/0000022397.html",
     "desc": "",
-    "pub_iso": "2026-08-25T16:59:29+09:00",
-    "pub_str": "2026年8月25日",
+    "pub_iso": "2026-10-21T15:40:08+09:00",
+    "pub_str": "2026年10月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4110,7 +4110,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -7429,7 +7429,7 @@
     "pub_iso": "2026-10-21T08:38:00+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開店・閉店",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7444,6 +7444,18 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「令和8年台風第25号災害義援金」の受付について",
+    "link": "https://www.city.inzai.lg.jp/0000022710.html",
+    "desc": "",
+    "pub_iso": "2026-10-21T15:41:40+09:00",
+    "pub_str": "2026年10月21日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-21T16:13:05.361163+09:00",
     "retention_type": "regular"
   }
 ]
