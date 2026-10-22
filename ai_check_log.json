@@ -8639,5 +8639,15 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5jdkpNZVM2dmJNdFktOVJRX0xVdS1OWDdMSFFLLVB2WHozeFhTWHpTeXY2R0QtQlZ0LVhidDN2SlZpN2YyT1Q2elhQZThnMkNUemRqZW9WenAtY3lSb1Vn?oc=5",
     "similar_to": "",
     "ai_reason": "選挙ドットコム発の政治家個人の活動記事(行政ニュースや市主催イベントではなく個人の政治活動記録)のため除外。同publisherは2026-10-22からcollect時点で自動除外対象に追加済み(既に過去3回同様の記事がルールベース分類をバイパスして採用されていたため、まとめて手動除外)"
+  },
+  {
+    "run_ts": "20261022-1437",
+    "date": "2026-10-22",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【印西市】コスモスふれあいまつりが開催されました。",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1mbG5mUmhmdUpyLTV4alFYX082OTdrc2djYllvbDJ1NGJDUXRocS1tQVQtLU92akU4cWQ2NjE2aHU4ck9yR3J0MldudzVLZFJubXFPcnBDUUFhRmJTUFdz?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
   }
 ]

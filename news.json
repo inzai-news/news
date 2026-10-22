@@ -7421,5 +7421,29 @@
     "category": "イベント・文化",
     "collected_at": "2026-10-22T12:37:23.642210+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "PHPの脆弱性への対応状況と一部機能の一時停止について",
+    "link": "https://www.city.inzai.lg.jp/0000022779.html",
+    "desc": "",
+    "pub_iso": "2026-10-22T13:00:00+09:00",
+    "pub_str": "2026年10月22日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-22T14:37:30.364019+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "予備費の充用状況について",
+    "link": "https://www.city.inzai.lg.jp/0000022767.html",
+    "desc": "",
+    "pub_iso": "2026-10-22T13:00:00+09:00",
+    "pub_str": "2026年10月22日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-22T14:37:30.364019+09:00",
+    "retention_type": "regular"
   }
 ]
