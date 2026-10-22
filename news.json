@@ -235,35 +235,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "ポケモンしんかラリー",
-    "link": "https://chibanewtown.aeonmall.jp/event/c2a7c053-bb31-40ae-b63e-1fcf870ed86c",
-    "pub_str": "2026年7月21日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【鎌ケ谷市】2026年9月開業予定の新鎌ヶ谷駅直結駅ビル内にオープンする飲食店6店がわかりました！ 人気のラーメン店や回転寿司、ファミリーレストランも！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/21/shinkamagayaekibuildingopenyotei/",
-    "pub_str": "2026年7月21日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "開店・閉店",
-    "retention_type": "regular"
-  },
-  {
-    "title": "令和8年度印西市史編さん講座「知りたい歴史を調べてみよう！」を開催",
-    "link": "https://www.city.inzai.lg.jp/0000022066.html",
-    "desc": "",
-    "pub_iso": "2026-07-21T09:00:00+09:00",
-    "pub_str": "2026年7月21日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "木下駅南骨董市",
     "link": "https://www.city.inzai.lg.jp/0000001565.html",
     "desc": "",
@@ -286,55 +257,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "【印西市】社会を明るくする運動",
-    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
-    "desc": "【印西市】社会を明るくする運動  選挙ドットコム",
-    "pub_iso": "2026-07-21T16:00:00+09:00",
-    "pub_str": "2026年7月21日",
-    "publisher": "選挙ドットコム",
-    "source": "google-news-inzai-shi",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市指定給水装置工事事業者一覧表",
     "link": "https://www.city.inzai.lg.jp/0000003022.html",
     "desc": "",
     "pub_iso": "2026-09-04T09:37:41+09:00",
     "pub_str": "2026年9月4日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "幼稚園・認定こども園・保育園等ガイドブックについて",
-    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000018044.html",
-    "desc": "",
-    "pub_iso": "2026-07-21T14:22:19+09:00",
-    "pub_str": "2026年7月21日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西市部活動地域展開推進協議会",
-    "link": "https://www.city.inzai.lg.jp/0000022158.html",
-    "desc": "",
-    "pub_iso": "2026-07-21T14:00:00+09:00",
-    "pub_str": "2026年7月21日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "市制施行30周年記念　第5回印西まちなか音楽祭～みんなで蒔こう！音楽の種♪～を開催しました！",
-    "link": "https://www.city.inzai.lg.jp/0000021781.html",
-    "desc": "",
-    "pub_iso": "2026-07-21T17:02:43+09:00",
-    "pub_str": "2026年7月21日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4275,39 +4202,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "Moju講師による金属加工講座「形から作る刻印真鍮アクセサリー」（2026年10月18日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=34306&store=chibant",
-    "pub_str": "2026年9月18日",
-    "event_end_date": "2026-10-18",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-18T08:43:46.872583+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "Moju先生によるディップアート講座【小さな金木星のアクセサリー】（2026年10月18日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=34304&store=chibant",
-    "pub_str": "2026年9月18日",
-    "event_end_date": "2026-10-18",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-18T08:43:46.872583+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "オリジナル缶バッジ作り体験（2026年10月18日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=29897&store=chibant",
-    "pub_str": "2026年9月18日",
-    "event_end_date": "2026-10-18",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-18T08:43:46.872583+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "学童クラブ冬休みの短期入所について",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022239.html",
     "desc": "",
@@ -4838,18 +4732,6 @@
     "publisher": "ジョイフル本田",
     "source": "joyfulhonda-chibant",
     "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-25T01:22:18.650925+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
-    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
-    "desc": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...  選挙ドットコム",
-    "pub_iso": "2026-09-24T16:00:00+09:00",
-    "pub_str": "2026年9月24日",
-    "publisher": "選挙ドットコム",
-    "source": "google-news-inzai-shi",
-    "category": "市政・行政",
     "collected_at": "2026-09-25T01:22:18.650925+09:00",
     "retention_type": "regular"
   },
@@ -6634,7 +6516,7 @@
     "title": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
     "link": "https://news.google.com/articles/CBMiakFVX3lxTFBxbV9PU0dpTEhfQ2JNQ0hoT1ZRb0NxV2t5TThtUEpVNDhfR2tpSURhbmpvMExUZ1N2bGlyQmljNEtjcXBUVkotcHpyVDhMRkFlRk8zYkI4Qmtja3lhM1NVOVJRSzAtNDRKRWc?oc=5",
     "desc": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集  PR TIMES",
-    "pub_iso": "2026-10-13T12:30:02+09:00",
+    "pub_iso": "2026-10-13T16:00:00+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "PR TIMES",
     "source": "google-news-inzai-shi",
@@ -7377,18 +7259,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【千葉県ラグビー祭り in 印西】",
-    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5jdkpNZVM2dmJNdFktOVJRX0xVdS1OWDdMSFFLLVB2WHozeFhTWHpTeXY2R0QtQlZ0LVhidDN2SlZpN2YyT1Q2elhQZThnMkNUemRqZW9WenAtY3lSb1Vn?oc=5",
-    "desc": "【千葉県ラグビー祭り in 印西】  選挙ドットコム",
-    "pub_iso": "2026-10-20T20:30:29+09:00",
-    "pub_str": "2026年10月20日",
-    "publisher": "選挙ドットコム",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
-    "collected_at": "2026-10-20T22:30:41.675654+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "【鎌ケ谷市】「海上自衛隊下総航空基地一般公開」が10月24日（土）に開催されます！ P-1展示飛行や東京音楽隊演奏など見どころ満載！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/21/shimofusakoukuukichiippankoukai2026/",
     "pub_str": "2026年10月21日",
@@ -7468,6 +7338,88 @@
     "source": "chibamogu-shiroi",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-10-21T18:26:23.846969+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "顔彩体験（鳳凰顔彩）（2026年11月21日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45830&store=chibant",
+    "pub_str": "2026年10月22日",
+    "event_end_date": "2026-11-21",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "LEDレジン体験　月のクリスマスチャーム作り（2026年11月21日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45758&store=chibant",
+    "pub_str": "2026年10月22日",
+    "event_end_date": "2026-11-21",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市ふれあい文化館 「カップ式コーヒー等自動販売機」設置事業者の募集",
+    "link": "https://www.city.inzai.lg.jp/0000022750.html",
+    "desc": "",
+    "pub_iso": "2026-10-22T09:00:00+09:00",
+    "pub_str": "2026年10月22日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "11月19日（木曜日）に「ごみ処理・リサイクル施設等見学会」を開催します。",
+    "link": "https://www.city.inzai.lg.jp/0000020602.html",
+    "desc": "",
+    "pub_iso": "2026-10-22T00:00:00+09:00",
+    "pub_str": "2026年10月22日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "有賀忍氏講演会は11/1(日)14時〜15:30｜印西市文化ホール、申込は10/25(日)17時まで・小学生以上200名、絵本2冊は現金のみ・駐車場は市役所と共用の無料198台",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE1UcWkxMVhrRUJaTUxMU3g5X0dHbXZOWm5nVjc5M3dEaDlPcTR4ZC1ISGxNRk5xRi1XSXFteXducW1mVGdZRGdaQUtrbVVvLUlGeXp3Y3FNckdLeHZVM2t3UVk1VVdNQQ?oc=5",
+    "desc": "有賀忍氏講演会は11/1(日)14時〜15:30｜印西市文化ホール、申込は10/25(日)17時まで・小学生以上200名、絵本2冊は現金のみ・駐車場は市役所と共用の無料198台  ジモはる",
+    "pub_iso": "2026-10-21T19:55:00+09:00",
+    "pub_str": "2026年10月21日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-oshirase",
+    "category": "市政・行政",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "第31回印西市民文化祭は10/25(日)〜11/29(日)｜5会場・ホールの発表は6日、短歌大会10/25・盆栽と陶芸は10/31・11/1、茶道体験100円・水引講座500円",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE40OXRHOTdkdC1PQTFnR3ZtVm5HWkJ2QVhZa0VoUnA1dHJwa3NSckh5dUhfU2hQRGY5SWt5WXlSd2s0VUVMYVlEN0dMME9wMm9kSE1tXzM3MnlUV0Nu?oc=5",
+    "desc": "第31回印西市民文化祭は10/25(日)〜11/29(日)｜5会場・ホールの発表は6日、短歌大会10/25・盆栽と陶芸は10/31・11/1、茶道体験100円・水引講座500円  ジモはる",
+    "pub_iso": "2026-10-21T18:25:00+09:00",
+    "pub_str": "2026年10月21日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "来場者15,000人の人気イベントがリニューアル！印西市“INZAIまちフェス” (2026年9月14日掲載)",
+    "link": "https://news.google.com/articles/CBMiXkFVX3lxTE5qYnYwbHZKLUtBNng3VkxKWERYb1JaeTFidmJpYm53cXczRUlSa3IyWl9GOFREc2xCUERSS0wtTmZFNk5qSnNJZV9SaWxkMWN3b2VpcTZXMy05RUhkeGc?oc=5",
+    "desc": "来場者15,000人の人気イベントがリニューアル！印西市“INZAIまちフェス” (2026年9月14日掲載)  ライブドアニュース",
+    "pub_iso": "2026-09-14T16:00:00+09:00",
+    "pub_str": "2026年9月14日",
+    "publisher": "ライブドアニュース",
+    "source": "google-news-inzai-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-22T12:37:23.642210+09:00",
     "retention_type": "regular"
   }
 ]

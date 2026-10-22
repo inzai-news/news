@@ -8589,5 +8589,55 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE1HbmYtM1BlUGRsSWtJSWxwQmZYUjRXdjFaTVUyZDd1MnAzOU5hTW0tZmNjRENDTXB0RVpVZ09BQkpNQXFEX1htNVV1TVhzVWxzaDdrSFZwRTc5c3JTQ2R3X2VVRzRmbEtuc3gySDBzcjhTUQ?oc=5",
     "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261022-1237",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市付近の天気",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTFAyNXI0bWR1UEdrSmIzYTJoWXRYMVRiUnRrNC1iYjVuM2RjNGpxZndvVkZxY2lkekVQcE12eTY4b1NYQ3MzMk8yemNyNmVLZnkyUHpkOHRwQmdDbS1ESU1Nc1hmRE1oVlNldkdqMHJWdHhPOUE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261022-1237",
+    "date": "2026-10-22",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！ (2026年10月21日掲載)",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE9zUUJkdDM5UUh6Vk1xaG9qREtENUZzVTBzb2ltTFdzRXQtMjFEVm9kcmtFZGNCODBSREdPWmpBd0RPRG44ZzZhaXJjV19fYmpsMHRGN3FLQVRWOTIwVzBUb0tR?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261022-0000",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市】社会を明るくする運動",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5",
+    "similar_to": "",
+    "ai_reason": "選挙ドットコム発の政治家個人の活動記事(行政ニュースや市主催イベントではなく個人の政治活動記録)のため除外。同publisherは2026-10-22からcollect時点で自動除外対象に追加済み(既に過去3回同様の記事がルールベース分類をバイパスして採用されていたため、まとめて手動除外)"
+  },
+  {
+    "run_ts": "20261022-0000",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "今日は課題の二つ目、印旛沼決壊の状況を現地で確認した上で、下流側の印西市の藤代市長と栄町の橋本...",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBNTHNUYjlZZ0xOTFdCMnU1dTZMclQ0ZmRMZFpBal9wRlJVVzhCcTdIT2VlcjhiTDFxRnZPX1N2TUV4WVVjQVUtM2s5M3h6TUJPNDJYaTJmYlRHT21CUEQw?oc=5",
+    "similar_to": "",
+    "ai_reason": "選挙ドットコム発の政治家個人の活動記事(行政ニュースや市主催イベントではなく個人の政治活動記録)のため除外。同publisherは2026-10-22からcollect時点で自動除外対象に追加済み(既に過去3回同様の記事がルールベース分類をバイパスして採用されていたため、まとめて手動除外)"
+  },
+  {
+    "run_ts": "20261022-0000",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県ラグビー祭り in 印西】",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5jdkpNZVM2dmJNdFktOVJRX0xVdS1OWDdMSFFLLVB2WHozeFhTWHpTeXY2R0QtQlZ0LVhidDN2SlZpN2YyT1Q2elhQZThnMkNUemRqZW9WenAtY3lSb1Vn?oc=5",
+    "similar_to": "",
+    "ai_reason": "選挙ドットコム発の政治家個人の活動記事(行政ニュースや市主催イベントではなく個人の政治活動記録)のため除外。同publisherは2026-10-22からcollect時点で自動除外対象に追加済み(既に過去3回同様の記事がルールベース分類をバイパスして採用されていたため、まとめて手動除外)"
   }
 ]
