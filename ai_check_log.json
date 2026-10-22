@@ -8649,5 +8649,25 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1mbG5mUmhmdUpyLTV4alFYX082OTdrc2djYllvbDJ1NGJDUXRocS1tQVQtLU92akU4cWQ2NjE2aHU4ck9yR3J0MldudzVLZFJubXFPcnBDUUFhRmJTUFdz?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261022-2341",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【印西市×国立環境研究所】自然のチカラで未来をつくる。「グリーンインフラ・NbS推進協定」を締結！",
+    "link": "https://prtimes.jp/main/html/rd/p/000000028.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261022-2341",
+    "date": "2026-10-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県 印西市】毎回満員の「いんざい創業塾」第13期が始動！人口増の街・印西市で“自分の夢を事業にする”4日間",
+    "link": "https://news.google.com/articles/CBMiekFVX3lxTE02ZFhINDFvMnZSeUplejN1cmNpNzZXU2RjUXUwdUVTVmw1VzRHb1VZa3dLdGJiOUhSVm1SZ0J3dW95OWdjM3lYN01iN0R1eVVORXVPVEFiVlUtQ2l6MHpKN0RJQ0Y3aGsxZ0hfdE5uZko4NVBHXy04bTFR?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に10/14・10/21に別配信元(いんざいネット/PR TIMES)で重複除外済みの同一PR TIMES記事(いんざい創業塾第13期)の再配信(イザ！経由)で新規情報なし、重複のため除外"
   }
 ]

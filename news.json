@@ -4037,7 +4037,7 @@
     "pub_iso": "2026-09-14T16:00:00+09:00",
     "pub_str": "2026年9月14日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-09-14T14:37:40.802111+09:00",
     "retention_type": "regular"
@@ -7226,8 +7226,8 @@
     "title": "千葉ニュータウン中央駅前公共空間利活用",
     "link": "https://www.city.inzai.lg.jp/0000022679.html",
     "desc": "",
-    "pub_iso": "2026-10-20T17:20:42+09:00",
-    "pub_str": "2026年10月20日",
+    "pub_iso": "2026-10-22T19:28:23+09:00",
+    "pub_str": "2026年10月22日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7444,6 +7444,27 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-22T14:37:30.364019+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】10月24日（土）第4回「くみまちパンマルシェ」がカインズ千葉ニュータウン店で開催！ 地元のパン屋さんが勢ぞろいします！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/22/kumimachipanmarche2026oct/",
+    "pub_str": "2026年10月22日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-22T23:41:43.912020+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "キットパスと手作りフォームスタンプでカード作り（2026年11月14日(土)～2026年11月15日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45939&store=chibant",
+    "pub_str": "2026年10月22日",
+    "event_end_date": "2026-11-15",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-22T23:41:43.912020+09:00",
     "retention_type": "regular"
   }
 ]
