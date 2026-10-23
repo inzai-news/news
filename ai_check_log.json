@@ -8669,5 +8669,65 @@
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE02ZFhINDFvMnZSeUplejN1cmNpNzZXU2RjUXUwdUVTVmw1VzRHb1VZa3dLdGJiOUhSVm1SZ0J3dW95OWdjM3lYN01iN0R1eVVORXVPVEFiVlUtQ2l6MHpKN0RJQ0Y3aGsxZ0hfdE5uZko4NVBHXy04bTFR?oc=5",
     "similar_to": null,
     "ai_reason": "既に10/14・10/21に別配信元(いんざいネット/PR TIMES)で重複除外済みの同一PR TIMES記事(いんざい創業塾第13期)の再配信(イザ！経由)で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "令和8年度第3回印西市地域公共交通会議の開催結果について（令和8年9月30日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022253.html",
+    "similar_to": "令和8年度第4回印西市地域公共交通会議の開催について(令和8年11月11日開催）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "台風第25号に伴う被災世帯の学童クラブ保育料の減免について",
+    "link": "https://www.city.inzai.lg.jp/0000022749.html",
+    "similar_to": "台風第25号に伴う被災世帯の保育料減免について",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "駅前の商業施設内に「データセンター」建設計画 急展開に「出来レース」疑う市民も 千葉・印西",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE5ZM3lHY0c2dmNMWFBZSmFfMk9FMFEwdGZLSWc0UDl5REVLdS15dTJNdTVOZlFZZGNRWDFXallpVnNZY1pvN0VNMXM5blJMNHRDUDFv?oc=5",
+    "similar_to": "駅前の大型商業施設を「データセンター」に建て替え計画　急展開に「出来レース」疑う市民も　千葉・印西",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集｜Infoseekニュース",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE1SWXJrNTA0UElaWU1TdFVxdnlkeE00X3V3cFhjWWhuT0d4bU9FeDRhc1g1QUdseERRNk1IWTBnRTdGc3hYV1JzQ2Jkc21LVlNCNWxrZ2FwWFIwTXBVQVF5WktPT2E3ZDVhZFRST1pkWVo4Zw?oc=5",
+    "similar_to": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTFBCZ196MkFsWm1nanBfaEdrTUdnRW91UHRaNVVUOTE2eTd5eFhuSUh5eW51VDlYUFlVRWJHcFVOQWllWGFQODcwWTRhWDFxX2FCUmE3aw?oc=5",
+    "similar_to": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261023-2309",
+    "date": "2026-10-23",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "｢住みよさランキング2014｣トップ50 印西(千葉)3連覇､2位坂井(福井)､3位野々市(石川)",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE5IdjJub3dxU1pIU0NWME9DREp2eFc4ZFJnbjF2c2hkdGhxTHpTZUg2NXRfcGh4SWYxYl9rV0hjMVB1STUzRXdGWk9wNUZiRE1M?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
