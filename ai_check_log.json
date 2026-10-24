@@ -8809,5 +8809,65 @@
     "link": "https://news.google.com/articles/CBMickFVX3lxTE9NQUtwNng1NnBzcFRrM2hib2dYZW50N3JCLXVfOUlIaUFOM2thLXZIeWtQTkJHRzdhbUtKTk9SQ1QxMmNlcjlPcHp0UnNNT1JxaFlkTXB4LVZyd2xWNHNaRV9kNTA0dXhQTlBtRUF2OHRMUQ?oc=5",
     "similar_to": null,
     "ai_reason": "特定日の記事ではなく天気予報ポータルサイトの汎用ページで、ニュース記事としての実体がないため除外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTFBqUmtYV0RLYWNZVHpXYm5tTFEtUWRRdVAxaGlRbmxBUFRVZGRCRG1lSEszZW9xUEY0cFRFWG9lU2NZMEVibmxHckpDYXVCTU9xa01MNkVRaEsza015Q2ZrUmZUak0tUllp?oc=5",
+    "similar_to": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE1seVdXYkdXVTJCQUhzdFZ1UC1UaDFPOE1tVTB4TTF1UzhXb0VJWGpRT0d4ZFVjckN6X2RRdDh2N3ZIUzFwdGpvUXFNU3hPRU5QNTN6S0dUNlVtY25pdVFSV1B4TEhKYkFpNHBYM0p3?oc=5",
+    "similar_to": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTE5iU25vRXVBYTlnLVNOanhKdWk0WVM2QzJfNVc2eGpUVEozcnllTEZtY19XLUJPZVdOLUhIZU0zaW0xR1lfTEcyeERFWTFJRWNLZzltYmpqVU9Cdw?oc=5",
+    "similar_to": "【千葉県印西市】みどりと べんりの すぐ隣り。印西市の新コンセプトロゴに込めた想いを広報いんざいで特集",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.8,
+    "title": "酒気帯び運転の疑い　印西　「友人関係で悩みがあってむしゃくしゃ」",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE1BZi1EZnlKajdhS0dCQnd4YXZPcXNsT05mMDdSOUZiWWJRWnlRYlVOWm4teHZrMUM3OTVERzFpNnJmbkQ0RmJyT1pGckNGMEczd0F2V19QU0R0RWo3eW9JWG11LUJMWXZWMzdTRndzT3ZpTXJfT1JMdEZmV3o5d9IBgwFBVV95cUxPdmRLQUFDWHc5TS1qUjNOUzlkRDBhTkl5aHQwZlRKSTNvX3lwY1JDQUxaakRrcnZaYWlibE9qZWZuR3RHdGFOQUhQcDY3Nms0Vy1RaGFtOEhtdTRhRFMxSjJwcFBOZk50SE9obGZfdlpBNFBYR0ZRV0ZwbUlDSzlTeERwMA?oc=5",
+    "similar_to": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1237",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市付近の天気",
+    "link": "https://news.google.com/articles/CBMic0FVX3lxTE5qd1Y4QVh2ODdqLVpXNWdUYWxkZXZVZWotSWxlMkdjV0ItQWdCdXRjMno2TlZJcFJnRktnbW9kVm5VM3RYaGQ2aTVLdXFGWEZMYUotRHZJeFJYTWtBVU00Mms3MFpGZ1ZFQmM0MVgxY3dOTWM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
