@@ -8899,5 +8899,15 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTFBuWTlHUEoyUlBKLWxLUEJUQVBRRElhdFJvZDQ0bjMwaWJtY0k3Qng1YUYxZjRBaHBBUXFsa1BJUmRwSTVhbGVTVFRnVFVnMWZwNlo5cndlSE11UDY5VFlTZzhvU0NDWmJZOXJ0OVhXN1k2QjhqeXFIbktHYVlVT2s?oc=5",
     "similar_to": "住みここち浦安市１０位 利便性・行政サービス・移住、高評価 防災トップ１０に印西、白井 ２０２６年全国ランク大東建託調べ",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-2237",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」（ちばとぴ＆千葉日報）",
+    "link": "https://news.google.com/articles/CBMid0FVX3lxTFBTcXpyYkJiY09tQmNrZHBaaWdUTVMzM25oMzVNckQwQ2NSaC1RSzJtWHJOVzZDWHVzQUhwX2x0ZW94TzFjeHd3OVl3Yzh6RVNsTjBxSk5Eby0zT3JibkJTdnFGREJUTlVzWFRrSjNHV25ueEpsZ0tr?oc=5",
+    "similar_to": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」（千葉日報オンライン）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
