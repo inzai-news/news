@@ -8909,5 +8909,15 @@
     "link": "https://news.google.com/articles/CBMid0FVX3lxTFBTcXpyYkJiY09tQmNrZHBaaWdUTVMzM25oMzVNckQwQ2NSaC1RSzJtWHJOVzZDWHVzQUhwX2x0ZW94TzFjeHd3OVl3Yzh6RVNsTjBxSk5Eby0zT3JibkJTdnFGREJUTlVzWFRrSjNHV25ueEpsZ0tr?oc=5",
     "similar_to": "酒気帯び運転の疑い 印西 「友人関係で悩みがあってむしゃくしゃ」（千葉日報オンライン）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261025-0037",
+    "date": "2026-10-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉県印西市の野崎副市長が育休取得…「男性の育児参加は当たり前という風土広げたい」",
+    "link": "https://news.google.com/articles/CBMijAFBVV95cUxNdVlXcnBvOHowc08xUUI0d1dOMFgzeVZBRVJDMTRZd2pHNXNpUHJ0Tm1XeUo4QUx4U3R6V3k2Q1Z2UFgzZDhFa3J3aWlzY3Q1MmhDNVRzN3pWLVdwNUNsbmdpSTRNZzJmRm8ybTFfWDlxZXZVSmVlMExZRlRwRVBtdzhOcTVuMTVpTmFLSg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

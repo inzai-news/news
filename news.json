@@ -299,15 +299,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】7月25日（土）・26日（日）「鎌ケ谷駅前夏まつり」が開催されます！ 屋台や盆踊りのほかステージや子ども神輿も楽しめます！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/24/kamagayaekimaenatsumatsuri2026/",
-    "pub_str": "2026年7月24日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
     "title": "子育て支援拠点施設のおたより公開",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000017417.html",
     "desc": "各子育て支援拠点のおたよりを公開しました。ご活用ください。",
@@ -316,68 +307,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【わくわく広場】高橋水産　国産うなぎ販売！",
-    "link": "https://www.makinohara-more.com/event-topics/%e3%80%90%e3%82%8f%e3%81%8f%e3%82%8f%e3%81%8f%e5%ba%83%e5%a0%b4%e3%80%91%e9%ab%98%e6%a9%8b%e6%b0%b4%e7%94%a3%e3%80%80%e5%9b%bd%e7%94%a3%e3%81%86%e3%81%aa%e3%81%8e%e8%b2%a9%e5%a3%b2%ef%bc%81/",
-    "pub_str": "2026年7月24日",
-    "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ペンギンミスト迷路",
-    "link": "https://chibanewtown.aeonmall.jp/event/0530e940-a67f-42af-98d1-8e1c2c1e4890",
-    "pub_str": "2026年7月24日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "最新の交通事故発生状況",
-    "link": "https://www.city.inzai.lg.jp/0000022180.html",
-    "desc": "",
-    "pub_iso": "2026-07-24T20:10:40+09:00",
-    "pub_str": "2026年7月24日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！",
-    "link": "https://news.google.com/articles/CBMickFVX3lxTFBJdVBvRHdjcE8wVExjZVdVdU1Ob0xaQ1Z3SlM3TEg5MWdDZGNKc1h5U1ZlWVdJalkxZTVLTEZUZ0dZZzJWdjloejFBNFUxUFk2dHZFYXp3c0ZIS2tSeXNNNmZxTXk1eFZEV09jeHhjaTlDUQ?oc=5",
-    "desc": "【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！  CREA WEB",
-    "pub_iso": "2026-07-24T16:00:00+09:00",
-    "pub_str": "2026年7月24日",
-    "publisher": "CREA WEB",
-    "source": "google-news-inzai-chiba",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【千葉県印西市】準備も運営も出演者自身で。みんなでつくる「印西まちなか音楽祭」に過去最多の3.2万人が来場",
-    "link": "https://news.google.com/articles/CBMiW0FVX3lxTE1JSExpbkJQanFFTUJnU29oazRucWg4MmItbVdpXzYwdjEySWRpNWg5M256TkZtdnZHWWhLRzZkOTBwUlVIM2hUWGJTdHIyN2JBeGN1TlRTTDRLQXM?oc=5",
-    "desc": "【千葉県印西市】準備も運営も出演者自身で。みんなでつくる「印西まちなか音楽祭」に過去最多の3.2万人が来場  朝日新聞",
-    "pub_iso": "2026-07-24T20:17:00+09:00",
-    "pub_str": "2026年7月24日",
-    "publisher": "朝日新聞",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
-    "title": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市",
-    "link": "https://news.google.com/articles/CBMigAFBVV95cUxQRXd4ZGR6c093MEp2R21jRUJlZ2Y0dTh6UkdRaDZ6UUlrbEt4MG9oYm5Md050cFBfb0paVnhkTDA4ZGQwdExQcFhWaGQtZ0V0NXpTZnI1MFJRbnhLVWNUMzdBaVRoWm8xVVRUU3pCMUJYdUl5Wm93RVdFaElJUGt0TNIBhgFBVV95cUxOXzFzcGU4YXZTQzgybVJQQVVobmdRQjNpOWp2RmVQRk9ieExZbTFHdXJ5aFgyVTFVbVBKN0YtYjhzVlZ5eFhDamxMTGxWRGJnUGxPNTNseWNQMks5WW5DMEgyc2NUYjdYRy1aQnYzbnVlUUhJZi1XQzhmM0lMcEcxNTVxVGNEUQ?oc=5",
-    "desc": "3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市  ｄメニューニュース",
-    "pub_iso": "2026-07-24T16:00:00+09:00",
-    "pub_str": "2026年7月24日",
-    "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-chiba",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -7547,6 +7476,16 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-10-24T22:37:21.896850+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【白井市】まちづくりチャリティーイベント「輪音2026」が10月25日（日）白井駅前センターで開催！ 音楽ライブだけでなくワークショップやキッチンカーも楽しめる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/24/waon2026shiroi/",
+    "pub_str": "2026年10月24日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-10-25T00:37:22.449833+09:00",
     "retention_type": "regular"
   }
 ]
