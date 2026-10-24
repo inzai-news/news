@@ -8869,5 +8869,25 @@
     "link": "https://news.google.com/articles/CBMic0FVX3lxTE5qd1Y4QVh2ODdqLVpXNWdUYWxkZXZVZWotSWxlMkdjV0ItQWdCdXRjMno2TlZJcFJnRktnbW9kVm5VM3RYaGQ2aTVLdXFGWEZMYUotRHZJeFJYTWtBVU00Mms3MFpGZ1ZFQmM0MVgxY3dOTWM?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1938",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態",
+    "link": "https://news.google.com/articles/CBMiigFBVV95cUxOSkxWeVdGTGNUT3psN3pFb096T1hBYkcwWEVyWGlscTVJdmJ5ZWJIOWtCaUJKLW13WFR1XzFRYnE4YlR2R05tdkVLdjA1N0liWlpUN182SFVDRkp6SEhzMWVmS0YxWVJaOFdtSjRoU2ZyaGRTbzBrNGUzSUlCUnRMWVZsdXJIVlJidnfSAYoBQVVfeXFMTkpMVnlXRkxjVE96bDd6RW9Pek9YQWJHMFhFclhpbHE1SXZieWViSDlrQmlCSi1td1hUdV8xUWJxOGJUdkdObXZFS3YwNTdJYlpaVDdfNkhVQ0ZKekhIczFlZktGMVlSWjhXbUo0aFNmcmhkU28wazRlM0lJQlJ0TFlWbHVySFZSYnZ3?oc=5",
+    "similar_to": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1938",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE10OUNSTGtFMmI3LXZHeXA4a25TQVhoTXRySVNZam9jMzYzaU0ta2JJTl9jWTlfWEYyVWVnVnFCSXVBUkg3c2pwbHlxd1VuV1Z3bnMzR051NERNb1ZEUjlLMW12RF9kWktBUDhTaG5tbHBzM3pB?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
