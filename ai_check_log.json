@@ -8729,5 +8729,85 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE5IdjJub3dxU1pIU0NWME9DREp2eFc4ZFJnbjF2c2hkdGhxTHpTZUg2NXRfcGh4SWYxYl9rV0hjMVB1STUzRXdGWk9wNUZiRE1M?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "駅前の商業施設内に「データセンター」建設計画　急展開に「出来レース」疑う市民も　千葉・印西",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE4wMW00eHlfXzIwR3N6d19JVUxIbmxEZjl2N3VMMVhCNVFoa2xVaXluU3pyV3ZMWGFCdnowRnVHb3JIcjBKekdkdjY5UW5CRDA3Qy1JSHNHaC12WlZtYm9hWExaUE5qTmRIYWhQc1ZRSUZoY1BfeEJ3ejVEQ3XSAXhBVV95cUxNNlQzY1dmcE14X3dvLUJBM0FkUkt6UkdzU3QtWTVqN0gta19NOGxSNWQxeFREWklWZEhUWUM3QjhDNmVFSzhzZVEyTF9HVU5nbV9VTzVUN0ViWEdmQXJSb2hZbF9VMGZFQ1JtY3h0anBHZjAyMzRnODY?oc=5",
+    "similar_to": "駅前の大型商業施設を「データセンター」に建て替え計画　急展開に「出来レース」疑う市民も　千葉・印西",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレ朝NEWS）",
+    "link": "https://news.google.com/articles/CBMikwFBVV95cUxPeUlBekx1Q1BkZ0FIZTc2bm1OdndSd202alpPb3lXWWR3ejIxNmxBNjBaLUVERmthWURKbmNjSFRfM19RSVVzVEwzdG5tVnNlV2tTVFFUN0ZDckxVSjQ5akotcFZBXzgzdEE1cW1VVGdjRDVObk0ybklFUTZ3QkR6clFFbldRSkVtbVBsd0l1LXNVOWc?oc=5",
+    "similar_to": "データセンター計画に揺れる千葉・印西市 駅周辺建設に住民反発 説明会に600人（テレビ朝日系（ANN））",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態",
+    "link": "https://news.google.com/articles/CBMijgFBVV95cUxNQ1BSUlRJMV9Hbmp0dkN3cU9mbklISkdNUXN1cWNiM1FYcTVkanNhM0lRX29sRFFneGx2UkVybmNOYkZtN1p4eDBkWXZ1MVJhYXVfeHQ2TGd3cWRQZ0o2elNpUFJBRE10Y1VQb0NtSXJST0RMZi13WGtPdHllMm1LU21oN3ZQZWlsVzQ4TFln0gGKAUFVX3lxTE5KTFZ5V0ZMY1RPemw3ekVvT3pPWEFiRzBYRXJYaWxxNUl2YnllYkg5a0JpQkotbXdYVHVfMVFicThiVHZHTm12RUt2MDU3SWJaWlQ3XzZIVUNGSnpISHMxZWZLRjFZUlo4V21KNGhTZnJoZFNvMGs0ZTNJSUJSdExZVmx1ckhWUmJ2dw?oc=5",
+    "similar_to": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "北総鉄道・京成電鉄「千葉ニュータウン中央」駅北口近く データセンター「（仮称）Ｉｎｚａｉ５新築工事」 2026年5月下旬の建設状況",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE95eU92Y3dVU1VBeGxhQlI2RGN3M0VfckVHTFJ4TFlLc3MwSkZhYzBBMk1DWEttYlNydlp4bk5HanhDSlBhVVFTLTNoTmtVM21feTVxQmZRNzYybUxILWwyUUU3R1dLeHdPQTlhTW52YlZvZFV6a3ZCSFdkUFR0Zw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "相模原市、次の「データセンター銀座」狙う 人気の印西市は電力10年待ち",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTFBkR0VQdFhqWHN0SEczTU42amhmRFMxaUY3Vkd2NWxmdC1ocWM0TzJtZ0Q2OXo3bFNscWJsS3JZWkp6NDdlSktYbmxKNUdkeVNyRzllU1I0M1kzRzNPeHBzNGl2VWFtUkE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1110",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動",
+    "link": "https://prtimes.jp/main/html/rd/p/000000034.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261024-1111",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【PR TIMES その他 教育・資格・人材】【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFBXYjBJbGdvZFJFMUFUN3B0TWIydzB0bzlGTVZpMXFWWmM3N0lHekpIV0dUalA5WDM5X3RJV1J5ZjlDMU84bHZRMm9mSEtFQW1UQzRSQld6S0piQm5IWnZNUFhjZWJJOFF5amFVUEVnWThKSnlFNW9ZZA?oc=5",
+    "similar_to": null,
+    "ai_reason": "8/19に既に採用済みの同一記事(中学生18人広島派遣)の再配信(茨城新聞クロスアイ経由)で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261024-1111",
+    "date": "2026-10-24",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市, 270-1335, 千葉県の天気予報と天候状況 - The Weather Channel | Weather.com",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE9NQUtwNng1NnBzcFRrM2hib2dYZW50N3JCLXVfOUlIaUFOM2thLXZIeWtQTkJHRzdhbUtKTk9SQ1QxMmNlcjlPcHp0UnNNT1JxaFlkTXB4LVZyd2xWNHNaRV9kNTA0dXhQTlBtRUF2OHRMUQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "特定日の記事ではなく天気予報ポータルサイトの汎用ページで、ニュース記事としての実体がないため除外"
   }
 ]

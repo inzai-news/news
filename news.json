@@ -109,17 +109,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "北総線沿線活性化トレイン第5弾出発式",
-    "link": "https://www.city.inzai.lg.jp/0000016872.html",
-    "desc": "",
-    "pub_iso": "2026-07-23T13:13:58+09:00",
-    "pub_str": "2026年7月23日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "コミュニティ・スクール（学校運営協議会制度）について",
     "link": "https://www.city.inzai.lg.jp/0000019913.html",
     "desc": "",
@@ -268,17 +257,6 @@
     "pub_iso": "2026-07-22T19:37:37+09:00"
   },
   {
-    "title": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止",
-    "link": "https://news.google.com/articles/CBMibEFVX3lxTE16R2tiWkxaSlYyWmtkRE4wV3JydGVPUFBqYVNZQzVMSmF4NlRzeUppZVE4ekxMdlFsdFJ0N2ZZRWh0dGltNmhXMUd5dzdidU9NaGkyWU9ZTUVSZEZiOXZvbzFneGtwVEV4TEFxZg?oc=5",
-    "desc": "データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止  日本経済新聞",
-    "pub_iso": "2026-07-23T16:00:00+09:00",
-    "pub_str": "2026年7月23日",
-    "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
-    "category": "開発・暮らし",
-    "retention_type": "regular"
-  },
-  {
     "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
     "desc": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も  朝日れすかPLUS",
@@ -299,33 +277,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "ヘルプマーク・ヘルプカードの配布について",
-    "link": "https://www.city.inzai.lg.jp/0000009686.html",
-    "desc": "",
-    "pub_iso": "2026-07-23T12:00:00+09:00",
-    "pub_str": "2026年7月23日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "市内小中学校の施設改修工事に伴う指定避難所等としての利用休止について",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000021938.html",
     "desc": "",
     "pub_iso": "2026-07-30T15:43:17+09:00",
     "pub_str": "2026年7月30日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "令和8年度第1回学校体育施設開放運営委員会開催結果（令和8年6月19日開催）",
-    "link": "https://www.city.inzai.lg.jp/0000014996.html",
-    "desc": "",
-    "pub_iso": "2026-07-23T04:00:00+09:00",
-    "pub_str": "2026年7月23日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -340,15 +296,6 @@
     "publisher": "city.shiroi.chiba.jp",
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】2026年の石尊阿夫利神社の例大祭は7月25日（土）・26日（日）開催！ 迫力ある梯子立てや、無形文化財「浦部の神楽」の奉納もあり",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/23/afurijinjareitaisai2026/",
-    "pub_str": "2026年7月23日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
     "retention_type": "regular"
   },
   {
@@ -3385,10 +3332,10 @@
     "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9MYm9zQWZrNElSNWQxNk5MUm4zaFdiMzFPYzlrWXNoRVMteVAyZ3hia3ZDVERBUGRuZXY3bVROLWFnU3FJV1lGVHpQUTdZbHBmRnc?oc=5",
     "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  電波新聞デジタル",
-    "pub_iso": "2026-09-02T16:00:00+09:00",
+    "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "電波新聞デジタル",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-05T18:36:01.416691+09:00",
     "retention_type": "regular"
@@ -5583,7 +5530,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -7483,6 +7430,69 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "いつものキッチンカーが、災害時の力に？",
+    "link": "https://chibanewtown.aeonmall.jp/event/08c702a8-88f0-4d85-a2e2-81b69c653488",
+    "pub_str": "2026年10月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "VR災害体験",
+    "link": "https://chibanewtown.aeonmall.jp/event/9a5557d0-2e08-460f-bf1f-1f75d5360f49",
+    "pub_str": "2026年10月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "わかりにくい保険のモヤモヤ質問コーナー",
+    "link": "https://chibanewtown.aeonmall.jp/event/ed082490-84f3-4a0d-9f05-95668fe99c83",
+    "pub_str": "2026年10月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ハザードマップ確認コーナー～あなたの命をまもる場所を確認しよう！～",
+    "link": "https://chibanewtown.aeonmall.jp/event/a620b01f-7555-48ef-a58e-54013e91bb92",
+    "pub_str": "2026年10月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "レザーキーホルダー＆コインケース作り体験（2026年11月23日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45745&store=chibant",
+    "pub_str": "2026年10月24日",
+    "event_end_date": "2026-11-23",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9LYlpBZDNDRVRpNmJzQzZTNmlCaGx2VjhTZzc3UUI3TkMwSjZieTU0WHhQQkx4dGdQUGRqTUxVTEhKMWs1WUF1d0N6QzhRN29KcTh4d3hTWG5PNk94aURqRjAwR1JJUQ?oc=5",
+    "desc": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ  日刊ゲンダイDIGITAL",
+    "pub_iso": "2026-10-24T06:00:00+09:00",
+    "pub_str": "2026年10月24日",
+    "publisher": "日刊ゲンダイDIGITAL",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
   }
 ]
