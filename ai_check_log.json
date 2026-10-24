@@ -8889,5 +8889,15 @@
     "link": "https://news.google.com/articles/CBMidEFVX3lxTE10OUNSTGtFMmI3LXZHeXA4a25TQVhoTXRySVNZam9jMzYzaU0ta2JJTl9jWTlfWEYyVWVnVnFCSXVBUkg3c2pwbHlxd1VuV1Z3bnMzR051NERNb1ZEUjlLMW12RF9kWktBUDhTaG5tbHBzM3pB?oc=5",
     "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261024-2010",
+    "date": "2026-10-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "住みここち浦安市10位 利便性・行政サービス・移住、高評価 防災トップ10に印西、白井 2026年全国ランク大東建託調べ",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBuWTlHUEoyUlBKLWxLUEJUQVBRRElhdFJvZDQ0bjMwaWJtY0k3Qng1YUYxZjRBaHBBUXFsa1BJUmRwSTVhbGVTVFRnVFVnMWZwNlo5cndlSE11UDY5VFlTZzhvU0NDWmJZOXJ0OVhXN1k2QjhqeXFIbktHYVlVT2s?oc=5",
+    "similar_to": "住みここち浦安市１０位 利便性・行政サービス・移住、高評価 防災トップ１０に印西、白井 ２０２６年全国ランク大東建託調べ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
