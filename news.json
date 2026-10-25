@@ -5706,10 +5706,10 @@
   {
     "title": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ",
     "link": "https://news.google.com/articles/CBMikwFBVV95cUxPTEYzNlJsVzk1TlNnSHhhVEYtM29zdldJZm5fLXJuNm5Fd2hFLWI1OVF3SDMybjgydi1RcDFXZTlpTDg4Qk1RbW03bV9KMkFDdVdVN0tYWEl5SlVTYy1HclBybUhJTnVUN1h4RG9ReFhabkZjN195aXBCNG11Tk1hNzdLVkJnT2FxSXhBU0ZJT1J3aUE?oc=5",
-    "desc": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ  データセンターカフェ",
+    "desc": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ  Data Center Cafe",
     "pub_iso": "2026-10-08T16:00:00+09:00",
     "pub_str": "2026年10月8日",
-    "publisher": "データセンターカフェ",
+    "publisher": "Data Center Cafe",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-08T18:37:28.930828+09:00",
@@ -6813,7 +6813,7 @@
     "pub_iso": "2026-10-18T18:49:00+09:00",
     "pub_str": "2026年10月18日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-10-18T20:37:32.600322+09:00",
     "retention_type": "regular"
@@ -7486,6 +7486,30 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-10-25T00:37:22.449833+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印旛公民館主催事業「おとなの工芸教室」参加者募集！",
+    "link": "https://www.city.inzai.lg.jp/0000022731.html",
+    "desc": "",
+    "pub_iso": "2026-10-25T09:00:00+09:00",
+    "pub_str": "2026年10月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-25T11:25:22.396992+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西牧の原・千葉ニュータウン中央からジョイフル本田への無料バス全時刻表｜帰りの最終は19:03",
+    "link": "https://news.google.com/articles/CBMiY0FVX3lxTFBGT09haWxqbG9ZWFhYQ3I0azFMem9yM0tDamVYeFlXTUNtTXR1Rkx2Vi02Nm9GcGhfUURCRzB6OW1GTlJlSnExMGxfSmRvOXlwWW55QUh1bGhiSzhVeW55UThyZw?oc=5",
+    "desc": "印西牧の原・千葉ニュータウン中央からジョイフル本田への無料バス全時刻表｜帰りの最終は19:03  ジモはる",
+    "pub_iso": "2026-10-24T21:42:00+09:00",
+    "pub_str": "2026年10月24日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-25T11:25:22.396992+09:00",
     "retention_type": "regular"
   }
 ]
