@@ -5459,7 +5459,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6432,7 +6432,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6686,7 +6686,7 @@
     "pub_iso": "2026-10-16T16:00:00+09:00",
     "pub_str": "2026年10月16日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-16T14:23:35.171037+09:00",
     "retention_type": "regular"
@@ -6867,7 +6867,7 @@
     "pub_iso": "2026-10-19T17:24:52+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -6954,11 +6954,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "印西の原風景を守りたい 10/24に草深の森で音楽会",
+    "title": "印西の原風景を守りたい 10/24に音楽会（注：雨予報で会場変更）",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE96bmwwVHp5UDlsZF93blppMEdBeTJHeXJwQ05SbFJKY2tmLVdKMjg5MWsyaFBtVmRrTTA1c1dTcnd4ZU4yTUdxY0pLZXprUnB2a1RCR2t3?oc=5",
-    "desc": "印西の原風景を守りたい 10/24に草深の森で音楽会  朝日れすかPLUS",
-    "pub_iso": "2026-10-20T05:59:00+09:00",
-    "pub_str": "2026年10月20日",
+    "desc": "印西の原風景を守りたい 10/24に音楽会（注：雨予報で会場変更）  朝日れすかPLUS",
+    "pub_iso": "2026-10-23T21:33:24+09:00",
+    "pub_str": "2026年10月23日",
     "publisher": "朝日れすかPLUS",
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
@@ -7100,7 +7100,7 @@
     "pub_iso": "2026-10-23T14:51:12+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "開店・閉店",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7112,7 +7112,7 @@
     "pub_iso": "2026-10-21T14:41:37+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7194,7 +7194,7 @@
     "pub_iso": "2026-10-21T19:55:00+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
     "collected_at": "2026-10-22T12:37:23.642210+09:00",
     "retention_type": "regular"
@@ -7356,7 +7356,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
