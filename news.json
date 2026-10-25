@@ -5459,7 +5459,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -6305,8 +6305,8 @@
     "title": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-10-21T16:00:00+09:00",
-    "pub_str": "2026年10月21日",
+    "pub_iso": "2026-10-13T16:00:00+09:00",
+    "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
@@ -6432,7 +6432,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6686,7 +6686,7 @@
     "pub_iso": "2026-10-16T16:00:00+09:00",
     "pub_str": "2026年10月16日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-16T14:23:35.171037+09:00",
     "retention_type": "regular"
@@ -6867,7 +6867,7 @@
     "pub_iso": "2026-10-19T17:24:52+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7100,7 +7100,7 @@
     "pub_iso": "2026-10-23T14:51:12+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "開店・閉店",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7112,7 +7112,7 @@
     "pub_iso": "2026-10-21T14:41:37+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7194,7 +7194,7 @@
     "pub_iso": "2026-10-21T19:55:00+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-22T12:37:23.642210+09:00",
     "retention_type": "regular"
@@ -7206,7 +7206,7 @@
     "pub_iso": "2026-10-21T18:25:00+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-10-22T12:37:23.642210+09:00",
     "retention_type": "regular"
@@ -7356,7 +7356,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7522,6 +7522,18 @@
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-25T14:28:47.194944+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "木下駅・小林駅の終電(JR成田線)｜上りは23:20・23:16発の我孫子行きが最後",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE14bFNza19nSjNBU0t3MjltV0tLRzR2aE5uNW1YeFVsQzZtU3VKcjFTbFRnMUluYlFTbmh0RDBDSzhoLVlSamU1UlgwY280bG5SWm9VSUhmekxMX3g3RDdzQ09R?oc=5",
+    "desc": "木下駅・小林駅の終電(JR成田線)｜上りは23:20・23:16発の我孫子行きが最後  ジモはる",
+    "pub_iso": "2026-10-25T19:04:10+09:00",
+    "pub_str": "2026年10月25日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-25T20:27:02.350712+09:00",
     "retention_type": "regular"
   }
 ]
