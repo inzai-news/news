@@ -8919,5 +8919,15 @@
     "link": "https://news.google.com/articles/CBMijAFBVV95cUxNdVlXcnBvOHowc08xUUI0d1dOMFgzeVZBRVJDMTRZd2pHNXNpUHJ0Tm1XeUo4QUx4U3R6V3k2Q1Z2UFgzZDhFa3J3aWlzY3Q1MmhDNVRzN3pWLVdwNUNsbmdpSTRNZzJmRm8ybTFfWDlxZXZVSmVlMExZRlRwRVBtdzhOcTVuMTVpTmFLSg?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261025-1232",
+    "date": "2026-10-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県 印西市】毎回満員の「いんざい創業塾」第13期が始動！人口増の街・印西市で“自分の夢を事業にする”4日間",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1xZVYtVk5kX282TmdnWjlsN1NYZUFKNThZVGJuSWczWno2RVd2S21Vd2NZa1ZOdjRueGhSTGx2SWV0WXVfTzhPY2wyMlFiVDY5QjlBbw?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に10/14・10/21・10/22に別配信元(いんざいネット/PR TIMES/イザ！)で重複除外済みの同一PR TIMES記事(いんざい創業塾第13期)の再配信(ニコニコニュース経由)で新規情報なし、重複のため除外"
   }
 ]
