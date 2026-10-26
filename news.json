@@ -7550,5 +7550,39 @@
     "category": "市政・行政",
     "collected_at": "2026-10-26T09:37:24.208595+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "「牧の原モアダンスコンテスト2026」開催レポート＆結果発表",
+    "link": "https://www.makinohara-more.com/event-topics/dancecontest2026/",
+    "pub_str": "2026年10月26日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-10-26T12:35:35.269658+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年印西市戦没者追悼式",
+    "link": "https://www.city.inzai.lg.jp/0000022774.html",
+    "desc": "",
+    "pub_iso": "2026-10-26T11:37:33+09:00",
+    "pub_str": "2026年10月26日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-26T12:35:35.269658+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "[11月21日 北総線のダイヤが改正されます]",
+    "link": "https://www.city.inzai.lg.jp/0000016994.html",
+    "desc": "",
+    "pub_iso": "2026-10-26T11:12:55+09:00",
+    "pub_str": "2026年10月26日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-26T12:35:35.269658+09:00",
+    "retention_type": "regular"
   }
 ]

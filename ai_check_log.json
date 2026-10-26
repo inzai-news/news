@@ -8929,5 +8929,25 @@
     "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1xZVYtVk5kX282TmdnWjlsN1NYZUFKNThZVGJuSWczWno2RVd2S21Vd2NZa1ZOdjRueGhSTGx2SWV0WXVfTzhPY2wyMlFiVDY5QjlBbw?oc=5",
     "similar_to": null,
     "ai_reason": "既に10/14・10/21・10/22に別配信元(いんざいネット/PR TIMES/イザ！)で重複除外済みの同一PR TIMES記事(いんざい創業塾第13期)の再配信(ニコニコニュース経由)で新規情報なし、重複のため除外"
+  },
+  {
+    "run_ts": "20261026-1235",
+    "date": "2026-10-26",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【印西市 フレンドリープラザ祭り☔️】開催！",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFB3UDJKc1NwZk9McGdWSS1jeUVYLXZ1dFhpUThYbEpuejNoNzNDZzdiYU1qZmppMmtfNWJuY0ZJOV80UG5MLWdDWlMyd0IxLVZxaFo3SWYwa2RKMkxyX19J?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261026-1235",
+    "date": "2026-10-26",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE9QREhvU2FrYWZRd291UGlHc0VhQkJYSHFkbVdhZVpHSkRqSEg5QjRMLW02dnFTQmE5MlNCVHRjODgzX3JES21rWXA2NmVNdVZHcVRYYlZB?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
