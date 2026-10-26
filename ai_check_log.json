@@ -8959,5 +8959,15 @@
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9iVnU5Wm9leXA0ZUVDdC1zVy1fUTJXZkVnMjlyd1JxTmRudF9vRVI4dlRzMmZxRk94OW5kRUNRc09SXzhqLWFNdHg5Ujg?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261027-0740",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "MINAKO先生「マクラメツリーキーホルダーづくり」（2026年11月26日(木)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45743&store=chibant",
+    "similar_to": "MINAKO先生「マクラメツリーキーホルダーづくり」（2026年11月19日(木)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
