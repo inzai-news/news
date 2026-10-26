@@ -8949,5 +8949,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE9QREhvU2FrYWZRd291UGlHc0VhQkJYSHFkbVdhZVpHSkRqSEg5QjRMLW02dnFTQmE5MlNCVHRjODgzX3JES21rWXA2NmVNdVZHcVRYYlZB?oc=5",
     "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261026-1831",
+    "date": "2026-10-26",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "北総鉄道初の「夜間撮影ツアー」 印旛車両基地で夜の北総車撮影を楽しもう（千葉県印西市）",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9iVnU5Wm9leXA0ZUVDdC1zVy1fUTJXZkVnMjlyd1JxTmRudF9vRVI4dlRzMmZxRk94OW5kRUNRc09SXzhqLWFNdHg5Ujg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
