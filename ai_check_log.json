@@ -8969,5 +8969,55 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=45743&store=chibant",
     "similar_to": "MINAKO先生「マクラメツリーキーホルダーづくり」（2026年11月19日(木)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-1827",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "11月のイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/2ffbb817-fa61-4d17-8b25-800b2b844a1c",
+    "similar_to": "10月のイベント",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-1827",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態",
+    "link": "https://news.google.com/articles/CBMihAFBVV95cUxOUnVRUmlaTDcxZ2txUnllaG1iclJ3U29Bd0I2TmloeVZNdkczMG8zak43enNoMnMyNXhfZmdBVFMtcVVnRjlSRGYzUmV6UUE2YnRvRXZxNEthVXhQdWJYYzZBWWJGUU9uVTNaNDZsV1ZxV3VBc1RubmxjRkRHemUxRGo1bjjSAYoBQVVfeXFMTkpMVnlXRkxjVE96bDd6RW9Pek9YQWJHMFhFclhpbHE1SXZieWViSDlrQmlCSi1td1hUdV8xUWJxOGJUdkdObXZFS3YwNTdJYlpaVDdfNkhVQ0ZKekhIczFlZktGMVlSWjhXbUo0aFNmcmhkU28wazRlM0lJQlJ0TFlWbHVySFZSYnZ3?oc=5",
+    "similar_to": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-1827",
+    "date": "2026-10-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の傘指数",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBncW1PSVBxVXBrN09yUEVuWHZzVWs3ME1ER1FrUUNULUFNZmlCbDYtOWhrUFYxRExDLUl2VjdIdFRQZ25FcHFabE1TTjlhXzdiblN6RnRsT3dGeUlRTEl3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261027-1827",
+    "date": "2026-10-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の体感温度指数",
+    "link": "https://news.google.com/articles/CBMiYEFVX3lxTE8zRHVySk8yTjNwVzA5bTJzYXN6bWZqbjJUQ2JSbjZ5UHE2THlpY0tQdUZWd2hFaTF2dGhGLTEydHVnRHNidGUzQ0w3ZzdqWHlyNmlKWkdockI3VTlUS1pDZg?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261027-1827",
+    "date": "2026-10-27",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "白井市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、水害時の車両の退避場所と台風25号の支援",
+    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9teWtWLS1RZGlSbXhEWkpPTGhkdEsyUWU1cjlRX3VDd2FjRXEtOUFMdkZFRVBnNVlEcGRvYjVLUU1xSjU3LWZPN1JUZlo?oc=5",
+    "similar_to": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き",
+    "ai_reason": "similar_toは印西市版の同種まとめ記事だが、本記事は白井市版で対象自治体が異なるため別記事として採用(10/21の印西市版と同様、複数トピックのまとめのためタイトル整形対象外)"
   }
 ]
