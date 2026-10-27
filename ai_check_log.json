@@ -9019,5 +9019,35 @@
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9teWtWLS1RZGlSbXhEWkpPTGhkdEsyUWU1cjlRX3VDd2FjRXEtOUFMdkZFRVBnNVlEcGRvYjVLUU1xSjU3LWZPN1JUZlo?oc=5",
     "similar_to": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き",
     "ai_reason": "similar_toは印西市版の同種まとめ記事だが、本記事は白井市版で対象自治体が異なるため別記事として採用(10/21の印西市版と同様、複数トピックのまとめのためタイトル整形対象外)"
+  },
+  {
+    "run_ts": "20261027-2213",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "JERAが千葉に2.3兆円 400MW、AirTrunkは印西に10億ドル：AIデータセンター 海外/日本の重要ニュース：10月8日までの2週間",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTFA5VVNSd3dHOGVpU1k1bDZfSWRFX1FvWllhMWR6Q0JVWWRIVnV0aXVvcTJHREtlaUtqSnRtMjBaWFRkNTB5M1BUaWFIeWZfcUdzZkpxNWFHejA2Zmg5MHg1YlFVNWs?oc=5",
+    "similar_to": "JERAが千葉に2.3兆円 400MW、AirTrunkは印西に10億ドル：AIデータセンター 海外/日本の重要ニュース：10月8日までの2週間",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-2213",
+    "date": "2026-10-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "｢住みよさランキング2014｣トップ50 印西(千葉)3連覇､2位坂井(福井)､3位野々市(石川) 2ページ目 | ライフ",
+    "link": "https://news.google.com/articles/CBMiWkFVX3lxTFBhRDcxN3pXWTRZRHlaMmRYMVBlT2Uyc2NlR0ZjNWJGaWNRTDZjbjhNcDBRZDlnanRfeHQ4RHZyVDlJVEx6M1g3S2FNMkF5Zjd2clU0SUdXcVhXdw?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261027-2213",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://prtimes.jp/main/html/rd/p/000000046.000180020.html",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
