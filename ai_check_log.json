@@ -9049,5 +9049,25 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000046.000180020.html",
     "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-2250",
+    "date": "2026-10-27",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE9TcU5DMVFCTDlNNUlzNkJMSGgwcngtY3VTdEpYU096bk1rbHV0d0dxRWNYU2FrQ1E0UmJIRV9US09PWGxrNTZtVk14MzZMV0NDRWhadXZtT2s?oc=5",
+    "similar_to": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261027-2250",
+    "date": "2026-10-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "「光堂の竜」が絵本に 印西の民話、作画は有賀忍さん 11月に講演会も",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

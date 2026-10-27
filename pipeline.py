@@ -1500,7 +1500,11 @@ def cmd_collect(args):
             similar_item = store_match_item
 
         needs_dedup_review = (DUP_REVIEW_THRESHOLD <= similarity < DUP_AUTO_EXCLUDE_THRESHOLD) or store_match_item is not None
-        needs_category = category is None
+        # 開店・閉店はキーワード一致だけで判定すると「白井市のいま｜...開店閉店のまとめ」のような
+        # 複数トピックの定期まとめ記事まで拾ってしまい、実際には単一店舗の開店・閉店情報ではない
+        # ケースがある。件数自体は多くないため、カテゴリが確定済みでも必ずAI/人手確認に回す
+        # (2026-10-27にユーザー指摘を受けて追加)
+        needs_category = category is None or category == "開店・閉店"
 
         if not needs_dedup_review and not needs_category:
             by_link[link] = item
