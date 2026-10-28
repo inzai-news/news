@@ -9069,5 +9069,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE1ZeGRYLWY3OWtOQjVXRFpwQi1wTWNhcWtrOGNLc0l1VnczQ0VpajdvQ01zU2tOZndweE5nNjQ0ZFdGcW80YzNhU3VqLTZKVFZzeWx6Ym53?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261028-2223",
+    "date": "2026-10-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "北総線・京成成田空港線（ #成田スカイアクセス線 ）が複々線になる前の印西牧の原駅 #京成電鉄 #北総鉄道 #成田空港線 #北総線 #印西牧の原駅 #鉄道 #電車 #列車 #千葉県 #印西市",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1IRllrS3lrLVhKYzFtMEctTnpaSjExQm1PTnRweDJ3QWZ3alVNY3J0M0hsN1A1RGJvenFXYklYLWNwbExXdWlFVy1MWXU1azZnWDVYRjZIUmhlMU9v?oc=5",
+    "similar_to": null,
+    "ai_reason": "個人投稿のYouTube動画（ハッシュタグのみの説明文）で、具体的な出来事を報じるニュース記事ではないため除外"
   }
 ]
