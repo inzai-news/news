@@ -7405,7 +7405,7 @@
     "pub_iso": "2026-10-26T16:00:00+09:00",
     "pub_str": "2026年10月26日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-25T11:25:22.396992+09:00",
     "retention_type": "regular"
@@ -7626,7 +7626,7 @@
     "pub_iso": "2026-10-27T19:20:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-27T20:27:04.550161+09:00",
     "retention_type": "regular"
@@ -7696,6 +7696,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-28T16:37:21.656186+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市保育園利用申し込みのご案内の改訂について",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022794.html",
+    "desc": "",
+    "pub_iso": "2026-10-26T00:00:01+09:00",
+    "pub_str": "2026年10月26日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-28T18:37:23.350100+09:00",
     "retention_type": "regular"
   }
 ]
