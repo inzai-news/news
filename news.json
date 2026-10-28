@@ -457,8 +457,8 @@
     "title": "市制施行30周年記念　第31回印西市民文化祭　参加者募集",
     "link": "https://www.city.inzai.lg.jp/0000022105.html",
     "desc": "",
-    "pub_iso": "2026-09-14T17:09:21+09:00",
-    "pub_str": "2026年9月14日",
+    "pub_iso": "2026-10-28T14:17:46+09:00",
+    "pub_str": "2026年10月28日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4103,7 +4103,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -5345,7 +5345,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -5357,7 +5357,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -5644,7 +5644,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -6330,7 +6330,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6584,7 +6584,7 @@
     "pub_iso": "2026-10-16T16:00:00+09:00",
     "pub_str": "2026年10月16日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-16T14:23:35.171037+09:00",
     "retention_type": "regular"
@@ -6765,7 +6765,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7010,7 +7010,7 @@
     "pub_iso": "2026-10-21T14:41:37+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7254,7 +7254,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7638,7 +7638,7 @@
     "pub_iso": "2026-10-27T20:50:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-10-27T22:13:53.234539+09:00",
     "retention_type": "regular"
