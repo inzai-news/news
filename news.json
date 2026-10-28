@@ -7674,5 +7674,28 @@
     "category": "市政・行政",
     "collected_at": "2026-10-28T12:37:23.353278+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "クリスマスハウス アレンジ（2026年11月21日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46057&store=chibant",
+    "pub_str": "2026年10月28日",
+    "event_end_date": "2026-11-21",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-28T16:37:21.656186+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "民泊について（住宅宿泊事業法）",
+    "link": "https://www.city.inzai.lg.jp/0000007596.html",
+    "desc": "",
+    "pub_iso": "2026-10-28T15:51:44+09:00",
+    "pub_str": "2026年10月28日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-28T16:37:21.656186+09:00",
+    "retention_type": "regular"
   }
 ]
