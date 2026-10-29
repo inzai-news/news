@@ -9079,5 +9079,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTE1IRllrS3lrLVhKYzFtMEctTnpaSjExQm1PTnRweDJ3QWZ3alVNY3J0M0hsN1A1RGJvenFXYklYLWNwbExXdWlFVy1MWXU1azZnWDVYRjZIUmhlMU9v?oc=5",
     "similar_to": null,
     "ai_reason": "個人投稿のYouTube動画（ハッシュタグのみの説明文）で、具体的な出来事を報じるニュース記事ではないため除外"
+  },
+  {
+    "run_ts": "20261029-1302",
+    "date": "2026-10-29",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "2026年10月29日（木）6:00〜7:30印西牧の原駅今朝は今季一番の冷え込みとのことで、...",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9NUVV0NUJXQ3R1SUN2SmV4N0tObWMyTU9sVndkUlVUd2J5aXRVU1NvQWt1NGhRZHBqUlgzU2FtMHlPMHA0MjVZNlEyUzRQcGJlOE83SXE3OEVldVJvX1g4?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
   }
 ]

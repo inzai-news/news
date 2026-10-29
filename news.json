@@ -299,26 +299,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【7/12（日）】プログラミング体験会を開催しました！",
-    "link": "https://www.makinohara-more.com/event-topics/%e3%80%907-12%ef%bc%88%e6%97%a5%ef%bc%89%e3%80%91%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e4%bd%93%e9%a8%93%e4%bc%9a%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97/",
-    "pub_str": "2026年7月28日",
-    "publisher": "牧の原モア",
-    "source": "makinohara-more",
-    "category": "牧の原モア",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印旛公民館主催事業「竹を使った昔遊び工作教室」参加者募集！",
-    "link": "https://www.city.inzai.lg.jp/0000022150.html",
-    "desc": "",
-    "pub_iso": "2026-07-28T09:00:00+09:00",
-    "pub_str": "2026年7月28日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "【白井市】8月1日（土）「清水口夏まつり納涼大会」が七次第一公園で開催！ 盆踊りのほか太鼓やなしトレ体操あり、出店も楽しめます！",
     "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/29/shimizuguchinatsumatsuri2026/",
     "pub_str": "2026年7月29日",
@@ -2429,8 +2409,8 @@
     "title": "第6次実施計画",
     "link": "https://www.city.inzai.lg.jp/0000022392.html",
     "desc": "",
-    "pub_iso": "2026-09-11T13:17:54+09:00",
-    "pub_str": "2026年9月11日",
+    "pub_iso": "2026-10-29T10:02:10+09:00",
+    "pub_str": "2026年10月29日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4103,7 +4083,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -4420,28 +4400,6 @@
     "publisher": "号外NET",
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
-    "collected_at": "2026-09-25T01:22:18.650925+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "エアブラシ実演販売（2026年10月25日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=29913&store=chibant",
-    "pub_str": "2026年9月25日",
-    "event_end_date": "2026-10-25",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-09-25T01:22:18.650925+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "はじめての家系図講座（2026年10月25日(日)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=34309&store=chibant",
-    "pub_str": "2026年9月25日",
-    "event_end_date": "2026-10-25",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-09-25T01:22:18.650925+09:00",
     "retention_type": "regular"
   },
@@ -5345,7 +5303,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -5644,7 +5602,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -6330,7 +6288,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6765,7 +6723,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7010,7 +6968,7 @@
     "pub_iso": "2026-10-21T14:41:37+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7254,7 +7212,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7708,6 +7666,89 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-28T18:37:23.350100+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ハンドメイドポップアップcharm",
+    "link": "https://chibanewtown.aeonmall.jp/event/d13641e0-61cb-49a6-9104-9481e23c3939",
+    "pub_str": "2026年10月29日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "お絵描きパラダイス",
+    "link": "https://chibanewtown.aeonmall.jp/event/d7f9c4b2-fe31-443a-afc1-0965a43d0ed4",
+    "pub_str": "2026年10月29日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "遊べるフォトスポット&バルーンスノードームを作ろう！",
+    "link": "https://chibanewtown.aeonmall.jp/event/2916df7d-4e14-49b0-8c5b-4577a354558e",
+    "pub_str": "2026年10月29日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "おかし帳をつくろう",
+    "link": "https://chibanewtown.aeonmall.jp/event/be9d2c3c-aa47-4c81-8574-8e3c0707248c",
+    "pub_str": "2026年10月29日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "なりきりサンタのおしごと体験",
+    "link": "https://chibanewtown.aeonmall.jp/event/f3f3bcd2-e483-48a5-934b-8a36fda7399a",
+    "pub_str": "2026年10月29日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「戸神フェスタ2026ハロウィーン」10月31日（土）開催！ 仮装大会あり、おいしいグルメもやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/29/tokamifesta2026halloween/",
+    "pub_str": "2026年10月29日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "クロスステッチを楽しもう！（2026年11月28日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45851&store=chibant",
+    "pub_str": "2026年10月29日",
+    "event_end_date": "2026-11-28",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "株式会社 佐久間、千葉豪雨の避難所で使用された毛布250枚を受け入れ 印西市からの要請を受け、避難所で使用された毛布の養生用シートとしての再利用に協力",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE1jd1AxaEpEWk9MdjBWeFlKS1ZtNTFCQXJNcUtSeGduVTRsVHBWT2RrUlZGZC1QelpPZ25rc0NzaFY2SFN2VVpXT2Z3STRTdVZtT29kYlN1Wkt3N3BJejNF?oc=5",
+    "desc": "株式会社 佐久間、千葉豪雨の避難所で使用された毛布250枚を受け入れ 印西市からの要請を受け、避難所で使用された毛布の養生用シートとしての再利用に協力  千葉テレビ放送株式会社",
+    "pub_iso": "2026-10-29T09:42:46+09:00",
+    "pub_str": "2026年10月29日",
+    "publisher": "千葉テレビ放送株式会社",
+    "source": "google-news-inzai-shi",
+    "category": "市政・行政",
+    "collected_at": "2026-10-29T13:02:55.548403+09:00",
     "retention_type": "regular"
   }
 ]
