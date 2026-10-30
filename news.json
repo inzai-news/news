@@ -299,26 +299,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【白井市】8月1日（土）「清水口夏まつり納涼大会」が七次第一公園で開催！ 盆踊りのほか太鼓やなしトレ体操あり、出店も楽しめます！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/29/shimizuguchinatsumatsuri2026/",
-    "pub_str": "2026年7月29日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "高齢者虐待相談",
-    "link": "https://www.city.inzai.lg.jp/0000007971.html",
-    "desc": "",
-    "pub_iso": "2026-07-29T11:31:40+09:00",
-    "pub_str": "2026年7月29日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和8年度会計年度任用職員の募集について（市立保育園）",
     "link": "https://www.city.inzai.lg.jp/0000020922.html",
     "desc": "",
@@ -1133,18 +1113,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-10T17:21:31.023965+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）",
-    "link": "https://news.google.com/articles/CBMie0FVX3lxTFBTbFpXQzFoTWp2TlM4emRxRkVJMGN1UVA4eG1vS0VERnlyQVJ2M1FVaE5vNml0azI1YS1JUkRCdklvczNYdHdsbVRsOFhtMnRRYks0bkRUQ2toZ21Jc29QQVZKZnVibUJxQmRFemRFemtjOVZhaV9EZGxIYw?oc=5",
-    "desc": "Google初、日本にデータセンター開設 千葉県印西市に（画像）（2/2枚目）  ITmedia",
-    "pub_iso": "2026-07-29T06:28:11+09:00",
-    "pub_str": "2026年7月29日",
-    "publisher": "ITmedia",
-    "source": "google-news-inzai-shi",
-    "category": "開発・暮らし",
-    "collected_at": "2026-08-10T20:16:50.062676+09:00",
     "retention_type": "regular"
   },
   {
@@ -4125,11 +4093,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "道路冠水により、市道師戸・江川線の一部区間を通行止めにしています。（令和8年9月21日更新）",
+    "title": "市道師戸・江川線の一部区間の通行止め解除について（令和8年10月29日更新）",
     "link": "https://www.city.inzai.lg.jp/0000022576.html",
     "desc": "",
-    "pub_iso": "2026-09-21T18:42:54+09:00",
-    "pub_str": "2026年9月21日",
+    "pub_iso": "2026-10-29T13:25:45+09:00",
+    "pub_str": "2026年10月29日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5255,8 +5223,8 @@
     "title": "成田・印西・白井の七五三｜成田山新勝寺は予約不要5,000円から、埴生神社は去年電話予約で6,000円・駐車場の台数はどちらも公式になし",
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE5oV0g5U0hIMktOMldOeGIzYzJSTUI2MENYRW16X1cwclZiNHZFT1hObjhQVk9wVmR5WFVySXFVdHI5cjR3OUxBbHVoZUpnbEh0MDl5NnFQTll4dzVMcFZiZU9ORnVhTTFEbUE?oc=5",
     "desc": "成田・印西・白井の七五三｜成田山新勝寺は予約不要5,000円から、埴生神社は去年電話予約で6,000円・駐車場の台数はどちらも公式になし  ジモはる",
-    "pub_iso": "2026-10-20T16:00:00+09:00",
-    "pub_str": "2026年10月20日",
+    "pub_iso": "2026-10-05T16:00:00+09:00",
+    "pub_str": "2026年10月5日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "話題・その他",
@@ -6164,7 +6132,7 @@
     "pub_iso": "2026-10-13T16:00:00+09:00",
     "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-oshirase",
     "category": "イベント・文化",
     "collected_at": "2026-10-13T12:34:32.435000+09:00",
     "retention_type": "regular"
@@ -6953,7 +6921,7 @@
     "title": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き",
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1oTXVmZTVMYWRCZFFWVjVCbnNfcnFsa0pnUGFpMC01T3lHVUVGUlIydGctRFRuZUtINHpmdkVOemNpbEJIQjlyb2czOA?oc=5",
     "desc": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き  ジモはる",
-    "pub_iso": "2026-10-21T08:38:00+09:00",
+    "pub_iso": "2026-10-21T16:00:00+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
@@ -7360,10 +7328,10 @@
     "title": "印西牧の原・千葉ニュータウン中央からジョイフル本田への無料バス全時刻表｜帰りの最終は19:03",
     "link": "https://news.google.com/articles/CBMiY0FVX3lxTFBGT09haWxqbG9ZWFhYQ3I0azFMem9yM0tDamVYeFlXTUNtTXR1Rkx2Vi02Nm9GcGhfUURCRzB6OW1GTlJlSnExMGxfSmRvOXlwWW55QUh1bGhiSzhVeW55UThyZw?oc=5",
     "desc": "印西牧の原・千葉ニュータウン中央からジョイフル本田への無料バス全時刻表｜帰りの最終は19:03  ジモはる",
-    "pub_iso": "2026-10-26T16:00:00+09:00",
-    "pub_str": "2026年10月26日",
+    "pub_iso": "2026-10-30T07:09:08+09:00",
+    "pub_str": "2026年10月30日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-25T11:25:22.396992+09:00",
     "retention_type": "regular"
@@ -7749,6 +7717,62 @@
     "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-29T13:02:55.548403+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】「きおろし★Halloween!!2026」が木下駅前にぎわい広場で10月31日（土）開催！ 先着100名のお子さまにお菓子のプレゼントがあるみたい！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/30/kioroshihalloween2026/",
+    "pub_str": "2026年10月30日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開発・暮らし",
+    "collected_at": "2026-10-30T09:53:11.081344+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "澤田しおり先生による大人の為のレジン時間　トレーとアクセサリー作り（2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45748&store=chibant",
+    "pub_str": "2026年10月30日",
+    "event_end_date": "2026-11-29",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-30T09:53:11.081344+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度第3回印西市スポーツ推進審議会(11月12日開催）",
+    "link": "https://www.city.inzai.lg.jp/0000022790.html",
+    "desc": "",
+    "pub_iso": "2026-10-30T08:53:32+09:00",
+    "pub_str": "2026年10月30日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-30T09:53:11.081344+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "『いんざい障がい者就職フェア』を開催します",
+    "link": "https://www.city.inzai.lg.jp/0000022684.html",
+    "desc": "いんざい障がい者就職フェアのご案内ページです。",
+    "pub_iso": "2026-10-29T15:53:02+09:00",
+    "pub_str": "2026年10月29日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-30T09:53:11.081344+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "はじめてのミニ四駆作り！（2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45750&store=chibant",
+    "pub_str": "2026年10月30日",
+    "event_end_date": "2026-11-29",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-10-30T09:53:11.081344+09:00",
     "retention_type": "regular"
   }
 ]

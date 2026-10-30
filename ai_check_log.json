@@ -9089,5 +9089,35 @@
     "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9NUVV0NUJXQ3R1SUN2SmV4N0tObWMyTU9sVndkUlVUd2J5aXRVU1NvQWt1NGhRZHBqUlgzU2FtMHlPMHA0MjVZNlEyUzRQcGJlOE83SXE3OEVldVJvX1g4?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261030-0953",
+    "date": "2026-10-30",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【7/12（日）】プログラミング体験会を開催しました！",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%80%907-12%ef%bc%88%e6%97%a5%ef%bc%89%e3%80%91%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e4%bd%93%e9%a8%93%e4%bc%9a%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97/",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261030-0953",
+    "date": "2026-10-30",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "はじめてのミニ四駆作り！（2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=45750&store=chibant",
+    "similar_to": "はじめてのミニ四駆作り！（2026年10月31日(土)～2026年11月01日(日)）",
+    "ai_reason": "タイトルは似ているが開催日(11/29)が異なる別回のイベントのため採用"
+  },
+  {
+    "run_ts": "20261030-0953",
+    "date": "2026-10-30",
+    "ai_decision": "exclude",
+    "similarity": 0.77,
+    "title": "SINON 奇跡の歌声 ～カーペンターズコンサート in 印西～｜レッツエンジョイ東京",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9DWEdOZ3ZNTnRiakFlZzJMNVZRbHd5VklVaGg4ZjdoWndtMUZjaDVKTEN4cS1jbk53bmlYbkxGbkpqVGs1OVBaN0p6Vjg3QlQxYUE?oc=5",
+    "similar_to": "SINON 奇跡の歌声 ～カーペンターズコンサート in 印西～(千葉県)の情報",
+    "ai_reason": "同一コンサートの別アグリゲーターサイトによる重複掲載のため除外"
   }
 ]
