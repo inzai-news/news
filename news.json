@@ -4051,7 +4051,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -5271,7 +5271,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -5570,7 +5570,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -6256,7 +6256,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6691,7 +6691,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7180,7 +7180,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7243,7 +7243,7 @@
     "pub_iso": "2026-10-24T06:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -7797,6 +7797,18 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-10-30T12:37:26.898232+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "被災者生活再建支援事業のご案内",
+    "link": "https://www.city.inzai.lg.jp/0000022786.html",
+    "desc": "",
+    "pub_iso": "2026-10-30T00:00:01+09:00",
+    "pub_str": "2026年10月30日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-30T14:37:22.709232+09:00",
     "retention_type": "regular"
   }
 ]

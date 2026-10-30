@@ -9129,5 +9129,25 @@
     "link": "https://news.google.com/articles/CBMifkFVX3lxTFBxSGNiRno1QlZOZWVQNHV4WndiQVlPYlc0UTVFT1lOc0xxV1VOYXczVF9iSHJGZ09ocWZUWlpDYWhYM283XzZwRVJrSkFTdVpHY20wT0V0ZlBUR3JJNC1TMFZSUm14RjZhb0RVX2RSTS1weDRuTWhiNXhfYzNmQdIBgwFBVV95cUxObDNIaTV2Y21VUlVyOWY3MUE3SGxrYWhUWVZsa2hzZGFsSHJJZ2hoeG91emJ2dHVaal9Da0xYNUotbmpfMDZjX3RVNTJtX3VZd3NtMEstOEFXcFl1M2prTm0xYnZuUDNCckFXNXBsWGVCT3A0VF9KalhzMXZ2bjBwTWIwYw?oc=5",
     "similar_to": "住みここち浦安市１０位 利便性・行政サービス・移住、高評価 防災トップ１０に印西、白井 ２０２６年全国ランク大東建託調べ",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261030-1437",
+    "date": "2026-10-30",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTFBrVlNIa1oyOUEzMHp3Z2Z4X09FUWxqUG55a0MzSlhXSXpsVTg3NjVCQWNfdHFJaHltTGlxZ1NLam1JWFpIaExkNENWLXJrdFZ6QVZrZGwtLVpxRkI3a0p2dzNZOHUzNGxmYUlR?oc=5",
+    "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261030-1437",
+    "date": "2026-10-30",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE05eUFRdzdlSGlwTFpoSjRLNGFCNEtaUWxFdEllbU03NVFObHM5RWlzc1U1aS0tRTRnaHZrdGw5aVRNQjZJd044bFhKT1BXNF9YaUFIaHprZGY2Y1BoWDFReHdXVnR6X1VYQjNDZ3RBdUlMZw?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
