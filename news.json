@@ -45,15 +45,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【開催中止】イオンモール特別企画 イベントキャラバン イオンモ―ル よしもと全国お笑いツアー ～生のお笑いイベントを全国へ！～",
-    "link": "https://chibanewtown.aeonmall.jp/event/08a09515-24fe-45de-81f1-563c58d8d0bd",
-    "pub_str": "2026年7月30日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "市民安全情報(令和8年度)",
     "link": "https://www.city.inzai.lg.jp/0000021632.html",
     "desc": "",
@@ -266,17 +257,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "市内小中学校の施設改修工事に伴う指定避難所等としての利用休止について",
-    "link": "https://www.city.inzai.lg.jp/bousaiportal/0000021938.html",
-    "desc": "",
-    "pub_iso": "2026-07-30T15:43:17+09:00",
-    "pub_str": "2026年7月30日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "子育て支援拠点施設のおたより公開",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000017417.html",
     "desc": "各子育て支援拠点のおたよりを公開しました。ご活用ください。",
@@ -310,24 +290,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【鎌ケ谷市】「南初富 夏祭り盆踊り」が8月1日（土）・2日（日）鎌ケ谷小学校校庭で開催！ ダンスやよさこい、子供太鼓たたき体験もあり！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/30/minamihatsutominatsumatsuri/",
-    "pub_str": "2026年7月30日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "ディズニー英語システムサンプリングイベント",
-    "link": "https://chibanewtown.aeonmall.jp/event/7ecd25db-c246-40da-ba94-7b7d42e9a51f",
-    "pub_str": "2026年7月30日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "学童クラブ指定管理者の募集について",
     "link": "https://www.city.inzai.lg.jp/0000022185.html",
     "desc": "",
@@ -346,28 +308,6 @@
     "pub_str": "2026年8月26日",
     "publisher": "印西市",
     "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "令和8年度第2回印西市地域公共交通会議の開催結果について（令和8年7月13日開催）",
-    "link": "https://www.city.inzai.lg.jp/0000021972.html",
-    "desc": "",
-    "pub_iso": "2026-07-30T11:48:06+09:00",
-    "pub_str": "2026年7月30日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "千葉：印西ＤＣ計画巡る監査請求を棄却 市監査委員：地域ニュース",
-    "link": "https://news.google.com/articles/CBMicEFVX3lxTE10SUhYMkxzeXZXVTBfckJGbXo5bXdTTVFkdzQ2U1ktcGR6UUFBU1FsMXRrd2Q4aUtLek5ibVMyNGdjczVHWmxuUHhhdjBHZWJVZ2M4d0d6dE14amdSa2YybGVTeEVZWURNemowRnVzRTE?oc=5",
-    "desc": "千葉：印西ＤＣ計画巡る監査請求を棄却 市監査委員：地域ニュース  読売新聞",
-    "pub_iso": "2026-07-30T16:00:00+09:00",
-    "pub_str": "2026年7月30日",
-    "publisher": "読売新聞",
-    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "retention_type": "regular"
   },
@@ -3107,7 +3047,7 @@
     "title": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資",
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9MYm9zQWZrNElSNWQxNk5MUm4zaFdiMzFPYzlrWXNoRVMteVAyZ3hia3ZDVERBUGRuZXY3bVROLWFnU3FJV1lGVHpQUTdZbHBmRnc?oc=5",
     "desc": "シンガポールのケッペル、千葉・印西市のデータセンター2棟を取得 1900億円投資  電波新聞デジタル",
-    "pub_iso": "2026-09-02T16:00:00+09:00",
+    "pub_iso": "2026-09-02T18:26:26+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "電波新聞デジタル",
     "source": "google-news-inzai-shi",
@@ -5343,7 +5283,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T14:24:36.198910+09:00",
     "retention_type": "regular"
@@ -6936,7 +6876,7 @@
     "pub_iso": "2026-10-21T14:41:37+09:00",
     "pub_str": "2026年10月21日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-21T15:49:07.175021+09:00",
     "retention_type": "regular"
@@ -7843,6 +7783,28 @@
     "source": "google-news-inzai-event",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-30T20:37:38.962381+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ベネッセ×イオンモール　合計10,000組に抽選でプレゼント！ 家族でいっしょに楽しもう！キャンペーン2026",
+    "link": "https://chibanewtown.aeonmall.jp/event/f625b1e5-b060-4918-99dd-4b15d6e7dfe5",
+    "pub_str": "2026年10月8日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-10-31T00:37:25.087103+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【PR TIMES その他 広告・マーケティング】【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://news.google.com/articles/CBMieEFVX3lxTFBYQ0RmVDZMNGVSSHFNTDFrSXBWQ0YzdnFmaVNobU5LYWpqR0FaS2xCRllQRkZXaDNzUW12Z3lNcnFwUEJ2S2lHNTRPMk5OekZwWl8wMzZZaUZZZ2plN3ZhNElrdTl1WjBVTHprZHFPdjhCN3lTdDEzQg?oc=5",
+    "desc": "【PR TIMES その他 広告・マーケティング】【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します  茨城新聞クロスアイ",
+    "pub_iso": "2026-09-14T16:00:00+09:00",
+    "pub_str": "2026年9月14日",
+    "publisher": "茨城新聞クロスアイ",
+    "source": "google-news-inzai-chiba",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-31T00:37:25.087103+09:00",
     "retention_type": "regular"
   }
 ]
