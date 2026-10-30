@@ -7525,8 +7525,8 @@
     "title": "白井市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、水害時の車両の退避場所と台風25号の支援",
     "link": "https://news.google.com/articles/CBMiTEFVX3lxTE9teWtWLS1RZGlSbXhEWkpPTGhkdEsyUWU1cjlRX3VDd2FjRXEtOUFMdkZFRVBnNVlEcGRvYjVLUU1xSjU3LWZPN1JUZlo?oc=5",
     "desc": "白井市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、水害時の車両の退避場所と台風25号の支援  ジモはる",
-    "pub_iso": "2026-10-27T10:59:05+09:00",
-    "pub_str": "2026年10月27日",
+    "pub_iso": "2026-10-29T15:20:17+09:00",
+    "pub_str": "2026年10月29日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "鎌ヶ谷・白井",
@@ -7809,6 +7809,28 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-10-30T14:37:22.709232+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ヤング・ステージ・コレクション in 印西　出場者募集（受付中～11月25日(水)）",
+    "link": "https://inzainet.com/event/young-stage_2026/",
+    "pub_str": "2026年10月30日",
+    "publisher": "いんざいネット.com",
+    "source": "inzainet-event",
+    "category": "イベント・文化",
+    "collected_at": "2026-10-30T16:37:24.717786+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度印西市中学生平和学習派遣事業を実施しました",
+    "link": "https://www.city.inzai.lg.jp/0000022772.html",
+    "desc": "",
+    "pub_iso": "2026-10-30T14:34:55+09:00",
+    "pub_str": "2026年10月30日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-10-30T16:37:24.717786+09:00",
     "retention_type": "regular"
   }
 ]
