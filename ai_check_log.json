@@ -9119,5 +9119,15 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE9DWEdOZ3ZNTnRiakFlZzJMNVZRbHd5VklVaGg4ZjdoWndtMUZjaDVKTEN4cS1jbk53bmlYbkxGbkpqVGs1OVBaN0p6Vjg3QlQxYUE?oc=5",
     "similar_to": "SINON 奇跡の歌声 ～カーペンターズコンサート in 印西～(千葉県)の情報",
     "ai_reason": "同一コンサートの別アグリゲーターサイトによる重複掲載のため除外"
+  },
+  {
+    "run_ts": "20261030-1237",
+    "date": "2026-10-30",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "住みここち浦安市１０位　利便性・行政サービス・移住、高評価　防災トップ１０に印西、白井　２０２６年全国ランク大東建託調べ",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTFBxSGNiRno1QlZOZWVQNHV4WndiQVlPYlc0UTVFT1lOc0xxV1VOYXczVF9iSHJGZ09ocWZUWlpDYWhYM283XzZwRVJrSkFTdVpHY20wT0V0ZlBUR3JJNC1TMFZSUm14RjZhb0RVX2RSTS1weDRuTWhiNXhfYzNmQdIBgwFBVV95cUxObDNIaTV2Y21VUlVyOWY3MUE3SGxrYWhUWVZsa2hzZGFsSHJJZ2hoeG91emJ2dHVaal9Da0xYNUotbmpfMDZjX3RVNTJtX3VZd3NtMEstOEFXcFl1M2prTm0xYnZuUDNCckFXNXBsWGVCT3A0VF9KalhzMXZ2bjBwTWIwYw?oc=5",
+    "similar_to": "住みここち浦安市１０位 利便性・行政サービス・移住、高評価 防災トップ１０に印西、白井 ２０２６年全国ランク大東建託調べ",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
