@@ -9189,5 +9189,15 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9TTzJZR0F6bjBTenJTck1ad2VORWs5YzdoMC1vdHBhZW9kdHhweXFLZzNUYTgtd0Zqa0ZadEhzSU5ReEdEdVVLd0ZvVGo1aFgw?oc=5",
     "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261031-2026",
+    "date": "2026-10-31",
+    "ai_decision": "keep",
+    "similarity": 0.34,
+    "title": "イオンモール千葉ニュータウンの開店・閉店｜トイザらス・ベビーザらスは8/31で閉店、この夏の新店3店は全部サービス業(10/29時点)",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9icEh0QUozMERoUGY5RUtCeGVxdHhtM3BTZ3NZZFc1Wi1FZHdzdHVhYlYyYy1OY3BfTEZFTlBCMUU5WEx4TDk2LXQtQU5vYkhZUVB2MjR2d0JTSGpYT2FkOWx4VjQtU0Y3?oc=5",
+    "similar_to": "【2026年9月1日 閉店】トイザらス・ベビーザらス",
+    "ai_reason": "トイザらス閉店や夏の新店3店など複数トピックをまとめたジモはるの定期まとめ記事で、単一店舗の開店・閉店情報ではないためイオンモール千葉ニュータウンカテゴリに変更。既存のトイザらス閉店記事とは別に夏の新店情報という新しい内容を含むため採用"
   }
 ]
