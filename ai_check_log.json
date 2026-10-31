@@ -9209,5 +9209,15 @@
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE9UQ01PWGRsUVpuc2czeWdyUWdMbUk3UHg1SGRGSkZBeE1MQnQ0Y0VUamlRQ1NLUlBGSVVOS1hpcUtTQUUyY2JLNnhNTWlNTGwyZ0RDNGdR?oc=5",
     "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261101-0037",
+    "date": "2026-11-01",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の天気",
+    "link": "https://news.google.com/articles/CBMiZEFVX3lxTE5mVUJmSHYxbld4QWxfdHp2eHkxc1pkZFlKNnR2MmY5ejZxTlZiVXk2dFdSWjFFZFdjb1p5VWJ6am1pVTVUQjNhR3VqVGQ3aXVBaUlGdE5uRzJHVUI3YlZrektvMUc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

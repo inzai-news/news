@@ -290,53 +290,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "学童クラブ指定管理者の募集について",
-    "link": "https://www.city.inzai.lg.jp/0000022185.html",
-    "desc": "",
-    "pub_iso": "2026-07-31T00:00:00+09:00",
-    "pub_str": "2026年7月31日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "令和8年度認知症サポーター養成講座を開催します",
     "link": "https://www.city.inzai.lg.jp/0000022207.html",
     "desc": "",
     "pub_iso": "2026-08-26T14:08:15+09:00",
     "pub_str": "2026年8月26日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【白井市】8月2日（日）駄菓子屋あひるSHOPで「第一回 あひるSHOP夏祭り」開催！ お菓子つかみ取りや動物ふれあい体験あり、キッチンカーもやってくる！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/31/ahirushopnatsumatsuri2026/",
-    "pub_str": "2026年7月31日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "retention_type": "regular"
-  },
-  {
-    "title": "急病・急なケガと救急車の適切な利用について",
-    "link": "https://www.city.inzai.lg.jp/0000001776.html",
-    "desc": "",
-    "pub_iso": "2026-07-31T08:46:46+09:00",
-    "pub_str": "2026年7月31日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "市制30周年記念令和8年度社会を明るくする運動青少年健全育成大会を開催しました",
-    "link": "https://www.city.inzai.lg.jp/0000022183.html",
-    "desc": "",
-    "pub_iso": "2026-07-31T08:43:20+09:00",
-    "pub_str": "2026年7月31日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -381,28 +339,6 @@
     "desc": "",
     "pub_iso": "2026-08-17T09:00:00+09:00",
     "pub_str": "2026年8月17日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "令和8年度第1回印西市史編さん委員会の開催について",
-    "link": "https://www.city.inzai.lg.jp/0000022238.html",
-    "desc": "印西市史編さん委員会",
-    "pub_iso": "2026-07-31T16:55:35+09:00",
-    "pub_str": "2026年7月31日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "市長公約実現に向けたロードマップ（工程表）について",
-    "link": "https://www.city.inzai.lg.jp/0000020149.html",
-    "desc": "",
-    "pub_iso": "2026-07-31T22:00:00+09:00",
-    "pub_str": "2026年7月31日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -3991,7 +3927,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -5211,7 +5147,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -5510,7 +5446,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -6196,7 +6132,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6577,7 +6513,7 @@
     "pub_iso": "2026-10-18T16:00:00+09:00",
     "pub_str": "2026年10月18日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-10-18T20:37:32.600322+09:00",
     "retention_type": "regular"
@@ -6631,7 +6567,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7120,7 +7056,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7183,7 +7119,7 @@
     "pub_iso": "2026-10-24T06:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -7828,6 +7764,42 @@
     "source": "google-news-inzai-oshirase",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-31T20:26:32.070968+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【講座】「パパと一緒にカフェタイム」おうちで作る極上ふわふわパンケーキ",
+    "link": "https://www.city.inzai.lg.jp/0000022773.html",
+    "desc": "",
+    "pub_iso": "2026-11-01T00:00:00+09:00",
+    "pub_str": "2026年11月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-01T00:37:23.841795+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "「印西のここが好き」写真・動画を募集　市制施行30周年記念動画を一緒に作りませんか",
+    "link": "https://www.city.inzai.lg.jp/0000022795.html",
+    "desc": "",
+    "pub_iso": "2026-11-01T00:00:00+09:00",
+    "pub_str": "2026年11月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-01T00:37:23.841795+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "BIG HOP ガーデンモール印西の駐車場は1,860台｜平日4時間・土日祝8時間まで無料、最大は平日400円・土日祝500円、駅の利用はB2・E駐車場",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE9DR0hfemVVRU9sZjNTbDBfWi14SlZUNlA1YWxlNHNnOXVQSXVSbXFjdk92dFl4bktXVFRUMHBDWGhyLU5YVjM1RWZtSDFvXzg3TmYxVFR1VU9YeVh2d2JHUGMtZy0xWDJGNFE?oc=5",
+    "desc": "BIG HOP ガーデンモール印西の駐車場は1,860台｜平日4時間・土日祝8時間まで無料、最大は平日400円・土日祝500円、駅の利用はB2・E駐車場  ジモはる",
+    "pub_iso": "2026-10-29T16:00:00+09:00",
+    "pub_str": "2026年10月29日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-event",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-01T00:37:23.841795+09:00",
     "retention_type": "regular"
   }
 ]
