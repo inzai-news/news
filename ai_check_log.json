@@ -9179,5 +9179,15 @@
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE5FdkJ0UGhUcWphdEN6SjZtdTJxVkZWdzdZWVgyYWhSQjhSTmNKODFTY18tWnVxb3BNZV9wNFpBRXplTkMyYjhGM0d3WVNLMkFENjBnemtkemZiQlhiMFdfa0ZoTDB5NWRHMDFIbTVQb21CWUdWdUlpR0tn?oc=5",
     "similar_to": "【コープみらい】「落花生の魅力」をまるごと味わう3回企画の最終回を印西市で開催。10組21人が参加",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261031-0905",
+    "date": "2026-10-31",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE9TTzJZR0F6bjBTenJTck1ad2VORWs5YzdoMC1vdHBhZW9kdHhweXFLZzNUYTgtd0Zqa0ZadEhzSU5ReEdEdVVLd0ZvVGo1aFgw?oc=5",
+    "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
