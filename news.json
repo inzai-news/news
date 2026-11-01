@@ -7116,7 +7116,7 @@
     "title": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE9LYlpBZDNDRVRpNmJzQzZTNmlCaGx2VjhTZzc3UUI3TkMwSjZieTU0WHhQQkx4dGdQUGRqTUxVTEhKMWs1WUF1d0N6QzhRN29KcTh4d3hTWG5PNk94aURqRjAwR1JJUQ?oc=5",
     "desc": "千葉印西市の駅前データセンター建設問題 住民が憤る「やられっぱなし」の実態｜話題の現場 突撃ルポ  日刊ゲンダイDIGITAL",
-    "pub_iso": "2026-10-24T06:00:00+09:00",
+    "pub_iso": "2026-10-24T16:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
     "source": "google-news-inzai-shi",
@@ -7824,5 +7824,27 @@
     "collected_at": "2026-11-01T11:15:57.785205+09:00",
     "retention_type": "store_event",
     "announce_str": "2026年11月1日"
+  },
+  {
+    "title": "【印西市】「ワンワンフェスタ 2026」が11月7日（土）～8日（日）北総花の丘公園で開催！ 70店舗以上のワンちゃんグッズのお店が大集結！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/01/wanwanfestival2026nov/",
+    "pub_str": "2026年11月1日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-01T20:37:45.789844+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【千葉県 印西市】毎回満員の「いんざい創業塾」第13期が始動！人口増の街・印西市で“自分の夢を事業にする”4日間",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE1CMlZnX0k1VnlpX21KQ215eDVIaFZHNy1ZR3p2VnAwdE9PLVpwZklzVlBxRHZvQlEtd2xZMVhxTDQyZUxuMjlMdk00T190YUNjUjJST1V0TXJuMDdvdGpQSFVWLTYwbFhnakdnSWFUR1EtUQ?oc=5",
+    "desc": "【千葉県 印西市】毎回満員の「いんざい創業塾」第13期が始動！人口増の街・印西市で“自分の夢を事業にする”4日間  Infoseek",
+    "pub_iso": "2026-10-14T16:00:00+09:00",
+    "pub_str": "2026年10月14日",
+    "publisher": "Infoseek",
+    "source": "google-news-inzai-shi",
+    "category": "市政・行政",
+    "collected_at": "2026-11-01T20:37:45.789844+09:00",
+    "retention_type": "regular"
   }
 ]
