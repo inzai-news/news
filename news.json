@@ -3927,7 +3927,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -5147,7 +5147,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -5446,7 +5446,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -5809,8 +5809,8 @@
     "title": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTFA2VDIyRWlkdU5SaXRkMWNlakVfdU01TjAyb19DX2tTbWNwOXo0NHptWkdzQ1dnVTF1SklhN29IUWdibUY5OEh2YlloOEZwZkFvQXlTUnQ0R05ncWlzY0dmYTlyY3R1QQ?oc=5",
     "desc": "成田市役所の窓口は9時〜16時30分｜休日窓口は第2・第4日曜、印西・栄・酒々井・富里の受付時間も  ジモはる",
-    "pub_iso": "2026-10-20T16:00:00+09:00",
-    "pub_str": "2026年10月20日",
+    "pub_iso": "2026-10-10T16:00:00+09:00",
+    "pub_str": "2026年10月10日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "市政・行政",
@@ -6132,7 +6132,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -6513,7 +6513,7 @@
     "pub_iso": "2026-10-18T16:00:00+09:00",
     "pub_str": "2026年10月18日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-10-18T20:37:32.600322+09:00",
     "retention_type": "regular"
@@ -6567,7 +6567,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -7056,7 +7056,7 @@
     "pub_iso": "2026-10-23T07:21:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "環境新聞オンライン",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-10-23T23:09:40.862328+09:00",
     "retention_type": "regular"
@@ -7119,7 +7119,7 @@
     "pub_iso": "2026-10-24T06:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -7801,5 +7801,28 @@
     "category": "開発・暮らし",
     "collected_at": "2026-11-01T00:37:23.841795+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "障がいのある人を対象とした会計年度任用職員の募集（登録制）",
+    "link": "https://www.city.inzai.lg.jp/0000022832.html",
+    "desc": "令和9年4月1日から採用を予定する会計年度任用職員（障がいのある人対象）の募集です。",
+    "pub_iso": "2026-11-01T09:00:00+09:00",
+    "pub_str": "2026年11月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-01T11:15:57.785205+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年7月下旬 開店】哪吒麻辣湯（ナーザマーラータン）",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/01/nezhamalatangkamagaya/",
+    "pub_str": "2026年7月25日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-11-01T11:15:57.785205+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年11月1日"
   }
 ]
