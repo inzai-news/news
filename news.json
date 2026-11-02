@@ -2372,8 +2372,8 @@
     "title": "祖父母手帳",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000018705.html",
     "desc": "",
-    "pub_iso": "2026-08-31T16:48:19+09:00",
-    "pub_str": "2026年8月31日",
+    "pub_iso": "2026-11-02T11:48:44+09:00",
+    "pub_str": "2026年11月2日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7830,6 +7830,18 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-02T10:50:11.199410+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "約40万球で駅前がシャンパンゴールドと白に輝く 印西市「イルミライ★INZAI」開催",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE05QlNiRm00VnBmVmNWc01yN0V3NWhEdzA4b0xBV3FaRUZSRHFmcUFCVW9VSGlkaWlWN1Z2NXJ4Z0l4VGg2ODVUekpiV3F2WERweXc?oc=5",
+    "desc": "約40万球で駅前がシャンパンゴールドと白に輝く 印西市「イルミライ★INZAI」開催  いこーよニュース",
+    "pub_iso": "2026-11-02T11:00:27+09:00",
+    "pub_str": "2026年11月2日",
+    "publisher": "いこーよニュース",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
   }
 ]

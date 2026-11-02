@@ -9269,5 +9269,25 @@
     "link": "https://news.google.com/articles/CBMiXkFVX3lxTFBnR2tWMFF5aXZIVExkX0JNaHRoQWRVdm9kdWx2bl8wUzRTdC16MmdhVWJpd1Y0TjU5UEhoMjBwUzFlWGphbXNWbTBzRjVLV0I0MWVpRGpwdVoyZjBBdFE?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 気象警報の発表を伝えるだけの当日限りの速報記事のため"
+  },
+  {
+    "run_ts": "20261102-1213",
+    "date": "2026-11-02",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "声の広報　令和8年11月号  NO.1047",
+    "link": "https://www.city.inzai.lg.jp/0000022834.html",
+    "similar_to": "声の広報　令和8年10月号  NO.1046",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261102-1213",
+    "date": "2026-11-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "くるまやラーメン印西木下東店",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE5kdVBsSm5CcW53NmtrOHUzU1JIdEhYZE1zYlh5cVgyZTNib2FtOTR5MHNKblhkdW9YeDJJbHg1TE9lZVVEUWJ1RklHVjFyTzRC?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
