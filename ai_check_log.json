@@ -9289,5 +9289,15 @@
     "link": "https://news.google.com/articles/CBMiUEFVX3lxTE5kdVBsSm5CcW53NmtrOHUzU1JIdEhYZE1zYlh5cVgyZTNib2FtOTR5MHNKblhkdW9YeDJJbHg1TE9lZVVEUWJ1RklHVjFyTzRC?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261102-2037",
+    "date": "2026-11-02",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県 印西市】「#印西のここが好き」を教えて！あなたのスマホに眠る思い出が30周年記念映像に！？",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE52eVp0SWJ2QWRTS0xvVDJncDU1bnAtaFhqU3FoLXJnMHdKd1VDVVFoc1pJeWdwZnV2SXJPTWtIcjJrZThsZ3F2eWVpbDFYMDUwaVE?oc=5",
+    "similar_to": null,
+    "ai_reason": "「印西のここが好き」30周年記念動画募集の告知は印西市公式版で既に採用済み。千葉経済新聞による再配信で新情報なしのため重複として除外。"
   }
 ]
