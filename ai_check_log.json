@@ -9319,5 +9319,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000050.000180020.html",
     "similar_to": "「印西のここが好き」写真・動画を募集　市制施行30周年記念動画を一緒に作りませんか",
     "ai_reason": "印西市公式版で既に採用済みの同一告知(市制施行30周年記念動画募集)。PR TIMES公式フィード経由での再配信で新情報なしのため重複除外(手動検知、自動除外をすり抜けたケース)。"
+  },
+  {
+    "run_ts": "20261103-1810",
+    "date": "2026-11-03",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "link": "https://news.google.com/articles/CBMia0FVX3lxTE1yYVpuWnNCWTJWYjdyZExwajVoVS1uYkZIUFhfUTZIWjdBbzdiNFdxc3BYTDVoZklUUS1oa3VpNmxtOG90UExCOHBNNWF6cUR6MnpXVlN5M2pUUmRDZEU4Mi1yZE92bjl0NjMw?oc=5",
+    "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
