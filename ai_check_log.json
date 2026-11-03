@@ -9299,5 +9299,15 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE52eVp0SWJ2QWRTS0xvVDJncDU1bnAtaFhqU3FoLXJnMHdKd1VDVVFoc1pJeWdwZnV2SXJPTWtIcjJrZThsZ3F2eWVpbDFYMDUwaVE?oc=5",
     "similar_to": null,
     "ai_reason": "「印西のここが好き」30周年記念動画募集の告知は印西市公式版で既に採用済み。千葉経済新聞による再配信で新情報なしのため重複として除外。"
+  },
+  {
+    "run_ts": "20261103-0933",
+    "date": "2026-11-03",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷週2日だけのカフェで見つけた、｢やみつき｣サンドイッチ|メニュー【Cafe Fika&Vila】",
+    "link": "https://chiba-lunch.com/inzai-cafe-fikavila-menu/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-cafe-fikavila-menu",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
