@@ -9409,5 +9409,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000048.000180020.html",
     "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261105-0037",
+    "date": "2026-11-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": "クリスマス アレンジ（2026年12月05日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46097&store=chibant",
+    "similar_to": "クリスマスハウス アレンジ（2026年11月21日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
