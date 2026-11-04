@@ -9379,5 +9379,25 @@
     "link": "https://news.google.com/articles/CBMiekFVX3lxTE1mZmhZdjMxT3pBTDY1V1JXREFoNWpSeFQwaE4tRU5pd012OERrend2RGIxU2FVT3hGbC1mWlFLM3ZHeWQyNnNXYXd5QnBqR1ZiNXQxVm5DMllqdzR4cS1VM3V6Vno1MHFaVmdNT1Z5UHNYWGVPR0NTU1JB?oc=5",
     "similar_to": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1837",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE10LWpWVEZ0TDRBUkFsQzliSXJndUJuUXZROXJCZVljbkNFYTN2QzlBbWhDb1hKVVBGOXJWU3V2ZDJCUVZXclhJQWZ1MGRMTUtneFUycmgyOWZFMEpvOWNVTTd0Q1dVVGNs?oc=5",
+    "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1837",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西牧の原駅で朝のご挨拶",
+    "link": "https://news.google.com/articles/CBMigAJBVV95cUxQeFY3M0RaRWhMR3pienBSaFY4Y2t6aWF3R2hDNDVtaTAzNUVnSjhaaUNJR0FXcFFWcnpXZ0VxdUQwRHU4QUV0LTZVZzdfVHEwa0lRS2pud1JBWS03dXV1Ul93U3ZzYmZNZFRiZDZNeHdqX1hCblQtQWpaejgyQVMwUGpXNUM0eDhnN1B0cWhTY2NudDJZdjV4RkI5b2ZVRXExRWF0dXRad1o4eHZiNHhuVWllNTBtV2FxMzRzOVN1cHM0Y3NOcmhySlg0M2dnSldRYnpOcGhHNHlKdENKVTVrUW1FQjlqWUJVSzlST3JfdWNUUFFsWFZ1Y2hOcm5ma1E0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
   }
 ]
