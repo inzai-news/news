@@ -153,16 +153,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "【2026年5月3日 開店】中華そば専門 田中そば店 千葉ニュータウン店",
-    "link": "https://tanaka-shoten.net/information/chiba0428/",
-    "pub_str": "2026年5月3日",
-    "publisher": "田中商店",
-    "source": "開店閉店情報",
-    "category": "開店・閉店",
-    "desc": "",
-    "retention_type": "store_event"
-  },
-  {
     "title": "【2026年7月6日 開店】京都北白川 ラーメン魁力屋 ジョイフル本田千葉ニュータウン店",
     "link": "https://inzai-topic.com/kaitikiya-joyfulcnt-open/",
     "pub_str": "2026年7月6日",
@@ -377,24 +367,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "『ポケモン GO』パートナーリサーチ」開催！",
-    "link": "https://chibanewtown.aeonmall.jp/event/2407c7b2-c99f-47b2-9ed3-5a13241fed17",
-    "pub_str": "2026年8月3日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】サンリオカフェワゴン「サンリオクレープ号」が8月8日（土）～11日（火）イオンモール千葉ニュータウンにやってくる！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/03/sanriocafewagonaeonchibant2026aug/",
-    "pub_str": "2026年8月3日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イオンモール千葉ニュータウン",
-    "retention_type": "regular"
-  },
-  {
     "title": "【質問回答書】印西市全天候型こどもの遊び場の指定管理者を募集",
     "link": "https://www.city.inzai.lg.jp/0000021817.html",
     "desc": "",
@@ -406,44 +378,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "【健康増進課・一般事務】会計年度任用職員の募集について",
-    "link": "https://www.city.inzai.lg.jp/0000022208.html",
-    "desc": "",
-    "pub_iso": "2026-08-03T09:00:00+09:00",
-    "pub_str": "2026年8月3日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西市民招待・千葉ロッテマリーンズ公式戦のご案内",
-    "link": "https://www.city.inzai.lg.jp/0000022187.html",
-    "desc": "",
-    "pub_iso": "2026-08-03T10:00:00+09:00",
-    "pub_str": "2026年8月3日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "【質問に対する回答を公開しました】印西市総合福祉センターの指定管理者（令和9年度～令和11年度）の募集について",
     "link": "https://www.city.inzai.lg.jp/0000022200.html",
     "desc": "",
     "pub_iso": "2026-08-28T17:00:00+09:00",
     "pub_str": "2026年8月28日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "パスポート申請から交付までの所要日数について",
-    "link": "https://www.city.inzai.lg.jp/0000021945.html",
-    "desc": "",
-    "pub_iso": "2026-08-03T13:00:00+09:00",
-    "pub_str": "2026年8月3日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -1226,18 +1165,6 @@
     "source": "chibamogu-shiroi",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-08-15T14:30:22.766008+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】",
-    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFBCMGc5bXhqWENVYTg0dU1EbzRRaVNKa0ZVYmlhSW9kTnhtZV9vRHpjTlRJeWp5a2xsMzZhOWlQZWpUNXctaWdhbWpnLXBacEJQYUJfMmFNRDNTUmIzbFNB?oc=5",
-    "desc": "千葉・印西市に世界が注目 データセンター集結の理由は【Bizスクエア】  TBS NEWS DIG",
-    "pub_iso": "2026-08-03T16:00:00+09:00",
-    "pub_str": "2026年8月3日",
-    "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-shi",
-    "category": "開発・暮らし",
-    "collected_at": "2026-08-15T15:43:23.870488+09:00",
     "retention_type": "regular"
   },
   {
@@ -5025,17 +4952,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "サントリーハロウィンビオラ祭り（2026年10月31日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=45562&store=chibant",
-    "pub_str": "2026年10月5日",
-    "event_end_date": "2026-10-31",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-10-05T20:15:15.941082+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "防災展2026",
     "link": "https://chibanewtown.aeonmall.jp/event/b984ce17-fd98-4e0e-89d1-45cb3909738f",
     "pub_str": "2026年10月2日",
@@ -5127,17 +5043,6 @@
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T14:24:36.198910+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "バイオゴールド即売会（2026年10月31日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=45576&store=chibant",
-    "pub_str": "2026年10月6日",
-    "event_end_date": "2026-10-31",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-10-06T18:37:44.488738+09:00",
     "retention_type": "regular"
   },
   {
@@ -6884,17 +6789,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【うま～くヌレ～ル漆喰】 実演・お試し塗り会（2026年10月31日(土)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=45952&store=chibant",
-    "pub_str": "2026年10月23日",
-    "event_end_date": "2026-10-31",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-10-23T23:09:40.862328+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "【復旧しました】防災行政無線情報　市ホームページの連携不具合について",
     "link": "https://www.city.inzai.lg.jp/bousaiportal/0000012904.html",
     "desc": "",
@@ -7890,6 +7784,48 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-11-03T22:37:25.510810+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年11月13日 開店】CRASHGATE 2026年11月13日（金）NEW OPEN！",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/12c605a3-df13-4369-bf3e-709b3c0ad807",
+    "pub_str": "2026年11月13日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-04T09:27:35.167856+09:00",
+    "retention_type": "store_event"
+  },
+  {
+    "title": "クリスマスマーケット2026",
+    "link": "https://chibanewtown.aeonmall.jp/event/a3152c84-9c8f-4ac1-bf69-2612968963af",
+    "pub_str": "2026年11月4日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-04T09:27:35.167856+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】「パステル絵画展」が鎌ケ谷市きらりホールで11月8日（日）まで開催されています！ 好きなものを思い切り描いたたくさんの作品を誰でも自由に鑑賞できます",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/04/pastelkaigatenkamagaya2026/",
+    "pub_str": "2026年11月4日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-04T09:27:35.167856+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和9年度印西市立もとの幼稚園入園児選考に係る抽選会について",
+    "link": "https://www.city.inzai.lg.jp/0000022485.html",
+    "desc": "",
+    "pub_iso": "2026-11-04T00:00:00+09:00",
+    "pub_str": "2026年11月4日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-04T09:27:35.167856+09:00",
     "retention_type": "regular"
   }
 ]

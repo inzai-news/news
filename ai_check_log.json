@@ -9329,5 +9329,15 @@
     "link": "https://news.google.com/articles/CBMia0FVX3lxTE1yYVpuWnNCWTJWYjdyZExwajVoVS1uYkZIUFhfUTZIWjdBbzdiNFdxc3BYTDVoZklUUS1oa3VpNmxtOG90UExCOHBNNWF6cUR6MnpXVlN5M2pUUmRDZEU4Mi1yZE92bjl0NjMw?oc=5",
     "similar_to": "【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-0927",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.81,
+    "title": "（仮称）印西市立東の原義務教育学校の学校名募集について",
+    "link": "https://www.city.inzai.lg.jp/0000022021.html",
+    "similar_to": "（仮称）印西市立東の原義務教育学校の準備の状況について",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
