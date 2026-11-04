@@ -9339,5 +9339,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022021.html",
     "similar_to": "（仮称）印西市立東の原義務教育学校の準備の状況について",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1233",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.9,
+    "title": "印西市/買い取り方式に変更/東の原義務教育校新設",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE01QlRaRERCLWpZOTBONXRzbVFZTDkxWkx2d19PZTZILURfM0FucFdEZ2JMWUp5dmxPaUFBM0hyZDRMYVZkRWZJN2VnbHY1OW5pV243RXE1SGc?oc=5",
+    "similar_to": "【印西市】買い取り方式に変更、東の原義務教育校新設",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
