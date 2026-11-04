@@ -9399,5 +9399,15 @@
     "link": "https://news.google.com/articles/CBMigAJBVV95cUxQeFY3M0RaRWhMR3pienBSaFY4Y2t6aWF3R2hDNDVtaTAzNUVnSjhaaUNJR0FXcFFWcnpXZ0VxdUQwRHU4QUV0LTZVZzdfVHEwa0lRS2pud1JBWS03dXV1Ul93U3ZzYmZNZFRiZDZNeHdqX1hCblQtQWpaejgyQVMwUGpXNUM0eDhnN1B0cWhTY2NudDJZdjV4RkI5b2ZVRXExRWF0dXRad1o4eHZiNHhuVWllNTBtV2FxMzRzOVN1cHM0Y3NOcmhySlg0M2dnSldRYnpOcGhHNHlKdENKVTVrUW1FQjlqWUJVSzlST3JfdWNUUFFsWFZ1Y2hOcm5ma1E0?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
+  },
+  {
+    "run_ts": "20261104-2033",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "link": "https://prtimes.jp/main/html/rd/p/000000048.000180020.html",
+    "similar_to": "【千葉県 印西市】約40万球の光が印西の冬を彩る。「～市制施行30周年～イルミライ★INZAI」の点灯式を11月14日に開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
