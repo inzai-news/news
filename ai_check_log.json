@@ -9349,5 +9349,35 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTE01QlRaRERCLWpZOTBONXRzbVFZTDkxWkx2d19PZTZILURfM0FucFdEZ2JMWUp5dmxPaUFBM0hyZDRMYVZkRWZJN2VnbHY1OW5pV243RXE1SGc?oc=5",
     "similar_to": "【印西市】買い取り方式に変更、東の原義務教育校新設",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1432",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "link": "https://news.google.com/articles/CBMiekFVX3lxTE9yN05jTVNlRERpbHIwM2lCTzQ1NU9qMEdzMmdLc1BzZVFXRnZVOVI5LVVfeExZa0ZQV0JJdWcwamhsQ01OQkNiTG8wQTN5djBtdTNTOUhZOUxFSGdwN2FXQ3VHU3hVbjFBaThhWEVwanduVEJGal9BcEJR?oc=5",
+    "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1432",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市草深で強盗未遂　１０月２９日［解決］",
+    "link": "https://news.google.com/articles/CBMiogFBVV95cUxQTGxBeHJMMnpzTU15X1JsX19hMXRXXzBQaGp2Y0FkUUR5WUhNclJ0RS1IbWlmTVp4bV9kY2dsMXBOdHdtZXVheWZjMVFhb3c5OFF5RG0tenNGYV84dzRjOTNiM3oxVUxEdTkyaGdySEVxbnIxR3dubTBrdWNyZFVqelc5ZWo5cm1uS3J6d0FfQWQwQ2ptQ0liUkdRaTBLTk9fMXfSAaIBQVVfeXFMUExsQXhyTDJ6c01NeV9SbF9fYTF0V18wUGhqdmNBZFFEeVlITXJSdEUtSG1pZk1aeG1fZGNnbDFwTnR3bWV1YXlmYzFRYW93OThReURtLXpzRmFfOHc0YzkzYjN6MVVMRHU5MmhnckhFcW5yMUd3bm0wa3VjcmRVanpXOWVqOXJtbktyendBX0FkMENqbUNJYlJHUWkwS05PXzF3?oc=5",
+    "similar_to": "（千葉）印西市草深で強盗未遂　１０月２９日［解決］",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261104-1432",
+    "date": "2026-11-04",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
+    "link": "https://news.google.com/articles/CBMiekFVX3lxTE1mZmhZdjMxT3pBTDY1V1JXREFoNWpSeFQwaE4tRU5pd012OERrend2RGIxU2FVT3hGbC1mWlFLM3ZHeWQyNnNXYXd5QnBqR1ZiNXQxVm5DMllqdzR4cS1VM3V6Vno1MHFaVmdNT1Z5UHNYWGVPR0NTU1JB?oc=5",
+    "similar_to": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
