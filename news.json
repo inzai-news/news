@@ -4980,7 +4980,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -7167,7 +7167,7 @@
     "pub_iso": "2026-10-27T11:00:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-27T18:27:01.916456+09:00",
     "retention_type": "regular"
