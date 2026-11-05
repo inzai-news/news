@@ -7703,5 +7703,28 @@
     "category": "ジョイフル本田千葉ニュータウン店",
     "collected_at": "2026-11-05T00:37:24.955764+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年11月3日 開店】ニシムラクレープ",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/05/nishimuracrepeopen/",
+    "pub_str": "2026年11月3日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-11-05T09:45:06.819950+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年11月5日"
+  },
+  {
+    "title": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)",
+    "link": "https://news.google.com/articles/CBMiZkFVX3lxTE03UWtzUmhRR2syLW5KR0diYW1iaW1zTkZtcGpDY3NRemtjUFA5dG4xaDlyc25ELTFrcV9oaXdyZE13VmtXNWFkSk5FdW9IWU03MHViT1FEYVFpVC1WTElhX1hPU0d6UQ?oc=5",
+    "desc": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)  ジモはる",
+    "pub_iso": "2026-11-05T06:33:33+09:00",
+    "pub_str": "2026年11月5日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-chiba",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-05T09:45:06.819950+09:00",
+    "retention_type": "regular"
   }
 ]

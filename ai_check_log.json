@@ -9419,5 +9419,15 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=46097&store=chibant",
     "similar_to": "クリスマスハウス アレンジ（2026年11月21日(土)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261105-0945",
+    "date": "2026-11-05",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県印西市】世界とリアルタイムでつながる英語教育へ",
+    "link": "https://prtimes.jp/main/html/rd/p/000000039.000180020.html",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
