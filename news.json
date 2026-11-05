@@ -5964,8 +5964,8 @@
     "title": "第23回ふれあい文化館まつり開催",
     "link": "https://www.city.inzai.lg.jp/0000022740.html",
     "desc": "",
-    "pub_iso": "2026-10-19T08:34:49+09:00",
-    "pub_str": "2026年10月19日",
+    "pub_iso": "2026-11-05T10:58:40+09:00",
+    "pub_str": "2026年11月5日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7719,12 +7719,36 @@
     "title": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE03UWtzUmhRR2syLW5KR0diYW1iaW1zTkZtcGpDY3NRemtjUFA5dG4xaDlyc25ELTFrcV9oaXdyZE13VmtXNWFkSk5FdW9IWU03MHViT1FEYVFpVC1WTElhX1hPU0d6UQ?oc=5",
     "desc": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)  ジモはる",
-    "pub_iso": "2026-11-05T06:33:33+09:00",
+    "pub_iso": "2026-11-05T11:23:01+09:00",
     "pub_str": "2026年11月5日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-11-05T09:45:06.819950+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "そうふけ公民館、そうふけ児童館共催事業　スポーツキッズ　参加者募集",
+    "link": "https://www.city.inzai.lg.jp/0000022662.html",
+    "desc": "",
+    "pub_iso": "2026-11-01T09:00:00+09:00",
+    "pub_str": "2026年11月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-05T12:12:04.795063+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "そうふけ公民館主催事業 ふれあい大会　モルックを楽しもう！　参加者募集",
+    "link": "https://www.city.inzai.lg.jp/0000022663.html",
+    "desc": "",
+    "pub_iso": "2026-11-01T09:00:00+09:00",
+    "pub_str": "2026年11月1日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-05T12:12:04.795063+09:00",
     "retention_type": "regular"
   }
 ]
