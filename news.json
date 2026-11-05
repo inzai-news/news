@@ -7719,7 +7719,7 @@
     "title": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE03UWtzUmhRR2syLW5KR0diYW1iaW1zTkZtcGpDY3NRemtjUFA5dG4xaDlyc25ELTFrcV9oaXdyZE13VmtXNWFkSk5FdW9IWU03MHViT1FEYVFpVC1WTElhX1hPU0d6UQ?oc=5",
     "desc": "コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)  ジモはる",
-    "pub_iso": "2026-11-05T11:23:01+09:00",
+    "pub_iso": "2026-11-05T14:26:04+09:00",
     "pub_str": "2026年11月5日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-chiba",
@@ -7749,6 +7749,26 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-05T12:12:04.795063+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ディズニー英語システム サンプリングイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/9e297a0c-82dd-4fcd-8048-388e6bac21d3",
+    "pub_str": "2026年11月5日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-05T14:31:14.170269+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "≪京都フェア　―関西味の旅―≫",
+    "link": "https://chibanewtown.aeonmall.jp/event/84f951b2-0490-485d-a08b-1ddf181ff959",
+    "pub_str": "2026年11月5日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-05T14:31:14.170269+09:00",
     "retention_type": "regular"
   }
 ]
