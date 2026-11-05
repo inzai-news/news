@@ -9429,5 +9429,25 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000039.000180020.html",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261105-2024",
+    "date": "2026-11-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
+    "link": "https://news.google.com/articles/CBMie0FVX3lxTFAxN08tQ05vRVAxVXdaSTF3ay1SU3RkazItYWpuXzdiZnRJdTdlcDYzai1CRnJ1M0prLThHcmVOLWlDb1hfc0ZCRWlheFF2MFN4ZkFjVF9uTTUtdk5FMXlfVnEydnhQSEd3blRpeUxpSW5ZTUI3eFg1R1BsVQ?oc=5",
+    "similar_to": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261105-2024",
+    "date": "2026-11-05",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE5fcXcySjVwXy1yR0NpcjNDT2pNZ0o3RkF3OTN4Q0tmUFFNQU45R25idTFraVc1NjZIVm5sSG5ScEJ6TUZKalZQS0R4VTJXaWlERmY3aDM5N0VBRU5naTE5WWl5ZlpTNGtod1dmSkplbFIzZw?oc=5",
+    "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
