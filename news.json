@@ -173,16 +173,6 @@
     "retention_type": "store_event"
   },
   {
-    "title": "【2026年5月6日 開店】aebe",
-    "link": "https://chiba-lunch.com/inzai-aebe-musashiya-cafe-italian/",
-    "pub_str": "2026年5月6日",
-    "publisher": "ちばもぐ",
-    "source": "開店閉店情報",
-    "category": "開店・閉店",
-    "desc": "",
-    "retention_type": "store_event"
-  },
-  {
     "title": "印西市の公共交通のご案内",
     "link": "https://www.city.inzai.lg.jp/0000021865.html",
     "desc": "",
@@ -380,15 +370,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【印西市】2026年の「印旛ふるさと祭り」は8月8日（土）印旛中央公園で開催！ 盆踊りやダンスあり、今年は打ち上げ花火もあがります！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/06/inbafurusatomatsuri2026/",
-    "pub_str": "2026年8月6日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
-    "retention_type": "regular"
-  },
-  {
     "title": "印西市全天候型こどもの遊び場整備プロジェクト",
     "link": "https://www.city.inzai.lg.jp/0000021927.html",
     "desc": "",
@@ -400,26 +381,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【監査委員事務局・一般事務】会計年度任用職員の募集について",
-    "link": "https://www.city.inzai.lg.jp/0000022265.html",
-    "desc": "",
-    "pub_iso": "2026-08-06T10:00:00+09:00",
-    "pub_str": "2026年8月6日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "別所の獅子舞（地藏寺）2026年8月24日公開｜千葉県印西市無形文化財",
-    "link": "https://inzaiparque.com/bessho-shishimai/",
-    "pub_str": "2026年8月6日",
-    "publisher": "千葉ほくそうパルケ",
-    "source": "inzaiparque",
-    "category": "話題・その他",
-    "retention_type": "regular"
-  },
-  {
     "title": "北総線千葉ニュータウン中央駅北側歩道を活用し、イベントを実施できる事業者・団体を募集します。",
     "link": "https://www.city.inzai.lg.jp/0000021878.html",
     "desc": "",
@@ -428,26 +389,6 @@
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "台風などに伴う農作物等の災害対策",
-    "link": "https://www.city.inzai.lg.jp/0000013246.html",
-    "desc": "",
-    "pub_iso": "2026-08-06T12:16:29+09:00",
-    "pub_str": "2026年8月6日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
-    "title": "MYボトルデザインコンテスト応募作品を展⽰いたします！",
-    "link": "https://chibanewtown.aeonmall.jp/event/b7971b60-0349-4add-a360-5b6392ec7880",
-    "pub_str": "2026年8月6日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
     "retention_type": "regular"
   },
   {
@@ -644,18 +585,6 @@
     "publisher": "ちばもぐ",
     "source": "chibamogu-inzai",
     "category": "話題・その他",
-    "collected_at": "2026-08-11T18:01:39.251471+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西シティリレーマラソン 2026",
-    "link": "https://news.google.com/articles/CBMiTEFVX3lxTE5uM2xiR1hEUjRBeFZZQUJhV3lZZVZMbEEyV2M5b1BVRENCSmhYYWFQY1pRWWwyYTdNYWE4dnp1V1RlR0VWT2FYbjBvaFM?oc=5",
-    "desc": "印西シティリレーマラソン 2026  RUNNET",
-    "pub_iso": "2026-08-06T16:33:31+09:00",
-    "pub_str": "2026年8月6日",
-    "publisher": "RUNNET",
-    "source": "google-news-inzai-shi",
-    "category": "イベント・文化",
     "collected_at": "2026-08-11T18:01:39.251471+09:00",
     "retention_type": "regular"
   },
@@ -2277,16 +2206,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-09-01T09:37:22.590663+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "MYボトルデザインコンテスト受賞作品発表",
-    "link": "https://chibanewtown.aeonmall.jp/event/4e9e90dd-3617-4f30-9ffe-853a068804b9",
-    "pub_str": "2026年8月6日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-09-01T12:37:26.056502+09:00",
     "retention_type": "regular"
   },
   {
@@ -5327,17 +5246,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "はじめてのプラモデル作り体験（2026年11月03日(火)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=45760&store=chibant",
-    "pub_str": "2026年10月11日",
-    "event_end_date": "2026-11-03",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-10-11T02:13:11.874933+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "模型・ジオラマ作り実演会（2026年11月07日(土)～2026年11月08日(日)）",
     "link": "https://event.joyfulhonda.com/single-exp.php?id=45757&store=chibant",
     "pub_str": "2026年10月11日",
@@ -5584,8 +5492,8 @@
     "title": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天",
     "link": "https://news.google.com/articles/CBMie0FVX3lxTFB2dGl0Q19RdHBhMHQ0ekVxVlBROW40TVo0NEVOeGVoTXBrOWJLRURmLThuM3RzWjdlT3pUa1VyYmZoN2FMYk5ibEF0TGNuck5wMGx5SXJMelZ1dmtJV2tiSTNVeGR3d05Ub1hnQXp3bnVYUEhpN0VTMWpwOA?oc=5",
     "desc": "成田・印西・栄・酒々井・富里のイベント予定(10月〜12月)｜毎年の催しカレンダー、月ごとの祭り・マルシェ・文化祭の日程と会場・駐車場・雨天  ジモはる",
-    "pub_iso": "2026-11-03T17:00:00+09:00",
-    "pub_str": "2026年11月3日",
+    "pub_iso": "2026-10-13T16:00:00+09:00",
+    "pub_str": "2026年10月13日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
@@ -6376,8 +6284,8 @@
     "title": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き",
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1oTXVmZTVMYWRCZFFWVjVCbnNfcnFsa0pnUGFpMC01T3lHVUVGUlIydGctRFRuZUtINHpmdkVOemNpbEJIQjlyb2czOA?oc=5",
     "desc": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き  ジモはる",
-    "pub_iso": "2026-10-21T16:00:00+09:00",
-    "pub_str": "2026年10月21日",
+    "pub_iso": "2026-11-04T17:00:00+09:00",
+    "pub_str": "2026年11月4日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
@@ -7792,11 +7700,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "「～市制施行30周年～ イルミライ★INZAI」点灯式当日のイベントについて",
+    "title": "「～市制施行30周年～ イルミライ★INZAI」 点灯式（11月14日）について",
     "link": "https://www.city.inzai.lg.jp/0000022848.html",
     "desc": "",
-    "pub_iso": "2026-11-06T10:14:51+09:00",
-    "pub_str": "2026年11月6日",
+    "pub_iso": "2026-11-07T11:44:46+09:00",
+    "pub_str": "2026年11月7日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7881,6 +7789,63 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-11-06T20:37:21.771999+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "Minori アート デモンストレーション（2026年11月14日(土)～2026年11月15日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46633&store=chibant",
+    "pub_str": "2026年11月7日",
+    "event_end_date": "2026-11-15",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-07T21:48:26.731465+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE83cWZxUG53YTdlTmpMT1ZXRWFDaDdIbGlPWUEzWng2UGhOTlQzbmwwMXM2MmRxX2FqTWluVkZhM3Q0RG1DRWFCdnlIck51VFZQYUNEZHFxWUlaMlpER090ODBmelhQVnhMalRwdWkwZFVldTI3blBIa0ZkYXJqMk0?oc=5",
+    "desc": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）  Yahoo!ニュース",
+    "pub_iso": "2026-11-06T19:02:14+09:00",
+    "pub_str": "2026年11月6日",
+    "publisher": "Yahoo!ニュース",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-07T21:48:26.731465+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "BIG HOP印西は再開発を計画｜商業施設を先に整備しデータセンター2棟を併設・稼働は2030年代半ばが目標、市は「事前協議や許認可はまだ」・今のお店の扱いは未定",
+    "link": "https://news.google.com/articles/CBMiakFVX3lxTE1oVzk2dkl0MFpjb3A1WXZ4Ykpra0EwczlEVk1oSFpfUnJPaGpRNWVTXzN6bnRhOE83c3phS0tJRXVMWFBibElwc0J1YzJ1WmhDM1dQMzZVcnpaWUxRUmVpeVV5QzF0dkcza2c?oc=5",
+    "desc": "BIG HOP印西は再開発を計画｜商業施設を先に整備しデータセンター2棟を併設・稼働は2030年代半ばが目標、市は「事前協議や許認可はまだ」・今のお店の扱いは未定  ジモはる",
+    "pub_iso": "2026-11-07T19:25:00+09:00",
+    "pub_str": "2026年11月7日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-07T21:48:26.731465+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【ガリバー鎌ヶ谷店】営業日＆営業時間変更のお知らせガリバー鎌ヶ谷店からのお知らせ G011161791962892481",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE4zRC03WEFGWHpPOFB5T2pxeWFiV0lHbjBjeUZ0Ql8wVllsaE5ZSktJNTlHWEpLZHVmNmw4V09DZHMzR3JFbkRvVEI2dUZJMlMwa1d0NU1CR0I3cDRrLXpTZUpkZjBGUHlyc2RKa2dkT3BqaThVbXpwQW5LOF9CSGM?oc=5",
+    "desc": "【ガリバー鎌ヶ谷店】営業日＆営業時間変更のお知らせガリバー鎌ヶ谷店からのお知らせ G011161791962892481  中古車のガリバー",
+    "pub_iso": "2026-11-07T01:01:24+09:00",
+    "pub_str": "2026年11月7日",
+    "publisher": "中古車のガリバー",
+    "source": "google-news-inzai-oshirase",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-07T21:48:26.731465+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】11月7日（土）～11月20日（金）と11月22日（日）は印西温水センターは全館休館となります",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/07/inzaionsuicenterkyuukan2026/",
+    "pub_str": "2026年11月7日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "市政・行政",
+    "collected_at": "2026-11-07T21:48:26.731465+09:00",
     "retention_type": "regular"
   }
 ]

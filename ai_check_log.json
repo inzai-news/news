@@ -9469,5 +9469,35 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000052.000180020.html",
     "similar_to": "【千葉県 印西市】「思いやりは国境を越える」過去最長のメルボルン研修を終えた中学生20人が、成長を語る報告会を開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261107-2148",
+    "date": "2026-11-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.94,
+    "title": "Minori アート デモンストレーション（2026年11月21日(土)～2026年11月22日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46635&store=chibant",
+    "similar_to": "Minori アート デモンストレーション（2026年11月14日(土)～2026年11月15日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261107-2148",
+    "date": "2026-11-07",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "Minori アート デモンストレーション（2026年11月28日(土)～2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46636&store=chibant",
+    "similar_to": "Minori アート デモンストレーション（2026年11月14日(土)～2026年11月15日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261107-2148",
+    "date": "2026-11-07",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の天気痛予報®︎",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE5nVFNTcVlZSjg1NE5GWHhZZ09kNXBZWHNwT2FiUG9RekRfTFAzZEwxalE3T0labGd1SzFYM0xvYmJ6TGp2N3gxZWcxc3RyN0RFT1E?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
