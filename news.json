@@ -6231,8 +6231,8 @@
     "title": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き",
     "link": "https://news.google.com/articles/CBMiS0FVX3lxTE1oTXVmZTVMYWRCZFFWVjVCbnNfcnFsa0pnUGFpMC01T3lHVUVGUlIydGctRFRuZUtINHpmdkVOemNpbEJIQjlyb2czOA?oc=5",
     "desc": "印西市のいま｜通行止め・休館・催し・開店閉店のまとめ(毎日更新)、台風25号のあとの手続き  ジモはる",
-    "pub_iso": "2026-11-04T17:00:00+09:00",
-    "pub_str": "2026年11月4日",
+    "pub_iso": "2026-10-21T16:00:00+09:00",
+    "pub_str": "2026年10月21日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-oshirase",
     "category": "開発・暮らし",
@@ -7359,7 +7359,7 @@
     "pub_iso": "2026-11-02T12:11:04+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-11-02T14:37:28.438340+09:00",
     "retention_type": "regular"
@@ -7794,5 +7794,28 @@
     "category": "市政・行政",
     "collected_at": "2026-11-07T21:48:26.731465+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "印西▷11月6日オープン！アルカサールに馬肉料理の居酒屋【馬喰ろう 千葉ニュータウン】",
+    "link": "https://chiba-lunch.com/inzai-bakurou-chibanewtown/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-bakurou-chibanewtown",
+    "desc": "千葉ニュータウン中央駅近く、アルカサールにオープンした「馬喰ろう」さん。馬刺しからレア唐揚げ、ステーキまで、さまざまな馬肉料理が楽しめるお店に行ってきました。 馬喰ろう 千葉ニュータウン店 ・2026年11月6日、「らぁ […]\nThe post 印西▷11月6日オープン！アルカサールに馬肉料理の居酒屋【馬喰ろう 千葉ニュータウン】 first appeared on ちばもぐ.",
+    "pub_iso": "2026-11-08T07:48:36+09:00",
+    "pub_str": "2026年11月8日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-inzai",
+    "category": "話題・その他",
+    "collected_at": "2026-11-08T09:33:54.806163+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年12月19日 閉店】茶房 宮﨑邸",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/08/miyazakiteiheiten/",
+    "pub_str": "2026年12月19日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "開店・閉店",
+    "collected_at": "2026-11-08T09:33:54.806163+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年11月8日"
   }
 ]
