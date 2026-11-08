@@ -9499,5 +9499,15 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE5nVFNTcVlZSjg1NE5GWHhZZ09kNXBZWHNwT2FiUG9RekRfTFAzZEwxalE3T0labGd1SzFYM0xvYmJ6TGp2N3gxZWcxc3RyN0RFT1E?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261108-1237",
+    "date": "2026-11-08",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "link": "https://news.google.com/articles/CBMiUkFVX3lxTE5GUWZrNlFUOHQwbnFuMnFaN3RxdUNPdGFaV1pFay1XUUxMMW10SGt5WHlRd21TUzNZUndkWFkzWlEtdzR1c0EyMURVbHFjczFkdmc?oc=5",
+    "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
