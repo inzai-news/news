@@ -9509,5 +9509,25 @@
     "link": "https://news.google.com/articles/CBMiUkFVX3lxTE5GUWZrNlFUOHQwbnFuMnFaN3RxdUNPdGFaV1pFay1XUUxMMW10SGt5WHlRd21TUzNZUndkWFkzWlEtdzR1c0EyMURVbHFjczFkdmc?oc=5",
     "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261109-0905",
+    "date": "2026-11-09",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.88,
+    "title": "コインランドリーで下着を盗もうとした疑い、68歳の男逮捕 被害女性が現場目撃し確保 印西署（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE16WDhjc0dPTTR2QlBMWUFmQ3lQVE9uc244MTZoQ0tTSDhyRmdodElsYmNpSGFud3I1LXllalYycVJSMEVqN0NFd1RobHZ1OUQ3enVsVGwzNlJ0d1lWUHVidkVOMTIxRlRLQlRWNkRLYlo3ekZYRzk0c0huR0c3OUU?oc=5",
+    "similar_to": "コインランドリーで下着を盗もうとした疑い、６８歳の男逮捕 被害女性が現場目撃し確保 印西署（ちばとぴ＆千葉日報）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261109-0906",
+    "date": "2026-11-09",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉ニュータウン中央】11/6（土）イオン前交差点街頭活動「えっ、いわちゃん動画見て、引っ越してきたの!?」",
+    "link": "https://news.google.com/articles/CBMiXEFVX3lxTFByZURhYUVVSGFYa2lDNURoamkwR3FoX2h3SkRjdnJWa0tSUEtqdFJsbjZ5TV9rVjdOUWNERjZuVGRKaXNPdHJ5am5TaFM0b2NTSWNneTJ2cDE4V2dH?oc=5",
+    "similar_to": null,
+    "ai_reason": "政治家個人の街頭活動(街頭演説系)動画告知のため除外"
   }
 ]
