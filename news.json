@@ -1066,7 +1066,7 @@
     "pub_iso": "2026-08-19T16:00:00+09:00",
     "pub_str": "2026年8月19日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-08-19T14:27:23.056866+09:00",
     "retention_type": "regular"
@@ -6674,8 +6674,8 @@
     "title": "つどいの広場事業プロポーザル参加者募集",
     "link": "https://www.city.inzai.lg.jp/0000022781.html",
     "desc": "",
-    "pub_iso": "2026-10-26T00:00:00+09:00",
-    "pub_str": "2026年10月26日",
+    "pub_iso": "2026-11-09T16:46:21+09:00",
+    "pub_str": "2026年11月9日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7850,6 +7850,28 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-09T12:31:53.419792+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【CLUB JAPAN】11月28日（土）臨時休業のお知らせ",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%80%90club-japan%e3%80%9111%e6%9c%8828%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e8%87%a8%e6%99%82%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+    "pub_str": "2026年11月9日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-11-09T18:23:30.902750+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "健康講演会と同日開催　健康チェックコーナーの開催について",
+    "link": "https://www.city.inzai.lg.jp/0000022831.html",
+    "desc": "",
+    "pub_iso": "2026-11-09T16:53:57+09:00",
+    "pub_str": "2026年11月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-09T18:23:30.902750+09:00",
     "retention_type": "regular"
   }
 ]
