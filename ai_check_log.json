@@ -9549,5 +9549,15 @@
     "link": "https://news.google.com/articles/CBMibkFVX3lxTE9xYURBX1pUTHVNQXFLTTQ1VW1jeVh5U3ZqN1ZCMVY3Zjg2S09fWkMxQXVhd0s3YVJrWkRkeWlNaFBGdFNsTXZxVWNyX1ZOc1ZLVTRiaVgzUlZ2UEdqUTh6WGpJSkhwS3pPQUJDbmRn?oc=5",
     "similar_to": null,
     "ai_reason": "既に採用済みの同一事件(コインランドリー下着盗未遂、68歳逮捕、印西署)の別配信のため重複除外"
+  },
+  {
+    "run_ts": "20261110-0015",
+    "date": "2026-11-10",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "link": "https://prtimes.jp/main/html/rd/p/000000051.000180020.html",
+    "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
