@@ -7829,5 +7829,27 @@
     "category": "話題・その他",
     "collected_at": "2026-11-08T22:37:20.736713+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "書・絵画即売会",
+    "link": "https://chibanewtown.aeonmall.jp/event/3deaa0e9-33f9-4c88-b807-722a31331866",
+    "pub_str": "2026年11月9日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-09T12:31:53.419792+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市は市制施行30周年を迎えました　記念事業を紹介",
+    "link": "https://www.city.inzai.lg.jp/0000021529.html",
+    "desc": "",
+    "pub_iso": "2026-11-09T10:35:16+09:00",
+    "pub_str": "2026年11月9日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-09T12:31:53.419792+09:00",
+    "retention_type": "regular"
   }
 ]
