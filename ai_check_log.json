@@ -9529,5 +9529,15 @@
     "link": "https://news.google.com/articles/CBMiXEFVX3lxTFByZURhYUVVSGFYa2lDNURoamkwR3FoX2h3SkRjdnJWa0tSUEtqdFJsbjZ5TV9rVjdOUWNERjZuVGRKaXNPdHJ5am5TaFM0b2NTSWNneTJ2cDE4V2dH?oc=5",
     "similar_to": null,
     "ai_reason": "政治家個人の街頭活動(街頭演説系)動画告知のため除外"
+  },
+  {
+    "run_ts": "20261109-0937",
+    "date": "2026-11-09",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "下着を盗もうとした疑い　印西署、自称会社員６８歳逮捕",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTE9teDBBSy1rTTk1WEVRY2FwTi1RQWUxYUxaRUpZVFBjRzhUNTRaV0tSdE11MzhIcFBldVZlZDhxaWdlODVEQVJlTjV2cGFLVG91UENPMHk3MWFCLUM2ODdfODNpQ2ZZOE5JTi1OdURUVUJMNlhRbHVjRXA0bHNNZ9IBgwFBVV95cUxONzVlZUt0U3Fpa2FTcGlPQ3g0OVJFdGdPbllaMnRnZXoyTTlZQWhlUkY3UFYxLXZMQkxCVUtyc2hnVEhvWGJWSjlXTzVQMHNqb25FdmxFdmttMU1ESDBqVmM2THBKMERLbWUzb0x3bVhEYW9NcDVLLWtETnAxUk1fS3lOUQ?oc=5",
+    "similar_to": null,
+    "ai_reason": "既に採用済みの同一事件(コインランドリー下着盗未遂、68歳逮捕、印西署)の別配信のため重複除外"
   }
 ]
