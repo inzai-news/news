@@ -9609,5 +9609,35 @@
     "link": "https://news.google.com/articles/CBMi0wFBVV95cUxQeFAtdjZMYmo4b09IeVZ1WVhmRDFHZ0o0NHExazFXcWU4WlRQaHVGMEYwamU5ODA3OTJBalI3anB5TEpoMy1yX3p0ZmJjV1NFdG5sYU5VNXVfSDUxU2U2c2Nib0J2V2NFX0RWRWpvMWtzblR5cnR6WkJUUzJCZWNQckxYUEVoaUxvekQzcXV2QVlsVmExR3ZHLTFyLURyQ0pRX0drWW5yUFI0cWIxSmZsTFlFYjBTVjRxYnlmSHoxdlBRRnRFeV9CWkpweU9lcGhpTjEw0gGDAUFVX3lxTE4tZDRMZGhiM19UQUQxUHZ2M21NN0ZJT0puYUh3Ql8zdE5LUVNLWmlsRGRESTBEcEVORzRaQzVVYnMwZXFLMlJRRzloczJWNkp0bmN3bnNaQVUtcHN0N2VkR3I5OFdtc0NLdVlySG5WZFlzV1NuWV8zX3lBcGxzSW8wY1FR?oc=5",
     "similar_to": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
     "ai_reason": "同一のちばとぴ記事がYahoo!ニュース経由でも採用済みのため手動で重複除外"
+  },
+  {
+    "run_ts": "20261111-0849",
+    "date": "2026-11-11",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.87,
+    "title": "商業施設で盗撮未遂の疑い、64歳の男逮捕 「保存して女性の下着を見たいと思った」 印西（千葉日報オンライン）",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTFBObmgxU1pFeS05akxCWE85eXdBMDlJR3pFMmJodzc5TGEwSWhmZmlxYVVBT0tFbEtRMXVYbTZid05rMGc0Y1JzbnRpZHNRbEtHYVdHN1VVR3FGckZYR2lzVlVuYkN5N2VtUThCYlRoWlFldkJ1dkFRaUJSOUNjbnM?oc=5",
+    "similar_to": "商業施設で盗撮未遂の疑い、６４歳の男逮捕 「保存して女性の下着を見たいと思った」 印西（ちばとぴ＆千葉日報）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261111-0849",
+    "date": "2026-11-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "商業施設で盗撮未遂の疑い、６４歳の男逮捕 「保存して女性の下着を見たいと思った」 印西（ちばとぴ＆千葉日報）",
+    "link": "https://news.google.com/articles/CBMid0FVX3lxTFBCZDZjR1ltbEhxR3NaVWpENGpUNXlCMUllRlNBUVAxaVc0NTllQWlpc21WcVc1bHZPelJuSHlRWkhXRjd1XzFhM0JTcTM1Z05hM2RHM2NEc0d1YWdXMzVGSEJJSUloZDU0VktCYkE1WExHNE92T0Zz?oc=5",
+    "similar_to": null,
+    "ai_reason": "採用済みの「印西市中央北でスカート内盗撮未遂 11月8日［解決］」と同一事件の続報のため重複除外"
+  },
+  {
+    "run_ts": "20261111-0849",
+    "date": "2026-11-11",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西冬のイルミ、１１月１４日点灯式　９年目は４０万球　マルシェやキッチンカーも",
+    "link": "https://news.google.com/articles/CBMifkFVX3lxTFBhckdfdXRfNy1PX2VOSGV3b2cwYlBqR1pEdFh2YUh5WGpLY1JHaDRNeWFwMmd2U3AxaV9BNkp5N3A3YVpGWXFnbzc2Q0JsajJXX0hIVUR5OGpSODJnWktPX0dEckxVSGk3SlRUSWNmWFhBaDJjaDZhNnhTcS1Od9IBgwFBVV95cUxOLWQ0TGRoYjNfVEFEMVB2djNtTTdGSU9KbmFId0JfM3ROS1FTS1ppbERkREkwRHBFTkc0WkM1VWJzMGVxSzJSUUc5aHMyVjZKdG5jd25zWkFVLXBzdDdlZEdyOThXbXNDS3VZckhuVmRZc1dTbllfM195QXBsc0lvMGNRUQ?oc=5",
+    "similar_to": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
+    "ai_reason": "同一のちばとぴ記事がYahoo!ニュース経由で採用済み(Google Newsが別リンクで再配信)のため手動で重複除外"
   }
 ]
