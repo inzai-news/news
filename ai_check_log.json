@@ -9579,5 +9579,15 @@
     "link": "https://chiba-lunch.com/yachiyo-inzai-narashino-ramen-mitsuba/?utm_source=rss&utm_medium=rss&utm_campaign=yachiyo-inzai-narashino-ramen-mitsuba",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261110-1652",
+    "date": "2026-11-10",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.83,
+    "title": "【印西市送迎保育ステーション】令和9年度利用希望者説明会について",
+    "link": "https://www.city.inzai.lg.jp/0000022881.html",
+    "similar_to": "印西市送迎保育ステーション　令和9年度利用者募集について",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
