@@ -7885,5 +7885,27 @@
     "category": "市政・行政",
     "collected_at": "2026-11-10T09:17:47.553914+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "印西市小中学校特別支援学級 イオンモール販売会",
+    "link": "https://chibanewtown.aeonmall.jp/event/d5619443-265b-4b15-b6a4-7e056493bd27",
+    "pub_str": "2026年11月10日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-10T12:27:09.720319+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "コンビニ交付サービス（戸籍・附票・利用登録申請）が利用できません",
+    "link": "https://www.city.inzai.lg.jp/0000021450.html",
+    "desc": "",
+    "pub_iso": "2026-11-10T09:17:42+09:00",
+    "pub_str": "2026年11月10日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-10T12:27:09.720319+09:00",
+    "retention_type": "regular"
   }
 ]
