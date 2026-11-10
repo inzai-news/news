@@ -9589,5 +9589,25 @@
     "link": "https://www.city.inzai.lg.jp/0000022881.html",
     "similar_to": "印西市送迎保育ステーション　令和9年度利用者募集について",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261110-2037",
+    "date": "2026-11-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "イルミライ★INZAI 2026は11/14〜1/3｜千葉ニュータウン中央駅で約40万球、点灯16〜21時",
+    "link": "https://news.google.com/articles/CBMiVEFVX3lxTE1wZGs5c3U0LXBWbHFBbFM0dWlDcUFQbHpldlRRQmtqVld2bGlTY2FrZ1ZpcFNTVHE5eHFrTWZmR3gySVJGMERmZlh2clFmNzhwY2w3eg?oc=5",
+    "similar_to": null,
+    "ai_reason": "イルミライ★INZAI点灯式はPR TIMES・いこーよ・ちばとぴ等で既に採用済み、新情報なしの重複のため除外"
+  },
+  {
+    "run_ts": "20261110-2037",
+    "date": "2026-11-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西冬のイルミ、１１月１４日点灯式　９年目は４０万球　マルシェやキッチンカーも",
+    "link": "https://news.google.com/articles/CBMi0wFBVV95cUxQeFAtdjZMYmo4b09IeVZ1WVhmRDFHZ0o0NHExazFXcWU4WlRQaHVGMEYwamU5ODA3OTJBalI3anB5TEpoMy1yX3p0ZmJjV1NFdG5sYU5VNXVfSDUxU2U2c2Nib0J2V2NFX0RWRWpvMWtzblR5cnR6WkJUUzJCZWNQckxYUEVoaUxvekQzcXV2QVlsVmExR3ZHLTFyLURyQ0pRX0drWW5yUFI0cWIxSmZsTFlFYjBTVjRxYnlmSHoxdlBRRnRFeV9CWkpweU9lcGhpTjEw0gGDAUFVX3lxTE4tZDRMZGhiM19UQUQxUHZ2M21NN0ZJT0puYUh3Ql8zdE5LUVNLWmlsRGRESTBEcEVORzRaQzVVYnMwZXFLMlJRRzloczJWNkp0bmN3bnNaQVUtcHN0N2VkR3I5OFdtc0NLdVlySG5WZFlzV1NuWV8zX3lBcGxzSW8wY1FR?oc=5",
+    "similar_to": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
+    "ai_reason": "同一のちばとぴ記事がYahoo!ニュース経由でも採用済みのため手動で重複除外"
   }
 ]
