@@ -6129,8 +6129,8 @@
     "title": "千葉ニュータウン中央駅前公共空間利活用",
     "link": "https://www.city.inzai.lg.jp/0000022679.html",
     "desc": "",
-    "pub_iso": "2026-10-22T19:28:23+09:00",
-    "pub_str": "2026年10月22日",
+    "pub_iso": "2026-11-10T08:37:55+09:00",
+    "pub_str": "2026年11月10日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7373,7 +7373,7 @@
     "pub_iso": "2026-11-03T21:51:00+09:00",
     "pub_str": "2026年11月3日",
     "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-11-03T22:37:25.510810+09:00",
     "retention_type": "regular"
@@ -7674,7 +7674,7 @@
     "title": "牧の原公園の未来をみんなで描く ワークショップ参加者募集",
     "link": "https://www.city.inzai.lg.jp/0000022821.html",
     "desc": "",
-    "pub_iso": "2026-11-06T18:45:23+09:00",
+    "pub_iso": "2026-11-06T00:00:01+09:00",
     "pub_str": "2026年11月6日",
     "publisher": "印西市",
     "source": "inzai-city-official",
@@ -7862,6 +7862,28 @@
     "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-11-10T00:15:30.726042+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】北京オリンピック日本代表の堀籠佳宏さんによる無料講座 「オリンピックと科学～健康づくりの最新理論～」が11月14日（土）中央公民館で開催されます！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/10/olympicandscience/",
+    "pub_str": "2026年11月10日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-10T09:17:47.553914+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西牧の原駅圏の地区計画の変更等に係る説明会を開催しました",
+    "link": "https://www.city.inzai.lg.jp/0000022845.html",
+    "desc": "",
+    "pub_iso": "2026-11-10T09:09:14+09:00",
+    "pub_str": "2026年11月10日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-10T09:17:47.553914+09:00",
     "retention_type": "regular"
   }
 ]

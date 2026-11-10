@@ -9559,5 +9559,25 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000051.000180020.html",
     "similar_to": "【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261110-0917",
+    "date": "2026-11-10",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "（千葉）印西市中央北でスカート内盗撮未遂　１１月８日［解決］",
+    "link": "https://news.google.com/articles/CBMinAFBVV95cUxOTU1jZW5IUnkwY0M5Ri1aQ1VoX2E4cUJSekJtM1doaGNmLVc3bG1pT1dfUDM0YzdBYnB6NTQ0b0loLTBtSWpGemw1TDVnbU1adXY4cU5RVDV3UzZGUnV4Mld3LVFHbFg0d3hSWjdHU182SGtvbWhTSmZXbXQ2UnhIOFNkVXU1QXlRcVRaZVlYajZwQzY1WG5aN3M1TFXSAaIBQVVfeXFMTjVMbGJQbDluc0tPXzczaEtFQ0VkSVFETlR6cXl3OHFkcUpuVlJrcEt6Q20teDJjcmcxQ3pWRElLVzlDMF9PbHQzZ1p4SFJzYzUxMEpMRzVOZDJNZVdleGpCTzdKOThJWV90QTJMQmlLbWZNZEEzRlpaamF3Z1RWT21kbGpNTHhlaEZ6d3hQWDEzbDVDNnZMTHhET0VuZE9vSERn?oc=5",
+    "similar_to": "（千葉）印西市中央北でスカート内盗撮未遂　１１月８日［解決］",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261110-0917",
+    "date": "2026-11-10",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "八千代・印西▷美味いと評判！キッチンカーの煮干しらーめんと冷やし中華｜メニュー【らーめん 三つ葉】",
+    "link": "https://chiba-lunch.com/yachiyo-inzai-narashino-ramen-mitsuba/?utm_source=rss&utm_medium=rss&utm_campaign=yachiyo-inzai-narashino-ramen-mitsuba",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
