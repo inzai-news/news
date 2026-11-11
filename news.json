@@ -7394,7 +7394,7 @@
     "pub_iso": "2026-11-04T10:30:01+09:00",
     "pub_str": "2026年11月4日",
     "publisher": "PR TIMES",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "市政・行政",
     "collected_at": "2026-11-04T12:33:35.389263+09:00",
     "retention_type": "regular"
@@ -7573,8 +7573,8 @@
     "title": "市制施行30周年記念 イルミライ★INZAI　点灯式（11月14日）について",
     "link": "https://www.city.inzai.lg.jp/0000022848.html",
     "desc": "",
-    "pub_iso": "2026-11-10T18:25:55+09:00",
-    "pub_str": "2026年11月10日",
+    "pub_iso": "2026-11-11T09:16:35+09:00",
+    "pub_str": "2026年11月11日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7907,6 +7907,41 @@
     "source": "google-news-inzai-oshirase",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-11-11T08:49:08.464146+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "世界にひとつだけのニベア缶を作ろう（2026年11月21日(土)～2026年11月22日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46697&store=chibant",
+    "pub_str": "2026年11月11日",
+    "event_end_date": "2026-11-22",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-11T09:37:19.493516+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年9月1日から生活道路における自動車の法定速度が時速30キロメートルに引き下げられました",
+    "link": "https://www.city.inzai.lg.jp/0000022075.html",
+    "desc": "",
+    "pub_iso": "2026-11-11T09:24:38+09:00",
+    "pub_str": "2026年11月11日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-11T09:37:19.493516+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市いじめ問題対策連絡協議会開催結果",
+    "link": "https://www.city.inzai.lg.jp/0000022864.html",
+    "desc": "",
+    "pub_iso": "2026-11-11T09:00:00+09:00",
+    "pub_str": "2026年11月11日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-11T09:37:19.493516+09:00",
     "retention_type": "regular"
   }
 ]
