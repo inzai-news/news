@@ -9639,5 +9639,95 @@
     "link": "https://news.google.com/articles/CBMifkFVX3lxTFBhckdfdXRfNy1PX2VOSGV3b2cwYlBqR1pEdFh2YUh5WGpLY1JHaDRNeWFwMmd2U3AxaV9BNkp5N3A3YVpGWXFnbzc2Q0JsajJXX0hIVUR5OGpSODJnWktPX0dEckxVSGk3SlRUSWNmWFhBaDJjaDZhNnhTcS1Od9IBgwFBVV95cUxOLWQ0TGRoYjNfVEFEMVB2djNtTTdGSU9KbmFId0JfM3ROS1FTS1ppbERkREkwRHBFTkc0WkM1VWJzMGVxSzJSUUc5aHMyVjZKdG5jd25zWkFVLXBzdDdlZEdyOThXbXNDS3VZckhuVmRZc1dTbllfM195QXBsc0lvMGNRUQ?oc=5",
     "similar_to": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
     "ai_reason": "同一のちばとぴ記事がYahoo!ニュース経由で採用済み(Google Newsが別リンクで再配信)のため手動で重複除外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "世界にひとつだけのニベア缶を作ろう！2026（2026年11月21日(土)～2026年11月23日(月)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46742&store=chibant",
+    "similar_to": "世界にひとつだけのニベア缶を作ろう（2026年11月21日(土)～2026年11月22日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.93,
+    "title": "季節の絵柄を使って　          グラスデコ作り（2026年12月06日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46745&store=chibant",
+    "similar_to": "季節の絵柄を使って　          グラスデコ作り（2026年11月15日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.89,
+    "title": "はじめてのミニ四駆作り！（2026年12月13日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46736&store=chibant",
+    "similar_to": "はじめてのミニ四駆作り！（2026年11月29日(日)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.91,
+    "title": "牧の原小学校アフタースクール保護者説明会を開催しました。",
+    "link": "https://www.city.inzai.lg.jp/0000022755.html",
+    "similar_to": "滝野小学校アフタースクール保護者説明会を開催しました。",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市文化ホールの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTFBzVnFRNlN6OEhSLUpPU0wwVlBZVWFJTWxEMW5vNXEtdE5nUjFjSFo1SlZydUpWc0pwbXI4SE5acGpoZ2M1WnVvVjY3ZTZLSVd6?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西牧の原駅の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE1hMWVkWS1FSXhVS19DUUh4aUxEcFNCaVFZWm9MaG9xMlhnTVZnN2RLY2p1bk8zZ1hSald6UlZ5RTRPU3g0YjBxUFB5VzRONFBP?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "Minori原画展（2026年11月14日(土)～2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46690&store=chibant",
+    "similar_to": "Minori アート デモンストレーション（2026年11月14日(土)～2026年11月15日(日)）",
+    "ai_reason": "原画展(11/14-29)とアートデモ(11/14-15)は別イベント"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "ケルヒャー製品体験会（2026年12月12日(土)～2026年12月13日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46752&store=chibant",
+    "similar_to": "桐下駄市（2026年12月05日(土)～2026年12月13日(日)）",
+    "ai_reason": "ケルヒャー体験会と桐下駄市は別イベント"
+  },
+  {
+    "run_ts": "20261113-2225",
+    "date": "2026-11-13",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "※開催中止※【千葉県印西市】来場者15,000人の人気イベントがリニューアル！「INZAIまちフェス」を10月11日に開催します",
+    "link": "https://prtimes.jp/main/html/rd/p/000000038.000180020.html",
+    "similar_to": "【開催中止】INZAIまちフェス",
+    "ai_reason": "同一PR TIMESリリースが既に複数経路で採用済み・イベント(10/11)は中止済みのため手動で重複除外"
   }
 ]
