@@ -438,76 +438,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "【白井市】8月15日（土）「わんダーランド サマーナイトフェスティバル2026」が白井総合公園で開催！ 縁日やキッチンカー、ものまねやマジックショーもあり！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/13/wanderlandsummernightfestival2026/",
-    "pub_str": "2026年8月13日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "鎌ヶ谷・白井",
-    "collected_at": "2026-08-13T09:45:53.797372+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "空・水・空芸術祭　ボランティアサポーターを募集します！",
-    "link": "https://www.city.inzai.lg.jp/0000022290.html",
-    "desc": "",
-    "pub_iso": "2026-08-13T13:32:36+09:00",
-    "pub_str": "2026年8月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-13T14:43:48.641425+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "「空・水・空芸術祭」を開催します",
-    "link": "https://www.city.inzai.lg.jp/0000021502.html",
-    "desc": "",
-    "pub_iso": "2026-08-13T13:32:15+09:00",
-    "pub_str": "2026年8月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-13T14:43:48.641425+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "空・水・空芸術祭　作品募集",
-    "link": "https://www.city.inzai.lg.jp/0000021903.html",
-    "desc": "",
-    "pub_iso": "2026-08-13T13:31:38+09:00",
-    "pub_str": "2026年8月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-13T14:43:48.641425+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "大雨（8月13日）係る避難所情報",
-    "link": "https://www.city.inzai.lg.jp/0000022004.html",
-    "desc": "",
-    "pub_iso": "2026-08-13T19:44:11+09:00",
-    "pub_str": "2026年8月13日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-13T21:11:14.371152+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める",
-    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9qUkJ0cDFiTkhuWVBVdjNtblhlb2V0SS01bGZWVEViTnlZTldqbVZtSlFvQlJlbG5TUHRCd2QwcnJSRDJYN21aRHp6cWh2ODBjVXQ0cFhwNDhIeEM4aEJn?oc=5",
-    "desc": "千葉 印西 土砂崩れや道路冠水の情報 市が確認進める  NHKニュース",
-    "pub_iso": "2026-08-13T20:58:58+09:00",
-    "pub_str": "2026年8月13日",
-    "publisher": "NHKニュース",
-    "source": "google-news-inzai-chiba",
-    "category": "開発・暮らし",
-    "collected_at": "2026-08-13T21:11:14.371152+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "Inzai Newsletter【やさしい日本語版】～外国人市民のための広報紙～",
     "link": "https://www.city.inzai.lg.jp/0000015769.html",
     "desc": "",
@@ -8074,6 +8004,16 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-11-13T22:25:24.560883+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【鎌ケ谷市】11月15日（日）「ここねマルシェ」がピーシーデポスマートライフ鎌ヶ谷BASEで開催！ ハンドメイド雑貨や癒し・スイーツのお店やキッチンカーもやってくる！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/14/coconemarche2026nov/",
+    "pub_str": "2026年11月14日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-14T08:40:36.067721+09:00",
     "retention_type": "regular"
   }
 ]

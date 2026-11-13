@@ -9729,5 +9729,15 @@
     "link": "https://prtimes.jp/main/html/rd/p/000000038.000180020.html",
     "similar_to": "【開催中止】INZAIまちフェス",
     "ai_reason": "同一PR TIMESリリースが既に複数経路で採用済み・イベント(10/11)は中止済みのため手動で重複除外"
+  },
+  {
+    "run_ts": "20261114-0840",
+    "date": "2026-11-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷ジョイフル本田 千葉ニュータウンに、ボリューム満点おしゃれイタリアン｜メニュー【ザ プレストンカフェ】",
+    "link": "https://chiba-lunch.com/inzai-joyfulhonda-chibanewtown-prestoncafe/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-joyfulhonda-chibanewtown-prestoncafe",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
