@@ -9739,5 +9739,25 @@
     "link": "https://chiba-lunch.com/inzai-joyfulhonda-chibanewtown-prestoncafe/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-joyfulhonda-chibanewtown-prestoncafe",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261114-2209",
+    "date": "2026-11-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市の不快指数",
+    "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1GeURwVXY4ZzFrUlRfODB3REdkRzdybWpvcWZYTTNvT0k3aEwwY0R5RV83a1lrWlNzYk1Pc3Q0eWpKWWtGYWlWMGdET29iWndzeU5LY3M2a3U4VEstSlhPYzVn?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261114-2209",
+    "date": "2026-11-14",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西の「イルミライ」、40万球で街照らす 千葉NT中央駅周辺、1月3日まで",
+    "link": "https://news.google.com/articles/CBMiVkFVX3lxTE91WjVLWVd1dUlTam5jVTZBcEg0U2QyYnNaSzZ0RXlETXc4T28xcEJtM01CWHBOcUh5TlM2QzZEdk5QNjRucEtEVWw2eHlVR3FsZE5CRENn?oc=5",
+    "similar_to": null,
+    "ai_reason": "イルミライ★INZAIは既に多数採用済み(PR TIMES・いこーよ・ちばとぴ・号外NET・ジモはるまとめ等)の重複のため除外"
   }
 ]

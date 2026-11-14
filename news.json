@@ -6513,7 +6513,7 @@
     "pub_iso": "2026-10-27T16:00:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-27T18:27:01.916456+09:00",
     "retention_type": "regular"
@@ -7463,7 +7463,7 @@
     "title": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）",
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE83cWZxUG53YTdlTmpMT1ZXRWFDaDdIbGlPWUEzWng2UGhOTlQzbmwwMXM2MmRxX2FqTWluVkZhM3Q0RG1DRWFCdnlIck51VFZQYUNEZHFxWUlaMlpER090ODBmelhQVnhMalRwdWkwZFVldTI3blBIa0ZkYXJqMk0?oc=5",
     "desc": "印西冬のイルミ、11月14日点灯式 9年目は40万球 マルシェやキッチンカーも（ちばとぴ！ニュース）  Yahoo!ニュース",
-    "pub_iso": "2026-11-06T19:02:14+09:00",
+    "pub_iso": "2026-11-06T17:00:00+09:00",
     "pub_str": "2026年11月6日",
     "publisher": "Yahoo!ニュース",
     "source": "google-news-inzai-shi",
@@ -7691,7 +7691,7 @@
     "pub_iso": "2026-11-10T21:35:00+09:00",
     "pub_str": "2026年11月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-event",
     "category": "イベント・文化",
     "collected_at": "2026-11-11T08:49:08.464146+09:00",
     "retention_type": "regular"
@@ -8024,6 +8024,30 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "鎌ヶ谷・白井",
     "collected_at": "2026-11-14T12:33:21.681611+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める",
+    "link": "https://news.google.com/articles/CBMidEFVX3lxTE96NWhYX04tWkJ2bTZYaUwwcmtuOUVZR19mY3FTVFBuT2Y4VzBYMzdSLU44NEZ1eDZtaTFKRXpERVF5SjdEdk11cUV0U0NXYWRac0tmblNHbC1pRFdfOGViN1hmQVdFOGZEcHdXZUlwYU5GZHdq?oc=5",
+    "desc": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める  Gizmodo",
+    "pub_iso": "2026-11-14T18:30:00+09:00",
+    "pub_str": "2026年11月14日",
+    "publisher": "Gizmodo",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-14T22:09:10.792085+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "イオンモール千葉ニュータウンのバス時刻表｜千葉NT中央駅から木下駅・高花・印西牧の原駅の全便と帰りの最終",
+    "link": "https://news.google.com/articles/CBMiaEFVX3lxTE5WWTM4SUx2bGpIUzdmZ0Jxbkt3Z2M5SkNUeDQwenI2NnBWYkNrUE1CYUVpS0h0MUNJMUhmc2ZYUGlaQVVCS29QV2J6WXJfSm9mTHB4UXpSSk0ySFV5eVFqQ3Jway1hbmZq?oc=5",
+    "desc": "イオンモール千葉ニュータウンのバス時刻表｜千葉NT中央駅から木下駅・高花・印西牧の原駅の全便と帰りの最終  ジモはる",
+    "pub_iso": "2026-11-11T20:10:00+09:00",
+    "pub_str": "2026年11月11日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-14T22:09:10.792085+09:00",
     "retention_type": "regular"
   }
 ]
