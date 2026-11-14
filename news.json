@@ -56,17 +56,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "パスポートのオンライン申請　システムメンテナンスについて",
-    "link": "https://www.city.inzai.lg.jp/0000021804.html",
-    "desc": "",
-    "pub_iso": "2026-08-14T10:00:01+09:00",
-    "pub_str": "2026年8月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "retention_type": "regular"
-  },
-  {
     "title": "地域包括支援センター通信",
     "link": "https://www.city.inzai.lg.jp/0000020313.html",
     "desc": "市内の地域包括支援センターそれぞれで通信を発行しています。ぜひ、ご覧ください。",
@@ -462,42 +451,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "『初めての手話講習会』を開催します。",
-    "link": "https://www.city.inzai.lg.jp/0000022135.html",
-    "desc": "初めての手話講習会（全8回）のご案内ページです。",
-    "pub_iso": "2026-08-14T00:00:00+09:00",
-    "pub_str": "2026年8月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-14T09:04:25.941060+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【令和8年8月16日（日曜日）】市制施行30周年記念事業HORNS UP FESを開催します",
-    "link": "https://www.city.inzai.lg.jp/0000022341.html",
-    "desc": "",
-    "pub_iso": "2026-08-14T13:03:56+09:00",
-    "pub_str": "2026年8月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-14T15:37:35.663672+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "8月14日の家庭ごみの収集は通常どおり行われます",
-    "link": "https://www.city.inzai.lg.jp/0000022345.html",
-    "desc": "",
-    "pub_iso": "2026-08-14T09:00:00+09:00",
-    "pub_str": "2026年8月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-14T15:37:35.663672+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "【2026年08月30日 閉店】牧の原テーブル レストラン/ショップ",
     "link": "https://www.makinohara-more.com/event-topics/%e7%89%a7%e3%81%ae%e5%8e%9f%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%ef%bc%8f%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%80%80%e9%96%89%e5%ba%97%e3%81%ae%e3%81%8a/",
     "pub_str": "2026年08月30日",
@@ -508,28 +461,6 @@
     "announce_str": "2026年8月14日",
     "collected_at": "2026-08-14T18:47:20.431959+09:00",
     "retention_type": "store_event"
-  },
-  {
-    "title": "いんざいふるさと産業まつりの見直しについて",
-    "link": "https://www.city.inzai.lg.jp/0000022246.html",
-    "desc": "",
-    "pub_iso": "2026-08-14T16:00:00+09:00",
-    "pub_str": "2026年8月14日",
-    "publisher": "印西市",
-    "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-14T18:47:20.431959+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】「ココハレまつり2026～わっしょいをめでる。～」が8月15日（土）イオンモール千葉ニュータウンで開催！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/14/kocoharematsuri2026/",
-    "pub_str": "2026年8月14日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-08-14T22:38:51.988538+09:00",
-    "retention_type": "regular"
   },
   {
     "title": "師戸・江川線の通行止めは解除いたしました。（令和8年8月17日更新）",
@@ -547,8 +478,8 @@
     "title": "【新号発刊】web版議会だより（令和8年度）",
     "link": "https://www.city.inzai.lg.jp/0000021658.html",
     "desc": "",
-    "pub_iso": "2026-08-15T00:00:00+09:00",
-    "pub_str": "2026年8月15日",
+    "pub_iso": "2026-11-15T00:00:00+09:00",
+    "pub_str": "2026年11月15日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7466,7 +7397,7 @@
     "pub_iso": "2026-11-06T17:00:00+09:00",
     "pub_str": "2026年11月6日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "イベント・文化",
     "collected_at": "2026-11-07T21:48:26.731465+09:00",
     "retention_type": "regular"
@@ -7691,7 +7622,7 @@
     "pub_iso": "2026-11-10T21:35:00+09:00",
     "pub_str": "2026年11月10日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-event",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-11-11T08:49:08.464146+09:00",
     "retention_type": "regular"
