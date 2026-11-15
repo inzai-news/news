@@ -109,6 +109,7 @@ AI判定除去件数  ：{apply-reviewの「除外」件数}
 ## 既知の制約
 
 - **Google News URL解決は不可能**: `news.google.com/rss/articles/...` は実際のニュースサイトへリダイレクトを解決できない（bot対策）。`/rss/articles/` → `/articles/` への文字列変換のみ行い、リンク先がGoogle Newsのままであることを許容する。
+- **重複判定のタイトル正規化**（2026-11-15追加）: 同一記事がLINE NEWS/ｄメニュー/au Webポータル/Yahoo!/PR TIMES直リンク等の複数アグリゲーター経由で届き、全角/半角・空白・末尾の「（ちばとぴ！ニュース）」等の出典括弧・先頭の「【PR TIMES …】」の差で重複判定をすり抜けていたため、`normalize_title_for_dedup()`（NFKC＋上記の除去＋空白除去）を`title_similarity()`とタイトル完全一致の事前重複排除の両方に適用した。また除外記憶をリンク単位(`load_excluded_links()`)に加えて正規化タイトル単位(`load_excluded_titles()`、`EXCLUDED_TITLE_MIN_LEN`=15文字以上のみ)でも持つようにし、Google Newsが再配信時に新しいリンクを発行しても一度除外した記事が再出現しないようにした。
 - **paywallチェック機能は持たない**: 旧`articles_cache.json`は前述の制約により実質機能していなかったため廃止した。
 - **標準出力バッファリング**: `pipeline.py`は `sys.stdout.reconfigure(line_buffering=True)` を維持している。
 - **アトミック書き込み**: JSON保存は一時ファイル＋`os.replace`＋読み直し検証の方式（`save_json_atomic`）を維持している。
