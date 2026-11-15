@@ -182,8 +182,32 @@ def is_expired(item: dict, today=None) -> bool:
     return pub_date < cutoff
 
 
+# 重複判定用タイトル正規化(2026-11-15追加)。同一記事がLINE NEWS/ｄメニュー/au Webポータル/
+# Yahoo!/PR TIMES直リンク等の複数アグリゲーター経由で届き、全角/半角数字・空白の違いや
+# 末尾の「（ちばとぴ！ニュース）」「(2026年9月14日掲載)」等の出典サフィックス、
+# 先頭の「【PR TIMES ...】」接頭辞の差で類似度判定をすり抜けていたため、比較前に揃える。
+_DEDUP_TRAILING_PAREN = re.compile(r"\s*[\(（][^()（）]{1,30}[\)）]\s*$")
+_DEDUP_LEADING_PRTIMES = re.compile(r"^【PR TIMES[^】]*】")
+_DEDUP_TRAILING_PUBLISHER = re.compile(r"\s+[-‐－|｜]\s+[^-‐－|｜]{1,30}$")
+
+
+def normalize_title_for_dedup(title: str) -> str:
+    t = unicodedata.normalize("NFKC", title or "").strip()
+    t = _DEDUP_LEADING_PRTIMES.sub("", t)
+    t = _DEDUP_TRAILING_PUBLISHER.sub("", t)
+    # 末尾の括弧サフィックスは複数連なることがあるので繰り返し除去
+    for _ in range(3):
+        stripped = _DEDUP_TRAILING_PAREN.sub("", t)
+        if stripped == t or not stripped:
+            break
+        t = stripped
+    return re.sub(r"\s+", "", t)
+
+
 def title_similarity(a: str, b: str) -> float:
-    return difflib.SequenceMatcher(None, a or "", b or "").ratio()
+    return difflib.SequenceMatcher(
+        None, normalize_title_for_dedup(a), normalize_title_for_dedup(b)
+    ).ratio()
 
 
 def save_json_atomic(path: Path, data) -> None:
@@ -230,6 +254,26 @@ def load_excluded_links() -> set:
     """
     log = load_json(AI_LOG_PATH, [])
     return {e["link"] for e in log if e.get("ai_decision") in ("auto_exclude", "exclude")}
+
+
+# タイトル単位の除外記憶に使う最小長。短い汎用タイトル(「お知らせ」等)が
+# 一度除外されただけで以後の別記事まで弾かれないようにするため。
+EXCLUDED_TITLE_MIN_LEN = 15
+
+
+def load_excluded_titles() -> set:
+    """除外済み記事の正規化タイトル集合(2026-11-15追加)。
+    Google Newsは再配信時に別のarticles URLを発行するため、リンク単位の除外記憶だけでは
+    一度手動除外した重複記事が新リンクで再出現してしまう(ｄメニューの記事で実例あり)。
+    """
+    log = load_json(AI_LOG_PATH, [])
+    titles = set()
+    for e in log:
+        if e.get("ai_decision") in ("auto_exclude", "exclude"):
+            key = normalize_title_for_dedup(e.get("title", ""))
+            if len(key) >= EXCLUDED_TITLE_MIN_LEN:
+                titles.add(key)
+    return titles
 
 
 NEW_BADGE_WINDOW_HOURS = 3
@@ -1293,7 +1337,7 @@ def cmd_collect(args):
     deduped_candidates = []
     exact_dup_count = 0
     for item in candidates:
-        key = item["title"].strip()
+        key = normalize_title_for_dedup(item["title"])
         if key in seen_titles:
             exact_dup_count += 1
             continue
@@ -1318,6 +1362,7 @@ def cmd_collect(args):
     existing_queue = load_json(REVIEW_QUEUE_PATH, [])
     pending_review_links = {e["item"]["link"] for e in existing_queue}
     excluded_links = load_excluded_links()
+    excluded_titles = load_excluded_titles()
 
     new_count = updated_count = unchanged_count = auto_excluded_count = skipped_pending = skipped_excluded = expired_new_count = publisher_excluded_count = 0
     new_links_this_run = []
@@ -1335,7 +1380,10 @@ def cmd_collect(args):
             skipped_pending += 1
             continue
 
-        if prev is None and link in excluded_links:
+        if prev is None and (
+            link in excluded_links
+            or normalize_title_for_dedup(item["title"]) in excluded_titles
+        ):
             # 過去に除外判定済み(ルールベース/AI判断)のリンク。同じ記事がソース側に
             # 載り続けているだけなので、再度重複判定・AIレビューにはかけない
             skipped_excluded += 1
