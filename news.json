@@ -2845,8 +2845,8 @@
     "title": "令和9年度学童クラブのご案内",
     "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022289.html",
     "desc": "令和9年度学童クラブの入所、利用等の案内です。",
-    "pub_iso": "2026-09-30T08:27:12+09:00",
-    "pub_str": "2026年9月30日",
+    "pub_iso": "2026-11-16T15:23:41+09:00",
+    "pub_str": "2026年11月16日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7964,6 +7964,16 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-16T14:15:31.046103+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "超！BLACK FRIDAY Fes",
+    "link": "https://chibanewtown.aeonmall.jp/event/da1e5a4c-da2f-4db7-b64c-086fb957d250",
+    "pub_str": "2026年11月16日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-16T16:36:46.966765+09:00",
     "retention_type": "regular"
   }
 ]
