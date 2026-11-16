@@ -9809,5 +9809,15 @@
     "link": "https://news.google.com/articles/CBMiWEFVX3lxTFBJUndJM2JtTm83N2ZCQ283dXdhdFQ1eG9MWUctSENNTnVvdVhMR19MU0oza2lfN2haTVlUTnIwUUtxLXBIa3huY2d3a09kTHk2SThoX0VzZnY?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261116-0931",
+    "date": "2026-11-16",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷まちのパン屋のカフェで出会った、絶品トースト＆あんバター｜メニュー【いろどーる】",
+    "link": "https://chiba-lunch.com/shiroi-cafe-bakery-irodor/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-bakery-irodor",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
