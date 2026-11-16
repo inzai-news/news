@@ -7907,5 +7907,51 @@
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-11-16T08:43:23.084939+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【マクドナルド】11月13日（金）リニューアルオープン！",
+    "link": "https://www.makinohara-more.com/event-topics/%e3%80%90%e3%83%9e%e3%82%af%e3%83%89%e3%83%8a%e3%83%ab%e3%83%89%e3%80%9111%e6%9c%8813%e6%97%a5%ef%bc%88%e9%87%91%ef%bc%89%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%82%aa%e3%83%bc/",
+    "pub_str": "2026年11月16日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-11-16T12:22:26.266881+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "町内会業務デジタル化アンケート集計結果報告書",
+    "link": "https://www.city.inzai.lg.jp/0000022884.html",
+    "desc": "",
+    "pub_iso": "2026-11-16T10:50:32+09:00",
+    "pub_str": "2026年11月16日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-16T12:22:26.266881+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市障害福祉業務システムサービス利用公募型プロポーザルを実施します",
+    "link": "https://www.city.inzai.lg.jp/0000022893.html",
+    "desc": "",
+    "pub_iso": "2026-11-16T00:00:00+09:00",
+    "pub_str": "2026年11月16日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-16T12:22:26.266881+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【最新号】印西市男女共同参画通信",
+    "link": "https://www.city.inzai.lg.jp/0000013217.html",
+    "desc": "",
+    "pub_iso": "2026-11-12T09:00:00+09:00",
+    "pub_str": "2026年11月12日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-16T12:22:26.266881+09:00",
+    "retention_type": "regular"
   }
 ]

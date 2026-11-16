@@ -9819,5 +9819,15 @@
     "link": "https://chiba-lunch.com/shiroi-cafe-bakery-irodor/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-cafe-bakery-irodor",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261116-1222",
+    "date": "2026-11-16",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.84,
+    "title": " (仮称）印西市立東の原義務教育学校開校準備委員会",
+    "link": "https://www.city.inzai.lg.jp/0000022140.html",
+    "similar_to": "（仮称）印西市立東の原義務教育学校の開校準備の状況②（R8.10.15）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
