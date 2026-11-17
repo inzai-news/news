@@ -8017,5 +8017,51 @@
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-11-17T12:32:49.391096+09:00",
     "retention_type": "store_event"
+  },
+  {
+    "title": "島村楽器 フルート・オカリナサロン クリスマスアンサンブル会",
+    "link": "https://chibanewtown.aeonmall.jp/event/621b2cf4-98cd-4bef-be41-b0dfefad698c",
+    "pub_str": "2026年11月17日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-17T23:48:58.530159+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "農業委員と農地利用最適化推進委員の推薦及び応募状況（中間公表）",
+    "link": "https://www.city.inzai.lg.jp/0000022063.html",
+    "desc": "",
+    "pub_iso": "2026-11-17T13:38:42+09:00",
+    "pub_str": "2026年11月17日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-17T23:48:58.530159+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "鎌ヶ谷・白井▷ランチ大満足の本格イタリアンは、ディナーも良かった｜コース料理【ベルェモコ】",
+    "link": "https://chiba-lunch.com/shiroi-belemoko-deinner/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-belemoko-deinner",
+    "desc": "このページには広告が含まれます 白井市にある「ベルエモコ」さん。以前ランチで訪れ、料理の美味しさはもちろん、ボリュームやサービスにも大満足したお店。 今回ご招待いただき、家族でディナーに伺いました。 Italiano R […]\nThe post 鎌ヶ谷・白井▷ランチ大満足の本格イタリアンは、ディナーも良かった｜コース料理【ベルェモコ】 first appeared on ちばもぐ.",
+    "pub_iso": "2026-11-17T20:01:46+09:00",
+    "pub_str": "2026年11月17日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-shiroi",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-17T23:48:58.530159+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "白井市の住宅街にオープンした、奄美群島の素材のクレープ屋さん｜メニュー【shima crepe】",
+    "link": "https://chiba-lunch.com/chiroi-shima-crepe/?utm_source=rss&utm_medium=rss&utm_campaign=chiroi-shima-crepe",
+    "desc": "白井の住宅街に、2026年11月15日にオープンした「shima crepe」さん。奄美にゆかりのある店主さんが作る、素材にこだわったクレープ屋さん。 shima crepe ・奄美大島にゆかりのある店主さんが、　奄美群 […]\nThe post 白井市の住宅街にオープンした、奄美群島の素材のクレープ屋さん｜メニュー【shima crepe】 first appeared on ちばもぐ.",
+    "pub_iso": "2026-11-17T18:37:37+09:00",
+    "pub_str": "2026年11月17日",
+    "publisher": "ちばもぐ",
+    "source": "chibamogu-shiroi",
+    "category": "鎌ヶ谷・白井",
+    "collected_at": "2026-11-17T23:48:58.530159+09:00",
+    "retention_type": "regular"
   }
 ]

@@ -9849,5 +9849,15 @@
     "link": "https://chibanewtown.aeonmall.jp/news/renewal/51d17a4c-8fd8-4b58-bc72-730f2e8f8f29",
     "similar_to": "【2026年11月13日 開店】CRASHGATE 2026年11月13日（金）NEW OPEN！",
     "ai_reason": "別店舗(coca)の開店情報"
+  },
+  {
+    "run_ts": "20261117-2348",
+    "date": "2026-11-17",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.86,
+    "title": "クロスステッチを楽しもう！（2026年12月13日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46847&store=chibant",
+    "similar_to": "クロスステッチを楽しもう！（2026年11月28日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
