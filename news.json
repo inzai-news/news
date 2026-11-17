@@ -7953,5 +7953,69 @@
     "collected_at": "2026-11-17T09:23:28.601735+09:00",
     "retention_type": "store_event",
     "announce_str": "2026年11月17日"
+  },
+  {
+    "title": "年末ジャンボ宝くじ発売！",
+    "link": "https://www.makinohara-more.com/event-topics/%e5%b9%b4%e6%9c%ab%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e5%ae%9d%e3%81%8f%e3%81%98%e7%99%ba%e5%a3%b2%ef%bc%81/",
+    "pub_str": "2026年11月17日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ジョイフル本田健康DAYS-健康がテーマの期間限定イベント-（2026年11月28日(土)～2026年11月29日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46827&store=chibant",
+    "pub_str": "2026年11月17日",
+    "event_end_date": "2026-11-29",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "武田美保先生ワークショップ「モダンカリグラフィーレッスン（クリスマス）」（2026年12月03日(木)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46781&store=chibant",
+    "pub_str": "2026年11月17日",
+    "event_end_date": "2026-12-03",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "レザークラフト　A4サイズから作るチャームポーチ（2026年12月12日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46831&store=chibant",
+    "pub_str": "2026年11月17日",
+    "event_end_date": "2026-12-12",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ゆきひろこ先生による体験会　『好きな画材で好きな動物を描こう！』（2026年12月12日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46787&store=chibant",
+    "pub_str": "2026年11月17日",
+    "event_end_date": "2026-12-12",
+    "publisher": "ジョイフル本田",
+    "source": "joyfulhonda-chibant",
+    "category": "ジョイフル本田千葉ニュータウン店",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年11月20日 開店】coca 2026年11月20日（金）NEW OPEN！",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/51d17a4c-8fd8-4b58-bc72-730f2e8f8f29",
+    "pub_str": "2026年11月20日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-renewal",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-17T12:32:49.391096+09:00",
+    "retention_type": "store_event"
   }
 ]

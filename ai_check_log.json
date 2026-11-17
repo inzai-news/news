@@ -9829,5 +9829,25 @@
     "link": "https://www.city.inzai.lg.jp/0000022140.html",
     "similar_to": "（仮称）印西市立東の原義務教育学校の開校準備の状況②（R8.10.15）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261117-1232",
+    "date": "2026-11-17",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "LEDレジン体験　月のクリスマスチャーム作り（2026年12月05日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46782&store=chibant",
+    "similar_to": "LEDレジン体験　月のクリスマスチャーム作り（2026年11月21日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261117-1233",
+    "date": "2026-11-17",
+    "ai_decision": "keep",
+    "similarity": 0.76,
+    "title": "【2026年11月20日 開店】coca 2026年11月20日（金）NEW OPEN！",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/51d17a4c-8fd8-4b58-bc72-730f2e8f8f29",
+    "similar_to": "【2026年11月13日 開店】CRASHGATE 2026年11月13日（金）NEW OPEN！",
+    "ai_reason": "別店舗(coca)の開店情報"
   }
 ]
