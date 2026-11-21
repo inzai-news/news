@@ -186,7 +186,12 @@ def is_expired(item: dict, today=None) -> bool:
 # Yahoo!/PR TIMES直リンク等の複数アグリゲーター経由で届き、全角/半角数字・空白の違いや
 # 末尾の「（ちばとぴ！ニュース）」「(2026年9月14日掲載)」等の出典サフィックス、
 # 先頭の「【PR TIMES ...】」接頭辞の差で類似度判定をすり抜けていたため、比較前に揃える。
-_DEDUP_TRAILING_PAREN = re.compile(r"\s*[\(（][^()（）]{1,30}[\)）]\s*$")
+# 末尾括弧は出典らしい語を含む場合のみ除去する(2026-11-21修正)。無条件に除去していたため
+# 「都市計画変更の手続き（タウンセンター地区地区計画）」と「…（印旛日本医大駅前周辺地区地区計画）」
+# のように括弧内が本題の別ページが類似度1.0になり誤って自動除外された。
+_DEDUP_TRAILING_PAREN = re.compile(
+    r"\s*[\(（][^()（）]{0,30}(?:ニュース|NEWS|News|news|掲載|新聞|TIMES|通信|Yahoo|LINE|メニュー|ポータル)[^()（）]{0,30}[\)）]\s*$"
+)
 _DEDUP_LEADING_PRTIMES = re.compile(r"^【PR TIMES[^】]*】")
 _DEDUP_TRAILING_PUBLISHER = re.compile(r"\s+[-‐－|｜]\s+[^-‐－|｜]{1,30}$")
 

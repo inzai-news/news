@@ -9859,5 +9859,75 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=46847&store=chibant",
     "similar_to": "クロスステッチを楽しもう！（2026年11月28日(土)）",
     "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261121-1204",
+    "date": "2026-11-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "超！BLACK FRIDAY Fes",
+    "link": "https://chibanewtown.aeonmall.jp/event/b826ca10-1da1-42cf-9bd2-e7b56fee9c44",
+    "similar_to": "超！BLACK FRIDAY Fes",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261121-1204",
+    "date": "2026-11-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.95,
+    "title": "LEDレジン体験　月のクリスマスチャーム作り（2026年12月19日(土)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46783&store=chibant",
+    "similar_to": "LEDレジン体験　月のクリスマスチャーム作り（2026年11月21日(土)）",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261121-1204",
+    "date": "2026-11-21",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.92,
+    "title": "（千葉）印西市中央北２丁目でスカート内盗撮未遂　１１月４日［解決］",
+    "link": "https://news.google.com/articles/CBMi8gFBVV95cUxQbDlER2lPcUNIa3kzU181WWp3WGVrejJCNll0eHpwU0FwbXdXWVYyRjN2WXUxUzBqbmVMRXRQajFmUmZyRDg5QkdLQWh1Q1FiMWMzZFJ3QVhaa3Nac19UdEQ0a0Q1bUtYUmFUUVA4eXM4aXpMMV84TzdqM3VoYjc5MlFtUDVBUnVKSWZpWWNKN00tN1ZLbVFfYS0xTnRxT2w1cHBBY2tEeGRsYVRzb2p3U1R0UkJYZ0swckp2Q0NFRXljQURPVUJyajA3QndTMkczVG5vWXJFSjktZE9LUXpuRndlV1NfN3c5N3lMWTBYVUZCQdIBogFBVV95cUxQUk9qbUpzTkJpbU50dEVTT0FiZllwd2lDeWJVdEFqdFBwQjVreUFPaXNfZmE5RUZBM0N4dFcteVVyYUZrSVNaOHZ1d0pzd1ZueUFnNTFYVW9uWE9SWFhkYndrTzRhUjVjY0I3RWlMTi11QTR1cl9ueFRkVW5NVXdsa1ExenFIanFlUDc5SW8tX3p5OFdPUExTa21aUXdaVHQ1cVE?oc=5",
+    "similar_to": "（千葉）印西市中央北でスカート内盗撮未遂　１１月８日［解決］",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261121-1204",
+    "date": "2026-11-21",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市民空手道大会が開催されました。",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTFB6UUxkYWFybDFRZkdhLTVON2xKbTJ6TWtUWDhxSGd4aTBxVW9WODl0N1BGa2NNci1JSkxoLVZFZGdqMmNRMTNfR29QRUNMQXlONm9ZbDRxelFRbDNrMC1F?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261121-1204",
+    "date": "2026-11-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "”野球交流30年目！”印西市野球交流大会",
+    "link": "https://news.google.com/articles/CBMibkFVX3lxTE5TcVJHbzI2Z0tuajdfQ1N0WW54X29DdEtlajlOU3dpaFhjQjI2bWRKVEpJUjU0NUUzeks2c3ZsLTNYUlBTaEJTMXRQb3pYQklzMVpUTnhOTVpUTUxYSHJselZpdDBhQmZDVkZLamdB?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261121-1205",
+    "date": "2026-11-21",
+    "ai_decision": "exclude",
+    "similarity": 0.23,
+    "title": "【印西市】ふわっ！ サクッ！ 7月にオープンした「うなぎ料理専門店 川昌 印西店」は関東風と関西風の蒲焼きを一度に両方味わえます",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/19/unagikawashouinzai/",
+    "similar_to": "【2026年7月22日 開店】うなぎ料理専門店「川昌」",
+    "ai_reason": "川昌印西店は7/22開店のstore_eventで掲載済みの同一店舗"
+  },
+  {
+    "run_ts": "20261121-1205",
+    "date": "2026-11-21",
+    "ai_decision": "keep",
+    "similarity": 0.73,
+    "title": "【健康増進課・一般事務・歯科衛生士】令和9年度会計年度任用職員の募集について",
+    "link": "https://www.city.inzai.lg.jp/0000022619.html",
+    "similar_to": "【課税課・一般事務】会計年度任用職員の募集について",
+    "ai_reason": "別部署(健康増進課)の募集で別ニュース"
   }
 ]
