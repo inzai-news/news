@@ -9929,5 +9929,15 @@
     "link": "https://www.city.inzai.lg.jp/0000022619.html",
     "similar_to": "【課税課・一般事務】会計年度任用職員の募集について",
     "ai_reason": "別部署(健康増進課)の募集で別ニュース"
+  },
+  {
+    "run_ts": "20261121-1437",
+    "date": "2026-11-21",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538",
+    "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
