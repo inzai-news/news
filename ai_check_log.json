@@ -9939,5 +9939,15 @@
     "link": "https://news.google.com/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261122-1237",
+    "date": "2026-11-22",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "白井▷評判！もっちもち麺の生スパゲティ屋さんでランチ｜メニュー【やまだ家】",
+    "link": "https://chiba-lunch.com/shiroi-supaghetti-pasta-yamada/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-supaghetti-pasta-yamada",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
