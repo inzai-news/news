@@ -5136,17 +5136,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "MINAKO先生「マクラメツリーキーホルダーづくり」（2026年11月19日(木)）",
-    "link": "https://event.joyfulhonda.com/single-exp.php?id=45744&store=chibant",
-    "pub_str": "2026年10月20日",
-    "event_end_date": "2026-11-19",
-    "publisher": "ジョイフル本田",
-    "source": "joyfulhonda-chibant",
-    "category": "ジョイフル本田千葉ニュータウン店",
-    "collected_at": "2026-10-20T09:22:49.963618+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "農業委員・農地利用最適化推進委員を募集します",
     "link": "https://www.city.inzai.lg.jp/0000022064.html",
     "desc": "",
@@ -7933,6 +7922,16 @@
     "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-11-22T22:37:22.233748+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】11月23日（月・祝）開催のモアマルシェは「パンとコーヒーマルシェ」。千葉県で人気のパン屋さん13店舗とこだわりのコーヒー店が大集合！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/22/moremarche2026nov/",
+    "pub_str": "2026年11月22日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-23T08:56:38.475398+09:00",
     "retention_type": "regular"
   }
 ]
