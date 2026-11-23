@@ -1793,8 +1793,8 @@
     "title": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT",
     "link": "https://news.google.com/articles/CBMiYkFVX3lxTE1FaXVJQnNMM2M4a1doZnlCeVd5QWJhSUViWGYxMnB4bERhY2VLWVlvYldZSjdYcVlYb2FuUmo0TjJvVFpZMmhSSWpRT2NSdnRuWm9XUzlfUWZxWFNhcURSZVpn?oc=5",
     "desc": "【売買】1710億円で印西のデータセンター2棟を取得、ケッペルと傘下REIT  日経不動産マーケット情報",
-    "pub_iso": "2026-10-30T14:02:33+09:00",
-    "pub_str": "2026年10月30日",
+    "pub_iso": "2026-11-17T05:58:02+09:00",
+    "pub_str": "2026年11月17日",
     "publisher": "日経不動産マーケット情報",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
@@ -2600,7 +2600,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -3777,7 +3777,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -4718,7 +4718,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -5108,7 +5108,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -5187,7 +5187,7 @@
     "title": "印西の原風景を守りたい 10/24に音楽会（注：雨予報で会場変更）",
     "link": "https://news.google.com/articles/CBMiVkFVX3lxTE96bmwwVHp5UDlsZF93blppMEdBeTJHeXJwQ05SbFJKY2tmLVdKMjg5MWsyaFBtVmRrTTA1c1dTcnd4ZU4yTUdxY0pLZXprUnB2a1RCR2t3?oc=5",
     "desc": "印西の原風景を守りたい 10/24に音楽会（注：雨予報で会場変更）  朝日れすかPLUS",
-    "pub_iso": "2026-10-23T21:33:24+09:00",
+    "pub_iso": "2026-10-23T16:00:00+09:00",
     "pub_str": "2026年10月23日",
     "publisher": "朝日れすかPLUS",
     "source": "google-news-inzai-shi",
@@ -5615,7 +5615,7 @@
     "pub_iso": "2026-10-24T16:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -6398,7 +6398,7 @@
     "pub_iso": "2026-11-02T17:00:00+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "いこーよニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
@@ -7907,7 +7907,7 @@
     "pub_iso": "2026-11-22T20:10:00+09:00",
     "pub_str": "2026年11月22日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "イベント・文化",
     "collected_at": "2026-11-22T20:31:33.419463+09:00",
     "retention_type": "regular"
@@ -7932,6 +7932,30 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "イベント・文化",
     "collected_at": "2026-11-23T08:56:38.475398+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "地域における多文化共生の学び合い ～茨城県内の市町村と鈴鹿・印西をつなぐワークショップを開催～",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE01aTVVeXpMZHV4eHphZ3BlczE3c294SjYzcnplZ29Fb0FBUjM3ZGlqTk9RNnk5THR5bF9FWXlYb0NwWlc5RkxyLUtyWlN2TGh0clFGYWxCODJtcUQ2aTlxeGtYVHVCQmM?oc=5",
+    "desc": "地域における多文化共生の学び合い ～茨城県内の市町村と鈴鹿・印西をつなぐワークショップを開催～  笹川平和財団",
+    "pub_iso": "2026-11-16T12:02:29+09:00",
+    "pub_str": "2026年11月16日",
+    "publisher": "笹川平和財団",
+    "source": "google-news-inzai-shi",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-23T16:07:39.126527+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "総事業費は約１７９億円／リースから買取に転換／印西市 東の原義務教育学校",
+    "link": "https://news.google.com/articles/CBMiWEFVX3lxTE45bXkwNkVoREwxOTJKQ3ZQRE9LckN3RklCZDBLX2hoYXp5Qi1wZXpQSjNDMGY0UEJsSndHY0hRNUwtZHJlRnc5SHV3dEp6dVJ1TXlHbWFrV2w?oc=5",
+    "desc": "総事業費は約１７９億円／リースから買取に転換／印西市 東の原義務教育学校  日本工業経済新聞社",
+    "pub_iso": "2026-10-16T16:00:00+09:00",
+    "pub_str": "2026年10月16日",
+    "publisher": "日本工業経済新聞社",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-23T16:07:39.126527+09:00",
     "retention_type": "regular"
   }
 ]
