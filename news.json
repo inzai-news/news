@@ -2544,7 +2544,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -3721,7 +3721,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -3733,7 +3733,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -4009,7 +4009,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -4662,7 +4662,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -5052,7 +5052,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -5559,7 +5559,7 @@
     "pub_iso": "2026-10-24T16:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -6342,7 +6342,7 @@
     "pub_iso": "2026-11-02T17:00:00+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "いこーよニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
@@ -7336,8 +7336,8 @@
     "title": "イオンモール千葉ニュータウンの営業時間・フロア｜専門店は10〜21時・レストランとイオンは22時・年中無休",
     "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE1vaF9hSWRqYWdkVEJFVWdGZnJIWWoxZmk4UVF1d3Y4WlVZVFY1dlhYSkh2RU9uVzVsR2E2QkRRSTZQVk51RkZGOUZVa3k4TEZLUDZrVkxOWlBVWHRRZFp6bXZDTkx2SmM?oc=5",
     "desc": "イオンモール千葉ニュータウンの営業時間・フロア｜専門店は10〜21時・レストランとイオンは22時・年中無休  ジモはる",
-    "pub_iso": "2026-11-19T17:00:00+09:00",
-    "pub_str": "2026年11月19日",
+    "pub_iso": "2026-11-15T17:00:00+09:00",
+    "pub_str": "2026年11月15日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-gourmet",
     "category": "イオンモール千葉ニュータウン",
@@ -7924,5 +7924,35 @@
     "collected_at": "2026-11-24T00:55:45.006623+09:00",
     "retention_type": "store_event",
     "announce_str": "2026年11月23日"
+  },
+  {
+    "title": "ドームプラネット「シャチとクリオネが棲む流氷の世界」「カナダ・イエローナイフのオーロラ」",
+    "link": "https://chibanewtown.aeonmall.jp/event/ba680f2e-f14c-4eee-8060-e7c5843e3498",
+    "pub_str": "2026年11月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-24T08:20:00.047302+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "ハイハイレース サンプリングイベント",
+    "link": "https://chibanewtown.aeonmall.jp/event/06d0529e-61b5-46c1-82f0-041f918e773b",
+    "pub_str": "2026年11月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-24T08:20:00.047302+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "あそびの学校 12月",
+    "link": "https://chibanewtown.aeonmall.jp/event/22b04dfb-106d-4686-b840-d55d00927060",
+    "pub_str": "2026年11月24日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-24T08:20:00.047302+09:00",
+    "retention_type": "regular"
   }
 ]
