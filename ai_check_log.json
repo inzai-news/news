@@ -9949,5 +9949,25 @@
     "link": "https://chiba-lunch.com/shiroi-supaghetti-pasta-yamada/?utm_source=rss&utm_medium=rss&utm_campaign=shiroi-supaghetti-pasta-yamada",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261124-0055",
+    "date": "2026-11-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 1.0,
+    "title": "【2026年11月13日 開店】CRASHGATE 2026年11月13日（金）NEW OPEN！",
+    "link": "https://chibanewtown.aeonmall.jp/news/renewal/cf88b043-7c9b-4023-80a3-528238fc04f9",
+    "similar_to": "【2026年11月13日 開店】CRASHGATE 2026年11月13日（金）NEW OPEN！",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
+  },
+  {
+    "run_ts": "20261124-0055",
+    "date": "2026-11-24",
+    "ai_decision": "auto_exclude",
+    "similarity": 0.85,
+    "title": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める (ギズモード・ジャパン)",
+    "link": "https://news.google.com/articles/CBMiZ0FVX3lxTE9VRm12SkNMYk1TZmNTVjB6M1JtX2h6c0NCVnE4U3B4Y3ZodEtIR2VRT0l4SzdpQ1FXbVFkNTJYWGhMdXBObm5kVjkwVUw5WTdfVDJ2VzlWQ1ZvQ0YyRE5Fa0JZUld4ekE?oc=5",
+    "similar_to": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める",
+    "ai_reason": "ルールベース: 類似度80%以上のため自動除外"
   }
 ]
