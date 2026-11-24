@@ -9979,5 +9979,35 @@
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTFBfNTdxMWZVN2hUU0ZleHBBWjAwU2JYcDE2dV9YS2ZZaTFWSEQ1ampPT21PQjAwTHpqaHdyczFCRFpvZlZwem5SWi1kOEplX0d5REE0?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261125-0851",
+    "date": "2026-11-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉：印西ＤＣ計画巡る監査請求を棄却 市監査委員：地域ニュース",
+    "link": "https://news.google.com/articles/CBMicEFVX3lxTE10SUhYMkxzeXZXVTBfckJGbXo5bXdTTVFkdzQ2U1ktcGR6UUFBU1FsMXRrd2Q4aUtLek5ibVMyNGdjczVHWmxuUHhhdjBHZWJVZ2M4d0d6dE14amdSa2YybGVTeEVZWURNemowRnVzRTE?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261125-0851",
+    "date": "2026-11-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "コメダ珈琲店千葉ニュータウン店(印西市/カフェ・スイーツ)",
+    "link": "https://news.google.com/articles/CBMiUEFVX3lxTE50Sjk5V29CdG9fUW5jQ2xuQ21XSEtJQzNaWHowZUxaVFE1dWZkczU3YTZ0VW02cVFKSk1ZZUZrR1FPRUlHbWttUkN0QzJfRVJR?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261125-0851",
+    "date": "2026-11-25",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷値上げしたザ ビフテキのステーキを、8年前と比較してみた｜メニュー【THE BIFTEKI BIGHOP】",
+    "link": "https://chiba-lunch.com/inzai-the-bifteki-bighop-lopia/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-the-bifteki-bighop-lopia",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]

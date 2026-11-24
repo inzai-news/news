@@ -7748,7 +7748,7 @@
     "pub_iso": "2026-11-22T20:10:00+09:00",
     "pub_str": "2026年11月22日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-oshirase",
     "category": "イベント・文化",
     "collected_at": "2026-11-22T20:31:33.419463+09:00",
     "retention_type": "regular"
@@ -7921,6 +7921,28 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-25T00:37:20.772248+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】11月27日（金）・28日（土）「Meet Hearts Marche ～ひるの森、よるの森～」が戸神ホームズ裏キャンプサイトにて開催！ 今回は初めてのナイトマルシェも！",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/25/meetheartsmarche2026nov/",
+    "pub_str": "2026年11月25日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-25T08:51:38.855841+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "子育て支援拠点施設のおたより公開",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000018917.html",
+    "desc": "",
+    "pub_iso": "2026-11-25T07:00:01+09:00",
+    "pub_str": "2026年11月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-25T08:51:38.855841+09:00",
     "retention_type": "regular"
   }
 ]
