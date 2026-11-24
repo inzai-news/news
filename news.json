@@ -5457,8 +5457,8 @@
     "title": "補正予算書",
     "link": "https://www.city.inzai.lg.jp/0000021706.html",
     "desc": "",
-    "pub_iso": "2026-10-23T00:00:01+09:00",
-    "pub_str": "2026年10月23日",
+    "pub_iso": "2026-11-24T16:00:00+09:00",
+    "pub_str": "2026年11月24日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7964,5 +7964,54 @@
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-11-24T11:42:53.546197+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度印西市役所3階西側庁舎グループアドレス導入及び什器入替業務に係るプロポーザルの実施について",
+    "link": "https://www.city.inzai.lg.jp/0000022971.html",
+    "desc": "",
+    "pub_iso": "2026-11-24T17:59:16+09:00",
+    "pub_str": "2026年11月24日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-24T18:18:59.288283+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "地籍調査事業に係る地図及び簿冊の閲覧のお知らせ",
+    "link": "https://www.city.inzai.lg.jp/0000020799.html",
+    "desc": "",
+    "pub_iso": "2026-11-24T17:00:12+09:00",
+    "pub_str": "2026年11月24日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-24T18:18:59.288283+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "地元のパパと学んで話してつながろう！印西市パパ講座",
+    "link": "https://www.city.inzai.lg.jp/kosodatenavi/0000022441.html",
+    "desc": "",
+    "pub_iso": "2026-11-24T15:45:55+09:00",
+    "pub_str": "2026年11月24日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-24T18:18:59.288283+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【2026年12月11日 開店】カーテンじゅうたん王国 牧の原モア店（移転）",
+    "link": "https://news.google.com/articles/CBMicEFVX3lxTE5ySkdYaVhSS25HcVpMNl9YOU1qd0VDcUpyNUF3Y2lJbE1PMk9xU192WksyNWt4dF9GUHFqajhuaktPQmM4VEQyWFd5OG51RDZZLVFIR3dDSGxIYTNjS2xOYjB4ZlVxeXN0QlpyTkRMTzU?oc=5",
+    "desc": "カーテンじゅうたん王国は12/11に牧の原モアへ移転オープン｜10〜19時・無休、白井の千葉NT店は9/23に閉店  ジモはる",
+    "pub_iso": "2026-11-24T16:02:29+09:00",
+    "pub_str": "2026年12月11日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-shi",
+    "category": "開店・閉店",
+    "collected_at": "2026-11-24T18:18:59.288283+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年11月24日"
   }
 ]
