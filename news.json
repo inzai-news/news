@@ -3663,7 +3663,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "産経ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T09:37:25.247771+09:00",
     "retention_type": "regular"
@@ -7748,7 +7748,7 @@
     "pub_iso": "2026-11-22T20:10:00+09:00",
     "pub_str": "2026年11月22日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-shi",
     "category": "イベント・文化",
     "collected_at": "2026-11-22T20:31:33.419463+09:00",
     "retention_type": "regular"
@@ -7944,5 +7944,18 @@
     "category": "市政・行政",
     "collected_at": "2026-11-25T08:51:38.855841+09:00",
     "retention_type": "regular"
+  },
+  {
+    "title": "【2026年12月17日 開店】銀座の惣菜店（炭火焼き鳥の持ち帰り専門店）イオンモール千葉ニュータウン",
+    "link": "https://news.google.com/articles/CBMickFVX3lxTE9OWGY0cEVValdLLXlpSW9KUmNzb0JoVHdxYklIWFBHeW9kcVdsTEJXTzBpM0ZMcGZPdGdRdTVjUVJDUFViSUlWR0lLQVFsS3M3ZDNQMmdZSFVHUWY2dDg1cV9lLTg4MUFOeTlLRHdUejBDdw?oc=5",
+    "desc": "銀座惣菜店がイオンモール千葉ニュータウンに12/17開店｜1階・10〜21時、炭火焼き鳥の持ち帰り専門店  ジモはる",
+    "pub_iso": "2026-11-25T09:12:00+09:00",
+    "pub_str": "2026年12月17日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-newshop",
+    "category": "開店・閉店",
+    "collected_at": "2026-11-25T09:36:43.006697+09:00",
+    "retention_type": "store_event",
+    "announce_str": "2026年11月25日"
   }
 ]
