@@ -3651,7 +3651,7 @@
     "pub_iso": "2026-10-06T16:00:00+09:00",
     "pub_str": "2026年10月6日",
     "publisher": "クラウド Watch",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-06T06:13:53.807534+09:00",
     "retention_type": "regular"
@@ -4592,7 +4592,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -4982,7 +4982,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -5467,7 +5467,7 @@
     "pub_iso": "2026-10-24T16:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -6239,7 +6239,7 @@
     "pub_iso": "2026-11-02T17:00:00+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "いこーよニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
@@ -6506,8 +6506,8 @@
     "title": "印西市送迎保育ステーション　令和9年度利用者募集について",
     "link": "https://www.city.inzai.lg.jp/0000022501.html",
     "desc": "",
-    "pub_iso": "2026-11-05T17:31:18+09:00",
-    "pub_str": "2026年11月5日",
+    "pub_iso": "2026-11-25T10:52:51+09:00",
+    "pub_str": "2026年11月25日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7957,5 +7957,17 @@
     "collected_at": "2026-11-25T09:36:43.006697+09:00",
     "retention_type": "store_event",
     "announce_str": "2026年11月25日"
+  },
+  {
+    "title": "印旛公民館主催事業「書初教室」参加者募集！",
+    "link": "https://www.city.inzai.lg.jp/0000022751.html",
+    "desc": "",
+    "pub_iso": "2026-11-25T09:00:00+09:00",
+    "pub_str": "2026年11月25日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-25T12:15:43.299147+09:00",
+    "retention_type": "regular"
   }
 ]
