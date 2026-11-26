@@ -10019,5 +10019,15 @@
     "link": "https://event.joyfulhonda.com/single-exp.php?id=46851&store=chibant",
     "similar_to": "はじめてのミニ四駆作り！（2026年11月29日(日)）",
     "ai_reason": "プラモデル体験とミニ四駆体験は別イベント"
+  },
+  {
+    "run_ts": "20261127-0237",
+    "date": "2026-11-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西▷南インド料理のクレープ「ドーサ」と人気のビリヤニ食べてみた｜メニュー【インダスレイ】",
+    "link": "https://chiba-lunch.com/inzai-indusray-south-indian-food/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-indusray-south-indian-food",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
