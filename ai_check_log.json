@@ -10009,5 +10009,15 @@
     "link": "https://chiba-lunch.com/inzai-the-bifteki-bighop-lopia/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-the-bifteki-bighop-lopia",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261127-0039",
+    "date": "2026-11-27",
+    "ai_decision": "keep",
+    "similarity": 0.72,
+    "title": "はじめてのプラモデル作り体験（2026年12月27日(日)）",
+    "link": "https://event.joyfulhonda.com/single-exp.php?id=46851&store=chibant",
+    "similar_to": "はじめてのミニ四駆作り！（2026年11月29日(日)）",
+    "ai_reason": "プラモデル体験とミニ四駆体験は別イベント"
   }
 ]
