@@ -738,8 +738,8 @@
     "title": "議案一覧",
     "link": "https://www.city.inzai.lg.jp/0000014916.html",
     "desc": "",
-    "pub_iso": "2026-09-04T10:00:00+09:00",
-    "pub_str": "2026年9月4日",
+    "pub_iso": "2026-11-27T10:00:00+09:00",
+    "pub_str": "2026年11月27日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -5555,7 +5555,7 @@
     "pub_iso": "2026-10-27T16:00:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-27T18:27:01.916456+09:00",
     "retention_type": "regular"
@@ -7497,7 +7497,7 @@
     "pub_iso": "2026-11-20T11:51:04+09:00",
     "pub_str": "2026年11月20日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "話題・その他",
     "collected_at": "2026-11-21T12:04:56.651337+09:00",
     "retention_type": "regular"
@@ -7976,6 +7976,16 @@
     "source": "goguynet-kamagaya-shiroi-inzai",
     "category": "話題・その他",
     "collected_at": "2026-11-27T02:37:44.753994+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【わくわく広場】マル昇製茶対面販売",
+    "link": "https://www.makinohara-more.com/event-topics/wakuwaku261128/",
+    "pub_str": "2026年11月27日",
+    "publisher": "牧の原モア",
+    "source": "makinohara-more",
+    "category": "牧の原モア",
+    "collected_at": "2026-11-27T12:37:22.699880+09:00",
     "retention_type": "regular"
   }
 ]
