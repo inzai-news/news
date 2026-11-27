@@ -2324,7 +2324,7 @@
     "pub_iso": "2026-09-21T16:00:00+09:00",
     "pub_str": "2026年9月21日",
     "publisher": "TBS NEWS DIG",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-09-21T09:08:38.442872+09:00",
     "retention_type": "regular"
@@ -3789,7 +3789,7 @@
     "pub_iso": "2026-10-09T16:00:00+09:00",
     "pub_str": "2026年10月9日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-09T06:37:28.353493+09:00",
     "retention_type": "regular"
@@ -4442,7 +4442,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -4540,11 +4540,11 @@
     "retention_type": "regular"
   },
   {
-    "title": "下水道の不具合による浦幡新田公園の利用制限について",
+    "title": "浦幡新田公園の利用制限を解除しました",
     "link": "https://www.city.inzai.lg.jp/0000022729.html",
     "desc": "",
-    "pub_iso": "2026-10-15T15:50:10+09:00",
-    "pub_str": "2026年10月15日",
+    "pub_iso": "2026-11-27T14:00:00+09:00",
+    "pub_str": "2026年11月27日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -4832,7 +4832,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -5306,7 +5306,7 @@
     "pub_iso": "2026-10-24T16:00:00+09:00",
     "pub_str": "2026年10月24日",
     "publisher": "日刊ゲンダイDIGITAL",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-10-24T11:10:46.645635+09:00",
     "retention_type": "regular"
@@ -5925,7 +5925,7 @@
     "pub_iso": "2026-10-31T16:00:00+09:00",
     "pub_str": "2026年10月31日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-newshop",
+    "source": "google-news-inzai-oshirase",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-31T20:26:32.070968+09:00",
     "retention_type": "regular"
@@ -5958,8 +5958,8 @@
     "title": "BIG HOP ガーデンモール印西の駐車場は1,860台｜平日4時間・土日祝8時間まで無料、最大は平日400円・土日祝500円、駅の利用はB2・E駐車場",
     "link": "https://news.google.com/articles/CBMiakFVX3lxTE9DR0hfemVVRU9sZjNTbDBfWi14SlZUNlA1YWxlNHNnOXVQSXVSbXFjdk92dFl4bktXVFRUMHBDWGhyLU5YVjM1RWZtSDFvXzg3TmYxVFR1VU9YeVh2d2JHUGMtZy0xWDJGNFE?oc=5",
     "desc": "BIG HOP ガーデンモール印西の駐車場は1,860台｜平日4時間・土日祝8時間まで無料、最大は平日400円・土日祝500円、駅の利用はB2・E駐車場  ジモはる",
-    "pub_iso": "2026-10-29T16:00:00+09:00",
-    "pub_str": "2026年10月29日",
+    "pub_iso": "2026-10-04T16:00:00+09:00",
+    "pub_str": "2026年10月4日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
     "category": "開発・暮らし",
@@ -6078,7 +6078,7 @@
     "pub_iso": "2026-11-02T17:00:00+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "いこーよニュース",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
@@ -7473,7 +7473,7 @@
     "pub_iso": "2026-11-19T05:00:00+09:00",
     "pub_str": "2026年11月19日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-shi",
+    "source": "google-news-inzai-chiba",
     "category": "開発・暮らし",
     "collected_at": "2026-11-21T12:04:56.651337+09:00",
     "retention_type": "regular"
@@ -7877,8 +7877,8 @@
     "title": "電話回線工事による電話の一時不通について",
     "link": "https://www.city.inzai.lg.jp/0000022963.html",
     "desc": "",
-    "pub_iso": "2026-11-26T14:37:02+09:00",
-    "pub_str": "2026年11月26日",
+    "pub_iso": "2026-11-27T13:01:52+09:00",
+    "pub_str": "2026年11月27日",
     "publisher": "印西市",
     "source": "inzai-city-official",
     "category": "市政・行政",
@@ -7986,6 +7986,30 @@
     "source": "makinohara-more",
     "category": "牧の原モア",
     "collected_at": "2026-11-27T12:37:22.699880+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "いんザイ君グッズ販売中！（令和8年11月更新）",
+    "link": "https://www.city.inzai.lg.jp/0000013632.html",
+    "desc": "",
+    "pub_iso": "2026-11-27T14:29:44+09:00",
+    "pub_str": "2026年11月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-27T14:37:23.118892+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "重度心身障害者（児）医療費助成制度について",
+    "link": "https://www.city.inzai.lg.jp/0000002699.html",
+    "desc": "",
+    "pub_iso": "2026-11-27T14:00:00+09:00",
+    "pub_str": "2026年11月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-27T14:37:23.118892+09:00",
     "retention_type": "regular"
   }
 ]
