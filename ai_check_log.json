@@ -10029,5 +10029,45 @@
     "link": "https://chiba-lunch.com/inzai-indusray-south-indian-food/?utm_source=rss&utm_medium=rss&utm_campaign=inzai-indusray-south-indian-food",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261127-0924",
+    "date": "2026-11-27",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "印西市戦没者追悼式に参列",
+    "link": "https://news.google.com/articles/CBMi2AFBVV95cUxOZ254bjZQRDF6eFhEVVlISzVUcXJmelplTDVLeFlHUXpuUzBJdXNmOEZQOGdqcmh6WVIweml1b19IX2VRd3A0YUk0U08zSXZaUG9VYzhBT3g5Y1ktc3dJQmZJTGhkVFlweEVMZllid3dudktlTEt0bklKYVdYSzR2U1U0azlrOUt0aVV2ZFViY1RZTVVYcDEyTFJSb1JnOFRyOFFaQldEOG1aU1RfdTBNcnRwMzcyLWctczdCQkwwaHJNWll3TVMxenQ1aDFQRnBfWHdTM1JEcHc?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(公明党)が政党アカウントのため"
+  },
+  {
+    "run_ts": "20261127-0924",
+    "date": "2026-11-27",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "令和8年度 印西市戦没者追悼式",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE0xclE0QkdzZEdlTjhfU004TEsxdHBENnV4eUpqaUNlclRqbkRNVXc2TlJWdk5HcHJsYjNxZnU5WHU4SnFzZ1RLdzhkSFNrSEh6bUk3b0Z1RDhVQ01SVEt3?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261127-0924",
+    "date": "2026-11-27",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "千葉 印西 新たな児童相談所が開設 何が変わる？施設の内部も公開",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE9LcWZ6RFExdGl6ZEplVHllcTByMmpPbGd0eFdFQkNZTnJEQkU0WWh5Q1loVGVZeFRFMkxHMTBTNWlEa05OdUx0b19xZi1JVnd3N0YzUmRMV3JFNWswakRr?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "2026-11-27T09:24:32.211453+09:00",
+    "date": "2026年10月29日",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "佐久間が印西市の避難所で使用された毛布250枚を再資源化",
+    "link": "https://news.google.com/articles/CBMiugJBVV95cUxNRzNBQnVPRnp2aE5QNTNDVFNtVVA4TnVraG5nZGhpMXpRV1dxWWdKem1xeWxWUG5zZ3FjdFFwT21vUk1uQjVtMjNmOEZUZ3RTclQ3b0lHTTRxbHFNeGtVSUtzblY1WVcwekc3QzEtYTVPbFItV0dSWUJQb2RpQmNXSTQ1eTcxYlhJRzJxdmJ6NDdjWk1TV25zVjQ5QkpYZkhGeWZ2RE5vRE1OOTM1bG5tZlRBRG05ZnlzRlFDcmdHLXVLM181ejc5dlNGZV9qUE5sREtYYUhEbFBOWnRkbmlNSEoyNEZYTWVhRVpRS1R3OUkxWEk4cXRXV0h5ZVZQdmtNZ1hZS3lNRTBZUmY5aHZzNDRvd2pOYXJrNU85aFVtZjFYLTZIR2o2M3Uwd2xfX0lZTW5KbHBhZHlFQdIBvwJBVV95cUxQMFVwWVVaVWdJNkp2TTV1elFzYjVsVVYyTy1wcU1xa3ExMEhxSXNybHNTd0dPRkJBeFBsVDVjd3JwOU1HUXdmQjF6TUdENy1uNGxKWEw4RFg5R010Y2tnSVNYYTB3VDdzZkRMcE9kZW9BQkZTVlFCeWpoLW9IcGR2QWFJY180enUxWFl6S2VodXdGMUxqZVEtc2hLZi1qS0FmbDk4ZGNMUmd6X1dWZnFfazdtNUZIeDRMdUNjZDBTS3BZcklGcFB0MzRpaW5uOVAtMEFHU3BVdUp1dFphaFI4X0pYdmpiNkRqamlTMWRhTlFQNFZBWmNhb2VBdXRoMm1RMlVKVFpLbDlNU0R0U1pURTQxWTNrSUpTUDV0Y3RMcnF1eWYzTEdxQmp4dmZaVnVoa184TUtJVE4wMnBYbUZJ?oc=5",
+    "similar_to": "株式会社 佐久間、千葉豪雨の避難所で使用された毛布250枚を受け入れ…",
+    "ai_reason": "千葉テレビ既存記事と同一ニュース(手動修正)"
   }
 ]
