@@ -10089,5 +10089,15 @@
     "link": "https://news.google.com/articles/CBMinAFBVV95cUxOY1lHU3NFeGJuTWFGdHY4Z2dlWDl1WXNVclpWUWdiaHVpSURCalRJVFFaLTBVdnJHS0dCR1p4Vy1vaUJrUHZZNUlJeUVNUHctbDVIYTZXbmxoSGhhLU83VUI4SUtKLVV1aVdJWUgtWE1nQXA4Q3Y1d1psdTF5ZWQzTWs4Wi1yNmNIRVoxVU5XTjNpSlJJTjluTnQ1Zm_SAaIBQVVfeXFMUHhYOGVIZmF4YXd3Z1J0WVNoOHJfUW1CamRmVERyTHFKVF9ycW1Mbkw1TU9jSW5EemNVdGdQWEx2NGgxOE1fY054TU1iRWg1cVdIWVFQWHJzbThhZTdGWkVvSlBYcXJqU19yNzRuUV92b0hOcFppUWJRRDVxSzJrZy1IV2FJSVd6MldMYzVhZVowYkp5VEtNamYzNFdqNHB3S0F3?oc=5",
     "similar_to": null,
     "ai_reason": "10/6発生の不審者事案の遅延配信、前例(草深の同種記事)も除外"
+  },
+  {
+    "run_ts": "20261128-1837",
+    "date": "2026-11-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
+    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
