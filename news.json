@@ -633,26 +633,6 @@
     "retention_type": "regular"
   },
   {
-    "title": "ポケモンしんかラリー",
-    "link": "https://chibanewtown.aeonmall.jp/event/d68924a0-df4d-4860-88ad-6363b3dad6c5",
-    "pub_str": "2026年8月27日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-08-27T14:36:42.526715+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "敬老の日バルーンワークショップ",
-    "link": "https://chibanewtown.aeonmall.jp/event/063b514f-7e29-4b16-af72-1b7bfc8272a0",
-    "pub_str": "2026年8月27日",
-    "publisher": "イオンモール千葉ニュータウン",
-    "source": "aeonmall-chibanewtown-event",
-    "category": "イオンモール千葉ニュータウン",
-    "collected_at": "2026-08-27T14:36:42.526715+09:00",
-    "retention_type": "regular"
-  },
-  {
     "title": "空き家の利活用・売却・解体を検討している方へ",
     "link": "https://www.city.inzai.lg.jp/0000022204.html",
     "desc": "",
@@ -660,30 +640,6 @@
     "pub_str": "2026年8月28日",
     "publisher": "印西市",
     "source": "inzai-city-official",
-    "category": "市政・行政",
-    "collected_at": "2026-08-27T14:36:42.526715+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
-    "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  東京新聞",
-    "pub_iso": "2026-08-27T16:00:00+09:00",
-    "pub_str": "2026年8月27日",
-    "publisher": "東京新聞",
-    "source": "google-news-inzai-shi",
-    "category": "開発・暮らし",
-    "collected_at": "2026-08-27T14:36:42.526715+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」",
-    "link": "https://news.google.com/articles/CBMic0FVX3lxTFBSQlZTODRseUxPdEZHZ3N3Tm0xN0lERTIwU3NqSVIyYTV0dWxEUldRUy03VWJ0WS1USHFEbFJMeWhSMWdnc2RQb2JiSWNKbXoxZmNSeFBTRXYxWG1KdE5oZVdvU1RSYUVucDlFeVJPS2NRMDDSAXhBVV95cUxPRk9qSWl4QmVDUHlFaWFJZ2hILXVnZVlheWNVamhHMFdLRnJrMEh2NjlmR2RHY0hZQXFHblMzSjQzOVhoNkc2LW5lY01UU1ZEU1ZJMjRWdnZUQkxySWxSWVZ6WUVhOW9WSHRnQVduWF9INVZkQU5MaU4?oc=5",
-    "desc": "印西データセンター計画、住民7人が印西市を提訴「法制度の不備に一石を投じたい」  ｄメニューニュース",
-    "pub_iso": "2026-08-27T07:38:00+09:00",
-    "pub_str": "2026年8月27日",
-    "publisher": "ｄメニューニュース",
-    "source": "google-news-inzai-shi",
     "category": "市政・行政",
     "collected_at": "2026-08-27T14:36:42.526715+09:00",
     "retention_type": "regular"
@@ -722,16 +678,6 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-08-27T19:15:50.791869+09:00",
-    "retention_type": "regular"
-  },
-  {
-    "title": "【印西市】8月29日（土）「タイトリ×おやつとえがお夏まつり」が木下駅前にぎわい広場で開催！ キッチンカーや屋台、ワークショップも楽しめる！",
-    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/27/tinytreatsnatsumatsuri2026/",
-    "pub_str": "2026年8月27日",
-    "publisher": "号外NET",
-    "source": "goguynet-kamagaya-shiroi-inzai",
-    "category": "イベント・文化",
-    "collected_at": "2026-08-28T08:28:07.133756+09:00",
     "retention_type": "regular"
   },
   {
@@ -3749,10 +3695,10 @@
   {
     "title": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ",
     "link": "https://news.google.com/articles/CBMikwFBVV95cUxPTEYzNlJsVzk1TlNnSHhhVEYtM29zdldJZm5fLXJuNm5Fd2hFLWI1OVF3SDMybjgydi1RcDFXZTlpTDg4Qk1RbW03bV9KMkFDdVdVN0tYWEl5SlVTYy1HclBybUhJTnVUN1h4RG9ReFhabkZjN195aXBCNG11Tk1hNzdLVkJnT2FxSXhBU0ZJT1J3aUE?oc=5",
-    "desc": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ  Data Center Cafe",
+    "desc": "AirTrunk、印西市のデータセンターキャンパスに追加で10億ドルを投資へ  データセンターカフェ",
     "pub_iso": "2026-10-08T16:00:00+09:00",
     "pub_str": "2026年10月8日",
-    "publisher": "Data Center Cafe",
+    "publisher": "データセンターカフェ",
     "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-08T18:37:28.930828+09:00",
@@ -4442,7 +4388,7 @@
     "pub_iso": "2026-09-02T16:00:00+09:00",
     "pub_str": "2026年9月2日",
     "publisher": "estie",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-14T09:37:55.854310+09:00",
     "retention_type": "regular"
@@ -4832,7 +4778,7 @@
     "pub_iso": "2026-10-19T16:00:00+09:00",
     "pub_str": "2026年10月19日",
     "publisher": "物流ニュースのLNEWS",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-19T17:39:26.999549+09:00",
     "retention_type": "regular"
@@ -5555,7 +5501,7 @@
     "pub_iso": "2026-10-27T16:00:00+09:00",
     "pub_str": "2026年10月27日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-10-27T18:27:01.916456+09:00",
     "retention_type": "regular"
@@ -5624,8 +5570,8 @@
     "title": "北総線のシークレット車両撮影会は11/7(土)10時から｜印西牧の原駅集合・9,300円・先着90名、申込は10/26に開始、11/14の車両基地まつりは募集終了",
     "link": "https://news.google.com/articles/CBMiZkFVX3lxTE5RYkpYN2Rxd1hZMVZ3M0QxTXBEMGlRTmVaZF9LY0luYjlmbU1yWEdaSEo3SkdObDkxdzRKS01ENEJEdTU3Q3k0bDY2LUc3dElRWFZCb2VrTzBqVENvZllKX2lBT1QtZw?oc=5",
     "desc": "北総線のシークレット車両撮影会は11/7(土)10時から｜印西牧の原駅集合・9,300円・先着90名、申込は10/26に開始、11/14の車両基地まつりは募集終了  ジモはる",
-    "pub_iso": "2026-10-27T16:00:00+09:00",
-    "pub_str": "2026年10月27日",
+    "pub_iso": "2026-11-25T17:00:00+09:00",
+    "pub_str": "2026年11月25日",
     "publisher": "ジモはる",
     "source": "google-news-inzai-event",
     "category": "イベント・文化",
@@ -5922,10 +5868,10 @@
     "title": "イオンモール千葉ニュータウンのトイザらスは8/31閉店｜この夏の新店3店はサービス業、開店・閉店(10/29時点)",
     "link": "https://news.google.com/articles/CBMiaEFVX3lxTE9icEh0QUozMERoUGY5RUtCeGVxdHhtM3BTZ3NZZFc1Wi1FZHdzdHVhYlYyYy1OY3BfTEZFTlBCMUU5WEx4TDk2LXQtQU5vYkhZUVB2MjR2d0JTSGpYT2FkOWx4VjQtU0Y3?oc=5",
     "desc": "イオンモール千葉ニュータウンのトイザらスは8/31閉店｜この夏の新店3店はサービス業、開店・閉店(10/29時点)  ジモはる",
-    "pub_iso": "2026-10-31T16:00:00+09:00",
-    "pub_str": "2026年10月31日",
+    "pub_iso": "2026-11-25T17:00:00+09:00",
+    "pub_str": "2026年11月25日",
     "publisher": "ジモはる",
-    "source": "google-news-inzai-oshirase",
+    "source": "google-news-inzai-newshop",
     "category": "イオンモール千葉ニュータウン",
     "collected_at": "2026-10-31T20:26:32.070968+09:00",
     "retention_type": "regular"
@@ -6078,7 +6024,7 @@
     "pub_iso": "2026-11-02T17:00:00+09:00",
     "pub_str": "2026年11月2日",
     "publisher": "いこーよニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-11-02T12:13:33.120731+09:00",
     "retention_type": "regular"
@@ -7470,10 +7416,10 @@
     "title": "データセンター誘致で街は潤うか 千葉県印西市と北海道石狩市が直面する恩恵と課題【ポッドキャスト】",
     "link": "https://news.google.com/articles/CBMibEFVX3lxTE9kamhvd00xUk02aWhCaURDczJoc2lZSlVEeUNfbGNRQVlCYXJYXzhteTVLc0J1aHZDS3RtdE5ZZm1BcUNxMTM3YnZ0dXhCbHpmd3hDWUlmSHhOTHdZXzBKdm9wYzdsVkh1Vmk2Nw?oc=5",
     "desc": "データセンター誘致で街は潤うか 千葉県印西市と北海道石狩市が直面する恩恵と課題【ポッドキャスト】  日本経済新聞",
-    "pub_iso": "2026-11-19T05:00:00+09:00",
+    "pub_iso": "2026-11-19T17:00:00+09:00",
     "pub_str": "2026年11月19日",
     "publisher": "日本経済新聞",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "開発・暮らし",
     "collected_at": "2026-11-21T12:04:56.651337+09:00",
     "retention_type": "regular"
@@ -7497,7 +7443,7 @@
     "pub_iso": "2026-11-20T11:51:04+09:00",
     "pub_str": "2026年11月20日",
     "publisher": "Yahoo!ニュース",
-    "source": "google-news-inzai-chiba",
+    "source": "google-news-inzai-shi",
     "category": "話題・その他",
     "collected_at": "2026-11-21T12:04:56.651337+09:00",
     "retention_type": "regular"
@@ -8010,6 +7956,86 @@
     "source": "inzai-city-official",
     "category": "市政・行政",
     "collected_at": "2026-11-27T14:37:23.118892+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "イオンモールのクリスマスアンバサダーにIMP.が就任！",
+    "link": "https://chibanewtown.aeonmall.jp/event/fc0d40e8-6b3a-49e4-9a5d-0c50e4ef7ae9",
+    "pub_str": "2026年11月28日",
+    "publisher": "イオンモール千葉ニュータウン",
+    "source": "aeonmall-chibanewtown-event",
+    "category": "イオンモール千葉ニュータウン",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【印西市】2026年の「イルミライ★INZAI」の点灯がスタートし、点灯期間中は毎週末マルシェやキッチンカーイベントが開催されています",
+    "link": "https://kamagaya-shiroi-inzai.goguynet.jp/2026/11/28/illmiraiinzai2026kaisaichu/",
+    "pub_str": "2026年11月28日",
+    "publisher": "号外NET",
+    "source": "goguynet-kamagaya-shiroi-inzai",
+    "category": "イベント・文化",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "令和8年度第1回印西市福祉有償運送運営協議会の開催について",
+    "link": "https://www.city.inzai.lg.jp/0000022872.html",
+    "desc": "",
+    "pub_iso": "2026-11-27T16:54:27+09:00",
+    "pub_str": "2026年11月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "水道管の漏水調査を実施します（大森・木下・木下南・竹袋・木下東地区周辺））",
+    "link": "https://www.city.inzai.lg.jp/0000022956.html",
+    "desc": "",
+    "pub_iso": "2026-11-27T14:47:23+09:00",
+    "pub_str": "2026年11月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【市民課】会計年度任用職員募集",
+    "link": "https://www.city.inzai.lg.jp/0000022935.html",
+    "desc": "",
+    "pub_iso": "2026-11-27T00:00:01+09:00",
+    "pub_str": "2026年11月27日",
+    "publisher": "印西市",
+    "source": "inzai-city-official",
+    "category": "市政・行政",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "【国道464号】北千葉道路 印西市内で衝突事故 一部通行止め解除（28日10:45現在）",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE5ZN2lHMXE0UUF2NFN4bzM4Wi1NWlFRVmEybTFqamJxZmpBRTk3TmhZclNxR2xqcHRteFNIVVl3TGZkaGFsMFl5X0ltLXFqSUxnOTV0bnJqQ1V3WjBySEt3?oc=5",
+    "desc": "【国道464号】北千葉道路 印西市内で衝突事故 一部通行止め解除（28日10:45現在）  千葉テレビ放送",
+    "pub_iso": "2026-11-28T10:59:47+09:00",
+    "pub_str": "2026年11月28日",
+    "publisher": "千葉テレビ放送",
+    "source": "google-news-inzai-shi",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
+    "retention_type": "regular"
+  },
+  {
+    "title": "印西市の年末年始のごみ収集は12/31〜1/3休み｜燃やすごみの最終は12/28〜30・初回は1/4〜6、地区別の日付",
+    "link": "https://news.google.com/articles/CBMibEFVX3lxTFAyNDRnWUQ1c2Zzd21KUl8xdDJ1eUd0cjF6ZXc0b3ROU1g3UUFZandZWGlpNU1CbDBnNFVoNkVnanNJX0NiazJFTW5QVVJQekxhZ3J2N2I3aEhKaHNGMmtUNkdOdEU5NGF4TXpTcw?oc=5",
+    "desc": "印西市の年末年始のごみ収集は12/31〜1/3休み｜燃やすごみの最終は12/28〜30・初回は1/4〜6、地区別の日付  ジモはる",
+    "pub_iso": "2026-11-25T17:00:00+09:00",
+    "pub_str": "2026年11月25日",
+    "publisher": "ジモはる",
+    "source": "google-news-inzai-oshirase",
+    "category": "開発・暮らし",
+    "collected_at": "2026-11-28T16:56:39.852386+09:00",
     "retention_type": "regular"
   }
 ]

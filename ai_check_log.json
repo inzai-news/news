@@ -10069,5 +10069,25 @@
     "link": "https://news.google.com/articles/CBMiugJBVV95cUxNRzNBQnVPRnp2aE5QNTNDVFNtVVA4TnVraG5nZGhpMXpRV1dxWWdKem1xeWxWUG5zZ3FjdFFwT21vUk1uQjVtMjNmOEZUZ3RTclQ3b0lHTTRxbHFNeGtVSUtzblY1WVcwekc3QzEtYTVPbFItV0dSWUJQb2RpQmNXSTQ1eTcxYlhJRzJxdmJ6NDdjWk1TV25zVjQ5QkpYZkhGeWZ2RE5vRE1OOTM1bG5tZlRBRG05ZnlzRlFDcmdHLXVLM181ejc5dlNGZV9qUE5sREtYYUhEbFBOWnRkbmlNSEoyNEZYTWVhRVpRS1R3OUkxWEk4cXRXV0h5ZVZQdmtNZ1hZS3lNRTBZUmY5aHZzNDRvd2pOYXJrNU85aFVtZjFYLTZIR2o2M3Uwd2xfX0lZTW5KbHBhZHlFQdIBvwJBVV95cUxQMFVwWVVaVWdJNkp2TTV1elFzYjVsVVYyTy1wcU1xa3ExMEhxSXNybHNTd0dPRkJBeFBsVDVjd3JwOU1HUXdmQjF6TUdENy1uNGxKWEw4RFg5R010Y2tnSVNYYTB3VDdzZkRMcE9kZW9BQkZTVlFCeWpoLW9IcGR2QWFJY180enUxWFl6S2VodXdGMUxqZVEtc2hLZi1qS0FmbDk4ZGNMUmd6X1dWZnFfazdtNUZIeDRMdUNjZDBTS3BZcklGcFB0MzRpaW5uOVAtMEFHU3BVdUp1dFphaFI4X0pYdmpiNkRqamlTMWRhTlFQNFZBWmNhb2VBdXRoMm1RMlVKVFpLbDlNU0R0U1pURTQxWTNrSUpTUDV0Y3RMcnF1eWYzTEdxQmp4dmZaVnVoa184TUtJVE4wMnBYbUZJ?oc=5",
     "similar_to": "株式会社 佐久間、千葉豪雨の避難所で使用された毛布250枚を受け入れ…",
     "ai_reason": "千葉テレビ既存記事と同一ニュース(手動修正)"
+  },
+  {
+    "run_ts": "20261128-1656",
+    "date": "2026-11-28",
+    "ai_decision": "auto_exclude",
+    "similarity": null,
+    "title": "【印西市】2026.11.27 千葉ニュータウン中央駅にて。子供たちの笑顔が見れました。",
+    "link": "https://news.google.com/articles/CBMiX0FVX3lxTE16aDJvNGUyNmM2ZHBBS2lqenBlcHNlM0ZiRHc4VS1HX3BKV2NLMDdEY3dVT24wc1FoRDhBMEE0NUlMMDMzOEtFclhpREpCSURTSk5SR0lyRXpuX09sZWFZ?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: publisher(選挙ドットコム)が収集除外対象のため"
+  },
+  {
+    "run_ts": "20261128-1656",
+    "date": "2026-11-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "（千葉）印西市中央南２丁目で下半身露出　１０月６日",
+    "link": "https://news.google.com/articles/CBMinAFBVV95cUxOY1lHU3NFeGJuTWFGdHY4Z2dlWDl1WXNVclpWUWdiaHVpSURCalRJVFFaLTBVdnJHS0dCR1p4Vy1vaUJrUHZZNUlJeUVNUHctbDVIYTZXbmxoSGhhLU83VUI4SUtKLVV1aVdJWUgtWE1nQXA4Q3Y1d1psdTF5ZWQzTWs4Wi1yNmNIRVoxVU5XTjNpSlJJTjluTnQ1Zm_SAaIBQVVfeXFMUHhYOGVIZmF4YXd3Z1J0WVNoOHJfUW1CamRmVERyTHFKVF9ycW1Mbkw1TU9jSW5EemNVdGdQWEx2NGgxOE1fY054TU1iRWg1cVdIWVFQWHJzbThhZTdGWkVvSlBYcXJqU19yNzRuUV92b0hOcFppUWJRRDVxSzJrZy1IV2FJSVd6MldMYzVhZVowYkp5VEtNamYzNFdqNHB3S0F3?oc=5",
+    "similar_to": null,
+    "ai_reason": "10/6発生の不審者事案の遅延配信、前例(草深の同種記事)も除外"
   }
 ]
