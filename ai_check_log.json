@@ -10099,5 +10099,15 @@
     "link": "https://news.google.com/articles/CBMiU0FVX3lxTE42RVczUlhTUEpaVTFRQmt2ZGNpUzdSYnY5MTUzNDdOT19OMmt0NmdoQkE4NDc2OEt3aG5ybmZIbHUyaWExSFYtT0NGdUpONUFnTUc0?oc=5",
     "similar_to": "",
     "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
+  },
+  {
+    "run_ts": "20261128-2037",
+    "date": "2026-11-28",
+    "ai_decision": "exclude",
+    "similarity": null,
+    "title": "印西市市制施行30周年を記念した大型イベントと連携し、チーム初のホームゲーム開催",
+    "link": "https://news.google.com/articles/CBMifEFVX3lxTE0xWTROUW5PYmJTV3Zab2Fkb3BKWEZEU2FDTWd3cENqRTFMak1HemhORHoyeGYwSWlVMi1jMEZuVjVHUUtUVUgwQktrTE4zeVZEdEpjOGoybUV5WmFUenVjWkczZUE0emY3ajZjbC14SWpMbG92U3BFMTN3QnM?oc=5",
+    "similar_to": "",
+    "ai_reason": "ルールベース: 掲載期限(3か月/6か月)を超えた記事のため対象外"
   }
 ]
